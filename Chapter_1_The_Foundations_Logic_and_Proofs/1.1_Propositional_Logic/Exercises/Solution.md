@@ -27,3 +27,7 @@
 ![Question 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/Q7.png)
 #### Solution
 ![Answer 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/A7.png)
+
+![Question 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/Q8.png)
+#### Solution
+![Answer 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/A8.png)
