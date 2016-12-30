@@ -1,1 +1,1 @@
-![Recurrence Relations](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/Q1.png)
+![Recurrence Relations](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Recurrence_Relations/Examples/repo/main.jpg)
