@@ -27,8 +27,7 @@ int g(int n) {
 
 int main() {
     for (int n = 0; n < 21; ++n)
-        //printf("[%2d] == [%d]\n", n, f(n));
-        printf("%d ", g(n));
+        printf("[%2d] == [%d]\n", n, g(n));
     
     return 0;
 }
