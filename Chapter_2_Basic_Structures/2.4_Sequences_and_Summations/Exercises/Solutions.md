@@ -55,3 +55,12 @@
 [g.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/g.cpp)
 #### Sequence
 1 0 3 2 5 4 7 6 9 8 11 10 13 12 15 14 17 16 19 18 21 ...
+
+## h)
+#### Recurrence Relation
+![relation h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/recurrence_relation_h.jpg)
+
+[h.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/h.cpp)
+#### Sequence
+1 1 2 6 24 120 720 5040 40320 362880 3628800 39916800 479001600 1932053504 1278945280 ...
+
