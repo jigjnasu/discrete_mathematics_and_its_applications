@@ -47,3 +47,11 @@
 [f.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/f.cpp)
 #### Sequence
 0 2 6 12 20 30 42 56 72 90 110 132 156 182 210 240 272 306 342 380 420 ...
+
+## g)
+#### Recurrence Relation
+![relation g](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/recurrence_relation_g.jpg)
+
+[g.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/g.cpp)
+#### Sequence
+1 0 3 2 5 4 7 6 9 8 11 10 13 12 15 14 17 16 19 18 21 ...
