@@ -24,3 +24,10 @@
 #### Sequence
 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ....
 
+## d)
+#### Recurrence Relation
+![relation d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/recurrence_relation_d.jpg)
+
+[d.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/d.cpp)
+#### Sequence
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 ....
