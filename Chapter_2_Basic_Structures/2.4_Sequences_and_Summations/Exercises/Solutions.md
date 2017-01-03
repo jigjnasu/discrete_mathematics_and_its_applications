@@ -176,5 +176,12 @@
 #### Sequence
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ...
 
+## Solution for Problem 17 f
+[Solution 17 f.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_f.cpp)
+#### Derevation of iterative solution
 
+![Iterative f](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_f.jpg)
+
+#### Sequence
+1 4 13 40 121 364 1093 3280 9841 29524 88573 265720 797161 2391484 7174453 21523360 ...
 
