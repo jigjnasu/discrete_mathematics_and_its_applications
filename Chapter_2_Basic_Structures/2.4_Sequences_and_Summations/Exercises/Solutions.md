@@ -127,5 +127,5 @@
 ![Iterative g](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_g.jpg)
 
 #### Sequence
-3 6 24 144 1152 11520 138240 1935360 30965760 557383680 ...
+7 -7 8 -6 9 -5 10 -4 11 -3 12 -2 13 -1 14 0 15 1 16 2 17 ... 
 
