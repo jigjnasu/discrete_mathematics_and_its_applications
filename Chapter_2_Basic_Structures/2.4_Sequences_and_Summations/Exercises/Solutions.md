@@ -194,3 +194,12 @@
 #### Sequence
 5 5 10 30 120 600 3600 25200 201600 1814400 18144000 199584000 -1899959296 1070332928 2099759104 1431615488 ...
 
+## Solution for Problem 17 h
+[Solution 17 h.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_h.cpp)
+#### Derevation of iterative solution
+
+![Iterative h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_h.jpg)
+
+#### Sequence
+5 5 10 30 120 600 3600 25200 201600 1814400 18144000 199584000 -1899959296 1070332928 2099759104 1431615488 ...
+
