@@ -92,3 +92,12 @@
 
 #### Sequence
 4 3 1 -2 -6 -11 -17 -24 -32 -41 -51 -62 -74 -87 -101 -116 -132 -149 -167 -186 -206 ...
+
+## Solution for Problem 16 d
+[Solution 16 d.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_d.cpp)
+#### Derevation of iterative solution
+
+![Iterative d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_d.jpg)
+
+#### Sequence
+4 3 1 -2 -6 -11 -17 -24 -32 -41 -51 -62 -74 -87 -101 -116 -132 -149 -167 -186 -206 ...
