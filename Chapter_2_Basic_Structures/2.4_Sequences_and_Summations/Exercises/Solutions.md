@@ -109,4 +109,5 @@
 ![Iterative e](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_e.jpg)
 
 #### Sequence
--1 -5 -13 -29 -61 -125 -253 -509 -1021 -2045 -4093 -8189 -16381 -32765 -65533 -131069 -262141 -524285 -1048573 -2097149 -4194301 ...
+2 4 12 48 240 1440 10080 80640 725760 7257600 79833600 ...
+
