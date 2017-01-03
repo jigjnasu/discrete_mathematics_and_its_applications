@@ -65,11 +65,19 @@
 1 1 2 6 24 120 720 5040 40320 362880 3628800 39916800 479001600 1932053504 1278945280 ...
 
 ![Problem 16](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_16.jpg)
-#### Derevation of iterative solution
 
 [Solution 16 a.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_a.cpp)
+#### Derevation of iterative solution
 
 ![Iterative a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_a.jpg)
 
 #### Sequence
 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 ...
+
+[Solution 16 b.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_b.cpp)
+#### Derevation of iterative solution
+
+![Iterative a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_b.jpg)
+
+#### Sequence
+
