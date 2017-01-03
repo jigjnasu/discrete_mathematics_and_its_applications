@@ -147,5 +147,6 @@
 ![Iterative b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_b.jpg)
 
 #### Sequence
-2 6 18 54 162 486 1458 4374 13122 39366 118098 354294 1062882 3188646 9565938 28697814 ...
+3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ...
+
 
