@@ -111,3 +111,12 @@
 #### Sequence
 2 4 12 48 240 1440 10080 80640 725760 7257600 79833600 ...
 
+## Solution for Problem 16 f
+[Solution 16 f.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_f.cpp)
+#### Derevation of iterative solution
+
+![Iterative f](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_f.jpg)
+
+#### Sequence
+2 4 12 48 240 1440 10080 80640 725760 7257600 79833600 ...
+
