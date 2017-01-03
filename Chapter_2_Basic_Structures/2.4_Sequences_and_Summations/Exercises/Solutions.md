@@ -91,13 +91,4 @@
 ![Iterative c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_c.jpg)
 
 #### Sequence
-## Solution for Problem 16 b
-[Solution 16 b.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_b.cpp)
-#### Derevation of iterative solution
-
-![Iterative a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_b.jpg)
-
-#### Sequence
 4 3 1 -2 -6 -11 -17 -24 -32 -41 -51 -62 -74 -87 -101 -116 -132 -149 -167 -186 -206 ...
-
-
