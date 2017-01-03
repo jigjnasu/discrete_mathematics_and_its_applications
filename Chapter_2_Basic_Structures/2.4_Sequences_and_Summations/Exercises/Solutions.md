@@ -129,3 +129,13 @@
 #### Sequence
 7 -7 8 -6 9 -5 10 -4 11 -3 12 -2 13 -1 14 0 15 1 16 2 17 ... 
 
+![Problem 17](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_17.jpg)
+
+## Solution for Problem 17 a
+[Solution 17 a.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_a.cpp)
+#### Derevation of iterative solution
+
+![Iterative a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_a.jpg)
+
+#### Sequence
+5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 ...
