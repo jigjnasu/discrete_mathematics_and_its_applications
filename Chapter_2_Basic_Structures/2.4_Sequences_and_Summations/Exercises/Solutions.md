@@ -158,3 +158,12 @@
 #### Sequence
 1 2 4 7 11 16 22 29 37 46 56 67 79 92 106 121 137 154 172 191 211 ...
 
+## Solution for Problem 17 d
+[Solution 17 d.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_d.cpp)
+#### Derevation of iterative solution
+
+![Iterative d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_d.jpg)
+
+#### Sequence
+1 2 4 7 11 16 22 29 37 46 56 67 79 92 106 121 137 154 172 191 211 ...
+
