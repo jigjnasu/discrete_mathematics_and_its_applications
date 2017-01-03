@@ -149,4 +149,12 @@
 #### Sequence
 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ...
 
+## Solution for Problem 17 c
+[Solution 17 c.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_c.cpp)
+#### Derevation of iterative solution
+
+![Iterative c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_c.jpg)
+
+#### Sequence
+3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ...
 
