@@ -165,5 +165,5 @@
 ![Iterative d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_d.jpg)
 
 #### Sequence
-1 2 4 7 11 16 22 29 37 46 56 67 79 92 106 121 137 154 172 191 211 ...
+4 9 16 25 36 49 64 81 100 121 144 169 196 225 256 289 324 361 400 441 484 ...
 
