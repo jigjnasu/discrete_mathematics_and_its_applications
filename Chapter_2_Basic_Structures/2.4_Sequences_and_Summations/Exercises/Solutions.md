@@ -120,3 +120,12 @@
 #### Sequence
 3 6 24 144 1152 11520 138240 1935360 30965760 557383680 ...
 
+## Solution for Problem 16 g
+[Solution 16 g.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_g.cpp)
+#### Derevation of iterative solution
+
+![Iterative g](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_16_g.jpg)
+
+#### Sequence
+3 6 24 144 1152 11520 138240 1935360 30965760 557383680 ...
+
