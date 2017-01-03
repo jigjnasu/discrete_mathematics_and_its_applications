@@ -138,4 +138,5 @@
 ![Iterative a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_a.jpg)
 
 #### Sequence
-5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 ...
+2 6 18 54 162 486 1458 4374 13122 39366 118098 354294 1062882 3188646 9565938 28697814 ...
+
