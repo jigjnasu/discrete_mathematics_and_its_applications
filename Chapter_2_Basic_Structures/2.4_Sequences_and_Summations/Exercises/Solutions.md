@@ -174,6 +174,7 @@
 ![Iterative e](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_e.jpg)
 
 #### Sequence
-4 9 16 25 36 49 64 81 100 121 144 169 196 225 256 289 324 361 400 441 484 ...
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ...
+
 
 
