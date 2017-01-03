@@ -140,3 +140,12 @@
 #### Sequence
 2 6 18 54 162 486 1458 4374 13122 39366 118098 354294 1062882 3188646 9565938 28697814 ...
 
+## Solution for Problem 17 b
+[Solution 17 b.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_b.cpp)
+#### Derevation of iterative solution
+
+![Iterative b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_17_b.jpg)
+
+#### Sequence
+2 6 18 54 162 486 1458 4374 13122 39366 118098 354294 1062882 3188646 9565938 28697814 ...
+
