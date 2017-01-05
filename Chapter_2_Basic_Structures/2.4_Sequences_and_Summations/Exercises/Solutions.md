@@ -238,5 +238,5 @@
 ![Solution 20 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_20_b.jpg)
 
 ## Solution c)
-####Total amount after [100] years with [9.000000] rate of interest == [5529040.791826]
+####Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
 [Solution 20 c.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_20_c.cpp)
