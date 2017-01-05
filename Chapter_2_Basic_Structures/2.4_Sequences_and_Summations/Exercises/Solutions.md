@@ -212,3 +212,8 @@
 ## Solution b)
 
 ![Solution 18 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_18_b.jpg)
+
+## Solution b)
+
+[Solution 18 c.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_18_c.cpp)
+
