@@ -7,12 +7,17 @@
 
 #include <cstdio>
 
-double example_11(double p, double i, int y) {
-    if (y == 1) {
-        return p + (0.01 * i * p);
+/*
+  p = principle
+  r = rate of interest
+  n = number of years
+ */
+
+double example_11(double p, double r, int n) {
+    if (n == 0) {
+        return p;
     } else {
-        const double new_p = example_11(p, i, y - 1);
-        return new_p +  (0.01 * i * new_p);
+        return example_11(p, r, n - 1) * (1 + 0.01 * r);
     }
 }
 
