@@ -204,3 +204,7 @@
 1 2 8 48 384 3840 46080 645120 10321920 185794560 ...
 
 ![Problem 18](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_18.jpg)
+
+## Solution a)
+
+![Solution 18 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_18_a.jpg)
