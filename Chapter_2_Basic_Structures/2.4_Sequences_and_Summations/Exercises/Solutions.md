@@ -225,4 +225,5 @@
 
 ## Solution b)
 
-![Solution 18 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_18_b.jpg)
+[Solution 19 b.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_19_b.cpp)
+Total bacterial population grows from [100] to [5904900] in [10] hours
