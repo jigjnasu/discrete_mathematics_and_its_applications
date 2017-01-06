@@ -262,26 +262,28 @@
 
 ## Solution b)
 ####Salary Iterative solution
-Year [ 2009] == [50000.000000] salary
-Year [ 2010] == [53500.000000] salary
-Year [ 2011] == [57175.000000] salary
-Year [ 2012] == [61033.750000] salary
-Year [ 2013] == [65085.437500] salary
-Year [ 2014] == [69339.709375] salary
-Year [ 2015] == [73806.694844] salary
-Year [ 2016] == [78497.029586] salary
-Year [ 2017] == [83421.881065] salary
+| Year |    Salary($)   |
+|:----:|:---------------|
+| 2009 |  50000.000000  |
+| 2010 |  53500.000000  |
+| 2011 |  57175.000000  |
+| 2012 |  61033.750000  |
+| 2013 |  65085.437500  |
+| 2014 |  69339.709375  |
+| 2015 |  73806.694844  |
+| 2016 |  78497.029586  |
+| 2017 |  83421.881065  |  
 
 ####Salary Recursive solution
-Year [ 2009] == [50000.000000] salary
-Year [ 2010] == [53500.000000] salary
-Year [ 2011] == [57175.000000] salary
-Year [ 2012] == [61033.750000] salary
-Year [ 2013] == [65085.437500] salary
-Year [ 2014] == [69339.709375] salary
-Year [ 2015] == [73806.694844] salary
-Year [ 2016] == [78497.029586] salary
-Year [ 2017] == [83421.881065] salary
+200950000.000000
+201053500.000000
+201157175.000000
+201261033.750000
+201365085.437500
+201469339.709375
+201573806.694844
+201678497.029586
+201783421.881065
 [Solution 22 b.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_b.cpp)
 
 ## Solution c)
