@@ -240,3 +240,17 @@
 ## Solution c)
 ####Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
 [Solution 20 c.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_20_c.cpp)
+
+![Problem 21](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_21.jpg)
+
+## Solution a)
+
+![Solution 21 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_a.jpg)
+
+## Solution b)
+
+![Solution 21 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_b.jpg)
+
+## Solution c)
+####Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
+[Solution 21 c.cpp (C++ Solution)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_c.cpp)
