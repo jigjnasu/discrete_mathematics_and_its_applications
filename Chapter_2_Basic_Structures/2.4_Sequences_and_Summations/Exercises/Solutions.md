@@ -248,8 +248,8 @@
 ![Solution 21 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_a.jpg)
 
 ## Solution b)
-
-![Solution 21 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_b.jpg)
+####After [12] months [78] cars will be produced
+[Solution 21 b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_b.cpp)
 
 ## Solution c)
 ####Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
