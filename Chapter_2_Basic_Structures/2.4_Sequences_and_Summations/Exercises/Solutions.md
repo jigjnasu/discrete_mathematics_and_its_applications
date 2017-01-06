@@ -261,7 +261,27 @@
 ![Solution 22 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_a.jpg)
 
 ## Solution b)
-####After [12] months [78] cars will be produced
+####Salary Iterative solution
+Year [ 2009] == [50000.000000] salary
+Year [ 2010] == [53500.000000] salary
+Year [ 2011] == [57175.000000] salary
+Year [ 2012] == [61033.750000] salary
+Year [ 2013] == [65085.437500] salary
+Year [ 2014] == [69339.709375] salary
+Year [ 2015] == [73806.694844] salary
+Year [ 2016] == [78497.029586] salary
+Year [ 2017] == [83421.881065] salary
+
+####Salary Recursive solution
+Year [ 2009] == [50000.000000] salary
+Year [ 2010] == [53500.000000] salary
+Year [ 2011] == [57175.000000] salary
+Year [ 2012] == [61033.750000] salary
+Year [ 2013] == [65085.437500] salary
+Year [ 2014] == [69339.709375] salary
+Year [ 2015] == [73806.694844] salary
+Year [ 2016] == [78497.029586] salary
+Year [ 2017] == [83421.881065] salary
 [Solution 22 b.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_b.cpp)
 
 ## Solution c)
