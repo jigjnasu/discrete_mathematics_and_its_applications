@@ -10,48 +10,45 @@
 #include <cmath>
 
 /*
-  b = starting borrowed ammount
+  p = starting borrowed ammount(principal)
   r = rate of interest
-  i = monthly installment
-  m = number of months
+  n = number of months
  */
 
-double balance_recursive(double b, double r, double i, int m) {
-    if (m == 0) {
-        return b;
+double principal(double p, double r, int n) {
+    if (n == 0) {
+        return p;
     } else {
-        return balance_recursive(b, r, i, m - 1) * (12 - r * 0.01) / 12;
+        return principal(p, r, n - 1) * (12 - r * 0.01) / 12;
     }
 }
 
 /*
-  l  = loan amount
-  r  = rate of interest
-  mi = monthly installment
+  l   = loan amount
+  r   = rate of interest
+  emi = monthly installment
  */
-void amortization_schedule(double l, double r, double mi) {
-    double l_a = l;
-    double l_b = balance_recursive(l, r, mi, 0);
-    int n = 0;
-    
-    while (1) {
-        const double p = l_a - l_b;
-        printf("Month[%d] ==> Loan amount == [%f] || Monthly installment == [%f] || Interest paid == [%f] || Principle paid == [%f]\n",
-               n, l_a, mi, mi - p, p);
-        l_a = l_b;
-        l_b = balance_recursive(l, r, mi, n);
-        if (l_a <= 0.0f)
-            break;
+void amortization_schedule(double p, double r, double emi) {
+    int n = 1;
+    printf("Initial amount borrowed   == [%f]\n", p);
+    double total_interest = 0;
+    while (p > 0.0f) {
+        const double in = p - principal(p , r, 1);
+        total_interest += in;
+        p = p - emi - in;
+        printf("month == [%5d] || principal paid == [%f] || interest paid == [%f] || principal == [%f]\n", n, emi - in, in, p);
         ++n;
     }
+
+    printf("Total interest paid after [%d] months == [%f]\n", n - 1, total_interest);
 }
 
 
 int main() {
-    const double l  = 5000;
-    const double r  = 7;
-    const double mi = 100;
-    amortization_schedule(l, r, mi);
+    const double l   = 5000;
+    const double r   = 7;
+    const double emi = 100;
+    amortization_schedule(l, r, emi);
     
     return 0;
 }
