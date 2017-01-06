@@ -253,3 +253,16 @@
 
 ## Solution c)
 ![Solution 21 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_21_c.jpg)
+
+![Problem 22](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_22.jpg)
+
+## Solution a)
+
+![Solution 22 a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_a.jpg)
+
+## Solution b)
+####After [12] months [78] cars will be produced
+[Solution 22 b.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_b.cpp)
+
+## Solution c)
+![Solution 22 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_22_c.jpg)
