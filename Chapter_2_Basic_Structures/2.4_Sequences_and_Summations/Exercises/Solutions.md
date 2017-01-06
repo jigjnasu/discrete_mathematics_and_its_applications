@@ -263,7 +263,7 @@
 ## Solution b)
 ####Salary Iterative solution
 | Year |    Salary($)   |
-|:----:|:---------------|
+|:----:|:--------------:|
 | 2009 |  50000.000000  |
 | 2010 |  53500.000000  |
 | 2011 |  57175.000000  |
@@ -276,7 +276,7 @@
 
 ####Salary Recursive solution
 | Year |    Salary($)   |
-|:----:|:---------------|
+|:----:|:--------------:|
 | 2009 |  50000.000000  |
 | 2010 |  53500.000000  |
 | 2011 |  57175.000000  |
@@ -295,6 +295,7 @@
 ![Problem 23](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/problem_23.jpg)
 
 [Solution 23.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_2_Basic_Structures/2.4_Sequences_and_Summations/Exercises/repo/solution_23.cpp)
+
 | Month  | Principal Paid | Interest Paid | Outstanding Principal |
 |:------:|:--------------:|:-------------:|:---------------------:|
 |   1    |    70.833333   |   29.166667   |    4870.83333         |
