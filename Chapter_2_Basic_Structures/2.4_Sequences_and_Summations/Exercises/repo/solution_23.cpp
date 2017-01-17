@@ -45,9 +45,9 @@ void amortization_schedule(double p, double r, double emi) {
 
 
 int main() {
-    const double l   = 5000;
-    const double r   = 7;
-    const double emi = 100;
+    const double l   = 2300000;
+    const double r   = 11.75;
+    const double emi = 20500;
     amortization_schedule(l, r, emi);
     
     return 0;
