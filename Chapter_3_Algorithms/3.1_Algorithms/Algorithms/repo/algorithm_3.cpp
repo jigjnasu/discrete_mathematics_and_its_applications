@@ -5,6 +5,7 @@
   Date: Jan 18th, 2017
  */
 
+#include "MergeSort.h"
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
@@ -13,17 +14,21 @@ int random(int max, int min) {
     return min + rand() % (max - min + 1);
 }
 
-int search(const std::vector<int>& list, int x) {
-    int pos = 0;
+int binary_search(const std::vector<int>& list, int x) {
+    int start = 0;
+    int end   = list.size() - 1;
     
-    for (std::size_t i = 0; i < list.size(); ++i) {
-        if (list[i] == x) {
-            pos = i + 1;
-            break;
-        }
+    while (start <= end) {
+        const int mid = (start + end) >> 1;
+        if (list[mid] == x)
+            return mid + 1;
+        else if (list[mid] > x)
+            end = mid - 1;
+        else
+            start = mid + 1;
     }
-        
-    return pos;
+
+    return 0;
 }
 
 void print(const std::vector<int>& list) {
@@ -44,12 +49,14 @@ std::vector<int> build_list() {
 }
 
 void test_max() {
-    const int x = 178;
+    utility::algorithms::sort::MergeSort<int> sort;
+    int x = 178;
     for (int i = 0; i < 10; ++i) {
-        const std::vector<int> list = build_list();
+        std::vector<int> list = build_list();
+        sort.sort(list);
         printf("--------------------------------------------------------------------------------\n");
         print(list);
-        printf("Element [%d] found at [%d] location\n", x, search(list, x));
+        printf("Element [%d] found at [%d] location\n", x, binary_search(list, x));
         printf("--------------------------------------------------------------------------------\n");
     }
 }
