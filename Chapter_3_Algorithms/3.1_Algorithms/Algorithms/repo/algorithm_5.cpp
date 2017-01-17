@@ -1,5 +1,5 @@
 /*
-  Implementation of Algorithm 4(Bubble Sort)
+  Implementation of Algorithm 4(Insertion Sort)
   Chapter 3.1 (Algorithms)
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   Date: Jan 18th, 2017
@@ -35,25 +35,28 @@ void swap(int& a, int& b) {
     a ^= b;
 }
 
-void bubble_sort(std::vector<int>& list) {
-    for (std::size_t i = 1; i < list.size(); ++i)
-        for (std::size_t j = 1; j < list.size(); ++j)
-            if (list[j - 1] > list[j])
-                swap(list[j], list[j - 1]);
+void insertion_sort(std::vector<int>& list) {
+    for (int i = 1; i < list.size(); ++i) {
+        int j = i;
+        while (j > 0 && list[j - 1] > list[j]) {
+            swap(list[j], list[j - 1]);
+            --j;
+        }
+    }
 }
 
-void test_bubble_sort() {
+void test_insertion_sort() {
     for (int i = 0; i < 10; ++i) {
         printf("---------------------------------------------------- Test case [%2d] -----------------------------------------\n", i + 1);
         std::vector<int> list = build_list();
         print(list);
-        bubble_sort(list);
+        insertion_sort(list);
         print(list);
         printf("--------------------------------------------------------------------------------------------------------------\n");        
     }
 }
 
 int main() {
-    test_bubble_sort();
+    test_insertion_sort();
     return 0;
 }
