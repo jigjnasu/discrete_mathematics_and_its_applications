@@ -1,5 +1,5 @@
 /*
-  Implementation of Algorithm 2
+  Implementation of Algorithm 3(Binary Search)
   Chapter 3.1 (Algorithms)
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   Date: Jan 18th, 2017

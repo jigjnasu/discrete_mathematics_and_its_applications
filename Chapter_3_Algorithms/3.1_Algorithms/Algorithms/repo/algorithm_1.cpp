@@ -1,5 +1,5 @@
 /*
-  Implementation of Algorithm 1
+  Implementation of Algorithm 1(Find max in a set)
   Chapter 3.1 (Algorithms)
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   Date: Jan 18th, 2017
