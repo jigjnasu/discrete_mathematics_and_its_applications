@@ -6,28 +6,12 @@
   Date: Jan 19th, 2017
  */
 
+#include "common.h"
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
 
-int random(int min, int max) {
-    return min + rand() % (max - min + 1);
-}
-
-void print(const std::vector<int>& list) {
-    printf("[List]: ");
-    for (std::size_t i = 0; i < list.size(); ++i)
-        printf("%d ", list[i]);
-    printf("\n");
-}
-
-std::vector<int> build_list() {
-    std::vector<int> list;
-    for (int i = 0; i < 50; ++i)
-        list.push_back(random(10, 200));
-    return list;
-}
-
+// Sum of all elements of set S
 int sum(const std::vector<int>& list) {
     int sum = 0;
     int i = 0;
@@ -44,10 +28,12 @@ int sum(const std::vector<int>& list) {
     return sum;
 }
 
+// Test cases
 void test_sum() {
+    discrete_mathematics::chapter_3::Common<int> common;
     for (int i = 0; i < 10; ++i) {
-        const std::vector<int> list = build_list();
-        print(list);
+        const std::vector<int> list = common.build_vector(50, 10, 200);
+        common.print_vector(list);
         printf("Sum of all the elements of the list == [%d]\n\n", sum(list));
     }
 }
