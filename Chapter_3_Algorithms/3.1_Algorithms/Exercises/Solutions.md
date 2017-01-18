@@ -32,3 +32,6 @@
 1. Condition is missing on the basis of which a || b will be choosen.
 2. The algorithm of the function / procedure is not clear.
 
+![problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/problem_3.jpg)
+[solution 3 (c++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/solution_3.cpp)
+
