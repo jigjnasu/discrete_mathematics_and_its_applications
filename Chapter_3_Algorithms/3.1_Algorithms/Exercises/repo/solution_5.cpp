@@ -19,7 +19,7 @@ std::vector<int> multiple_occurences_normal(const std::vector<int>& list) {
             duplicates.push_back(list[i]);
 
         int j = i;
-        while (list[j] == list[i]) ++j;
+        while (j < list.size() && list[j] == list[i]) ++j;
         i = j;
     }
     
