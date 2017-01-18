@@ -26,3 +26,9 @@
 4. Solution of sum of all positive n integers is given below
 
 ![solution 2 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/solution_2_c.jpg)
+
+![problem 2 d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/problem_2_d.jpg)
+###Solution
+1. Condition is missing on the basis of which a || b will be choosen.
+2. The algorithm of the function / procedure is not clear.
+
