@@ -13,3 +13,6 @@
 ![Algorithm 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_5.jpg)
 [Algorithm 5 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_5.cpp)
 
+![Algorithm 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_6.jpg)
+[Algorithm 6 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_6.cpp)
+

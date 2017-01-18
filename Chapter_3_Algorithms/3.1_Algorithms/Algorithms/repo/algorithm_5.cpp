@@ -1,5 +1,5 @@
 /*
-  Implementation of Algorithm 4(Insertion Sort)
+  Implementation of Algorithm 5(Insertion Sort)
   Chapter 3.1 (Algorithms)
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   Date: Jan 18th, 2017
