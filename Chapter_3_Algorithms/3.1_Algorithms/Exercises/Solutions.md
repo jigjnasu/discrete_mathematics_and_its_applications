@@ -71,3 +71,7 @@
 ![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_12.jpg)
 ###Solution
 [solution 12 (c++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_12.cpp)
+
+![problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_13.jpg)
+###Solution (a)
+![solution 13a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_13_a.jpg)
