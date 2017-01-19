@@ -103,3 +103,7 @@
 ![solution 14b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_14_b.jpg)
 
 
+![problem 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_15.jpg)
+###Solution
+[solution 15 (c++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_15.cpp)
+
