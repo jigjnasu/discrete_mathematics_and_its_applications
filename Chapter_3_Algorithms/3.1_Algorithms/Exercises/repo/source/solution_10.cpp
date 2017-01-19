@@ -10,8 +10,6 @@
 #include <cstdio>
 
 double pow(double x, int y) {
-    if (y == 0)
-        return 1;
     if (y == 1) {
         return x;
     } else {
@@ -24,6 +22,8 @@ double pow(double x, int y) {
 }
 
 double power(double x, int y) {
+    if (y == 0)
+        return 1;
     if (y < 0)
         return 1 / pow(x, y * -1);
     else
