@@ -10,6 +10,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
+#include <set>
 
 namespace discrete_mathematics {
     namespace chapter_3 {
@@ -23,10 +24,16 @@ namespace discrete_mathematics {
             int random(int min, int max) const;
 
             // print the vector
-            void print_vector(const std::vector<T>& V) const;
+            void print(const std::vector<T>& V) const;
+
+            // print the set
+            void print(const std::set<T>& S) const;
 
             // Build a random vector of n elements between min and max elements
             std::vector<T> build_vector(int n, int min, int max) const;
+
+            // Build a random set of n elements between min and max.
+            std::set<T> build_set(int n, int min, int max) const;
         };
     };
 };
@@ -45,9 +52,17 @@ int dc::Common<T>::random(int min, int max) const {
 }
 
 template <typename T>
-void dc::Common<T>::print_vector(const std::vector<T>& V) const {
+void dc::Common<T>::print(const std::vector<T>& V) const {
     for (std::size_t i = 0; i < V.size(); ++i)
         std::cout << V[i] << " ";
+    std::cout << std::endl;
+}
+
+template <typename T>
+void dc::Common<T>::print(const std::set<T>& S) const {
+    for (typename std::set<T>::const_iterator it = S.begin();
+         it != S.end(); ++it)
+        std::cout << *it << " ";
     std::cout << std::endl;
 }
 
@@ -56,6 +71,14 @@ std::vector<T> dc::Common<T>::build_vector(int n, int min, int max) const {
     std::vector<T> list;
     for (int i = 0; i < n; ++i)
         list.push_back(random(min, max));
+    return list;
+}
+
+template <typename T>
+std::set<T> dc::Common<T>::build_set(int n, int min, int max) const {
+    std::set<T> list;
+    for (int i = 0; i < n; ++i)
+        list.insert(random(min, max));
     return list;
 }
 
