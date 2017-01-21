@@ -41,9 +41,6 @@ void onto(int (*funcPtr)(int)) {
     int hit_count = 0;
     
     for (std::size_t i = 0; i < Y.size(); ++i) {
-        const int r = (*funcPtr)(Y[i]);
-        bool t = is_found(r, 0, X.size() - 1);
-        printf("i == [%d] || r == [%d] || t == [%d]\n", Y[i], r, t);
         if (is_found((*funcPtr)(Y[i]), 0, X.size() - 1))
             ++hit_count;
     }
