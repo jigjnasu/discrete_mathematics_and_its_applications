@@ -91,21 +91,21 @@ void test_searches() {
     std::clock_t start = clock();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, linear_search(list, x));
-    printf("Execution time == [%.8f]\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
     start = clock();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, binary_search(list, x));
-    printf("Execution time == [%.8f]\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
     start = clock();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, ternary_search(list, x));
-    printf("Execution time == [%.8f]\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("---------------------------------------------------------------\n");            
 }
 
