@@ -168,3 +168,9 @@
 ###Comparrion report of Linear, Binary and Ternary searches.
 ![solution 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_27.jpg)
 
+![problem 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_28.jpg)
+###Solution
+[solution 28 (c++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_28.cpp)
+###Comparrion report of Linear, Binary and Ternary searches, 4th, 5th, and .... 10th search.
+![solution 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_28.jpg)
+
