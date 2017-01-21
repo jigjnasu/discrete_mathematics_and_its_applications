@@ -16,7 +16,7 @@
   p belongs to Y and q belongs to X. and there is a unique solution for every F(p).
  */
 
-const std::vector<int> X = {0, 1, 4, 9, 16, 25, 36, 49, 81, 100};
+const std::vector<int> X = {0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100};
 const std::vector<int> Y = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
 int F(int n) {
@@ -24,7 +24,7 @@ int F(int n) {
 }
 
 bool is_found(int n, int start, int end) {
-    if (start < end) {
+    if (start <= end) {
         const int mid = (start + end) >> 1;
         if (X[mid] == n)
             return true;
@@ -43,11 +43,13 @@ void one_to_one(int (*funcPtr)(int)) {
     std::set<int> output;
     
     for (std::size_t i = 0; i < Y.size(); ++i) {
-        input.insert(i);
+        input.insert(Y[i]);
         output.insert((*funcPtr)(Y[i]));
+        
         if (is_found((*funcPtr)(Y[i]), 0, X.size() - 1))
             ++hit_count;
     }
+
 
     if (hit_count     == Y.size() &&
         input.size()  == Y.size() &&
