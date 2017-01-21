@@ -9,22 +9,22 @@
 
 #include <cstdio>
 #include <vector>
-#include <cmath>
+#include <set>
 
 /*
   Let's X -> Y, There is a function F(p) = q,
-  p belongs to Y and q belongs to X.
+  p belongs to Y and q belongs to X. and there is a unique solution for every F(p).
  */
 
-const std::vector<int> X = {1, 2, 3, 4, 5};
-const std::vector<int> Y = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
+const std::vector<int> X = {0, 1, 4, 9, 16, 25, 36, 49, 81, 100};
+const std::vector<int> Y = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
 int F(int n) {
-    return static_cast<int>(std::floor(std::sqrt(n)));
+    return n * n;
 }
 
 bool is_found(int n, int start, int end) {
-    if (start <= end) {
+    if (start < end) {
         const int mid = (start + end) >> 1;
         if (X[mid] == n)
             return true;
@@ -37,25 +37,28 @@ bool is_found(int n, int start, int end) {
     return false;
 }
 
-void onto(int (*funcPtr)(int)) {
+void one_to_one(int (*funcPtr)(int)) {
     int hit_count = 0;
+    std::set<int> input;
+    std::set<int> output;
     
     for (std::size_t i = 0; i < Y.size(); ++i) {
-        const int r = (*funcPtr)(Y[i]);
-        bool t = is_found(r, 0, X.size() - 1);
-        printf("i == [%d] || r == [%d] || t == [%d]\n", Y[i], r, t);
+        input.insert(i);
+        output.insert((*funcPtr)(Y[i]));
         if (is_found((*funcPtr)(Y[i]), 0, X.size() - 1))
             ++hit_count;
     }
 
-    if (hit_count == Y.size())
-        printf("Function Y is onto from X -> Y\n");
+    if (hit_count     == Y.size() &&
+        input.size()  == Y.size() &&
+        output.size() == X.size())
+        printf("Function Y is one to one from X -> Y\n");
     else
-        printf("Function Y is NOT onto from X -> Y\n");
+        printf("Function Y is NOT one to one from X -> Y\n");
 }
 
 int main() {
-    onto(&F);
+    one_to_one(&F);
 
     return 0;
 }
