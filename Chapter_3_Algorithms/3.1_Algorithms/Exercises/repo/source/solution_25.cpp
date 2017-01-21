@@ -6,14 +6,11 @@
   Date: Jan 21st, 2017
  */
 
+#include "common.h"
 #include <cstdio>
 #include <string>
 #include <cstdlib>
 #include <ctime>
-
-int random(int min, int max) {
-    return min + rand() % (max - min + 1);
-}
 
 int linear_count(const std::string& input) {
     int count = 0;
@@ -42,9 +39,10 @@ int double_count(const std::string& input) {
 }
 
 std::string build_bit_string() {
+    discrete_mathematics::chapter_3::Common<int> common;
     std::string input;
     for (int i = 0; i < 100000; ++i)
-        input.push_back(random(0, 1) + '0');
+        input.push_back(common.random(0, 1) + '0');
     return input;
 }
 
