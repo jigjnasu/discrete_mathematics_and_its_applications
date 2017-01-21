@@ -64,14 +64,12 @@ int ternary_search(const std::vector<int>& list, int x) {
         if (list[start + 2 * factor] == x)
             return start + 2 * factor + 1;
 
-        if (x < list[start + factor]) {
+        if (x < list[start + factor])
             end = start + factor - 1;
-        } else if (x > start + 2 * factor) {
+        else if (x > start + 2 * factor)
             start = start + 2 * factor + 1;
-        } else {
+        else
             start = start + factor + 1;
-            end = start + 2 * factor - 1;
-        }
     }
     
     return 0;
