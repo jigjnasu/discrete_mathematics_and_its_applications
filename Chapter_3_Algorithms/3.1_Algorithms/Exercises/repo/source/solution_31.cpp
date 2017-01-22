@@ -1,7 +1,7 @@
 /*
   Discrete Mathematics and Its Applications by (Kenneth H. Rosen)
   Chapter 3.1
-  Solution for problem 30
+  Solution for problem 31
   Author: Rakesh Kumar (cpp.rakesh(at)gmail.com)
   Date: Jan 22nd, 2017
  */
