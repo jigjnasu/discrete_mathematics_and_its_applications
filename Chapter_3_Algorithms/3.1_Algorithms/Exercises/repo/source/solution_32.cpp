@@ -28,12 +28,9 @@ void test_greater_than_sum() {
     const int min = 1;
     const int max = 1000;
     const int limit = 100;
-    std::vector<int> list;
     discrete_mathematics::chapter_3::Common<int> common;
 
-    for (int i = 0; i < limit; ++i)
-        list.push_back(common.random(min, max));
-
+    std::vector<int> list = common.build_vector(limit, min, max);
     common.print(list);
 
     printf("-----------------------------------------------------------------\n");

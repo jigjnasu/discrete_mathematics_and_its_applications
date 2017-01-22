@@ -20,8 +20,6 @@ std::map<int, int> mode_count(const std::vector<int>& list) {
     int last_value = list[0];
     int last_count = 1;
     for (std::size_t i = 1; i < list.size(); ++i) {
-        if (list[i] == 10)
-            printf("I am in\n");
         if (list[i] == last_value) {
             ++last_count;
         } else {
@@ -48,9 +46,7 @@ void test_mode_count() {
     discrete_mathematics::chapter_3::Common<int> common;
     discrete_mathematics::chapter_3::MergeSort<int> sort;
 
-    std::vector<int> list;
-    for (int i = 0; i < limit; ++i)
-        list.push_back(common.random(min, max));
+    std::vector<int> list = common.build_vector(limit, min, max);
     sort.sort(list);
     common.print(list);
 

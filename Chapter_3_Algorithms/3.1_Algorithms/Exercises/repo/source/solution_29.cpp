@@ -49,9 +49,7 @@ void test_mode_count() {
     discrete_mathematics::chapter_3::Common<int> common;
     discrete_mathematics::chapter_3::MergeSort<int> sort;
 
-    std::vector<int> list;
-    for (int i = 0; i < limit; ++i)
-        list.push_back(common.random(min, max));
+    std::vector<int> list = common.build_vector(limit, min, max);
     sort.sort(list);
     common.print(list);
 

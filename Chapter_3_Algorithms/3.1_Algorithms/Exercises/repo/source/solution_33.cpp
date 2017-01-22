@@ -29,10 +29,7 @@ void test_first_first_least_number() {
     int limit = 100;
     discrete_mathematics::chapter_3::Common<int> common;
 
-    std::vector<int> list;
-    for (int i = 0; i < limit; ++i)
-        list.push_back(common.random(min, max));
-
+    std::vector<int> list = common.build_vector(limit, min, max);
     const std::map<int, int> result = find_first_least_number(list);
 
     common.print(list);

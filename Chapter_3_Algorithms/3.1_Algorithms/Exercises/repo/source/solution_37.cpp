@@ -46,9 +46,7 @@ void test_sorts() {
     int limit = 100;
     discrete_mathematics::chapter_3::Common<int> common;
 
-    std::vector<int> V;
-    for (int i = 0; i < limit; ++i)
-        V.push_back(common.random(min, max));
+    std::vector<int> V = common.build_vector(limit, min, max);
     std::vector<int> V1 = V;
 
     common.print(V);
