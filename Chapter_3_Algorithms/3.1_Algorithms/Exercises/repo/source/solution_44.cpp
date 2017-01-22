@@ -17,7 +17,6 @@ int binary_insert(const std::vector<int>& list, int x) {
 
     while (start <= end) {
         const int mid = (start + end) >> 1;
-        printf("start = [%d] || end == [%d] || mid == [%d]\n", start, end, mid);
         if (start == end)
             return start + 1;
         else if (x > list[mid])
