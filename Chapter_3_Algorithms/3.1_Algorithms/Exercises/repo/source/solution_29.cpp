@@ -32,6 +32,11 @@ std::map<int, int> mode_count(const std::vector<int>& list) {
         }
     }
 
+    if (last_count > count) {
+        count = last_count;
+        value = last_value;
+    }
+
     std::map<int, int> result;
     result.insert(std::pair<int, int>(value, count));
     return result;
