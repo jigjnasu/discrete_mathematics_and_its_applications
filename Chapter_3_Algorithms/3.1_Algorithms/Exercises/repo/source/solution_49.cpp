@@ -49,11 +49,13 @@ void binary_insertion_sort(std::vector<int>& list) {
         // we will have last element as big element.
         // Otherwise there is no need as in insertion sort all the
         // last elemets are sorted.
-        const int insert_pos = pos(list, list[i], i - 1);
-        const int value = list[i];
-        for (int j = i; j >= insert_pos; --j)
-            list[j] = list[j - 1];
-        list[insert_pos] = value;
+        if (list[i - 1] > list[i]) {
+            const int insert_pos = pos(list, list[i], i - 1);
+            const int value = list[i];
+            for (int j = i; j >= insert_pos; --j)
+                list[j] = list[j - 1];
+            list[insert_pos] = value;
+        }
     }
 }
 
