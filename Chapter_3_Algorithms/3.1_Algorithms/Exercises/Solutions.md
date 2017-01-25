@@ -296,3 +296,11 @@
 ![solution 50c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_50_c.jpg)
 ####d)
 ![solution 50d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_50_d.jpg)
+
+
+![problem 51](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_51.jpg)
+###Solution
+####Insertion sort with linear search will be better when elements are in sorted order.
+####Because we will be having almost n comparisons than going for binary search to know that
+####no shuffling of elements are required.
+
