@@ -23,30 +23,37 @@ void swap(int& a, int& b) {
     a ^= b;
 }
 
-int pos(const std::vector<int>& list, int end, int x) {
+int pos(const std::vector<int>& list, int x,
+    int end) {
     int start = 0;
-    while (start <= end) {
+
+    while (start < end) {
         const int mid = (start + end) >> 1;
-        if (x == list[mid])
-            return mid;
-        else if (x > list[mid])
+        if (x > list[mid])
             start = mid + 1;
         else
-            end = mid - 1;            
+            end = mid;
     }
 
-    printf("s == [%d] || e == [%d] || x == [%d]\n", start, end, x);
-    return end;
+    if (x < list[start])
+        return start;
+    else
+        return start + 1;
 }
 
 void binary_insertion_sort(std::vector<int>& list) {
     for (std::size_t i = 1; i < list.size(); ++i) {
         const int x = list[i];
-        const int p = pos(list, i - 1, list[i]);
-        printf("x == [%d] || pos == [%d]\n", x, p);
-        for (int j = i; j > p; --j)
+
+        // We will search for the element in the previous list if
+        // we will have last element as big element.
+        // Otherwise there is no need as in insertion sort all the
+        // last elemets are sorted.
+        const int insert_pos = pos(list, list[i], i - 1);
+        const int value = list[i];
+        for (int j = i; j >= insert_pos; --j)
             list[j] = list[j - 1];
-        list[p] = x;
+        list[insert_pos] = value;
     }
 }
 
@@ -69,43 +76,30 @@ void test_binary_insertion_sort() {
     std::vector<int> list = common.build_vector(limit, min, max);
     std::vector<int> list1 = list;
     std::vector<int> list2 = list;    
-#if 0
+
     std::clock_t start = clock();
     insertion_sort(list);    
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by insertion sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("------------------------------------------------------------------------\n");
-#endif
+
     common.print(list1);
-    std::clock_t start = clock();
+    start = clock();
     binary_insertion_sort(list1);
     common.print(list1);
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by binary insertion sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("------------------------------------------------------------------------\n");
-#if 0
+
     start = clock();
     sort.sort(list2);
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by merge sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
     printf("------------------------------------------------------------------------\n");
-#endif
 }
 
 int main() {
-#if 0
     test_binary_insertion_sort();
-#else
-    std::vector<int> list;
-    for (int i = 2; i < 50; i += 2)
-        list.push_back(i);
-    discrete_mathematics::chapter_3::Common<int> common;
-    common.print(list);
-    
-    //for (std::size_t i = 2; i < list.size() * 2; i += 2) {
-        const int x = 1;
-        printf("x == [%d] || position == [%d]\n", x, pos(list, list.size() - 1, x));
-        //}
-#endif   
+
     return 0;
 }
