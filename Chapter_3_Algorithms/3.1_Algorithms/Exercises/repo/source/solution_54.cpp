@@ -48,19 +48,19 @@ std::map<int, int> get_change(int value) {
 
 
 int main() {
-    const int a = 87;
+    const int a = 51;
     printf("[%d] can be exchanged with least coins as follows:--\n", a);
     print(get_change(a));
 
-    const int b = 49;
+    const int b = 69;
     printf("[%d] can be exchanged with least coins as follows:--\n", b);
     print(get_change(b));
 
-    const int c = 99;
+    const int c = 76;
     printf("[%d] can be exchanged with least coins as follows:--\n", c);
     print(get_change(c));    
 
-    const int d = 33;
+    const int d = 60;
     printf("[%d] can be exchanged with least coins as follows:--\n", d);
     print(get_change(d));
 
