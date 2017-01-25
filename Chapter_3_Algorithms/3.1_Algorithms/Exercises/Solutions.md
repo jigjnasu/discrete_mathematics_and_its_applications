@@ -308,28 +308,5 @@
 ![problem 52](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_52.jpg)
 ###Solution
 [solution 52 (C++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_52.cpp)
-[87] can be exchanged with least coins as follows:--
------------------------------------------------
-[  2] [     Penny] == [       2]
-[  1] [      Dime] == [      10]
-[  3] [   Quarter] == [      75]
------------------------------------------------
-[49] can be exchanged with least coins as follows:--
------------------------------------------------
-[  4] [     Penny] == [       4]
-[  2] [      Dime] == [      20]
-[  1] [   Quarter] == [      25]
------------------------------------------------
-[99] can be exchanged with least coins as follows:--
------------------------------------------------
-[  4] [     Penny] == [       4]
-[  2] [      Dime] == [      20]
-[  3] [   Quarter] == [      75]
------------------------------------------------
-[33] can be exchanged with least coins as follows:--
------------------------------------------------
-[  3] [     Penny] == [       3]
-[  1] [    Nickel] == [       5]
-[  1] [   Quarter] == [      25]
------------------------------------------------
+![solution 52](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution.jpg)
 
