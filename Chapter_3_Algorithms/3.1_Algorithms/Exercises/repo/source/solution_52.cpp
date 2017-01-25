@@ -16,10 +16,10 @@ const std::vector<std::string> str_coins = {"Penny", "Nickel", "Dime", "Quarter"
 
 std::string str_coin(int value) {
     switch (value) {
-    case 1:  return "Penny";
-    case 5:  return "Nickel";
-    case 10: return "Dime";
-    case 25: return "Quarter";
+    case 1:  return str_coins[0];
+    case 5:  return str_coins[1];
+    case 10: return str_coins[2];
+    case 25: return str_coins[3];
     default:
         printf("Invalid option\n");
     }

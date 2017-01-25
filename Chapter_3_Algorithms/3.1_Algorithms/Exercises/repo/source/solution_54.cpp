@@ -1,7 +1,7 @@
 /*
   Discrete Mathematics and Its Applications by (Kenneth H. Rosen)
   Chapter 3.1
-  Solution for problem 52
+  Solution for problem 54
   Author: Rakesh Kumar (cpp.rakesh(at)gmail.com)
   Date: Jan 26th, 2017
  */
@@ -16,9 +16,9 @@ const std::vector<std::string> str_coins = {"Penny", "Dime", "Quarter"};
 
 std::string str_coin(int value) {
     switch (value) {
-    case 1:  return "Penny";
-    case 10: return "Dime";
-    case 25: return "Quarter";
+    case 1:  return str_coins[0];
+    case 10: return str_coins[1];
+    case 25: return str_coins[2];
     default:
         printf("Invalid option\n");
     }

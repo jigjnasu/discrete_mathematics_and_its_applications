@@ -1,7 +1,7 @@
 /*
   Discrete Mathematics and Its Applications by (Kenneth H. Rosen)
   Chapter 3.1
-  Solution for problem 52
+  Solution for problem 56
   Author: Rakesh Kumar (cpp.rakesh(at)gmail.com)
   Date: Jan 26th, 2017
  */
@@ -11,15 +11,16 @@
 #include <map>
 #include <string>
 
-const std::vector<int> coins = {1, 5, 10, 25};
-const std::vector<std::string> str_coins = {"Penny", "Nickel", "Dime", "Quarter"};
+const std::vector<int> coins = {1, 5, 10, 12, 25};
+const std::vector<std::string> str_coins = {"Penny", "Nickle", "Dime", "Jhpad", "Quarter"};
 
 std::string str_coin(int value) {
     switch (value) {
-    case 1:  return "Penny";
-    case 5:  return "Nickel";
-    case 10: return "Dime";
-    case 25: return "Quarter";
+    case 1:  return str_coins[0];
+    case 5:  return str_coins[1];
+    case 10: return str_coins[2];
+    case 12: return str_coins[3];
+    case 25: return str_coins[4];
     default:
         printf("Invalid option\n");
     }
@@ -49,21 +50,10 @@ std::map<int, int> get_change(int value) {
 
 
 int main() {
-    const int a = 51;
-    printf("[%d] can be exchanged with least coins as follows:--\n", a);
-    print(get_change(a));
-
-    const int b = 69;
-    printf("[%d] can be exchanged with least coins as follows:--\n", b);
-    print(get_change(b));
-
-    const int c = 76;
-    printf("[%d] can be exchanged with least coins as follows:--\n", c);
-    print(get_change(c));    
-
-    const int d = 60;
-    printf("[%d] can be exchanged with least coins as follows:--\n", d);
-    print(get_change(d));
+    for (int i = 1; i < 1000; ++i) {
+        printf("[%d] can be exchanged with least coins as follows:--\n", i);
+        print(get_change(i));
+    }
 
     return 0;
 }
