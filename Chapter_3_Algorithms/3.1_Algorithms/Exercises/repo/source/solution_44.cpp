@@ -15,15 +15,18 @@ int binary_insert(const std::vector<int>& list, int x) {
     int start = 0;
     int end = list.size() - 1;
 
-    while (start <= end) {
+    while (start < end) {
         const int mid = (start + end) >> 1;
-        if (start == end)
-            return start + 1;
-        else if (x > list[mid])
+        if (x > list[start])
             start = mid + 1;
         else
-            end = mid - 1;
+            end = mid;
     }
+
+    if (x < list[start])
+        return start - 1;
+    else
+        return start;
 }
 
 void test_binary_insert() {
