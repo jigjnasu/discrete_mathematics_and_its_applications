@@ -11,18 +11,18 @@
 
 namespace discrete_mathematics {
     namespace chapter_3 {
-                template <typename T>
-                    class MergeSort {
-                public:
-                    MergeSort();
-                    ~MergeSort();
+        template <typename T>
+            class MergeSort {
+        public:
+            MergeSort();
+            ~MergeSort();
 
-                    void sort(std::vector<T>& V) const;
+            void sort(std::vector<T>& V) const;
 
-                private:
-                    void m_sort(std::vector<T>& V, int min, int max) const;
-                    void m_merge(std::vector<T>& V, int min, int mid, int max) const;
-                };
+        private:
+            void m_sort(std::vector<T>& V, int min, int max) const;
+            void m_merge(std::vector<T>& V, int min, int mid, int max) const;
+        };
     };
 };
 

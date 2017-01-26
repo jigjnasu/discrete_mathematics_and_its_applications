@@ -339,3 +339,7 @@
 
 If we can calculate 12(cents) coin before any of the lower denomination, we can't get the accurate change with fewer coins.
 
+
+![problem 57](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_57.jpg)
+###Solution
+
