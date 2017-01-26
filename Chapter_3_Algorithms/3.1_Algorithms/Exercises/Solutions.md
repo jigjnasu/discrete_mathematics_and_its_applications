@@ -353,3 +353,9 @@ If we can calculate 12(cents) coin before any of the lower denomination, we can'
 [Main (C++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Main.cpp)
 
 ![solution 57](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_57.jpg)
+
+
+![problem 58](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_58.jpg)
+###Solution
+1. Some important lectures can be missed by this approach.
+2. It can be optimal solution if the importance of the lecture is missed.
