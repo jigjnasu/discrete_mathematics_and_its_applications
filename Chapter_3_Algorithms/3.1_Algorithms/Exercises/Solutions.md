@@ -342,4 +342,13 @@ If we can calculate 12(cents) coin before any of the lower denomination, we can'
 
 ![problem 57](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_57.jpg)
 ###Solution
+[Time (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Time.h)
+
+[Time (C++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Time.cpp)
+
+[Meeting (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Meeting.h)
+
+[Meeting (C++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Meeting.cpp)
+
+[Main (C++)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_57/Main.cpp)
 
