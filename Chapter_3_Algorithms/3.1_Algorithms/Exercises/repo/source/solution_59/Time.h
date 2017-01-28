@@ -7,14 +7,14 @@
 #ifndef DISCRETE_MATHEMATICS_AND_ITS_APPLICATIONS_CHAPTER_3_3_1_EXERCISES_REPO_SOLUTION_59_TIME_H_
 #define DISCRETE_MATHEMATICS_AND_ITS_APPLICATIONS_CHAPTER_3_3_1_EXERCISES_REPO_SOLUTION_59_TIME_H_
 
+#include <string>
+
 namespace discrete_mathematics {
     namespace chapter_3 {
         class Time {
         public:
             Time();
-            Time(int hours);
-            Time(int hours, int minutes);
-            Time(int hours, int minutes, int seconds);
+            Time(const std::string& time);
             ~Time();
 
             Time(const Time& rhs);
@@ -26,10 +26,6 @@ namespace discrete_mathematics {
             bool operator >= (const Time& rhs) const;
             bool operator == (const Time& rhs) const;
             bool operator != (const Time& rhs) const;
-
-            int hours() const;
-            int minutes() const;
-            int seconds() const;
 
             void print() const;
                 

@@ -29,12 +29,15 @@ namespace discrete_mathematics {
 
             Time start_time() const;
             Time end_time() const;
+
+            void book_hall(int number);
             
             void print() const;
 
         private:
             Time m_start_time;
             Time m_end_time;
+            int  m_hall_number;
         };
     };
 };
