@@ -45,7 +45,7 @@ void test_meeting_scheduler() {
     print(meetings);
     printf("-------------------------------------------------------------\n");
 
-    dc::HallManager hall_manager(5);
+    dc::HallManager hall_manager(2);
     for (std::size_t i = 0; i < meetings.size(); ++i)
         meetings[i].book_hall(hall_manager.book_hall(meetings[i]));
 
