@@ -4,7 +4,8 @@
 
 int main() {
     discrete_mathematics::chapter_3::TestSuite suite;
-    suite.run_all();
+    suite.run(1);
+    //suite.run_all();
     
     return 0;
 }
