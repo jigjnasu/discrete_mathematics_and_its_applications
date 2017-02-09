@@ -1,3 +1,6 @@
+#ifndef DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_SOLUTION_2_H_
+#define DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_SOLUTION_2_H_
+
 /*
   Chapter 3: Complexity Of Algorithms
   Discrete Mathematics and it's applications
@@ -9,8 +12,6 @@
   Date: Feb 9th, 2017
  */
 
-#include <cstdio>
-
 // From first loop, n comparrions
 // From second loop, n comparrions
 // From statement, 2 additions
@@ -20,7 +21,7 @@
 // Because regardless of n, or any thing it will always have
 // same cost and same instruction set every it will execute.
 
-int problem_2(int n) {
+int Solution_2(int n) {
     int t = 0;
     for (int i = 1; i <= n; ++i)
         for (int j = 1; j <= n; ++j)
@@ -28,11 +29,6 @@ int problem_2(int n) {
     return t;
 }
 
-int main() {
-    printf("Result of problem 1 == [%d]\n", problem_2(200));
-
-    return 0;
-}
-
+#endif // DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_SOLUTION_2_H_
 
 
