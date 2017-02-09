@@ -28,7 +28,8 @@ void dc::TestSuite::run_all() {
 void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[1] = &TestSuite::m_test_solution_1;
     m_test_cases_dictionary[2] = &TestSuite::m_test_solution_2;
-    m_test_cases_dictionary[3] = &TestSuite::m_test_solution_3;    
+    m_test_cases_dictionary[3] = &TestSuite::m_test_solution_3;
+    m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -97,5 +98,14 @@ void dc::TestSuite::m_test_solution_3() {
     m_show_banner(3);
     m_start_timer();
     printf("Maximum product == [%d]\n", solution.max_product(list));
+    m_end_timer();
+}
+
+void dc::TestSuite::m_test_solution_4() {
+    const int n = 1000000;
+    discrete_mathematics::chapter_3::Solution_4 solution;
+    m_show_banner(4);
+    m_start_timer();
+    printf("Sum of power of 2 == [%d]\n", solution.sum_power_of_2(n));
     m_end_timer();
 }
