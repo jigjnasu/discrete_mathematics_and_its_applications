@@ -11,6 +11,10 @@
 
 #include <cstdio>
 
+// From first loop, 3 comparrions
+// From second loop, 4 comparrions
+// From statement, 1 addition and 1 multiplication.
+// Total Cost, 12 comparrisions, 12 additions and 12 multiplications
 // Time complexity of this function is always O(1).
 // Because regardless of n, or any thing it will always have
 // same cost and same instruction set every it will execute.
