@@ -18,8 +18,6 @@
 // Total Cost, n ^ 2 comparrisions, 2 *(n ^ 2)
 // Total Cost = 3 * (n ^ 2)
 // Time complexity of this function is always O(n ^ 2).
-// Because regardless of n, or any thing it will always have
-// same cost and same instruction set every it will execute.
 
 namespace discrete_mathematics {
     namespace chapter_3 {

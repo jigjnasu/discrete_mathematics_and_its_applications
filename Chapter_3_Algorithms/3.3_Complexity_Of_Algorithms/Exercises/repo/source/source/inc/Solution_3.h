@@ -18,8 +18,6 @@
 // Total Cost, n ^ 2 comparrisions, n  / 2 multiplcation
 // Total Cost = (n ^ 2) / 2
 // Time complexity of this function is always O(n ^ 2).
-// Because regardless of n, or any thing it will always have
-// same cost and same instruction set every it will execute.
 
 #include <vector>
 
@@ -36,5 +34,3 @@ namespace discrete_mathematics {
 };
 
 #endif // DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_SOLUTION_3_H_
-
-
