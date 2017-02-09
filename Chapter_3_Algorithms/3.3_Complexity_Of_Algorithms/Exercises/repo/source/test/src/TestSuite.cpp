@@ -88,7 +88,7 @@ void dc::TestSuite::m_test_solution_2() {
 }
 
 void dc::TestSuite::m_test_solution_3() {
-    const int n = 50;
+    const int n = 20;
     const int min = 1;
     const int max = 1000;
     const std::vector<int> list = m_build_vector(n, min, max);
