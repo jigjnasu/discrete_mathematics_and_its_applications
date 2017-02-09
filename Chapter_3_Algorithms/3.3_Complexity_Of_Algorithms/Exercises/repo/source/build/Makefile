@@ -11,11 +11,11 @@ OBJ_PATH := objs
 SRC_FILES := $(wildcard $(SRC_PATH)/*.cpp)
 OBJ_FILES := $(addprefix $(OBJ_PATH)/,$(notdir $(SRC_FILES:.cpp=.o)))
 
-INC         := -I../source/inc
-TEST_INC    := -I../test/inc
-INTEGER_INC := -I~/git_hub/Utility/integer/inc/
-MATHS_INC   := -I~/git_hub/Utility/maths/inc/
-COMMON_INC  := -I~/git_hub/Utility/common/inc/
+INC         := -I ../source/inc
+TEST_INC    := -I ../test/inc
+INTEGER_INC := -I ~/git_hub/Utility/integer/inc/
+MATHS_INC   := -I ~/git_hub/Utility/maths/inc/
+COMMON_INC  := -I ~/git_hub/Utility/common/inc/
 
 INCLUDES := $(INC)
 INCLUDES += $(TEST_INC)
