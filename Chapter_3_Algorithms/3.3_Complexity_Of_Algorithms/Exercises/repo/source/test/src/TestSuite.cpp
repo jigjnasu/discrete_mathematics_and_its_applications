@@ -29,7 +29,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[1] = &TestSuite::m_test_solution_1;
     m_test_cases_dictionary[2] = &TestSuite::m_test_solution_2;
     m_test_cases_dictionary[3] = &TestSuite::m_test_solution_3;
-    m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;    
+    m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;
+    m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -107,5 +108,18 @@ void dc::TestSuite::m_test_solution_4() {
     m_show_banner(4);
     m_start_timer();
     printf("Sum of power of 2 == [%d]\n", solution.sum_power_of_2(n));
+    m_end_timer();
+}
+
+void dc::TestSuite::m_test_solution_5() {
+    const int n = 20;
+    const int min = -100;
+    const int max = 100;
+    const std::vector<int> list = m_build_vector(n, min, max);
+    m_print_vector(list);    
+    discrete_mathematics::chapter_3::Solution_5 solution;
+    m_show_banner(5);
+    m_start_timer();
+    printf("Smallest number from the list == [%d]\n", solution.smallest_number(list));
     m_end_timer();
 }
