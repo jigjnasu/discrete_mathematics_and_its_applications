@@ -13,10 +13,10 @@
  */
 
 // From first loop, n comparrions
-// From second loop, n comparrions
+// From second loop, n / 2 comparrions
 // From statement, 1 multiplication, 1 comaprission
-// Total Cost, n ^ 2 comparrisions, n ^ 2 multiplcation
-// Total Cost = 2 * (n ^ 2)
+// Total Cost, n ^ 2 comparrisions, n  / 2 multiplcation
+// Total Cost = (n ^ 2) / 2
 // Time complexity of this function is always O(n ^ 2).
 // Because regardless of n, or any thing it will always have
 // same cost and same instruction set every it will execute.
