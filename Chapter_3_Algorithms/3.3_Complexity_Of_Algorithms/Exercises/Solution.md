@@ -51,3 +51,6 @@
 
 ![output 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_6.jpg)
 
+###Solution -- 6(b)
+![solution 6b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_6_b.jpg)
+
