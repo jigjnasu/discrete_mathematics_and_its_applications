@@ -16,6 +16,7 @@ TEST_INC    := -I ../test/inc
 INTEGER_INC := -I ~/git_hub/Utility/integer/inc/
 MATHS_INC   := -I ~/git_hub/Utility/maths/inc/
 COMMON_INC  := -I ~/git_hub/Utility/common/inc/
+SEARCH_INC  := -I ~/git_hub/Utility/algorithms/search/inc
 
 INCLUDES := $(INC)
 INCLUDES += $(TEST_INC)
@@ -23,6 +24,7 @@ INCLUDES += $(INTEGER_INC)
 INCLUDES += $(MATHS_INC)
 INCLUDES += $(COMMON_INC)
 INCLUDES += $(SOURCE_INC)
+INCLUDES += $(SEARCH_INC)
 
 UTILITY_LIB := -lutility
 UTILITY_LIB_PATH := -L ~/git_hub/Utility/lib/
