@@ -123,11 +123,11 @@ void dc::TestSuite::m_test_solution_6() {
     const int max = 100;
     utility::maths::Maths<int> maths;
     std::vector<int> list = maths.random_vector(n, min, max);
-    m_print_vector(list);
     discrete_mathematics::chapter_3::Solution_6 solution;
     m_show_banner(6);
+    m_print_vector(list);
     m_start_timer();
     solution.partial_insertion_sort(list);
-    m_print_vector(list);    
     m_end_timer();
+    m_print_vector(list);    
 }
