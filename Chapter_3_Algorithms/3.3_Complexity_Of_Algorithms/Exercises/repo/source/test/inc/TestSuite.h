@@ -27,15 +27,14 @@ namespace discrete_mathematics {
             void m_start_timer();
             void m_end_timer();
 
-            int m_random(int min, int max) const;
-            std::vector<int> m_build_vector(int n, int min, int max) const;
             void m_print_vector(const std::vector<int>& V) const;
             
             void m_test_solution_1();
             void m_test_solution_2();
             void m_test_solution_3();
             void m_test_solution_4();
-            void m_test_solution_5();            
+            void m_test_solution_5();
+            void m_test_solution_6();            
         };
     };
 };

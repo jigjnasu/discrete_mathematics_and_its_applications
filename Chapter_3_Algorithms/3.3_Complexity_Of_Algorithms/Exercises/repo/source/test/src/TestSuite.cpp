@@ -1,5 +1,6 @@
 #include "TestSuite.h"
 #include "AllHeaders.h"
+#include "Maths.h"
 #include <cstdlib>
 #include <cstdio>
 
@@ -30,7 +31,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[2] = &TestSuite::m_test_solution_2;
     m_test_cases_dictionary[3] = &TestSuite::m_test_solution_3;
     m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;
-    m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;    
+    m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;
+    m_test_cases_dictionary[6] = &TestSuite::m_test_solution_6;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -51,18 +53,6 @@ void dc::TestSuite::m_end_timer() {
     printf("Execution time == [%.8f] seconds\n",
            (std::clock() - m_start_time) / static_cast<double>(CLOCKS_PER_SEC));
     printf("-----------------------------------------------------------\n");    
-}
-
-int dc::TestSuite::m_random(int min, int max) const {
-    return min + rand() % (max - min) + 1;
-}
-
-std::vector<int> dc::TestSuite::m_build_vector(int n, int min, int max) const {
-    std::vector<int> list;
-    for (int i = 0; i < n; ++i)
-        list.push_back(m_random(min, max));
-
-    return list;
 }
 
 void dc::TestSuite::m_print_vector(const std::vector<int>& V) const {
@@ -93,7 +83,8 @@ void dc::TestSuite::m_test_solution_3() {
     const int n = 20;
     const int min = 1;
     const int max = 1000;
-    const std::vector<int> list = m_build_vector(n, min, max);
+    utility::maths::Maths<int> maths;
+    const std::vector<int> list = maths.random_vector(n, min, max);
     m_print_vector(list);
     discrete_mathematics::chapter_3::Solution_3 solution;
     m_show_banner(3);
@@ -115,11 +106,28 @@ void dc::TestSuite::m_test_solution_5() {
     const int n = 20;
     const int min = -100;
     const int max = 100;
-    const std::vector<int> list = m_build_vector(n, min, max);
+    utility::maths::Maths<int> maths;
+    const std::vector<int> list = maths.random_vector(n, min, max);
     m_print_vector(list);    
     discrete_mathematics::chapter_3::Solution_5 solution;
     m_show_banner(5);
     m_start_timer();
     printf("Smallest number from the list == [%d]\n", solution.smallest_number(list));
+    m_end_timer();
+}
+
+
+void dc::TestSuite::m_test_solution_6() {
+    const int n = 20;
+    const int min = 1;
+    const int max = 100;
+    utility::maths::Maths<int> maths;
+    std::vector<int> list = maths.random_vector(n, min, max);
+    m_print_vector(list);
+    discrete_mathematics::chapter_3::Solution_6 solution;
+    m_show_banner(6);
+    m_start_timer();
+    solution.partial_insertion_sort(list);
+    m_print_vector(list);    
     m_end_timer();
 }
