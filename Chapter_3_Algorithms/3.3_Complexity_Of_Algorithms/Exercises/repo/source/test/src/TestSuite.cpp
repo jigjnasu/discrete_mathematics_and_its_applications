@@ -34,7 +34,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;
     m_test_cases_dictionary[6] = &TestSuite::m_test_solution_6;
     m_test_cases_dictionary[7] = &TestSuite::m_test_solution_7;
-    m_test_cases_dictionary[8] = &TestSuite::m_test_solution_8;    
+    m_test_cases_dictionary[8] = &TestSuite::m_test_solution_8;
+    m_test_cases_dictionary[9] = &TestSuite::m_test_solution_9;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -148,4 +149,18 @@ void dc::TestSuite::m_test_solution_8() {
     m_start_timer();
     solution.compare();
     m_end_timer();
+}
+
+void dc::TestSuite::m_test_solution_9() {
+    utility::maths::Maths<int> maths;
+    discrete_mathematics::chapter_3::Solution_9 solution;
+    m_show_banner(9);
+
+    const int min = 1;
+    const int max = 1 << 30;
+    for (int i = 0; i < 20; ++i) {
+        const int n = maths.random(min, max);
+        printf("[%12d] has number of one [%d] bits\n", n, solution.number_of_ones(n));
+    }
+    
 }
