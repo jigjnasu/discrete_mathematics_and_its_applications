@@ -29,6 +29,10 @@ namespace discrete_mathematics {
         private:
             bool are_disjoint(const std::vector<int>& s1,
                               const std::vector<int>& s2) const;
+
+            void m_print(const std::vector<int>& list) const;
+
+            void m_print_set(const std::vector< std::vector<int> >& set) const;
         };
     };
 };

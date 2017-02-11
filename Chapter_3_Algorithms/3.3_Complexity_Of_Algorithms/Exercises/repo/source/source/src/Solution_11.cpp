@@ -1,4 +1,5 @@
 #include "Solution_11.h"
+#include <cstdio>
 
 /*
   The complexity of this algorithm is O(n ^ 3).
@@ -14,11 +15,19 @@ dc::Solution_11::Solution_11() {}
 dc::Solution_11::~Solution_11() {}
 
 int dc::Solution_11::disjoint_pairs(const std::vector< std::vector<int> >& set) const {
+    m_print_set(set);
+    
     int counter = 0;
     for (std::size_t i = 0; i < set.size() - 1; ++i) {
         for (std::size_t j = i + 1; j < set.size(); ++j) {
-            if (are_disjoint(set[i], set[j]))
+            if (are_disjoint(set[i], set[j])) {
+                printf("-----------------------------------\n");
+                printf("Disjoint pair set\n");
+                m_print(set[i]);
+                m_print(set[j]);
+                printf("-----------------------------------\n");
                 ++counter;
+            }
         }
     }
 
@@ -32,4 +41,19 @@ bool dc::Solution_11::are_disjoint(const std::vector<int>& s1,
             if (s1[i] == s2[j])
                 return false;
     return true;
+}
+
+void dc::Solution_11::m_print(const std::vector<int>& list) const {
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n");
+}
+
+void dc::Solution_11::m_print_set(const std::vector< std::vector<int> >& set) const {
+    printf("-------------------- Set --------------------------\n");
+    for (std::size_t i = 0; i < set.size(); ++i) {
+        printf("Subset [%lu] --> ", i + 1);
+        m_print(set[i]);
+    }
+    printf("--------------------------------------------------\n");
 }
