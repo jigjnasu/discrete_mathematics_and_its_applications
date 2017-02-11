@@ -72,8 +72,8 @@
 therefore, when n grows, the time complexity grows with n as well. But this is not the best solution
 to calculate the power of base to the exponent. We can have a divide and conquer method.
 
-####Divide and Conquer Power Algortim, will have O(lg n), because of divide and conquer. So when n grows
-time complexity will grow by lg n, which will me very efficient than n.
+####Divide and Conquer Power Algortim, will have O(lg n) because of divide and conquer.
+So when n grows time complexity will grow by lg n, which will me very efficient than n.
 
 [solution 8 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_8.h)
 
