@@ -198,4 +198,8 @@ void dc::TestSuite::m_test_solution_11() {
 
     discrete_mathematics::chapter_3::Solution_11 solution;
     printf("Number of disjoint subsets are == [%d]\n", solution.disjoint_pairs(set));
+    int key = 178;
+    printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));
+    key = 11;
+    printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));    
 }

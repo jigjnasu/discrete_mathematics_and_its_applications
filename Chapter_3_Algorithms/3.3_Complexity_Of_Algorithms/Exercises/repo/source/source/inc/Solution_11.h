@@ -25,6 +25,7 @@ namespace discrete_mathematics {
             // Two sets are disjoint when two subsets doesnt have any element in common.
             // Example S1{1, 2, 3} and S2{4, 5, 6}
             int disjoint_pairs(const std::vector< std::vector<int> >& set) const;
+            int find(const std::vector< std::vector<int> >& set, int key) const;
 
         private:
             bool are_disjoint(const std::vector<int>& s1,

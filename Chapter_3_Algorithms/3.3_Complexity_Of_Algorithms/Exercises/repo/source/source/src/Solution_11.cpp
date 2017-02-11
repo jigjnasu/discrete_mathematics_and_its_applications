@@ -34,6 +34,19 @@ int dc::Solution_11::disjoint_pairs(const std::vector< std::vector<int> >& set) 
     return counter;
 }
 
+int dc::Solution_11::find(const std::vector< std::vector<int> >& set, int key) const {
+    int subset = -1;
+    for (std::size_t i = 0; i < set.size(); ++i) {
+        for (std::size_t j = 0; j < set[i].size(); ++j) {
+            if (key == set[i][j]) {
+                subset = i + 1;
+                break;
+            }
+        }
+    }
+    return subset;
+}
+
 bool dc::Solution_11::are_disjoint(const std::vector<int>& s1,
                                    const std::vector<int>& s2) const {
     for (std::size_t i = 0; i < s1.size(); ++i)
