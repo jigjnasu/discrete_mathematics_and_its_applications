@@ -121,3 +121,4 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ####2. Trying to find out the number in Si th subset by comparing all values. (n iteartions)
 ####3. Time complexity O(n ^ 2)
 
+![output 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_11.jpg)
