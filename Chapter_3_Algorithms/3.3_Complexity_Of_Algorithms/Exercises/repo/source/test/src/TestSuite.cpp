@@ -36,7 +36,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[7] = &TestSuite::m_test_solution_7;
     m_test_cases_dictionary[8] = &TestSuite::m_test_solution_8;
     m_test_cases_dictionary[9] = &TestSuite::m_test_solution_9;
-    m_test_cases_dictionary[10] = &TestSuite::m_test_solution_10;        
+    m_test_cases_dictionary[10] = &TestSuite::m_test_solution_10;
+    m_test_cases_dictionary[11] = &TestSuite::m_test_solution_11;
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -178,4 +179,23 @@ void dc::TestSuite::m_test_solution_10() {
         printf("[%12d] has number of one [%d] bits\n", n, solution.number_of_ones(n));
     }
     
+}
+
+void dc::TestSuite::m_test_solution_11() {
+    std::vector< std::vector<int> > set;
+
+    std::vector<int> s1 ={1, 2, 3};
+    std::vector<int> s2 = {4, 2};
+    std::vector<int> s3 = {6, 7, 8, 9};
+    std::vector<int> s4 = {12, 1};
+    std::vector<int> s5 = {178, 1881};
+
+    set.push_back(s1);
+    set.push_back(s2);
+    set.push_back(s3);
+    set.push_back(s4);
+    set.push_back(s5);    
+
+    discrete_mathematics::chapter_3::Solution_11 solution;
+    printf("Number of disjoint subsets are == [%d]\n", solution.disjoint_pairs(set));
 }

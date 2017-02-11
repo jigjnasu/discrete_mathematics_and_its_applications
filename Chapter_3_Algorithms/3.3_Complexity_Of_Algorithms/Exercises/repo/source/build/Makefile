@@ -31,7 +31,7 @@ UTILITY_LIB_PATH := -L ~/git_hub/Utility/lib/
 
 TARGET := exe
 
-GXX := g++
+GXX := g++ -std=c++11
 CC_FLAGS := -g -c -Wall -O3
 
 $(TARGET) : $(OBJ_FILES) test
