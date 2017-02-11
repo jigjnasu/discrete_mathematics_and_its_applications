@@ -83,7 +83,8 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 
 ![problem 9](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_9.jpg)
-###SolutionAs it is a simple iterative approach to check wether bit is 1 or not, it will have O(n) complexity.
+###Solution
+####As it is a simple iterative approach to check wether bit is 1 or not, it will have O(n) complexity.
 
 [solution 9 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_9.h)
 
@@ -91,7 +92,8 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 
 ![problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_10.jpg)
-###SolutionAs the number of ones' bits count is correct, therefore, the algorithm is okay.
+###Solution
+####As the number of ones' bits count is correct, therefore, the algorithm is okay.
 
 [solution 10 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_10.h)
 
