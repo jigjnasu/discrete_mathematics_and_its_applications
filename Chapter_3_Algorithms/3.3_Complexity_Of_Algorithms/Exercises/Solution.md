@@ -102,3 +102,22 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ###Solution 10(b)
 ####The number of bitwise AND operations is equal to number of ones' bits.
 
+
+
+![problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_11.jpg)
+###Solution
+####As we are iterating through all the subsets first. (n iterations)
+####And comparing with all other subsets for disjoint sets. (n iterations)
+####And then comparing two subsets all elements for disjoint check. (n iterations)
+####Therefore, time complexity O(n ^ 3)
+
+[solution 11 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_11.h)
+
+[solution 11 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_11.cpp)
+
+###Solution 11(b)
+####If we need to find out an interger in all the subsets.
+####1. Iterate through all the subsets. (n iterations)
+####2. Trying to find out the number in Si th subset by comparing all values. (n iteartions)
+####3. Time complexity O(n ^ 2)
+
