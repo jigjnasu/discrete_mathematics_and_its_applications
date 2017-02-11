@@ -90,3 +90,13 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 [solution 9 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_9.cpp)
 
 
+![problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_10.jpg)
+###SolutionAs the number of ones' bits count is correct, therefore, the algorithm is okay.
+
+[solution 10 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_10.h)
+
+[solution 10 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_10.cpp)
+
+###Solution 10(b)
+####The number of bitwise AND operations is equal to number of ones' bits.
+
