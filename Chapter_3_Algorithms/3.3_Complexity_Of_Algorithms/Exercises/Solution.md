@@ -54,3 +54,14 @@
 ###Solution -- 6(b)
 ![solution 6b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_6_b.jpg)
 
+
+![problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_7.jpg)
+###Solution
+####Linear Search, will always have worst case scenario 4 comparrisons. Therefore the O(1)
+####Binary Search, will have O(lg n), because of divide and conquer. So lg(32) is 5.
+[solution 7 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_7.h)
+
+[solution 7 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_7.cpp)
+
+![output 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_7.jpg)
+
