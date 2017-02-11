@@ -8,5 +8,6 @@
 #include "Solution_5.h"
 #include "Solution_6.h"
 #include "Solution_7.h"
+#include "Solution_8.h"
 
 #endif // DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_ALL_HEADERS_H_

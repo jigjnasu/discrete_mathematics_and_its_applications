@@ -33,7 +33,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;
     m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;
     m_test_cases_dictionary[6] = &TestSuite::m_test_solution_6;
-    m_test_cases_dictionary[7] = &TestSuite::m_test_solution_7;    
+    m_test_cases_dictionary[7] = &TestSuite::m_test_solution_7;
+    m_test_cases_dictionary[8] = &TestSuite::m_test_solution_8;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -136,6 +137,14 @@ void dc::TestSuite::m_test_solution_6() {
 void dc::TestSuite::m_test_solution_7() {
     discrete_mathematics::chapter_3::Solution_7 solution;
     m_show_banner(7);
+    m_start_timer();
+    solution.compare();
+    m_end_timer();
+}
+
+void dc::TestSuite::m_test_solution_8() {
+    discrete_mathematics::chapter_3::Solution_8 solution;
+    m_show_banner(8);
     m_start_timer();
     solution.compare();
     m_end_timer();
