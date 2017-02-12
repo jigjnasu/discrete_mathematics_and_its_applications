@@ -126,9 +126,9 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 ![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_12.jpg)
 ###Solution
-####From the first loop, we have n iterations.
-####From the second loop, we have n / 2 iterations.
-####From the last loop, we have almost n / 2 iterations.
+#####1. From the first loop, we have n iterations.
+#####2. From the second loop, we have n / 2 iterations.
+#####3. From the last loop, we have almost n / 2 iterations.
 
 [solution 12 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_12.h)
 
