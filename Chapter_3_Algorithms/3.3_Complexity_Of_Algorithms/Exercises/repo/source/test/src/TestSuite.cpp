@@ -38,7 +38,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[9] = &TestSuite::m_test_solution_9;
     m_test_cases_dictionary[10] = &TestSuite::m_test_solution_10;
     m_test_cases_dictionary[11] = &TestSuite::m_test_solution_11;
-    m_test_cases_dictionary[12] = &TestSuite::m_test_solution_12;    
+    m_test_cases_dictionary[12] = &TestSuite::m_test_solution_12;
+    m_test_cases_dictionary[13] = &TestSuite::m_test_solution_13;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -212,4 +213,16 @@ void dc::TestSuite::m_test_solution_12() {
 
     discrete_mathematics::chapter_3::Solution_12 solution;
     solution.compute_matrix(list);
+}
+
+void dc::TestSuite::m_test_solution_13() {
+    const int min = 1;
+    const int max = 100;
+    utility::maths::Maths<int> maths;
+    std::vector<int> list;
+    for (int i = 0; i < 10; ++i)
+        list.push_back(maths.random(min, max));
+
+    discrete_mathematics::chapter_3::Solution_13 solution;
+    solution.polynomial(list, 3);
 }

@@ -18,7 +18,7 @@ void dc::Solution_12::compute_matrix(const std::vector<int>& data) const {
     for (std::size_t i = 0; i < data.size(); ++i) {
         for (std::size_t j = i + 1; j < data.size(); ++j) {
             for (std::size_t k = i + 1; k <= j; ++k) {
-                       maths.min(matrix[i][j], data[k]));
+                       maths.min(matrix[i][j], data[k]);
                 matrix[i][j] = maths.min(matrix[i][j], data[k]);
             }
         }
