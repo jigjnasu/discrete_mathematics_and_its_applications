@@ -189,6 +189,9 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ![output 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_15.jpg)
 
 
+![problem 16](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_16.jpg)
+###Solution
+
 [solution 16 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_16.h)
 
 [solution 16 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_16.cpp)
