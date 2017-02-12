@@ -149,3 +149,12 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 [solution 13 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_13.cpp)
 
 ![output 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_13.jpg)
+
+###Solution 13(a)
+#####Answer is 15
+![solution 13(a)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_13_a.jpg)
+![output 13(a)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_13_a.jpg)
+
+###Solution 13(b)
+#####At each iteration till n we will have y = y + cofficent * power(x, i), where i = 0 to n - 1.
+#####Therefore, we will have n multiplications and n additions, so 2n.

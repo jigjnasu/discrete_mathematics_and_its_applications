@@ -216,13 +216,14 @@ void dc::TestSuite::m_test_solution_12() {
 }
 
 void dc::TestSuite::m_test_solution_13() {
-    const int min = 1;
-    const int max = 100;
-    utility::maths::Maths<int> maths;
-    std::vector<int> list;
-    for (int i = 0; i < 10; ++i)
-        list.push_back(maths.random(min, max));
+    //const int min = 1;
+    //const int max = 100;
+    //utility::maths::Maths<int> maths;
+    //std::vector<int> list;
+    //for (int i = 0; i < 10; ++i)
+    //    list.push_back(maths.random(min, max));
 
+    std::vector<int> list = {1, 1, 3};
     discrete_mathematics::chapter_3::Solution_13 solution;
-    solution.polynomial(list, 3);
+    solution.polynomial(list, 2);
 }
