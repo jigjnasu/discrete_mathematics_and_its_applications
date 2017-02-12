@@ -173,3 +173,7 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 #####Answer is 15
 ![solution 14(a)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_14_a.jpg)
 ![output 14(a)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_14_a.jpg)
+
+###Solution 14(b)
+#####At each iteration till n we will have y = y * x  + cofficent
+#####Therefore, we will have n multiplications and n additions, so 2n.
