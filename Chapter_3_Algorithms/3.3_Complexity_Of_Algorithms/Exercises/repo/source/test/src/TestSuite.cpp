@@ -40,7 +40,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[11] = &TestSuite::m_test_solution_11;
     m_test_cases_dictionary[12] = &TestSuite::m_test_solution_12;
     m_test_cases_dictionary[13] = &TestSuite::m_test_solution_13;
-    m_test_cases_dictionary[14] = &TestSuite::m_test_solution_14;    
+    m_test_cases_dictionary[14] = &TestSuite::m_test_solution_14;
+    m_test_cases_dictionary[15] = &TestSuite::m_test_solution_15;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -242,4 +243,9 @@ void dc::TestSuite::m_test_solution_14() {
 
     discrete_mathematics::chapter_3::Solution_14 solution;
     solution.polynomial(list, x);
+}
+
+void dc::TestSuite::m_test_solution_15() {
+    discrete_mathematics::chapter_3::Solution_15 solution;
+    solution.compute();
 }
