@@ -38,6 +38,7 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[9] = &TestSuite::m_test_solution_9;
     m_test_cases_dictionary[10] = &TestSuite::m_test_solution_10;
     m_test_cases_dictionary[11] = &TestSuite::m_test_solution_11;
+    m_test_cases_dictionary[12] = &TestSuite::m_test_solution_12;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -202,4 +203,13 @@ void dc::TestSuite::m_test_solution_11() {
     printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));
     key = 11;
     printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));    
+}
+
+void dc::TestSuite::m_test_solution_12() {
+    std::vector<int> list;
+    for (int i = 0; i < 20; ++i)
+        list.push_back(i + 1);
+
+    discrete_mathematics::chapter_3::Solution_12 solution;
+    solution.compute_matrix(list);
 }

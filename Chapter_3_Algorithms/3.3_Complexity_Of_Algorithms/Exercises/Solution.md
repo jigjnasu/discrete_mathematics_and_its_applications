@@ -122,3 +122,17 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ####3. Time complexity O(n ^ 2)
 
 ![output 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_11.jpg)
+
+
+![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_12.jpg)
+###Solution
+####From the first loop, we have n iterations.
+####From the second loop, we have n / 2 iterations.
+####From the last loop, we have almost n / 2 iterations.
+
+[solution 12 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_12.h)
+
+[solution 12 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_12.cpp)
+
+###Solution 12(a)
+###Solution 12(b)
