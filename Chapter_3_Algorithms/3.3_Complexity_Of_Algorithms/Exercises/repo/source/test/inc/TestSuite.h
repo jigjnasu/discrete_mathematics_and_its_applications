@@ -41,7 +41,8 @@ namespace discrete_mathematics {
             void m_test_solution_10();
             void m_test_solution_11();
             void m_test_solution_12();
-            void m_test_solution_13();            
+            void m_test_solution_13();
+            void m_test_solution_14();            
         };
     };
 };
