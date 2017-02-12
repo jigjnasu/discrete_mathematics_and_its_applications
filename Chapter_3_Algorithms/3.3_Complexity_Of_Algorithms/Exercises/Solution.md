@@ -57,8 +57,8 @@
 
 ![problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_7.jpg)
 ###Solution
-####Linear Search, will always have worst case scenario 4 comparrisons. Therefore the O(1)
-####Binary Search, will have O(lg n), because of divide and conquer. So lg(32) is 5.
+#####Linear Search, will always have worst case scenario 4 comparrisons. Therefore the O(1)
+#####Binary Search, will have O(lg n), because of divide and conquer. So lg(32) is 5.
 [solution 7 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_7.h)
 
 [solution 7 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_7.cpp)
@@ -68,11 +68,11 @@
 
 ![problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_8.jpg)
 ###Solution
-####Naive Iterative Power Algorithm, will always have worst case of n multiplication,
+#####Naive Iterative Power Algorithm, will always have worst case of n multiplication,
 therefore, when n grows, the time complexity grows with n as well. But this is not the best solution
 to calculate the power of base to the exponent. We can have a divide and conquer method.
 
-####Divide and Conquer Power Algortim, will have O(lg n) because of divide and conquer.
+#####Divide and Conquer Power Algortim, will have O(lg n) because of divide and conquer.
 So when n grows time complexity will grow by lg n, which will me very efficient than n.
 
 [solution 8 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_8.h)
@@ -84,7 +84,7 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 ![problem 9](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_9.jpg)
 ###Solution
-####As it is a simple iterative approach to check wether bit is 1 or not, it will have O(n) complexity.
+#####As it is a simple iterative approach to check wether bit is 1 or not, it will have O(n) complexity.
 
 [solution 9 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_9.h)
 
@@ -93,33 +93,33 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 ![problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_10.jpg)
 ###Solution
-####As the number of ones' bits count is correct, therefore, the algorithm is okay.
+#####As the number of ones' bits count is correct, therefore, the algorithm is okay.
 
 [solution 10 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_10.h)
 
 [solution 10 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_10.cpp)
 
 ###Solution 10(b)
-####The number of bitwise AND operations is equal to number of ones' bits.
+#####The number of bitwise AND operations is equal to number of ones' bits.
 
 
 
 ![problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_11.jpg)
 ###Solution
-####As we are iterating through all the subsets first. (n iterations)
-####And comparing with all other subsets for disjoint sets. (n iterations)
-####And then comparing two subsets all elements for disjoint check. (n iterations)
-####Therefore, time complexity O(n ^ 3)
+#####As we are iterating through all the subsets first. (n iterations)
+#####And comparing with all other subsets for disjoint sets. (n iterations)
+#####And then comparing two subsets all elements for disjoint check. (n iterations)
+#####Therefore, time complexity O(n ^ 3)
 
 [solution 11 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/inc/Solution_11.h)
 
 [solution 11 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_11.cpp)
 
 ###Solution 11(b)
-####If we need to find out an interger in all the subsets.
-####1. Iterate through all the subsets. (n iterations)
-####2. Trying to find out the number in Si th subset by comparing all values. (n iteartions)
-####3. Time complexity O(n ^ 2)
+#####If we need to find out an interger in all the subsets.
+#####1. Iterate through all the subsets. (n iterations)
+#####2. Trying to find out the number in Si th subset by comparing all values. (n iteartions)
+#####3. Time complexity O(n ^ 2)
 
 ![output 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_11.jpg)
 
@@ -135,4 +135,7 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 [solution 12 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_12.cpp)
 
 ###Solution 12(a)
+#####As mentioned above, if we multiply n . (n / 2) . (n / 2).
+#####We will have, (n ^ 3) / 4 as the total time taken,
+#####Therefore, O(n ^ 3).
 ###Solution 12(b)
