@@ -266,5 +266,5 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 By looking at the above arguments it seems that linear search for max element is optimal solution.
 
-###Solution (a)
+###Solution (b)
 Yes it is a optimal soltution.
