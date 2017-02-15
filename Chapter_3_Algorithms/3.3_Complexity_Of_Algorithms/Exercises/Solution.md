@@ -238,12 +238,12 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 #####We will have (n + 1) comparissions from loop and n comparissions from the if condition.
 #####Total time cost = 2n + 1, Time Complexity = O(n)
 
-###Solution (a)
+###Solution (b)
 #####To search an element in a list using linear search algorithm.
 #####We will have (n + 1) comparissions from loop and n comparissions from the if condition.
 #####Total time cost = 2n + 1, Time Complexity = O(n)
 
-###Solution (a)
+###Solution (c)
 #####To search an element in a list using binary search algorithm.
 #####We will have lg(n) comparissions for mid check and, for calling left or right half 2 more checks.
 #####Total time cost = 3lg(n), Time Comlexity = O(lg(n))
