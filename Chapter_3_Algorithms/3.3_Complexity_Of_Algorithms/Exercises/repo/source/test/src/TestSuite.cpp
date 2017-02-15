@@ -1,6 +1,7 @@
 #include "TestSuite.h"
 #include "AllHeaders.h"
 #include "Maths.h"
+#include "MergeSort.h"
 #include <cstdlib>
 #include <cstdio>
 
@@ -44,6 +45,7 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[15] = &TestSuite::m_test_solution_15;
     m_test_cases_dictionary[16] = &TestSuite::m_test_solution_16;
     m_test_cases_dictionary[17] = &TestSuite::m_test_solution_17;
+    m_test_cases_dictionary[25] = &TestSuite::m_test_solution_25;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -260,4 +262,28 @@ void dc::TestSuite::m_test_solution_16() {
 void dc::TestSuite::m_test_solution_17() {
     discrete_mathematics::chapter_3::Solution_17 solution;
     solution.compute();
+}
+
+void dc::TestSuite::m_test_solution_25() {
+    utility::maths::Maths<int> maths;
+    utility::algorithms::sort::MergeSort<int> sort;
+    const int n = 50;
+    const int min = 1;
+    const int max = 100;
+    
+    std::vector<int> list = maths.random_vector(n, min, max);
+    printf("-------------------------------------- List of Random number -------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n-------------------------------------- List of Random number -------------------------\n");
+
+    sort.sort(list);
+    printf("----------------------------------------- Sorted List  --------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+
+    const int key = maths.random(min, max);
+    discrete_mathematics::chapter_3::Solution_25 solution;
+    printf("key == [%d] found at [%d] location\n", key, solution.search(list, key));
 }
