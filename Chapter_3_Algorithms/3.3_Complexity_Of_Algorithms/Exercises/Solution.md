@@ -249,3 +249,6 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 #####Total time cost = 3lg(n), Time Comlexity = O(lg(n))
 
 
+![problem 23](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_23.jpg)
+
+![solution 23](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_23.jpg)
