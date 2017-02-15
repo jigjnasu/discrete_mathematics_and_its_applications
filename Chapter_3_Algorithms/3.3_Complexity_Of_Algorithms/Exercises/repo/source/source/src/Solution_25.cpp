@@ -1,4 +1,5 @@
 #include "Solution_25.h"
+#include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;
 
