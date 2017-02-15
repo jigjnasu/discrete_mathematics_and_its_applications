@@ -232,3 +232,20 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ![problem 22](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_22.jpg)
 
 ![solution 22](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_22.jpg)
+
+###Solution (a)
+#####To find out the maximum interger of n elements in a list.
+#####We will have (n + 1) comparissions from loop and n comparissions from the if condition.
+#####Total time cost = 2n + 1, Time Complexity = O(n)
+
+###Solution (a)
+#####To search an element in a list using linear search algorithm.
+#####We will have (n + 1) comparissions from loop and n comparissions from the if condition.
+#####Total time cost = 2n + 1, Time Complexity = O(n)
+
+###Solution (a)
+#####To search an element in a list using binary search algorithm.
+#####We will have lg(n) comparissions for mid check and, for calling left or right half 2 more checks.
+#####Total time cost = 3lg(n), Time Comlexity = O(lg(n))
+
+
