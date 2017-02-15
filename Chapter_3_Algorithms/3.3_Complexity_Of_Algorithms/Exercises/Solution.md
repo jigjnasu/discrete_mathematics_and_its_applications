@@ -257,3 +257,14 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ![problem 24](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_24.jpg)
 ###Solution
 ![solution 24](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_24.jpg)
+
+###Solution (a)
+####Explanation:--
+1. With this algortithm we will be having worst case scenario n comparisons, therefore, its time complexity is O(n).
+2. We can't use divide and conquer method to find, because the input list is not sorted it is unsorted. There is no way to find how to split the search.
+3. We can use the max heap data structure, as it has only O(1) search for max element, however this is not the case as well as we have array type input.
+
+By looking at the above arguments it seems that linear search for max element is optimal solution.
+
+###Solution (a)
+Yes it is a optimal soltution.
