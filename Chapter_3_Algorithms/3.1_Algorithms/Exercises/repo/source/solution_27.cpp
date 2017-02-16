@@ -37,39 +37,57 @@ int linear_search(const std::vector<int>& list, int x) {
 int binary_search(const std::vector<int>& list, int x) {
     int start = 0;
     int end   = list.size() - 1;
-    
+
     while (start <= end) {
+        if (x == list[start])
+            return start + 1;
+        if (x == list[end])
+            return end + 1;
+
         const int mid = (start + end) >> 1;
 
-        if (list[mid] == x)
+        if (x == list[mid]) {
             return mid + 1;
-        else if (list[mid] > x)
+        } else if (x < list[mid]) {
+            ++start;
             end = mid - 1;
-        else
+        } else {
             start = mid + 1;
+            --end;
+        }
     }
-
+    
     return 0;
 }
 
+const int n = 3;
 int ternary_search(const std::vector<int>& list, int x) {
     int start = 0;
     int end   = list.size() - 1;
 
     while (start <= end) {
-        const int factor = (end - start) / 3;
+        const int split = (end - start) / n;
         
-        if (list[start + factor] == x)
-            return start + factor + 1;
-        if (list[start + 2 * factor] == x)
-            return start + 2 * factor + 1;
+        for (int i = 0; i < n; ++i)
+            if (x == list[start + i * split])
+                return start + i * split + 1;
 
-        if (x < list[start + factor])
-            end = start + factor - 1;
-        else if (x > start + 2 * factor)
-            start = start + 2 * factor + 1;
-        else
-            start = start + factor + 1;
+        if (x == list[end])
+            return end + 1;
+
+        if (x > list[start + (n - 1) * split]) {
+            start = start + (n - 1) * split + 1;
+            --end;
+            continue;
+        } else {
+            for (int i = 1; i < n; ++i) {
+                if (x < list[start + i * split]) {
+                    end = start + i * split - 1;
+                    start = start + (i - 1) * split + 1;
+                    break;
+                }
+            }
+        }
     }
     
     return 0;
@@ -77,11 +95,9 @@ int ternary_search(const std::vector<int>& list, int x) {
 
 void test_searches() {
     discrete_mathematics::chapter_3::Common<int> common;
-    discrete_mathematics::chapter_3::MergeSort<int> sort;
-    //std::vector<int> list = common.build_vector(limit, min, max);
-    //sort.sort(list);
+
     std::vector<int> list;
-    for (int i = 0; i < limit; ++i)
+    for (int i = 1; i <= limit; ++i)
         list.push_back(i);
     const int x = common.random(min, limit);
     
