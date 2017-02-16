@@ -14,16 +14,10 @@ int random(int max, int min) {
 }
 
 int search(const std::vector<int>& list, int x) {
-    int pos = 0;
-    
-    for (std::size_t i = 0; i < list.size(); ++i) {
-        if (list[i] == x) {
-            pos = i + 1;
-            break;
-        }
-    }
-        
-    return pos;
+    for (std::size_t i = 0; i < list.size(); ++i)
+        if (list[i] == x)
+            return i + 1;
+    return 0;
 }
 
 void print(const std::vector<int>& list) {

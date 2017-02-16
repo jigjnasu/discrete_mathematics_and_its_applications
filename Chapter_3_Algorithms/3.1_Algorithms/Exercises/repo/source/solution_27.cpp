@@ -76,14 +76,14 @@ int ternary_search(const std::vector<int>& list, int x) {
             return end + 1;
 
         if (x > list[start + (n - 1) * split]) {
-            start = start + (n - 1) * split + 1;
+            start += (n - 1) * split + 1;
             --end;
             continue;
         } else {
             for (int i = 1; i < n; ++i) {
                 if (x < list[start + i * split]) {
                     end = start + i * split - 1;
-                    start = start + (i - 1) * split + 1;
+                    start += (i - 1) * split + 1;
                     break;
                 }
             }

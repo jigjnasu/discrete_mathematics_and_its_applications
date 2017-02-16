@@ -19,13 +19,22 @@ int binary_search(const std::vector<int>& list, int x) {
     int end   = list.size() - 1;
     
     while (start <= end) {
+        if (x == list[start])
+            return start + 1;
+        if (x == list[end])
+            return end + 1;
+
         const int mid = (start + end) >> 1;
-        if (list[mid] == x)
+
+        if (x == list[mid]) {
             return mid + 1;
-        else if (list[mid] > x)
+        } else if (x < list[mid]) {
+            ++start;
             end = mid - 1;
-        else
+        } else {
             start = mid + 1;
+            --end;
+        }
     }
 
     return 0;

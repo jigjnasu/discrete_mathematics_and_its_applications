@@ -38,43 +38,47 @@ int binary_search(const std::vector<int>& list, int x) {
     int end   = list.size() - 1;
 
     while (start <= end) {
+        if (x == list[start])
+            return start + 1;
+        if (x == list[end])
+            return end + 1;
+
         const int mid = (start + end) >> 1;
-        if (x == list[mid])
+        if (x == list[mid]) {
             return mid + 1;
-        else if (x > list[mid])
-            start = mid + 1;
-        else
+        } else if (x < list[mid]) {
+            ++start;
             end = mid - 1;
+        } else {
+            start = mid + 1;
+            --end;
+        }
     }
 
     return 0;
 }
 
-int n_split_search(const std::vector<int>& list, int x, int splits) {
+int n_split_search(const std::vector<int>& list, int x, int n) {
     int start = 0;
     int end   = list.size() - 1; 
 
     while (start <= end) {
-        const int factor = (end - start) / splits;
-        // Check with all splits is there x is there
-        // If no find in which split x is and
-        // set start and end
+        const int split = (end - start) / n;
 
-        for (int i = 1;  i < splits; ++i) {
-            if (x == list[i * factor + start])
-                return i * factor + start + 1;
-        }
+        for (int i = 0; i < n; ++i)
+            if (x == list[start + i * split])
+                return start + i * split + 1;
+        if (x == list[end])
+            return end + 1;
 
-        if (x < list[factor + start]) {
-            end = factor + start - 1;
-        } else if (x > list[(splits - 1) * factor + start]) {
-            start = (splits - 1) * factor + start + 1;
+        if (x > list[start + (n - 1) * split]) {
+            start += (n - 1) * split + 1;
+            --end;
         } else {
-            for (int i = 1; i < splits - 1; ++i) {
-                if (x < list[(i + 1) * factor + start]) {
-                    start = i * factor + start + 1;
-                    end   = (i + 1) * factor + start - 1;
-                    break;
+            for (int i = 1; i < n; ++i) {
+                if (x < list[start + i * split]) {
+                    end = start + i * split - 1;
+                    start += (i - 1) * split + 1;
                 }
             }
         }

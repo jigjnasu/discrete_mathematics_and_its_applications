@@ -22,10 +22,6 @@ namespace discrete_mathematics {
             ~Solution_26();
 
             int search(const std::vector<int>& list, int key) const;
-
-        private:
-            int m_search(const std::vector<int>& list, int key,
-                         int start, int end) const;
         };
     };
 };
