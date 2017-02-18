@@ -47,7 +47,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[17] = &TestSuite::m_test_solution_17;
     m_test_cases_dictionary[25] = &TestSuite::m_test_solution_25;
     m_test_cases_dictionary[26] = &TestSuite::m_test_solution_26;
-    m_test_cases_dictionary[27] = &TestSuite::m_test_solution_27;    
+    m_test_cases_dictionary[27] = &TestSuite::m_test_solution_27;
+    m_test_cases_dictionary[28] = &TestSuite::m_test_solution_28;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -315,6 +316,34 @@ void dc::TestSuite::m_test_solution_26() {
 }
 
 void dc::TestSuite::m_test_solution_27() {
+    utility::maths::Maths<int> maths;
+    utility::algorithms::sort::MergeSort<int> sort;
+
+    const int n = 100;
+    const int min = 1;
+    const int max = 100;
+
+    std::vector<int> list = maths.random_vector(n, min, max);
+    printf("-------------------------------------- List of Random number -------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n-------------------------------------- List of Random number -------------------------\n");
+
+    sort.sort(list);
+
+    printf("----------------------------------------- Sorted List  --------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+
+    discrete_mathematics::chapter_3::Solution_27 solution;
+    const std::map<int, int> modes = solution.mode(list);
+    printf("------------------------------- Highest frequency emement ------------------------------\n");
+    printf("[%d] has [%d] frequency\n", modes.begin()->first, modes.begin()->second);
+    printf("------------------------------- Highest frequency emements ------------------------------\n");
+}
+
+void dc::TestSuite::m_test_solution_28() {
     utility::maths::Maths<int> maths;
     utility::algorithms::sort::MergeSort<int> sort;
 

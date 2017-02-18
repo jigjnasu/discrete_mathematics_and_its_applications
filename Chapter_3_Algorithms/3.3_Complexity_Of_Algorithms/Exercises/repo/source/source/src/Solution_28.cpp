@@ -1,14 +1,14 @@
-#include "Solution_27.h"
+#include "Solution_28.h"
 #include <stack>
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;
 
-dc::Solution_27::Solution_27() {}
+dc::Solution_28::Solution_28() {}
 
-dc::Solution_27::~Solution_27() {}
+dc::Solution_28::~Solution_28() {}
 
-std::map<int, int> dc::Solution_27::mode(const std::vector<int>& list) const {
+std::map<int, int> dc::Solution_28::mode(const std::vector<int>& list) const {
     std::map<int, int> modes;
     int max_frequency = 0;
 
@@ -27,6 +27,12 @@ std::map<int, int> dc::Solution_27::mode(const std::vector<int>& list) const {
     }
 
     std::map<int, int> result;
-    result.insert(std::make_pair(modes.rbegin()->first, modes.rbegin()->second));
+    for (std::map<int, int>::const_reverse_iterator it = modes.rbegin();
+         it != modes.rend(); ++it)
+         if (max_frequency == it->second)
+             result.insert(std::make_pair(it->first, it->second));
+         else
+             break;
+             
     return result;
 }
