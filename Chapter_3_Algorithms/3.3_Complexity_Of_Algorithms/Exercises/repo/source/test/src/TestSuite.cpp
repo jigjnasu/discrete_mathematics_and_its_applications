@@ -46,7 +46,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[16] = &TestSuite::m_test_solution_16;
     m_test_cases_dictionary[17] = &TestSuite::m_test_solution_17;
     m_test_cases_dictionary[25] = &TestSuite::m_test_solution_25;
-    m_test_cases_dictionary[26] = &TestSuite::m_test_solution_26;    
+    m_test_cases_dictionary[26] = &TestSuite::m_test_solution_26;
+    m_test_cases_dictionary[27] = &TestSuite::m_test_solution_27;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -311,4 +312,35 @@ void dc::TestSuite::m_test_solution_26() {
     const int key = maths.random(min, max);
     discrete_mathematics::chapter_3::Solution_26 solution;
     printf("key == [%d] found at [%d] location\n", key, solution.search(list, key));
+}
+
+void dc::TestSuite::m_test_solution_27() {
+    utility::maths::Maths<int> maths;
+    utility::algorithms::sort::MergeSort<int> sort;
+
+    const int n = 100;
+    const int min = 1;
+    const int max = 100;
+
+    std::vector<int> list = maths.random_vector(n, min, max);
+    printf("-------------------------------------- List of Random number -------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n-------------------------------------- List of Random number -------------------------\n");
+
+    sort.sort(list);
+
+    printf("----------------------------------------- Sorted List  --------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+
+    discrete_mathematics::chapter_3::Solution_27 solution;
+    const std::map<int, int> modes = solution.mode(list);
+
+    printf("------------------------------- Highest frequency emements ------------------------------\n");
+    for (std::map<int, int>::const_iterator it = modes.begin();
+         it != modes.end(); ++it)
+        printf("[%5d] has [%5d] frequency\n", it->first, it->second);
+    printf("------------------------------- Highest frequency emements ------------------------------\n");
 }
