@@ -2,6 +2,7 @@
 #include "AllHeaders.h"
 #include "Maths.h"
 #include "MergeSort.h"
+#include <string>
 #include <cstdlib>
 #include <cstdio>
 
@@ -52,7 +53,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[29] = &TestSuite::m_test_solution_29;
     m_test_cases_dictionary[30] = &TestSuite::m_test_solution_30;
     m_test_cases_dictionary[31] = &TestSuite::m_test_solution_31;
-    m_test_cases_dictionary[32] = &TestSuite::m_test_solution_32;    
+    m_test_cases_dictionary[32] = &TestSuite::m_test_solution_32;
+    m_test_cases_dictionary[33] = &TestSuite::m_test_solution_33;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -442,4 +444,26 @@ void dc::TestSuite::m_test_solution_32() {
 
     discrete_mathematics::chapter_3::Solution_32 solution;
     solution.frequency(list);
+}
+
+
+void dc::TestSuite::m_test_solution_33() {
+    discrete_mathematics::chapter_3::Solution_33 solution;
+    const std::string input1 = "0.5 is my janu";
+    if (solution.is_palindrome(input1))
+        printf("[%s] is a palindrome\n", input1.c_str());
+    else
+        printf("[%s] is a NOT palindrome\n", input1.c_str());
+
+    const std::string input2 = "madam";
+    if (solution.is_palindrome(input2))
+        printf("[%s] is a palindrome\n", input2.c_str());
+    else
+        printf("[%s] is a NOT palindrome\n", input2.c_str());
+
+    const std::string input3 = "hansraj model school";
+    if (solution.is_palindrome(input3))
+        printf("[%s] is a palindrome\n", input3.c_str());
+    else
+        printf("[%s] is a NOT palindrome\n", input3.c_str());        
 }
