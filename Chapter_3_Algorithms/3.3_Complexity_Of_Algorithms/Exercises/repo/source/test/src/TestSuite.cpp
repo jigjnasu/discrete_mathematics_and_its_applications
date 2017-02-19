@@ -55,7 +55,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[31] = &TestSuite::m_test_solution_31;
     m_test_cases_dictionary[32] = &TestSuite::m_test_solution_32;
     m_test_cases_dictionary[33] = &TestSuite::m_test_solution_33;
-    m_test_cases_dictionary[34] = &TestSuite::m_test_solution_34;    
+    m_test_cases_dictionary[34] = &TestSuite::m_test_solution_34;
+    m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -488,4 +489,25 @@ void dc::TestSuite::m_test_solution_34() {
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
     printf("\n----------------------------- After Selection Sort ----------------------------------\n");    
+}
+
+void dc::TestSuite::m_test_solution_35() {
+    utility::maths::Maths<int> maths;
+    int n = 100;
+    int min = 1;
+    int max = 100;
+
+    std::vector<int> list = maths.random_vector(n, min, max);
+    printf("----------------------------- Before Binary Insertion Sort ----------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n----------------------------- Before Binary Insertion Sort ----------------------------------\n");
+
+    discrete_mathematics::chapter_3::Solution_35 solution;
+    solution.sort(list);
+
+    printf("----------------------------- After Binary Insertion Sort ----------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n----------------------------- After Binary Insertion Sort ----------------------------------\n");
 }
