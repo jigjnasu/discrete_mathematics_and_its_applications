@@ -52,6 +52,7 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[29] = &TestSuite::m_test_solution_29;
     m_test_cases_dictionary[30] = &TestSuite::m_test_solution_30;
     m_test_cases_dictionary[31] = &TestSuite::m_test_solution_31;
+    m_test_cases_dictionary[32] = &TestSuite::m_test_solution_32;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -425,4 +426,20 @@ void dc::TestSuite::m_test_solution_31() {
 
     discrete_mathematics::chapter_3::Solution_31 solution;
     solution.less_than_next(list);
+}
+
+void dc::TestSuite::m_test_solution_32() {
+    utility::maths::Maths<int> maths;
+    int n = 100;
+    int min = 1;
+    int max = 100;
+
+    const std::vector<int> list = maths.random_vector(n, min, max);
+    printf("------------------------------------------------ List ----------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n------------------------------------------------ List ----------------------------------\n");
+
+    discrete_mathematics::chapter_3::Solution_32 solution;
+    solution.frequency(list);
 }
