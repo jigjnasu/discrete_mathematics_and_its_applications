@@ -362,4 +362,4 @@ If we can calculate 12(cents) coin before any of the lower denomination, we can'
 
 
 ![problem 59](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_59.jpg)
-###Solution
+##Just a test
