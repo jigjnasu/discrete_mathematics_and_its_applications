@@ -14,13 +14,12 @@ std::map<int, int> dc::Solution_36::change(int money) const {
     int i = 0;
     
     while (money) {
-        int count = 0;
-        while (money >= denominations[i]) {
-            money -= denominations[i];
-            ++count;
+        if (money >= denominations[i]) {
+            const int count = money / denominations[i];
+            money -= count * denominations[i];
+            change.insert(std::make_pair(denominations[i], count));            
         }
-
-        change.insert(std::make_pair(denominations[i], count));
+        
         ++i;
     }
 
