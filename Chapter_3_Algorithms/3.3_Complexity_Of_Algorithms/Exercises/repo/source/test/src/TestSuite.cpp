@@ -48,7 +48,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[25] = &TestSuite::m_test_solution_25;
     m_test_cases_dictionary[26] = &TestSuite::m_test_solution_26;
     m_test_cases_dictionary[27] = &TestSuite::m_test_solution_27;
-    m_test_cases_dictionary[28] = &TestSuite::m_test_solution_28;    
+    m_test_cases_dictionary[28] = &TestSuite::m_test_solution_28;
+    m_test_cases_dictionary[29] = &TestSuite::m_test_solution_29;
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -372,4 +373,20 @@ void dc::TestSuite::m_test_solution_28() {
          it != modes.end(); ++it)
         printf("[%5d] has [%5d] frequency\n", it->first, it->second);
     printf("------------------------------- Highest frequency emements ------------------------------\n");
+}
+
+void dc::TestSuite::m_test_solution_29() {
+    utility::maths::Maths<int> maths;
+    int n = 100;
+    int min = 1;
+    int max = 100;
+
+    const std::vector<int> list = maths.random_vector(n, min, max);
+    printf("------------------------------------------------ List ----------------------------------\n");
+    for (std::size_t i = 0; i < list.size(); ++i)
+        printf("%d ", list[i]);
+    printf("\n------------------------------------------------ List ----------------------------------\n");
+
+    discrete_mathematics::chapter_3::Solution_29 solution;
+    solution.previous_sum(list);
 }
