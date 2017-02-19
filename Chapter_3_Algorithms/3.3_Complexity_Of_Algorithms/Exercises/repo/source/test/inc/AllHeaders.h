@@ -29,5 +29,6 @@
 #include "Solution_33.h"
 #include "Solution_34.h"
 #include "Solution_35.h"
+#include "Solution_36.h"
 
 #endif // DISCRETE_MATHEMATICS_CHAPTER_3_COMPLEXITY_OF_ALGORITHMS_ALL_HEADERS_H_

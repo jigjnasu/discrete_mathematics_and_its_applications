@@ -29,15 +29,15 @@ void dc::TestSuite::run_all() {
 }
 
 void dc::TestSuite::m_initialize_test_cases_dictionary() {
-    m_test_cases_dictionary[1] = &TestSuite::m_test_solution_1;
-    m_test_cases_dictionary[2] = &TestSuite::m_test_solution_2;
-    m_test_cases_dictionary[3] = &TestSuite::m_test_solution_3;
-    m_test_cases_dictionary[4] = &TestSuite::m_test_solution_4;
-    m_test_cases_dictionary[5] = &TestSuite::m_test_solution_5;
-    m_test_cases_dictionary[6] = &TestSuite::m_test_solution_6;
-    m_test_cases_dictionary[7] = &TestSuite::m_test_solution_7;
-    m_test_cases_dictionary[8] = &TestSuite::m_test_solution_8;
-    m_test_cases_dictionary[9] = &TestSuite::m_test_solution_9;
+    m_test_cases_dictionary[1]  = &TestSuite::m_test_solution_1;
+    m_test_cases_dictionary[2]  = &TestSuite::m_test_solution_2;
+    m_test_cases_dictionary[3]  = &TestSuite::m_test_solution_3;
+    m_test_cases_dictionary[4]  = &TestSuite::m_test_solution_4;
+    m_test_cases_dictionary[5]  = &TestSuite::m_test_solution_5;
+    m_test_cases_dictionary[6]  = &TestSuite::m_test_solution_6;
+    m_test_cases_dictionary[7]  = &TestSuite::m_test_solution_7;
+    m_test_cases_dictionary[8]  = &TestSuite::m_test_solution_8;
+    m_test_cases_dictionary[9]  = &TestSuite::m_test_solution_9;
     m_test_cases_dictionary[10] = &TestSuite::m_test_solution_10;
     m_test_cases_dictionary[11] = &TestSuite::m_test_solution_11;
     m_test_cases_dictionary[12] = &TestSuite::m_test_solution_12;
@@ -56,7 +56,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[32] = &TestSuite::m_test_solution_32;
     m_test_cases_dictionary[33] = &TestSuite::m_test_solution_33;
     m_test_cases_dictionary[34] = &TestSuite::m_test_solution_34;
-    m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;    
+    m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;
+    m_test_cases_dictionary[36] = &TestSuite::m_test_solution_36;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -510,4 +511,15 @@ void dc::TestSuite::m_test_solution_35() {
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
     printf("\n----------------------------- After Binary Insertion Sort ----------------------------------\n");
+}
+
+void dc::TestSuite::m_test_solution_36() {
+    const int money = 290;
+    discrete_mathematics::chapter_3::Solution_36 solution;
+
+    printf("Change for [%d] as follows:--\n", money);
+    const std::map<int, int> change = solution.change(money);
+    for (std::map<int, int>::const_iterator it = change.begin();
+         it != change.end(); ++it)
+        printf("[%5d] == [%5d] coins == [%5d]\n", it->first, it->second, it->first * it->second);
 }
