@@ -24,6 +24,7 @@ namespace discrete_mathematics {
             void sort(std::vector<int>& list) const;
 
         private:
+            int m_pos(const std::vector<int>& list, int end, int key) const;
             void m_swap(int& a, int& b) const;
         };
     };
