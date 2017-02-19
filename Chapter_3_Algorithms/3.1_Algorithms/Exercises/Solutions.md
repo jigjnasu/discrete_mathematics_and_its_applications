@@ -363,26 +363,3 @@ If we can calculate 12(cents) coin before any of the lower denomination, we can'
 
 ![problem 59](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/problem_59.jpg)
 ###Solution
-[Time (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/Time.h)
-
-[Time (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/Time.cpp)
-
-[Meeting (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/Meeting.h)
-
-[Meeting (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/Meeting.cpp)
-
-[HallManager (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/HallManager.h)
-
-[HallManager (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/HallManager.cpp)
-
-[Main (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/source/solution_59/Main.cpp)
-
-###Solution a)
-![solution 59](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_59_a.jpg)
-
-###Solution b)
-
-If we have less halls let's just 2 in this above example, we can't book all the meeting rooms.
-In that case we can't schedule all meetings and we need to drop some.
-See the result if the meeting halls are only 2.
-![solution 59](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Exercises/repo/images/solution_59_b.jpg)
