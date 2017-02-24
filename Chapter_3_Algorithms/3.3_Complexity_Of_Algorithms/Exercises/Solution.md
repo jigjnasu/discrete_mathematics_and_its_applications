@@ -421,6 +421,8 @@ Yes it is a optimal soltution.
 
 [Main (.cpp)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/solution_38/Main.cpp)
 
+###Time Compexity Calculation
 ![solution 38](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_38.jpg)
 
-
+###Output
+![output 38](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/output_38.jpg)
