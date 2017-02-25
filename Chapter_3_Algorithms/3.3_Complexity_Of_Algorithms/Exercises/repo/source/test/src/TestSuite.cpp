@@ -57,7 +57,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[33] = &TestSuite::m_test_solution_33;
     m_test_cases_dictionary[34] = &TestSuite::m_test_solution_34;
     m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;
-    m_test_cases_dictionary[36] = &TestSuite::m_test_solution_36;    
+    m_test_cases_dictionary[36] = &TestSuite::m_test_solution_36;
+    m_test_cases_dictionary[42] = &TestSuite::m_test_solution_42;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -522,4 +523,9 @@ void dc::TestSuite::m_test_solution_36() {
     for (std::map<int, int>::const_iterator it = change.begin();
          it != change.end(); ++it)
         printf("[%5d] == [%5d] coins == [%5d]\n", it->first, it->second, it->first * it->second);
+}
+
+void dc::TestSuite::m_test_solution_42() {
+    discrete_mathematics::chapter_3::Solution_42 solution;
+    solution.upper_triangular();
 }
