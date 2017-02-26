@@ -38,28 +38,20 @@ template <int size>
 void ds::Solution_42::m_matrix_multiply(const int (&A)[size][size],
                                         const int (&B)[size][size],
                                         int (&C)[size][size]) const {
-    for (int r = 0; r < size; ++r) {
-        for (int c = 0; c < size; ++c) {
-            int value = 0;
+    for (int r = 0; r < size; ++r)
+        for (int c = 0; c < size; ++c)
             for (int k = 0; k < size; ++k)
-                value += A[r][k] * B[k][c];
-            C[r][c] = value;
-        }
-    }
+                C[r][c] += A[r][k] * B[k][c];
 }
-
+    
 template <int size>
 void ds::Solution_42::m_upper_multiply(const int (&A)[size][size],
                                        const int (&B)[size][size],
                                        int (&C)[size][size]) const {
-    for (int r = 0; r < size; ++r) {
-        for (int c = 0; c < size; ++c) {
-            int value = 0;
+    for (int r = 0; r < size; ++r)
+        for (int c = 0; c < size; ++c)
             for (int k = 0; k <= c; ++k)
-                value += A[r][k] * B[k][c];
-            C[r][c] = value;
-        }
-    }
+                C[r][c] += A[r][k] * B[k][c];
 }
 
 template <int size>
