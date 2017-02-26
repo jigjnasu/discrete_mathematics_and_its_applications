@@ -505,5 +505,12 @@ Yes it is a optimal soltution.
 
 [Solution_46 (.cpp)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/src/Solution_46.cpp)
 
+###Solution c)
+Let's calculate the time complexity.
+1. First loop will run n - m + 1 times.
+2. The first if condition will run n - m times, in worst case.
+3. The for loop inside the match function will run, m times.
+4. The condition inside the match function will have m - 1 worst case.
+5. Total (n - m + 1).(n - m + (m) + m - 1)
+6. (n - m).m = O(nm - m^2).
 
-![solution 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_46.jpg)
