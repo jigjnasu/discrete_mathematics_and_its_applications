@@ -553,5 +553,9 @@ void dc::TestSuite::m_test_solution_46() {
 
     const std::string target5 = "HansrajM";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
-           target5.c_str(), solution.pos(str, target5), str.c_str());        
+           target5.c_str(), solution.pos(str, target5), str.c_str());
+
+    const std::string target6 = "2611";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target6.c_str(), solution.pos(str, target6), str.c_str());            
 }

@@ -488,3 +488,15 @@ Yes it is a optimal soltution.
 ###Solution
 
 ![solution 45](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_45.jpg)
+
+
+![problem 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_46.jpg)
+###Solution
+
+###Solution a)
+1. Iterate through 1 to n - m.
+2. Compare str[i] to target[0].
+3. If found, compare target with str starting at ith location. If not found there is no match.
+4. If not found in the whole string, there is no match.
+
+![solution 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_46.jpg)
