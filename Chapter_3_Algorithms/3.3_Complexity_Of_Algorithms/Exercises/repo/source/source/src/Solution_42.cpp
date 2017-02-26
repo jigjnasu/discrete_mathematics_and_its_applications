@@ -8,7 +8,7 @@ ds::Solution_42::Solution_42() {}
 ds::Solution_42::~Solution_42() {}
 
 void ds::Solution_42::upper_triangular() const {
-    const int size = 2;
+    const int size = 5;
     
     int matrix[size][size] = {0};
     m_build_matrix<size>(matrix);
