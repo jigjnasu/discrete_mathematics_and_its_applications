@@ -58,7 +58,8 @@ namespace discrete_mathematics {
             void m_test_solution_34();
             void m_test_solution_35();
             void m_test_solution_36();
-            void m_test_solution_42();            
+            void m_test_solution_42();
+            void m_test_solution_46();            
         };
     };
 };

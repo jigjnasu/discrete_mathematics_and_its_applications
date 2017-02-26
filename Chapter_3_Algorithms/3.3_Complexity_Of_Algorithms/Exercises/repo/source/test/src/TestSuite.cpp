@@ -58,7 +58,8 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[34] = &TestSuite::m_test_solution_34;
     m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;
     m_test_cases_dictionary[36] = &TestSuite::m_test_solution_36;
-    m_test_cases_dictionary[42] = &TestSuite::m_test_solution_42;    
+    m_test_cases_dictionary[42] = &TestSuite::m_test_solution_42;
+    m_test_cases_dictionary[46] = &TestSuite::m_test_solution_46;    
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -528,4 +529,29 @@ void dc::TestSuite::m_test_solution_36() {
 void dc::TestSuite::m_test_solution_42() {
     discrete_mathematics::chapter_3::Solution_42 solution;
     solution.upper_triangular();
+}
+
+void dc::TestSuite::m_test_solution_46() {
+    discrete_mathematics::chapter_3::Solution_46 solution;
+
+    const std::string str = "Hansraj Model School, Punjabi Bagh, New Delhi - 110026";
+    const std::string target1 = "Rakesh";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target1.c_str(), solution.pos(str, target1), str.c_str());
+    
+    const std::string target2 = "Model";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target2.c_str(), solution.pos(str, target2), str.c_str());
+
+    const std::string target3 = "11000";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target3.c_str(), solution.pos(str, target3), str.c_str());    
+
+    const std::string target4 = "1100";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target4.c_str(), solution.pos(str, target4), str.c_str());
+
+    const std::string target5 = "HansrajM";
+    printf("Target == [%10s] found at [%2d] position in [%s]\n",
+           target5.c_str(), solution.pos(str, target5), str.c_str());        
 }
