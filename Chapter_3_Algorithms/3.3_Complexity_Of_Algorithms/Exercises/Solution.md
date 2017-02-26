@@ -452,6 +452,12 @@ Yes it is a optimal soltution.
 ![solution d](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_40_d.jpg)
 
 
+![problem 41](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_41.jpg)
+###Solution
+
+![solution 41](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_41.jpg)
+
+
 ![problem 42](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/problem_42.jpg)
 ###Solution
 
