@@ -499,4 +499,11 @@ Yes it is a optimal soltution.
 3. If found, compare target with str starting at ith location. If not found there is no match.
 4. If not found in the whole string, there is no match.
 
+###Solution b)
+
+[Solution_46 (.h)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/solution_38/Solution_46.h)
+
+[Solution_46 (.cpp)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/source/source/solution_38/Solution_46.cpp)
+
+
 ![solution 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.3_Complexity_Of_Algorithms/Exercises/repo/images/solution_46.jpg)
