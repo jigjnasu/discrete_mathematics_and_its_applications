@@ -1,3 +1,11 @@
+/*
+  Discrete Mathematics and It's Applications.
+  By: Kneeth H Rosen
+  Algorithm 3, Chapter 4.2
+  Author: Rakesh Kumar, cpp.rakesh@gmail.com
+  Date: March 7th, 2017
+ */
+
 #include <cstdio>
 #include <string>
 #include <cstdlib>

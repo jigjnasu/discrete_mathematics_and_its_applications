@@ -29,3 +29,9 @@
 
 ###Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Algorithms/repo/output_3.jpg)
+
+
+![Algorithm 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Algorithms/repo/algorithm_5.jpg)
+
+###Source Code
+[Algorithm 5 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Algorithms/repo/algorithm_5.cpp)
