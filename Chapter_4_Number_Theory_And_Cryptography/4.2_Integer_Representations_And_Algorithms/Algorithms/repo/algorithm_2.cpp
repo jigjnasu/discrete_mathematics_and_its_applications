@@ -80,7 +80,10 @@ std::string add(const std::string& a, const std::string& b) {
         s.push_back((n_b + c - 2 * d) + '0');
         c = d;
         ++j;
-    }    
+    }
+
+    if (c)
+        s.push_back('1');
 
     return s;
 }
