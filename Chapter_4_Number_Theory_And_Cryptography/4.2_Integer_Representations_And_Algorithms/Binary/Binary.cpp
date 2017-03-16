@@ -162,7 +162,40 @@ void dc::Binary::operator += (const dc::Binary& rhs) {
 }
 
 void dc::Binary::operator -= (const dc::Binary& rhs) {
+    const dc::Binary a = m_max(*this, rhs);
+    const dc::Binary b = m_min(*this, rhs);
+    dc::Binary c;
+
+    int borrow = 0;
+    std::size_t i = 0;
+    while (i < b.m_data.size()) {
+        const int d_a = a.m_data[i] - '0';
+        const int d_b = b.m_data[i] - '0';
+        
+        if (d_a - borrow >= d_b) {
+            c.m_data.push_back((d_a - borrow - d_b) + '0');
+            borrow = 0;
+        } else {
+            c.m_data.push_back((d_a + 2 - borrow - d_b) + '0');
+            borrow = 1;
+        }
+        ++i;
+    }
+
+    while (i < a.m_data.size() && a.m_data[i] == '0' && borrow) {
+        c.m_data.push_back('1');
+        ++i;
+    }
+
+    if (i < a.m_data.size() && borrow) {
+        c.m_data.push_back('0');
+        ++i;
+    }
+
+    while (i < a.m_data.size())
+        c.m_data.push_back(a.m_data[i++]);
     
+    *this = c;
 }
 
 void dc::Binary::operator *= (const dc::Binary& rhs) {
