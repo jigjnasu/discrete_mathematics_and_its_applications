@@ -125,10 +125,10 @@ void test_compare() {
 }
 
 int main() {
-    //test_add();
+    test_add();
     test_subtract();
-    //test_multiplay();
-    //test_compare();
+    test_multiplay();
+    test_compare();
 
     return 0;
 }
