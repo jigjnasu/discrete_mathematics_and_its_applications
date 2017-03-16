@@ -35,3 +35,13 @@
 
 ###Source Code
 [Algorithm 5 (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/tree/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Algorithms/repo/algorithm_5.cpp)
+
+###Binary
+#####This class has binary implementation for binary number addition, subraction, multiplication and comparisions.
+
+[binary 5 (.h)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Binary.h)
+
+[Binary (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Binary.cpp)
+
+[Main (.cpp)](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Main.cpp)
+
