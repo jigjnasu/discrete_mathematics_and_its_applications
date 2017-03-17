@@ -1,7 +1,7 @@
 /*
   Discrete Mathematics and it's Applications
   By Rosen H Kneeth
-  Solution for problem 1, 4.2 chapter Primes and Greatest Common Divisors.
+  It will have a brute force attack for finding whether, a number is prime or not.
   Author: Rakesh Kumar, cpp.rakesh(at)gmail.com
   Date: March, 18th, 2017
  */
