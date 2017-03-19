@@ -79,3 +79,10 @@ It has 24 leading zeros
 
 ### Solution
 ![Solution 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_12.jpg)
+
+
+![Problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_13.jpg)
+
+###Solution
+Well if p = 3, then p + 2 = 5 and p + 4 = 7 all are prime numbers.
+I reckon this is the only example we have.
