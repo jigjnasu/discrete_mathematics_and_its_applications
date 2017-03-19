@@ -1,5 +1,26 @@
 #include <cstdio>
+#include <cmath>
 #include <vector>
+
+bool is_prime(int n) {
+    for (int i = 2; i <= std::sqrt(i); ++i)
+        if (n % i == 0)
+            return false;
+    
+    return true;
+}
+
+int power(int x, int y) {
+    if (y == 1) {
+        return x;
+    } else {
+        const int t = power(x, y / 2);
+        if (y % 2)
+            return x * t * t;
+        else
+            return t * t;
+    }
+}
 
 std::vector<int> phi(int n) {
     std::vector<int> sieve;
@@ -58,8 +79,24 @@ void test_solution_18_a() {
         test_perfect_number(input[i]);
 }
 
+void test_solution_18_b() {
+    for (int p = 2; p <= 10; ++p) {
+        printf("-----------------------------------------------------\n");
+        const int pow = power(2, p);
+        if (is_prime(pow - 1)) {
+            printf("(2 ^ [%d] - 1) == [%d] is a prime number\n", p, pow - 1);
+            const int n = (pow / 2) * (pow - 1);
+            if (is_perfect(n, factors(n, phi(n)))) {
+                printf("[%d] is a perfect number with factors\n", n);
+            }
+        }
+        printf("-----------------------------------------------------\n");
+    }
+}
+
 int main() {
-    test_solution_18_a();
+    //test_solution_18_a();
+    test_solution_18_b();
 
     return 0;
 }
