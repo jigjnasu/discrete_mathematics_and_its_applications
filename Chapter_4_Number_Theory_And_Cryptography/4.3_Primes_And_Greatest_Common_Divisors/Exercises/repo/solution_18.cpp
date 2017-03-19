@@ -3,7 +3,7 @@
 #include <vector>
 
 bool is_prime(int n) {
-    for (int i = 2; i <= std::sqrt(i); ++i)
+    for (int i = 2; i <= std::sqrt(n); ++i)
         if (n % i == 0)
             return false;
     
@@ -80,17 +80,17 @@ void test_solution_18_a() {
 }
 
 void test_solution_18_b() {
-    for (int p = 2; p <= 10; ++p) {
-        printf("-----------------------------------------------------\n");
+    for (int p = 2; p <= 15; ++p) {
         const int pow = power(2, p);
         if (is_prime(pow - 1)) {
+            printf("-----------------------------------------------------\n");
             printf("(2 ^ [%d] - 1) == [%d] is a prime number\n", p, pow - 1);
             const int n = (pow / 2) * (pow - 1);
             if (is_perfect(n, factors(n, phi(n)))) {
                 printf("[%d] is a perfect number with factors\n", n);
             }
+            printf("-----------------------------------------------------\n");
         }
-        printf("-----------------------------------------------------\n");
     }
 }
 
