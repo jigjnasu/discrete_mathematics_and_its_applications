@@ -135,6 +135,11 @@ I reckon this is the only example we have.
 ### Output
 ![Output 18](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/output_18_b.jpg)
 
+![Problem 19](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_19.jpg)
+
+### Solution
+![Output 19](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_19.jpg)
+
 
 ![Problem 20](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_20.jpg)
 
