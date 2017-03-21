@@ -202,3 +202,9 @@ I reckon this is the only example we have.
 
 ### Solution
 ![ 29](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_29.jpg)
+
+
+![Problem 30](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_30.jpg)
+
+### Solution
+![ 30](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_30.jpg)
