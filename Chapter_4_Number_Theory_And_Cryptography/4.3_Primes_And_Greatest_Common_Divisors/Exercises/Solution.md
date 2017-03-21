@@ -223,3 +223,12 @@ I reckon this is the only example we have.
 
 ### Output
 ![output 32](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/output_32.jpg)
+
+
+![Problem 33](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_33.jpg)
+
+### Solution
+![solution 33](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_32.jpg)
+
+### Output
+![output 33](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/output_33.jpg)
