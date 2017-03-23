@@ -1,0 +1,38 @@
+#include <cstdio>
+#include <map>
+
+int min(int x, int y) {
+    return x < y ? x : y;
+}
+
+int max(int x, int y) {
+    return x > y ? x : y;
+}
+
+void gcd(int x, int y) {
+    printf("------------------------------------------------\n");
+    printf("GCD as a linear comibnation of [%d] and [%d]\n", x, y);
+    while (y != 0) {
+        printf("[%6d] == [%6d] X [%6d] + [%6d]\n",
+               x, y, x / y, x % y);
+        const int t = x;
+        x = y;
+        y = t % y;
+    }
+    printf("------------------------------------------------\n");
+}
+
+void test_solution_39() {
+    const std::map<int, int> input = {{10, 11}, {21, 44}, {36, 48},
+                                      {34, 55}, {117, 213}, {0, 223},
+                                      {123, 2347}, {3454, 4666}, {9999, 11111}};
+    for (std::map<int, int>::const_iterator it = input.begin();
+         it != input.end(); ++it)
+        gcd(max(it->first, it->second), min(it->first, it->second));
+}
+
+int main() {
+    test_solution_39();
+
+    return 0;
+}
