@@ -31,8 +31,18 @@ void test_solution_39() {
         gcd(max(it->first, it->second), min(it->first, it->second));
 }
 
+void test_solution_40() {
+    const std::map<int, int> input = {{9, 11}, {33, 44}, {35, 78},
+                                      {21, 55}, {101, 203}, {124, 323},
+                                      {2002, 2339}, {3457, 4669}, {10001, 13422}};
+    for (std::map<int, int>::const_iterator it = input.begin();
+         it != input.end(); ++it)
+        gcd(max(it->first, it->second), min(it->first, it->second));
+}
+
 int main() {
-    test_solution_39();
+    //test_solution_39();
+    test_solution_40();
 
     return 0;
 }
