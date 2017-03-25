@@ -49,11 +49,16 @@ void test_solution_42() {
     printf("gcd(252, 356) == [%d]\n", gcd(252, 356));
 }
 
+void test_solution_43() {
+    printf("gcd(144, 89) == [%d]\n", gcd(144, 89));
+}
+
 int main() {
     //test_solution_39();
     //test_solution_40();
     //test_solution_41();
-    test_solution_42();
+    //test_solution_42();
+    test_solution_43();
 
     return 0;
 }
