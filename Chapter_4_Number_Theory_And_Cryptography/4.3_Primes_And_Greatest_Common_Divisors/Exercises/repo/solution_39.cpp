@@ -9,7 +9,7 @@ int max(int x, int y) {
     return x > y ? x : y;
 }
 
-void gcd(int x, int y) {
+int gcd(int x, int y) {
     printf("------------------------------------------------\n");
     printf("GCD as a linear comibnation of [%d] and [%d]\n", x, y);
     while (y != 0) {
@@ -20,6 +20,7 @@ void gcd(int x, int y) {
         y = t % y;
     }
     printf("------------------------------------------------\n");
+    return x;
 }
 
 void test_solution_39() {
@@ -40,9 +41,14 @@ void test_solution_40() {
         gcd(max(it->first, it->second), min(it->first, it->second));
 }
 
+void test_solution_41() {
+    printf("gcd(26, 91) == [%d]\n", gcd(26, 91));
+}
+
 int main() {
     //test_solution_39();
-    test_solution_40();
+    //test_solution_40();
+    test_solution_41();
 
     return 0;
 }
