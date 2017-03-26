@@ -357,3 +357,12 @@ I reckon this is the only example we have.
 
 ### Solution
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_49.jpg)
+
+
+![Problem 51](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/problem_51.jpg)
+
+### Solution
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_51.jpg)
+
+###Output
+![Output 51](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.3_Primes_And_Greatest_Common_Divisors/Exercises/repo/solution_51.jpg)
