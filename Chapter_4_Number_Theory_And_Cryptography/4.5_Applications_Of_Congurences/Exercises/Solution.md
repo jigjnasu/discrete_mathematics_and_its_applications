@@ -85,3 +85,18 @@ Example 4th cat, mod = 7, however, it was occupied next one 8 is also occupied, 
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/output_6.jpg)
+
+
+
+![Problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_7.jpg)
+
+#### Solution
+
+[PseudoRandom.h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/PseudoRandom.h)
+
+[PseudoRandom.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/PseudoRandom.cpp)
+
+[problem_7.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_7.cpp)
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/output_7.jpg)
