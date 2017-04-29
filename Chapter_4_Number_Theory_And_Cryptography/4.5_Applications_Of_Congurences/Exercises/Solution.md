@@ -186,3 +186,12 @@ Example 4th cat, mod = 7, however, it was occupied next one 8 is also occupied, 
 
 #### Solution
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/solution_16.jpg)
+
+
+![Problem 17](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_17.jpg)
+
+#### Solution
+[problem_17.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_17.cpp)
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/output_17.jpg)
