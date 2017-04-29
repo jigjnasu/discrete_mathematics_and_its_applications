@@ -7,6 +7,8 @@ discrete_mathematics::chapter_4::Hash::Hash(int m) : m_mod(m) {
         m_memory.push_back(0);
 }
 
+discrete_mathematics::chapter_4::Hash::~Hash() {}
+
 int discrete_mathematics::chapter_4::Hash::location(int key) {
     int i = 0;
     while (m_memory[(key + i) % m_mod] != 0)

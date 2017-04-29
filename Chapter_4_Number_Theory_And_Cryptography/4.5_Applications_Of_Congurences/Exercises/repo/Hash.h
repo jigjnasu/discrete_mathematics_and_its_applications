@@ -17,6 +17,7 @@ namespace discrete_mathematics {
         public:
             Hash();
             Hash(int m);
+            ~Hash();
 
             int location(int key);
 
