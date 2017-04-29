@@ -13,3 +13,4 @@ std::vector<int> discrete_mathematics::chapter_4::PseudoRandom::generate(int m, 
 
     return numbers;
 }
+
