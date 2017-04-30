@@ -321,3 +321,15 @@ However, it is hard to detect which digits has swapped.
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/output_33.jpg)
+
+
+![Problem 34](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_34.jpg)
+
+#### Solution
+We can detect if there is an error digit by checking check digit.
+
+
+![Problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.5_Applications_Of_Congurences/Exercises/repo/problem_35.jpg)
+
+#### Solution
+Yes we can always check digit swapping if it happens while transporting.
