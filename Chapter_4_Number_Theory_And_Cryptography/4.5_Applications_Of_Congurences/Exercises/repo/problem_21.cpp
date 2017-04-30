@@ -15,7 +15,7 @@ void find(const std::string& usps) {
     int t = usps[i] - '0' - check;
     t = (-1 * ((t / 9) - 1)) * 9;
     t = (t + usps[i] - '0' - check) % 9;
-    printf("USPS == [%s] || Linear congurence Q + %2d == %d\n",
+    printf("USPS == [%s] || Linear congurence Q + %2d == %d (mod 9)\n",
            usps.c_str(), check, t);
 }
 
