@@ -9,7 +9,10 @@ int upc_check_digit(const std::string& message) {
         else
             check += message[i] - '0';
 
-    return check % 10;
+    if (check % 10 == 0)
+        return 0;
+    else
+        return 10 - (check % 10);
 }
 
 int test(const std::string& message) {
@@ -20,16 +23,16 @@ int main() {
     printf("----------------------------------------\n");
     // problem a)
     const std::string a = "73232184434";
-    printf("UPC [%s] message check digit == [%d]\n", a.c_str(), test(a));
+    printf("UPC [%s] message check digit == [%d] will make sum mod 10\n", a.c_str(), test(a));
 
     const std::string b = "63623991346";
-    printf("UPC [%s] message check digit == [%d]\n", b.c_str(), test(b));
+    printf("UPC [%s] message check digit == [%d] will make sum mod 10\n", b.c_str(), test(b));
 
     const std::string c = "04587320720";
-    printf("UPC [%s] message check digit == [%d]\n", c.c_str(), test(c));
+    printf("UPC [%s] message check digit == [%d] will make sum mod 10\n", c.c_str(), test(c));
 
     const std::string d = "93764323341";
-    printf("UPC [%s] message check digit == [%d]\n", d.c_str(), test(d));    
+    printf("UPC [%s] message check digit == [%d] will make sum mod 10\n", d.c_str(), test(d));    
     printf("----------------------------------------\n");
 
     return 0;
