@@ -1,7 +1,7 @@
 /*
   Discrete Mathematics and It's Applications.
   Chapter 4, Number Theory and Cryptography.
-  4.6 Cryptography Example 1
+  4.6 Cryptography Example 2
   This is one of the first encrypted message, by Julias Cesar
 
   Rakesh Kumar, cpp.rakesh(at)gmail.com
@@ -18,8 +18,8 @@ void print(const std::vector<int>& message) {
 }
 
 void test_caesar_cipher() {
-    discrete_mathematics::chapter_4::CaesarCipher caesar;
-    const std::string message = "MEETYOUINTHEPARK";
+    discrete_mathematics::chapter_4::CaesarCipher caesar(11);
+    const std::string message = "STOPGLOBALWARMING";
     printf("Original  Message == [%s]\n", message.c_str());
     printf("Encrypted Message == ");
     const std::vector<int> encrypted_message = caesar.encrypt(message);
