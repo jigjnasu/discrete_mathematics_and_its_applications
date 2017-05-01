@@ -67,3 +67,20 @@
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_5.jpg)
+
+
+![Problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Number_Theory_And_Cryptography/5.6_Cryptography/Exercises/repo/problem_6.jpg)
+
+#### Solution
+According to the frequency of letters appears normally in the text we can make assumption as follows:--
+1. E with 13 %, X - E, k = 19.
+2. T with  9 %, X - T, k =  4.
+3. A with  8 %, X - A, k = 23.
+4. O with  8 %, X - O, k =  9.
+5. I with  8 %, X - I, k = 15.
+6. N with  7 %, X - N, k = 10.
+7. S with  7 %, X - S, k =  5.
+8. H with  6 %, X - H, k = 16.
+9. R with  6 %, X - R, k =  6.
+
+
