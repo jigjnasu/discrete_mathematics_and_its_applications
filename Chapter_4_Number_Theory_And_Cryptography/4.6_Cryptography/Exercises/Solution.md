@@ -55,7 +55,7 @@
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_4.jpg)
 
 
-![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Number_Theory_And_Cryptography/5.6_Cryptography/Exercises/repo/problem_5.jpg)
+![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_5.jpg)
 
 #### Solution
 
@@ -84,7 +84,7 @@ According to the frequency of letters appears normally in the text we can make a
 9. R with  6 %, X - R, k =  6.
 
 
-![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Number_Theory_And_Cryptography/5.6_Cryptography/Exercises/repo/problem_5.jpg)
+![Problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_7.jpg)
 
 #### Solution
 [problem_7.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_7.cpp)
