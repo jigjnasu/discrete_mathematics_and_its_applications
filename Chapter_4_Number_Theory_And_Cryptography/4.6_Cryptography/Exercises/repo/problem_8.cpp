@@ -22,7 +22,7 @@ std::string decrypt(const std::string& message, int k) {
 }
 
 int main() {
-    const std::string message = "DY CVOOZZOBMRKXMO DY NBOKW";
+    const std::string message = "DVE CFMV KF NFEUVI REU KYRK ZJ KYV JVVU FW JTZVETV";
     for (int i = 1; i < 26; ++i)
         printf("i == [%2d] || message == [%s]\n", i, decrypt(message, i).c_str());
     
