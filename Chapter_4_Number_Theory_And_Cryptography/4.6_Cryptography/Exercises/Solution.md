@@ -126,3 +126,15 @@ ANY SUFFICIENTLY ADVANCED TECHNOLOGY IS INDISTINGUISHABLE FROM MAGIC, k = 4
 For example, cipher function is f(p + k).
 And decipher function is also,  f(p + k).
 Then we will have shift of 2k from the original text. In that case we don't have the key and it's hard to decrypt the message.
+
+
+![Problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_11.jpg)
+
+#### Solution
+[problem_11.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_11.cpp)
+
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/solution_11.jpg)
+
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_11.jpg)
