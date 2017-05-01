@@ -69,7 +69,7 @@
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_5.jpg)
 
 
-![Problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Number_Theory_And_Cryptography/5.6_Cryptography/Exercises/repo/problem_6.jpg)
+![Problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_6.jpg)
 
 #### Solution
 According to the frequency of letters appears normally in the text we can make assumption as follows:--
@@ -91,3 +91,18 @@ According to the frequency of letters appears normally in the text we can make a
 
 #### Output
 TO SLEEP PERCHANCE DREAM, k = 10
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_7.jpg)
+
+
+![Problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_8.jpg)
+
+#### Solution
+[problem_8.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_8.cpp)
+
+#### Output
+MEN LOVE TO WONDER AND THAT IS THE SEED OF SCIENCE, k = 10
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_8.jpg)
