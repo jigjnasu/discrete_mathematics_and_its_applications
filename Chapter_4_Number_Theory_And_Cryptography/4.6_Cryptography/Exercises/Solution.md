@@ -150,3 +150,12 @@ Then we will have shift of 2k from the original text. In that case we don't have
 
 #### Solution
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/solution_13.jpg)
+
+
+![Problem 14](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_14.jpg)
+
+#### Solution
+[problem_14.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_14.cpp)
+
+#### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_14.jpg)
