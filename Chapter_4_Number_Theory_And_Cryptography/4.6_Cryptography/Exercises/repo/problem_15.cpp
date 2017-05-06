@@ -56,7 +56,7 @@ int main() {
     std::string message = "EABW EFRO ATMR ASIN";
     printf("-----------------------------------------------------\n");
     printf("Original Message == [%s]\n", message.c_str());
-    printf("Decrypt  Message == \n");
+    printf("Decrypt  Message == ");
     print(encrypt(message));
     printf("-----------------------------------------------------\n");
 
