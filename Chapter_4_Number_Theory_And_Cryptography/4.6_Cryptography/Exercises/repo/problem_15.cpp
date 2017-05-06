@@ -4,7 +4,7 @@
 
 const int block = 4;
 const char space = ' ';
-const std::vector<int> cipher = {3, 5, 1, 2, 4};
+const std::vector<int> cipher = {3, 1, 4, 2};
 
 void swap(char& a, char& b) {
     const char t = a;
@@ -56,7 +56,8 @@ int main() {
     std::string message = "EABW EFRO ATMR ASIN";
     printf("-----------------------------------------------------\n");
     printf("Original Message == [%s]\n", message.c_str());
-    printf("Decrypt  Message == [%s]\n", encrypt(message).c_str());
+    printf("Decrypt  Message == \n");
+    print(encrypt(message));
     printf("-----------------------------------------------------\n");
 
     return 0;
