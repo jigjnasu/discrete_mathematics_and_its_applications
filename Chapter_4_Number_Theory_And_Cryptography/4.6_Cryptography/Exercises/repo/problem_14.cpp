@@ -2,6 +2,8 @@
 #include <string>
 #include <vector>
 
+const int block = 5;
+const char space = ' ';
 const std::vector<int> cipher = {3, 5, 1, 2, 4};
 
 void swap(char& a, char& b) {
@@ -10,23 +12,41 @@ void swap(char& a, char& b) {
     b = t;
 }
 
-std::string encrypt(const std::string& message) {
+void strip(std::string& message) {
+    for (std::size_t i = 0; i < message.size(); ++i)
+        if (space == message[i])
+            message.erase(message.begin() + i);
+}
+
+void print(const std::string& message) {
+    printf("[%c", message[0]);
+    for (std::size_t i = 1; i < message.size(); ++i) {
+        if (i % block == 0)
+            printf(" %c", message[i]);
+        else
+            printf("%c", message[i]);
+    }
+    
+    printf("]\n");
+}
+
+std::string encrypt(std::string& message) {
+    strip(message);
     std::string msg;
     int i = 0;
 
-    while (i + 5 < message.size()) {
-        for (int j = 0; j < 5; ++j)
+    while (i + block < message.size()) {
+        for (int j = 0; j < block; ++j)
             msg += message[i - 1 + cipher[j]];
-        i += 5;
+        i += block;
     }
 
-    while (i < message.size()) {
-        const int index = i + cipher[i % 5]  - 1;
+    for (int j = 0; j < block; ++j) {
+        const int index = i + (cipher[j]  - 1);
         if (index < message.size())
-            msg += message[i - 1 + cipher[i % 5]];
+            msg += message[index];
         else
             msg += 'X';
-        ++i;
     }
 
     return msg;
@@ -36,7 +56,8 @@ int main() {
     std::string message = "GRIZZLY BEARS";
     printf("-----------------------------------------------------\n");
     printf("Original Message == [%s]\n", message.c_str());
-    printf("Decrypt  Message == [%s]\n", encrypt(message).c_str());
+    printf("Decrypt  Message == ");
+    print(encrypt(message));
     printf("-----------------------------------------------------\n");
 
     return 0;

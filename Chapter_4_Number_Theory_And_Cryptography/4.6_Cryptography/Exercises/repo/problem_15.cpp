@@ -2,8 +2,9 @@
 #include <string>
 #include <vector>
 
+const int block = 4;
 const char space = ' ';
-const std::vector<int> cipher = {3, 1, 4, 2};
+const std::vector<int> cipher = {3, 5, 1, 2, 4};
 
 void swap(char& a, char& b) {
     const char t = a;
@@ -11,29 +12,41 @@ void swap(char& a, char& b) {
     b = t;
 }
 
-std::string encrypt(const std::string& message) {
+void strip(std::string& message) {
+    for (std::size_t i = 0; i < message.size(); ++i)
+        if (space == message[i])
+            message.erase(message.begin() + i);
+}
+
+void print(const std::string& message) {
+    printf("[%c", message[0]);
+    for (std::size_t i = 1; i < message.size(); ++i) {
+        if (i % block == 0)
+            printf(" %c", message[i]);
+        else
+            printf("%c", message[i]);
+    }
+    
+    printf("]\n");
+}
+
+std::string encrypt(std::string& message) {
+    strip(message);
     std::string msg;
     int i = 0;
-    int buffer = 0;
 
-    while (i + 4 < message.size()) {
-        buffer = 0;
-        for (int j = 0; j < 4 + buffer; ++j) {
-            if (message[i + j + buffer] == space)
-                ++buffer;
-            else
-                msg += message[i - 1 + cipher[j - buffer]];
-        }
-        i += 4;
+    while (i + block < message.size()) {
+        for (int j = 0; j < block; ++j)
+            msg += message[i - 1 + cipher[j]];
+        i += block;
     }
 
-    while (i < message.size()) {
-        const int index = i + cipher[i % 4]  - 1;
+    for (int j = 0; j < block; ++j) {
+        const int index = i + (cipher[j]  - 1);
         if (index < message.size())
-            msg += message[i - 1 + cipher[i % 4]];
+            msg += message[index];
         else
             msg += 'X';
-        ++i;
     }
 
     return msg;
