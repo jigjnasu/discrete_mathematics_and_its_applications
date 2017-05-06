@@ -204,3 +204,10 @@ Then we will have shift of 2k from the original text. In that case we don't have
 #### Solution
 1. We can make equations for the frequent letters from the key, if length is known.
 2. Then we can find the multiplicative inverse of it and can check the solutions.
+
+
+![Problem 23](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_23.jpg)
+
+#### Solution
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/solution_23.jpg)
+
