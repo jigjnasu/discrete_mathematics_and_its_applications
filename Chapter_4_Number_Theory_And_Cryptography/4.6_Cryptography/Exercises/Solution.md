@@ -192,3 +192,15 @@ Then we will have shift of 2k from the original text. In that case we don't have
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/output_19.jpg)
+
+
+![Problem 21](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_21.jpg)
+#### Solution
+1. We can think of the key length as the factor of distance between the repeating text.
+2. We can take GCD of it and assume this can be the length of the key.
+
+
+![Problem 22](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_4_Number_Theory_And_Cryptography/4.6_Cryptography/Exercises/repo/problem_22.jpg)
+#### Solution
+1. We can make equations for the frequent letters from the key, if length is known.
+2. Then we can find the multiplicative inverse of it and can check the solutions.
