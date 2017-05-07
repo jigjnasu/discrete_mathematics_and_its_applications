@@ -36,8 +36,6 @@ std::string convert(const std::string& message) {
         }
     }
 
-    printf("msg == [%s]\n", msg.c_str());
-
     return msg;
 }
 
@@ -48,8 +46,6 @@ void encrypt(const std::string& message) {
     const int n = p * q;
     const std::string msg = convert(message);
 
-    printf("msg == [%s]\n", msg.c_str());
-
     std::string cipher;
     for (std::size_t i = 0; i < msg.size(); i += 4) {
         const int x = std::atoi(msg.substr(i, 4).c_str());
@@ -59,8 +55,8 @@ void encrypt(const std::string& message) {
         cipher += r.get();
         cipher += ' ';
     }
-    
-    printf("cipher == [%s]\n", cipher.c_str());
+
+    printf("Encrypted message == [%s]\n", cipher.c_str());
 }
 
 int main() {
