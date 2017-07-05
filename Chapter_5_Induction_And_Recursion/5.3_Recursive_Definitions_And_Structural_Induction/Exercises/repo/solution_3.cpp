@@ -9,20 +9,6 @@
 
 #include <cstdio>
 
-int pow(int x, int y) {
-    if (y == 0) {
-        return 1;
-    } else if (y == 1) {
-        return x;
-    } else {
-        const int t = pow(x, y >> 1);
-        if (y % 2)
-            return x * t * t;
-        else
-            return t * t;
-    }
-}
-
 // Basic     Step f(0)     = -1
 // Basic     Step f(1)     = 2
 // Recursive Step f(n + 1) = f(n) + 3f(n - 1)
