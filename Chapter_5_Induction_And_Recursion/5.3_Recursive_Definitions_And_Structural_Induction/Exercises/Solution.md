@@ -5,3 +5,12 @@
 
 ### Output
 ![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/output_1.jpg)
+
+
+![Problem 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/problem_2.jpg)
+
+### Solution
+[solution_2.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/solution_2.cpp)
+
+### Output
+![Output](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/output_2.jpg)
