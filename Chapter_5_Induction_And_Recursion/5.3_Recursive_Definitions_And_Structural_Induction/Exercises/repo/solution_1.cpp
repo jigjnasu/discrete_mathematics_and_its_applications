@@ -1,3 +1,11 @@
+/*
+  Discrete Mathematics and It's Applications
+  By Kenneth H. Rosen
+  
+  Solution by Rakesh Kumar (cpp.rakesh(at)gmail.com)
+  Date: 06/07/2017
+ */
+
 #include <cstdio>
 
 int pow(int x, int y) {
