@@ -37,4 +37,4 @@
 ![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/problem_5.jpg)
 
 ### Solution
-![solution a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/output_5_a.jpg)
+![solution a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/solution_5_a.jpg)
