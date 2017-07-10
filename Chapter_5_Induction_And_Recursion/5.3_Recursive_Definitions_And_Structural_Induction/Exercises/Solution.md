@@ -102,3 +102,9 @@
 #### Solution
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/solution_12.jpg)
 
+
+![Problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/problem_13.jpg)
+
+#### Solution
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.3_Recursive_Definitions_And_Structural_Induction/Exercises/repo/solution_13.jpg)
+
