@@ -2,7 +2,7 @@
   Discrete Mathematics and Its Applications
   by Dr. Kenneth H. Rosen
   Chapter 5.4 Recursive Algorithms
-  Example 2 (Recursive power)
+  Example 3 (Recursive gcd)
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   16/07/2017
  */
