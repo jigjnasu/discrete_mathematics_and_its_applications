@@ -17,11 +17,21 @@ f(3) = 3 * f(2) = 6
 f(2) = 2 * f(1) = 2  
 f(1) = 1 . 1    = 1
 
-![problem 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_2.jpg)
+![problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_3.jpg)
 
-gcd(8, 13) = gcd(8, 13 mod 8)
-gcd(5, 8) = gcd(5, 8 mod 5)
-gcd(3, 5) = gcd(3, 5 mod 3)
-gcd(2, 3) = gcd(2, 3 mod 2)
-gcd(1, 2) = gcd(1, 2 mod 1)
+gcd(8, 13) = gcd(8, 13 mod 8)  
+gcd(5, 8) = gcd(5, 8 mod 5)  
+gcd(3, 5) = gcd(3, 5 mod 3)  
+gcd(2, 3) = gcd(2, 3 mod 2)  
+gcd(1, 2) = gcd(1, 2 mod 1)  
 gcd(0, 1) = 1
+
+![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_4.jpg)
+
+gcd(12, 17) = gcd(12, 17 mod 12)  
+gcd(5, 12) = gcd(5, 12 mod 5)  
+gcd(2, 5) = gcd(2, 5 mod 2)  
+gcd(1, 2) = gcd(1, 2 mod 1)  
+gcd(0, 1) = 1  
+
+
