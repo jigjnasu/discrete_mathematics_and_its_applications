@@ -2,7 +2,7 @@
   Discrete Mathematics and Its Applications
   by Dr. Kenneth H. Rosen
   Chapter 5.4 Recursive Algorithms
-  Solution 13
+  Solution 14
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   17/07/2017
  */
