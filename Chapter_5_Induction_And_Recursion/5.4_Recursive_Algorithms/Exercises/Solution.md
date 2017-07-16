@@ -39,7 +39,13 @@ gcd(0, 1) = 1
 
 mpower(b, m, n), where b = base, m = mod and n = power  
 
-mpower(3, 5, 11) = (mpower(3, 5, 5) ^ 2 * 3 mod 5 ) mod 5 =  (mpower(3, 5, 5) ^ 2 * 3 ) mod 5  
-mpower(3, 5, 5) = ((mpower(3, 5, 2) ^ 2 * 3 mod 5 ) ^ 2 * 3) mod 5 =  (mpower(3, 5, 2) ^ 2 * 3 * 3) mod 5  
-mpower(3, 5, 2) = (mpower(3, 5, 1) ^ 2 * 3 * 3) mod 5  
-mpower(3, 5, 0) = ((1 ^ 2) * 3 * 3 * 3) mod 5 = 25 mod 5 = 2  
+mpower(3, 5, 11) = (mpower(3, 5, 5) ^ 2 * 3) mod 5  
+mpower(3, 5, 5) = ((mpower(3, 5, 2) ^ 2 * 3) ^ 2 * 3) mod 5  
+mpower(3, 5, 2) = ((mpower(3, 5, 1) ^ 2 * 3) ^ 2 * 3) mod 5  
+mpower(3, 5, 1) = (((mpower(3, 5, 0) ^ 2 * 3) ^ 2 * 3) ^ 2 * 3) mod 5  
+As mpower(3, 5, 0) = 1  
+mpower(3, 5, 11) = (((((1 ^ 2) * 3) ^ 2) * 3 ) ^ 2 * 3) mod 5 = 2187 mod 5 = 2  
+
+![problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_5.jpg)
+
+mpower(b, m, n), where b = base, m = mod and n = power  
