@@ -19,6 +19,7 @@ f(1) = 1 . 1    = 1
 
 ![problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_3.jpg)
 
+#### Solution
 gcd(8, 13) = gcd(8, 13 mod 8)  
 gcd(5, 8) = gcd(5, 8 mod 5)  
 gcd(3, 5) = gcd(3, 5 mod 3)  
@@ -28,6 +29,7 @@ gcd(0, 1) = 1
 
 ![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_4.jpg)
 
+#### Solution
 gcd(12, 17) = gcd(12, 17 mod 12)  
 gcd(5, 12) = gcd(5, 12 mod 5)  
 gcd(2, 5) = gcd(2, 5 mod 2)  
@@ -37,6 +39,7 @@ gcd(0, 1) = 1
 
 ![problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_5.jpg)
 
+#### Solution
 mpower(b, m, n), where b = base, m = mod and n = power  
 
 mpower(3, 5, 11) = (mpower(3, 5, 5) ^ 2 * 3) mod 5  
@@ -48,6 +51,7 @@ mpower(3, 5, 11) = (((((1 ^ 2) * 3) ^ 2) * 3 ) ^ 2 * 3) mod 5 = 2187 mod 5 = 2
 
 ![problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_6.jpg)
 
+#### Solution
 mpower(b, m, n), where b = base, m = mod and n = power  
 
 mpower(2, 7, 10) = (mpower(2, 7, 5) ^ 2) mod 7   
@@ -58,4 +62,10 @@ mpower(2, 7, 0) = (((((2, 7, 0) ^ 2 * 2) ^ 2) ^ 2 * 2) ^ 2) mod 7
 mpower(2, 7, 10) = (((((1) ^ 2 * 2) ^ 2) ^ 2 * 2) ^ 2) mod 7   
 mpower(2, 7, 10) = (((((1) ^ 2 * 2) ^ 2) ^ 2 * 2) ^ 2) mod 7
 mpower(2, 7, 10) = 1024 mod 7 = 9
-                
+
+
+![problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_6.jpg)
+
+####Solution
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_7.jpg)
+[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_7.cpp)
