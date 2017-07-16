@@ -14,14 +14,14 @@ int sum(int n) {
     if (n == 1)
         return 1;
     else
-        return sum(n - 1) + n;
+        return sum(n - 1) + (2 * n - 1);
 }
 
 void test() {
     discrete_mathematics::Common<int> common;
     for (int i = 0; i < 10; ++i) {
         const int n = common.random(1, 100);
-        printf("Sum of [%d] positive integers == [%d]\n", n, sum(n));
+        printf("Sum of first [%d] odd positive integers == [%d]\n", n, sum(n));
     }
 }
 

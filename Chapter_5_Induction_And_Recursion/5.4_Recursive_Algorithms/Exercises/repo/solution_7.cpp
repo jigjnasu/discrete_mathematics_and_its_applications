@@ -7,9 +7,8 @@
   17/07/2017
  */
 
-
+#include "common.h"
 #include <cstdio>
-#include <cstdlib>
 
 int solution(int x, int n) {
     if (n == 0)
@@ -18,14 +17,11 @@ int solution(int x, int n) {
         return solution(x, n - 1) + x;
 }
 
-int random(int min, int max) {
-    return min + rand() % (max - min + 1);
-}
-
 void test() {
+    discrete_mathematics::Common<int> common;
     for (int i = 0; i < 10; ++i) {
-        const int x = random(1, 100);
-        const int n = random(1, 100);
+        const int x = common.random(1, 100);
+        const int n = common.random(1, 100);
         printf("[%d x %d] == [%d]\n", x, n, solution(x, n));
     }
 }
