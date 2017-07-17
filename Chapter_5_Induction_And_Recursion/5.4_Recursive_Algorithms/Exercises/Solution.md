@@ -159,3 +159,5 @@ mpower(2, 7, 10) = 1024 mod 7 = 9
 
 #### Solution
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_17.jpg)
+
+[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_17.cpp)
