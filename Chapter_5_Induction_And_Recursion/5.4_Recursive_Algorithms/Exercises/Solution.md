@@ -328,6 +328,6 @@ Therefore, our algorithm is correct. Hence Proved.
 
 
 ![problem 44](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_44.jpg)
-4, 3, 2, 5, 1, 8, 7, 6  
-4, 3, 2, 5,    1, 8, 7, 6   
 
+#### Solution
+![solution 44](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_44.jpg)
