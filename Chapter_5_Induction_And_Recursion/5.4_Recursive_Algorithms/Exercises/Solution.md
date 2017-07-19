@@ -195,3 +195,4 @@ mpower(2, 7, 10) = 1024 mod 7 = 9
 #### Solution
 In Algorithm 2, we have (n + 1) multiplications for f(n), because f(n) = a * f(n - 1).
 In Exercise 24, we have (n^2) + 1 multiplications for f(n), because f(n) = (a * a) * f(n - 1).
+
