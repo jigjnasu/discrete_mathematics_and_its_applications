@@ -318,10 +318,10 @@ Let's prove by principal of Mathematical induction
 Base case  
 When f(0) return the bitstring, no need of concatination  
 Inductive case  
-f(1) = s + f(0), it will concatinate string 1 time
-f(2) = s + f(1), it will conactinate string 2 times
-Inductive hypothesis
-f(k) = s + f(k - 1), it will concatinate string kth times.
-Add s on both the sides
-s + s + f(k - 1) = conatinating string (k + 1)th time.
-Therefore, our algorithm is correct. Hence Proved.
+f(1) = s + f(0), it will concatinate string 1 time  
+f(2) = s + f(1), it will conactinate string 2 times  
+Inductive hypothesis  
+f(k) = s + f(k - 1), it will concatinate string kth times.  
+Add s on both the sides  
+s + s + f(k - 1) = conatinating string (k + 1)th time.  
+Therefore, our algorithm is correct. Hence Proved.  
