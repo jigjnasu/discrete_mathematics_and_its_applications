@@ -240,6 +240,13 @@ We are adding twice the number of operations for every n.
 ![problem 31](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_31.jpg)
 
 #### Solution
-Iterative solution has O(n) time complextiy as compare to O(2^n) for recursive.
+Iterative solution has O(n) time complextiy as compare to O(2^n) for recursive.  
 So Iterative solution is much faster than the recursive one.
 
+
+![problem 32](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_32.jpg)
+
+#### Solution
+[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_32.cpp)
+
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_32.jpg)
