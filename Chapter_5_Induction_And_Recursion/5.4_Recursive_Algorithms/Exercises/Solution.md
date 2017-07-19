@@ -189,3 +189,9 @@ mpower(2, 7, 10) = 1024 mod 7 = 9
 [solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_24.cpp)
 
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_24.jpg)
+
+
+![problem 25](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_25.jpg)
+#### Solution
+In Algorithm 2, we have (n + 1) multiplications for f(n), because f(n) = a * f(n - 1).
+In Exercise 24, we have (n^2) + 1 multiplications for f(n), because f(n) = (a * a) * f(n - 1).
