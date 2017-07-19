@@ -292,3 +292,20 @@ Therefore, O(7^n) is less efficient than O(n).
 [solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_38.cpp)
 
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_38.jpg)
+
+
+![problem 39](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_39.jpg)
+
+#### Solution
+Let's prove by principal of Mathematical induction  
+Base case  
+when string size = 0, no need of reverse  
+Inductive case  
+swap nth char with 1st char.  
+swap n - 1 char with 2nd char.  
+as we are doing it in the algorithm  
+so inductive hypothesis is  
+swap kth char with (n - k)th char  
+Inductive step is  
+swap (k + 1)th char with (n - (k + 1))th char  
+Therefor, hence proved  
