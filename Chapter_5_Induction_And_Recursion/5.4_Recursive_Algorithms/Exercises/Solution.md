@@ -263,5 +263,12 @@ So Iterative solution is much faster than the recursive one.
 ![problem 34](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_34.jpg)
 
 #### Solution
-Iterative solution has O(n) time complexity.
+Iterative solution has O(n) time complexity.  
 Where as recursive solution has O(3^n) time complexity, because of duplicate call of f(n - 1), f(n - 2) on every call.
+
+![problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_35.jpg)
+
+#### Solution
+[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_35.cpp)
+
+![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_35.jpg)
