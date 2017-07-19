@@ -210,3 +210,11 @@ In Exercise 24, we have (n^2) + 1 multiplications for f(n), because f(n) = (a * 
 #### Solution
 In Algorithm 2, we have (n + 1) multiplications for f(n), because f(n) = a * f(n - 1).  
 In Exercise 26, we have lg(n) multiplications for f(n), beacuse f(n) = f(n / 2).
+
+
+![problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_27.jpg)
+
+#### Solution
+In Algorithm 7, we have O(n) additions, because it is an itrative solution, we need to add last two values to get nth fibonacci number.  
+In Algorithm 8, we have O(2^n) additions, because it is a recrusive solution, where f(n) = f(n - 1) + f(n - 2).
+We are adding twice the number of operations for every n.
