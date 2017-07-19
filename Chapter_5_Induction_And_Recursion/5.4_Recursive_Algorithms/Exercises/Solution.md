@@ -272,3 +272,7 @@ Where as recursive solution has O(3^n) time complexity, because of duplicate cal
 [solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_35.cpp)
 
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_35.jpg)
+
+Iterative version has O(n) time complexity.  
+However, recursive one is doing 7 multiplications in one go and they are re calculating f(n - 2) and f(n - 1) again and again.  
+Therefore, O(7^n) is less efficient than O(n).  
