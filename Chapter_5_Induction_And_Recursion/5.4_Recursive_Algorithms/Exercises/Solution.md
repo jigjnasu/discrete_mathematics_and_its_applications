@@ -430,4 +430,12 @@ Let's say we have 3 8 1 2
 Take 2 as pivot, we need 3 comparissions.  
 it will become 1 2 3 8.  
 Then we will have 2 more comparissions.  
-In total we need 5 comparissions.  
+In total we need 5 comparissions.
+
+
+![problem 54](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_54.jpg)
+#### Solution
+Let's say we have 1 2 3 4, sorted list alreay.  
+In first time pivot = 4, then we will have 4 comparissions and after that nothing is needed.  
+Because the start will be zero and end will be 3.  
+Least comparissions = 3.  
