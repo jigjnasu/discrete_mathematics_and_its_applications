@@ -425,3 +425,9 @@ Almot all element there will be n - 1 comparisions, and therefore O(n).
 ![problem 53](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_53.jpg)
 
 #### Solution
+If we have only 4 elements in the list.  
+Let's say we have 3 8 1 2  
+Take 2 as pivot, we need 3 comparissions.  
+it will become 1 2 3 8.  
+Then we will have 2 more comparissions.  
+In total we need 5 comparissions.  
