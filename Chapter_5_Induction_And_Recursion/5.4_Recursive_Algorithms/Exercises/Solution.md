@@ -70,7 +70,7 @@ mpower(2, 7, 10) = 1024 mod 7 = 9
 
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_7.jpg)
 
-[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_7.cpp)
+[solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/solution_7.cpp)>
 
 
 ![problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_8.jpg)
@@ -401,3 +401,10 @@ We can at least two comparissions
 a) 1 4 and d) 4 4  
 1 < 4 and 4 < 4 that's it  
 
+
+![problem 50](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_50.jpg)
+
+#### Solution
+[Quick Sort](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/quick_sort.h)
+
+[Quick Sort Test](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/quick_sort_test.cpp)
