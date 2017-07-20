@@ -341,11 +341,12 @@ Therefore, our algorithm is correct. Hence Proved.
 ![problem 45](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_45.jpg)
 
 #### Solution
-b d a f g h z p o k
-b d a f g -- h z p o k
+b d a f g h z p o k  
+b d a f g -- h z p o k  
 b d -- a f g -- h z -- p o k
-b d -- a f g -- h z -- k o p
-a b d f g -- h k o p z
+b d -- a f -- g -- h z -- p o -- k
+b d -- a f g -- h z -- k o p  
+a b d f g -- h k o p z  
 a b d f g h k o p z  
 
 
