@@ -350,3 +350,24 @@ a b d f g -- h k o p z
 a b d f g h k o p z  
 
 
+![problem 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_46.jpg)
+
+#### Solution
+a) 1, 3, 5, 7 and 2 4, 6, 8, 10  
+1 and 2  
+3 and 2  
+3 and 4  
+5 and 4  
+5 and 6  
+7 and 6  
+7 and 8  
+Total = 7
+
+b) 1, 2, 3, 4 and 6 7 8 9 10  
+1 and 6  
+2 and 6  
+3 and 6  
+4 and 6  
+Total = 4  
+
+c) 
