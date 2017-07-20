@@ -413,4 +413,9 @@ a) 1 4 and d) 4 4
 ![problem 51](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_51.jpg)
 
 #### Solution
-Almot all element there will be n - 1 comparisions, and therefore O(n).  
+Almot all element there will be n - 1 comparisions, and therefore O(n).
+
+
+![problem 52](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_52.jpg)
+
+#### Solution
