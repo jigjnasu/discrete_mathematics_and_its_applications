@@ -378,5 +378,5 @@ c) 1 5 6 7 8 and 2 3 4 9 10
 5 and 9  
 6 and 9  
 7 and 9  
-8 and 9
+8 and 9  
 Total = 8
