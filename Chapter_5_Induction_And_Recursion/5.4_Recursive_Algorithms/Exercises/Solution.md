@@ -439,3 +439,9 @@ Let's say we have 1 2 3 4, sorted list alreay.
 In first time pivot = 4, then we will have 4 comparissions and after that nothing is needed.  
 Because the start will be zero and end will be 3.  
 Least comparissions = 3.  
+
+
+![problem 55](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_55.jpg)
+#### Solution
+Normal pivot Quick Sort Partition can have O(n ^ 2).  
+And randamizod can have O(nlg(n)) like Merge Sort.  
