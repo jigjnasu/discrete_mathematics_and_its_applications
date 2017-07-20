@@ -391,4 +391,12 @@ Therefore, we can say we need most (m + n) - 1 comparissions.
 Example, 1 3 and 2 4  
 1 < 2, 2 < 3 and 3 < 4  
 In this case also we will have 4 as last left over.  
-Therefore we have (2 + 2) - 1 comparissions.  
+Therefore we have (2 + 2) - 1 comparissions.
+
+
+![problem 48](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_48.jpg)
+
+#### Solution
+We can at least two comparissions
+a) 1 4 and d) 4 4
+1 < 4 and 4 < 4 that's it  
