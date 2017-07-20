@@ -385,10 +385,10 @@ Total = 8
 ![problem 47](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_5_Induction_And_Recursion/5.4_Recursive_Algorithms/Exercises/repo/problem_47.jpg)
 
 #### Solution
-Because Merge in Merge Sort does compare elements of both the list until one doesn't have any elements.
-So if in worst case scenario we will have (m + n) comparissions. But there will be one element left in one of the lists.
-Therefore, we can say we need most (m + n) - 1 comparissions.
-Example, 1 3 and 2 4
-1 < 2, 2 < 3 and 3 < 4
-In this case also we will have 4 as last left over.
-Therefore we have (2 + 2) - 1 comparissions.
+Because Merge in Merge Sort does compare elements of both the list until one doesn't have any elements.  
+So if in worst case scenario we will have (m + n) comparissions. But there will be one element left in one of the lists.  
+Therefore, we can say we need most (m + n) - 1 comparissions.  
+Example, 1 3 and 2 4  
+1 < 2, 2 < 3 and 3 < 4  
+In this case also we will have 4 as last left over.  
+Therefore we have (2 + 2) - 1 comparissions.  
