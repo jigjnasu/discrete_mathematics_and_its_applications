@@ -29,4 +29,11 @@ b) 5 ^ 10 = 9765625
 4 * 6 = 24 routes
 
 
+![problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_7.jpg)
+#### Solution
+26 * 26 * 26 = 26 ^ 3 = 17576 ways
+
+
+
+
 
