@@ -34,6 +34,27 @@ b) 5 ^ 10 = 9765625
 26 * 26 * 26 = 26 ^ 3 = 17576 ways
 
 
+![problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_8.jpg)
+#### Solution
+26 * 25 * 24 = 15600 ways
+
+
+![problem 9](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_9.jpg)
+#### Solution
+1 * 26 * 26 = 676 ways
+
+
+![problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_10.jpg)
+#### Solution
+2 ^ 8 = 256 bit strings
+
+
+![problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_11.jpg)
+#### Solution
+1 * 2 ^ 8 * 1 = 256 ways
+
+
+
 
 
 
