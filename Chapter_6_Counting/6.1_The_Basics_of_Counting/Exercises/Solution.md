@@ -56,12 +56,12 @@ b) 5 ^ 10 = 9765625
 
 ![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_12.jpg)
 #### Solution
-1 * 2 ^ 8 * 1 = 256 ways
+![solution 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_12.jpg)
 
 
 ![problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_13.jpg)
 #### Solution
-1 * 2 ^ 8 * 1 = 256 ways
+n + 1 ways
 
 
 
