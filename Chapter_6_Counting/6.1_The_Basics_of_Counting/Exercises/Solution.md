@@ -54,6 +54,16 @@ b) 5 ^ 10 = 9765625
 1 * 2 ^ 8 * 1 = 256 ways
 
 
+![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_12.jpg)
+#### Solution
+1 * 2 ^ 8 * 1 = 256 ways
+
+
+![problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_13.jpg)
+#### Solution
+1 * 2 ^ 8 * 1 = 256 ways
+
+
 
 
 
