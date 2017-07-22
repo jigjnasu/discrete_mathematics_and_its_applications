@@ -19,5 +19,7 @@ b) 5 ^ 10 = 9765625
 12 * 3 + 12 * 3 = 36 + 36 = 72
 
 
-![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_4.jpg)
+![problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_5.jpg)
 #### Solution
+6 * 7 = 42 ways
+
