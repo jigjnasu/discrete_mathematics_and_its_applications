@@ -23,3 +23,10 @@ b) 5 ^ 10 = 9765625
 #### Solution
 6 * 7 = 42 ways
 
+
+![problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_6.jpg)
+#### Solution
+4 * 6 = 24 routes
+
+
+
