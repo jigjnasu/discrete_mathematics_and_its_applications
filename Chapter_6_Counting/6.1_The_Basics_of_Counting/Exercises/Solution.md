@@ -64,6 +64,11 @@ b) 5 ^ 10 = 9765625
 n + 1 ways
 
 
+![problem 14](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_14.jpg)
+#### Solution
+2^(n - 2) ways
+
+
 
 
 
