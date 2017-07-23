@@ -92,3 +92,11 @@ c) 2 ^ 5 = 32
 d) 3 ^ 5 = 243  
 
 
+![problem 19](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_19.jpg)
+#### Solution
+a) 3 ^ 6 = 729  
+b) 4 ^ 4 = 256    
+c) 4 ^ 5 = 1024   
+d) 2 ^ 6 = 64   
+
+
