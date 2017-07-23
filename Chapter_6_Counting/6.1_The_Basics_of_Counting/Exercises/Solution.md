@@ -74,6 +74,8 @@ n + 1 ways
 ![solution 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_15.jpg)
 
 
-
+![problem 16](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_16.jpg)
+#### Solution
+(26 ^ 4) - (25 ^ 4) = 66351
 
 
