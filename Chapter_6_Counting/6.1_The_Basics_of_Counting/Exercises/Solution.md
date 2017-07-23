@@ -86,9 +86,9 @@ n + 1 ways
 
 ![problem 18](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_18.jpg)
 #### Solution
-a) 4 ^ 4 = 256
-b) 4 ^ 3 = 64
-c) 2 ^ 5 = 32
-d) 3 ^ 5 = 243
+a) 4 ^ 4 = 256  
+b) 4 ^ 3 = 64  
+c) 2 ^ 5 = 32  
+d) 3 ^ 5 = 243  
 
 
