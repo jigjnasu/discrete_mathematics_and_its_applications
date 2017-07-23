@@ -60,33 +60,8 @@ void solution_20() {
     print(s, e, g);
 }
 
-void solution_21() {
-    printf("------------------ Solution 21 --------------------\n");
-    // Test case for problem a)
-    int s = 50;
-    int e = 100;
-    int g = 7;
-    printf("[%d] elements between [%d] - [%d] divisible by [%d]\n", range(s, e, g), s, e, g);
-    print(s, e, g);
-
-    // Test case for problem b)
-    s = 50;
-    e = 100;
-    g = 11;
-    printf("[%d] elements between [%d] - [%d] divisible by [%d]\n", range(s, e, g), s, e, g);
-    print(s, e, g);
-
-    // Test case for problem c)
-    s = 50;
-    e = 100;
-    g = lcm(11, 7);
-    printf("[%d] elements between [%d] - [%d] divisible by [%d]\n", range(s, e, g), s, e, g);
-    print(s, e, g);
-}
-
 int main() {
     solution_20();
-    solution_21();
-
+    
     return 0;
 }
