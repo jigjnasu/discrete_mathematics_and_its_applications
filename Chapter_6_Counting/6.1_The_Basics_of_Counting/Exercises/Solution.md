@@ -79,3 +79,8 @@ n + 1 ways
 (26 ^ 4) - (25 ^ 4) = 66351
 
 
+![problem 17](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_17.jpg)
+#### Solution
+(128 ^ 5) - (127 ^ 5) = 1321368961
+
+
