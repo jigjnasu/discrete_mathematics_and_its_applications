@@ -69,6 +69,9 @@ n + 1 ways
 2^(n - 2) ways
 
 
+![problem 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_15.jpg)
+![solution 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_15.jpg)
+
 
 
 
