@@ -219,3 +219,7 @@ d) 5 ^ 10
 
 ![problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_35.jpg)
 #### Solution
+a) 4 * 3 * 2 * 1 * 0 = 0  
+b) 5 * 4 * 3 * 2 * 1 = 120
+c) 6 * 5 * 4 * 3 * 2 = 720
+d) 7 * 6 * 5 * 4 * 3 = 2520 
