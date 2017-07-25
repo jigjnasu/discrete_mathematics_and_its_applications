@@ -180,6 +180,6 @@ Total Plates = 63273600
 
 ![problem 31](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_31.jpg)
 #### Solution
-2 / 3 Letters and 2 / 3 Digits
+2 / 3 Letters and 2 / 3 Digits  
 (26 ^ 2 + 26 ^ 3) * (10 ^ 2 + 10 ^ 3)  
 (676 + 17576) * (100 + 1000) = 20077200  
