@@ -206,4 +206,16 @@ d) 5 * 25 * 24 * 23 * 22 * 21 * 20 * 19
 e) 26 ^ 8 - 21 ^ 8    
 f) 8 * 5 * 21 ^ 7    
 g) 26 ^ 7 - 21 ^ 7  
-h) 26 ^ 6 - 21 ^ 6  
+h) 26 ^ 6 - 21 ^ 6
+
+
+![problem 34](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_34.jpg)
+#### Solution
+a) 2 ^ 10
+b) 3 ^ 10
+c) 4 ^ 10
+d) 5 ^ 10  
+
+
+![problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_35.jpg)
+#### Solution
