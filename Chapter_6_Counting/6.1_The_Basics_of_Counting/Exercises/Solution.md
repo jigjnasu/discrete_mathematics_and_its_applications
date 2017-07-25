@@ -211,15 +211,15 @@ h) 26 ^ 6 - 21 ^ 6
 
 ![problem 34](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_34.jpg)
 #### Solution
-a) 2 ^ 10
-b) 3 ^ 10
-c) 4 ^ 10
-d) 5 ^ 10  
+a) 2 ^ 10  
+b) 3 ^ 10  
+c) 4 ^ 10  
+d) 5 ^ 10    
 
 
 ![problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_35.jpg)
 #### Solution
-a) 4 * 3 * 2 * 1 * 0 = 0  
-b) 5 * 4 * 3 * 2 * 1 = 120
-c) 6 * 5 * 4 * 3 * 2 = 720
-d) 7 * 6 * 5 * 4 * 3 = 2520 
+a) 4 * 3 * 2 * 1 * 0 = 0    
+b) 5 * 4 * 3 * 2 * 1 = 120  
+c) 6 * 5 * 4 * 3 * 2 = 720  
+d) 7 * 6 * 5 * 4 * 3 = 2520   
