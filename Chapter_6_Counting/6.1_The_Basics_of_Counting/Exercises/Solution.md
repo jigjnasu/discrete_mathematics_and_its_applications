@@ -151,4 +151,7 @@ b) 10 * 10 * 10 * 5 = 5000
 c) 1 (9 * 1 * 1 * 1) * C(4, 1) = 9 * 4 = 36  
 
 
-
+![problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_27.jpg)
+#### Solution
+From 1 state 3 reprsentatives can be selected  
+From 50 states 3 ^ 50 reprsentatives can be selected  
