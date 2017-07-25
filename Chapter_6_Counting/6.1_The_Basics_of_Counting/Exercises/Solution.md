@@ -135,3 +135,13 @@ d) 2 ^ 6 = 64
 [solution_24.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_24.cpp)
 
 ![solution 24](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_24.jpg)
+
+
+![problem 25](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_25.jpg)
+#### Solution
+a) 1000 - (10 * 1 * 1) = 990  
+b) 5 * 10 * 10 = 500  
+c) 9 * 1 * 1 + 1 * 9 * 1 + 1 * 1 * 9 = 27
+
+
+
