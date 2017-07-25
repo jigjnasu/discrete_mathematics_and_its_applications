@@ -168,4 +168,11 @@ Total = 35152000
 #### Solution
 2 Letters 4 Digits = 26 ^ 2 * 10 ^ 4 = 6760000  
 2 Digits 4 Letters = 10 ^ 2 * 26 ^ 4 = 45697600  
-Total Plates = 52457600  
+Total Plates = 52457600
+
+
+![problem 30](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_30.jpg)
+#### Solution
+3 Letters 3 Digits = 26 ^ 3 * 10 ^ 3 = 17576000  
+4 Letters 2 Digits = 26 ^ 4 * 10 ^ 2 = 45697600  
+Total Plates = 63273600  
