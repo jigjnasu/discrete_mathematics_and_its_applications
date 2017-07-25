@@ -154,4 +154,11 @@ c) 1 (9 * 1 * 1 * 1) * C(4, 1) = 9 * 4 = 36
 ![problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_27.jpg)
 #### Solution
 From 1 state 3 reprsentatives can be selected  
-From 50 states 3 ^ 50 reprsentatives can be selected  
+From 50 states 3 ^ 50 reprsentatives can be selected
+
+
+![problem 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_28.jpg)
+#### Solution
+3 Digits 3 Letters = 10 ^ 3 + 26 ^ 3  
+3 Letters 3 Digits = 26 ^ 3 + 10 ^ 3  
+Total = 2(10 ^ 3 + 26 ^ 3)  
