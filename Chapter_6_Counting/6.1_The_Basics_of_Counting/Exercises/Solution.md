@@ -166,6 +166,6 @@ Total = 35152000
 
 ![problem 29](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_29.jpg)
 #### Solution
-2 Letters 4 Digits = 26 ^ 2 * 10 ^ 4 = 
-2 Digits 4 Letters = 10 ^ 2 * 26 ^ 4 = 
-Total Plates = 
+2 Letters 4 Digits = 26 ^ 2 * 10 ^ 4 = 6760000  
+2 Digits 4 Letters = 10 ^ 2 * 26 ^ 4 = 45697600  
+Total Plates = 52457600  
