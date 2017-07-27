@@ -223,3 +223,12 @@ a) 4 * 3 * 2 * 1 * 0 = 0
 b) 5 * 4 * 3 * 2 * 1 = 120  
 c) 6 * 5 * 4 * 3 * 2 = 720  
 d) 7 * 6 * 5 * 4 * 3 = 2520   
+
+
+![problem 41](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_41.jpg)
+#### Solution
+2 ^ (ciel(n / 2))
+
+
+![problem 42](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_42.jpg)
+#### Solution
