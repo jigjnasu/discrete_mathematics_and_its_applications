@@ -236,3 +236,11 @@ a) 3 ^ 4 = 81
 b) 1.4 + 4.1 = 8  
 c) 4 . 3 . 2 . 1 = 24  
 d) 4 . 4 . 3 . 2 = 96   
+
+
+![problem 43](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_43.jpg)
+#### Solution
+a) 4 ^ 4 - 3 ^ 4 = 256 - 81 = 175  
+b) 4 ^ 4 - 1 . 4 + 4 . 1 = 248  
+c) 4 ^ 4 - 4 . 3 . 2 . 1 = 232  
+d) 6 . 2 ^ 4 = 84
