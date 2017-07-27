@@ -250,3 +250,10 @@ d) 6 . 2 ^ 4 = 84
 #### Solution
 (10 4) / 4 = 1260
 
+
+![problem 45](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_45.jpg)
+#### Solution
+6! / 2 . 6 = 60
+
+
+
