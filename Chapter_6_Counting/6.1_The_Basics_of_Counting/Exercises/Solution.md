@@ -244,3 +244,9 @@ a) 4 ^ 4 - 3 ^ 4 = 256 - 81 = 175
 b) 4 ^ 4 - 1 . 4 + 4 . 1 = 248  
 c) 4 ^ 4 - 4 . 3 . 2 . 1 = 232  
 d) 6 . 2 ^ 4 = 84
+
+
+![problem 44](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_44.jpg)
+#### Solution
+(10 4) / 4 = 1260
+
