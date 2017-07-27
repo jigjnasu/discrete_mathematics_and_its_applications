@@ -232,3 +232,7 @@ d) 7 * 6 * 5 * 4 * 3 = 2520
 
 ![problem 42](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_42.jpg)
 #### Solution
+a) 4 ^ 4 - 3 ^ 4 = 256 - 81 = 175  
+b) 1.4 + 4.1 = 8  
+c) 4 . 3 . 2 . 1 = 24  
+d) 4 . 4 . 3 . 2 = 96   
