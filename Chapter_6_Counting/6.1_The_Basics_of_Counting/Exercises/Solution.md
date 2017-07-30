@@ -323,3 +323,7 @@ Country Code = 10 + 100 + 1000 = 1110
 Numbers = NXX NXX XXXX  
 8.10<sup>2</sup> 8.10<sup>2</sup> 10<sup>4</sup> = 64.10<sup>8</sup>
 
+
+![problem 60](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_60.jpg)
+#### Solution
+![solution 60](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_60.jpg)
