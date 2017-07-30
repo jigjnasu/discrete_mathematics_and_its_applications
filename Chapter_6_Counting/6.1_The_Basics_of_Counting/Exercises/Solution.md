@@ -376,3 +376,10 @@ Total = 4! = 24 - 6 = 18 ways
 ![problem 67](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_67.jpg)
 #### Solution
 ![solution 67](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_67.jpg)
+
+
+![problem 68](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_68.jpg)
+#### Solution
+![solution 68](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_68.jpg)
+
+b) 2 + 2 + 1 + 1 + 3 + 2 = 11  
