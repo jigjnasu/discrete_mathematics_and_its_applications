@@ -398,7 +398,7 @@ For each n we have 2<sup>n</sup> outputs
 then for each we have T/F 2<sup>2<sup>n</sup></sup>
 
 
-![problem 71](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_71.jpg)
+![problem 74](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_74.jpg)
 #### Solution
 a) Total length 16 bits  
 Largest data value 2<sup>16</sup> - 1 = 65536 bits   
