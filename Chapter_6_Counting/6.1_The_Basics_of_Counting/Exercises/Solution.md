@@ -190,11 +190,11 @@ Total Plates = 63273600
 a) 26 * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 8  
 b) 26 * 25 * 24 * 23 * 22 * 21 * 20 * 19  
 c) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 7  
-d) X(1) * 25 * 24 * 23 * 22 * 21 * 20 * 19 * 18  
+d) X(1) * 25 * 24 * 23 * 22 * 21 * 20 * 19  
 e) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * X(1) = 26 ^ 6  
 f) B(1) * O(1) * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 6  
-g) 26 * 26 * 26 * 26 * 26 * 26 * B(1) * O(1) = 26 ^ 6  
-h) 26 ^ 6 + 26 ^ 6 = 2(26 ^ 6)
+g) 26 ^ 4    
+h) 26 ^ 6 + 26 ^ 6 - 26 ^ 4 = 617374576   
 
 
 ![problem 33](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_33.jpg)
