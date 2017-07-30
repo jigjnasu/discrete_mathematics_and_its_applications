@@ -390,3 +390,9 @@ b) 2 + 2 + 1 + 1 + 3 + 2 = 11
 ![solution 69](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_69.jpg)
 
 b) 4 . 3 + 5 . 2 + = 12 + 10 = 22
+
+
+![problem 70](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_70.jpg)
+#### Solution
+For each n we have 2<sup>n</sup> outputs
+then for each we have T/F 2<sup>2<sup><n></sup></sup>>
