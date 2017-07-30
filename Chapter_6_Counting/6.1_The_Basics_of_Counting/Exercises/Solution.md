@@ -284,3 +284,7 @@ d) 6 . 2 ^ 4 = 84
 #### Solution
 38 + 23 - 7 = 54 total students
 
+
+![problem 53](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_53.jpg)
+#### Solution
+![solution 53](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_53.jpg)
