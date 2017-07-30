@@ -186,34 +186,34 @@ Total Plates = 63273600
 
 ![problem 32](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_32.jpg)
 #### Solution
-a) 26 * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 8  
+a) 26 * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26<sup>8</sup>  
 b) 26 * 25 * 24 * 23 * 22 * 21 * 20 * 19  
-c) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 7  
+c) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * 26 = 26<sup>7</sup>  
 d) X(1) * 25 * 24 * 23 * 22 * 21 * 20 * 19  
-e) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * X(1) = 26 ^ 6  
-f) B(1) * O(1) * 26 * 26 * 26 * 26 * 26 * 26 = 26 ^ 6  
-g) 26 ^ 4    
-h) 26 ^ 6 + 26 ^ 6 - 26 ^ 4 = 617374576   
+e) X(1) * 26 * 26 * 26 * 26 * 26 * 26 * X(1) = 26<sup>6</sup>     
+f) B(1) * O(1) * 26 * 26 * 26 * 26 * 26 * 26 = 26<sup>6</sup>  
+g) 26<sup>4</sup>  
+h) 26<sup>6</sup> + 26<sup>6</sup> - 26<sup>4</sup> = 617374576   
 
 
 ![problem 33](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_33.jpg)
 #### Solution
-a) vowels{A, E, I, O, U} 2 6 - 5 = 21 ^ 8   
+a) vowels{A, E, I, O, U} 2 6 - 5 = 21<sup>8</sup>  
 b) 21 * 20 * 19 * 18 * 17 * 16 * 15 * 14  
-c) 5 * 26 ^ 7  
+c) 5 * 26<sup>7</sup>  
 d) 5 * 25 * 24 * 23 * 22 * 21 * 20 * 19  
-e) 26 ^ 8 - 21 ^ 8    
-f) 8 * 5 * 21 ^ 7    
-g) 26 ^ 7 - 21 ^ 7  
-h) 26 ^ 6 - 21 ^ 6
+e) 26<sup>8</sup> - 21<sup>8</sup>    
+f) 8 * 5 * 21<sup>7</sup>    
+g) 26<sup>7</sup> - 21<sup>7</sup>  
+h) 26<sup>6</sup> - 21<sup>6</sup>  
 
 
 ![problem 34](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_34.jpg)
 #### Solution
-a) 2 ^ 10  
-b) 3 ^ 10  
-c) 4 ^ 10  
-d) 5 ^ 10    
+a) 2<sup>10</sup>  
+b) 3<sup>10</sup>  
+c) 4<sup>10</sup>  
+d) 5<sup>10</sup>    
 
 
 ![problem 35](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_35.jpg)
@@ -226,12 +226,12 @@ d) 7 * 6 * 5 * 4 * 3 = 2520
 
 ![problem 41](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_41.jpg)
 #### Solution
-2 ^ (ciel(n / 2))
+2<sup>(ciel(n / 2))</sup>
 
 
 ![problem 42](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_42.jpg)
 #### Solution
-a) 3 ^ 4 = 81   
+a) 3<sup>4</sup> = 81   
 b) 1.4 + 4.1 = 8  
 c) 4 . 3 . 2 . 1 = 24  
 d) C(4 3) . C(4 2) . 3 . 2 = 144  
@@ -239,10 +239,10 @@ d) C(4 3) . C(4 2) . 3 . 2 = 144
 
 ![problem 43](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_43.jpg)
 #### Solution
-a) 4 ^ 4 - 3 ^ 4 = 256 - 81 = 175  
-b) 4 ^ 4 - 1 . 4 + 4 . 1 = 248  
-c) 4 ^ 4 - 4 . 3 . 2 . 1 = 232  
-d) 6 . 2 ^ 4 = 84
+a) 4<sup>4</sup> - 3<sup>4</sup> = 256 - 81 = 175  
+b) 4<sup>4</sup> - 1 . 4 + 4 . 1 = 248  
+c) 4<sup>4</sup> - 4 . 3 . 2 . 1 = 232  
+d) 6 . 2<sup>4</sup> = 84
 
 
 ![problem 44](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_44.jpg)
@@ -266,17 +266,17 @@ d) 6 . 2 ^ 4 = 84
 
 ![problem 48](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_48.jpg)
 #### Solution
-2 ^ 5 - 2 ^ 4 - 2 ^ 2 = 32 + 16 - 4 = 44 ways
+2<sup>5</sup> - 2<sup>4</sup> - 2<sup>2</sup> = 32 + 16 - 4 = 44 ways
 
 
 ![problem 49](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_49.jpg)
 #### Solution
-2 ^ 7 + 2 ^ 8 - 2 ^ 5 = 128 + 256 - 32 = 352 ways
+2<sup>7</sup> + 2<sup>8</sup> - 2<sup>5</sup> = 128 + 256 - 32 = 352 ways
 
 
 ![problem 50](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_50.jpg)
 #### Solution
-2(2.2^4 + 4.2^3 - 2) = 2(222) = 444 ways
+2(2.2<sup>4</sup> + 4.2<sup>3</sup> - 2) = 2(222) = 444 ways
 
 
 ![problem 52](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_52.jpg)
@@ -313,4 +313,4 @@ d) 6 . 2 ^ 4 = 84
 ![problem 58](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_58.jpg)
 #### Solution
 Country Code = 9 + 100 + 1000 = 1109
-Numbers = 10 ^ 15
+Numbers = 10<sup>15</sup>
