@@ -343,3 +343,11 @@ n - p - q + 1
 #### Solution
 ![solution 63](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_63.jpg)
 
+
+![problem 64](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_64.jpg)
+#### Solution
+|  |   |
+|---|---|
+| 1  |   |
+| 2  |   |
+| 3  |   |
