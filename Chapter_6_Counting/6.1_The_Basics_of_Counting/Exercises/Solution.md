@@ -395,4 +395,4 @@ b) 4 . 3 + 5 . 2 + = 12 + 10 = 22
 ![problem 70](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_70.jpg)
 #### Solution
 For each n we have 2<sup>n</sup> outputs
-then for each we have T/F 2<sup>2<sup><n></sup></sup>>
+then for each we have T/F 2<sup>2</sup>
