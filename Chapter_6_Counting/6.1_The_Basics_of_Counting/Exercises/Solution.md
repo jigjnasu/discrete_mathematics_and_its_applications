@@ -365,7 +365,7 @@ n - p - q + 1
 
 ![problem 65](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_65.jpg)
 #### Solution
-a followed by b
+a followed by b  
 Total = 4! = 24 - 6 = 18 ways
 
 
@@ -375,9 +375,9 @@ Total = 4! = 24 - 6 = 18 ways
 
 ![problem 67](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_67.jpg)
 #### Solution
-{3}, {7}, {9}, {11}, {24},  
-{3, 7},  
-{3, 9}, {7, 9}, {3, 7, 9},  
-{3, 11}, {3, 7, 11}, {7, 11}, {7, 9, 11}, {9, 11}, {3, 9, 11},  
-{3, 24}
-
+---
+   3
+   7 -- 3
+   9 -- 3
+   11
+   24
