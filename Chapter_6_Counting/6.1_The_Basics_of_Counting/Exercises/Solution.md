@@ -396,3 +396,20 @@ b) 4 . 3 + 5 . 2 + = 12 + 10 = 22
 #### Solution
 For each n we have 2<sup>n</sup> outputs
 then for each we have T/F 2<sup>2<sup>n</sup></sup>
+
+
+![problem 71](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_71.jpg)
+#### Solution
+a) Total length 16 bits  
+Largest data value 2<sup>16</sup> - 1 = 65536 bits   
+Octates 65536 / 8 = 8192 Octates
+
+b) Max HLEN 2<sup>4</sup>  
+16 32 bits blocks
+
+c) 20 octates = 8 . 20 bits = 160 bits  
+2<sup>160</sup> max data length
+
+d) bit string size = 20 octates  
+20.8 bits = 160 bits  
+size = 2<sup>160</sup> bit strings  
