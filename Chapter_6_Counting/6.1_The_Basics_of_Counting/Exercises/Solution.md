@@ -16,7 +16,7 @@ b) 5 ^ 10 = 9765625
 
 ![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_4.jpg)
 #### Solution
-12 * 3 + 12 * 3 = 36 + 36 = 72
+2 . 12 . 3 = 72
 
 
 ![problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_5.jpg)
@@ -61,7 +61,7 @@ b) 5 ^ 10 = 9765625
 
 ![problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_13.jpg)
 #### Solution
-n + 1 ways
+(n + 1) ways
 
 
 ![problem 14](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_14.jpg)
