@@ -158,29 +158,29 @@ From 50 states 3<sup>50</sup> reprsentatives can be selected
 
 ![problem 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_28.jpg)
 #### Solution
-3 Digits 3 Letters = 10 ^ 3 * 26 ^ 3 = 17576000  
-3 Letters 3 Digits = 26 ^ 3 * 10 ^ 3 = 17576000  
+3 Digits 3 Letters = 10<sup>3</sup> * 26<sup>3</sup> = 17576000  
+3 Letters 3 Digits = 26<sup>3</sup> * 10<sup>3</sup> = 17576000  
 Total = 35152000   
 
 
 ![problem 29](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_29.jpg)
 #### Solution
-2 Letters 4 Digits = 26 ^ 2 * 10 ^ 4 = 6760000  
-2 Digits 4 Letters = 10 ^ 2 * 26 ^ 4 = 45697600  
+2 Letters 4 Digits = 26<sup>2</sup> * 10<sup>4</sup> = 6760000  
+2 Digits 4 Letters = 10<sup>2</sup> * 26<sup>4</sup> = 45697600  
 Total Plates = 52457600
 
 
 ![problem 30](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_30.jpg)
 #### Solution
-3 Letters 3 Digits = 26 ^ 3 * 10 ^ 3 = 17576000  
-4 Letters 2 Digits = 26 ^ 4 * 10 ^ 2 = 45697600  
+3 Letters 3 Digits = 26<sup>3</sup> * 10<sup>3</sup> = 17576000  
+4 Letters 2 Digits = 26<sup>4</sup> * 10<sup>2</sup> = 45697600  
 Total Plates = 63273600
 
 
 ![problem 31](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_31.jpg)
 #### Solution
 2 / 3 Letters and 2 / 3 Digits  
-(26 ^ 2 + 26 ^ 3) * (10 ^ 2 + 10 ^ 3)  
+(26<sup>2</sup> + 26<sup>3</sup>) * (10<sup>2</sup> + 10<sup>3</sup>)  
 (676 + 17576) * (100 + 1000) = 20077200
 
 
