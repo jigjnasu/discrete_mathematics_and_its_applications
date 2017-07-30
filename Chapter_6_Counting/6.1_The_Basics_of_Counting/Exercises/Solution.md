@@ -10,8 +10,10 @@ b) 325 + 18 = 343 ways
 
 ![problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_3.jpg)
 #### Solution
+\begin{equation}
 a) 4^{10} = 1048576  
 b) 5^{10} = 9765625  
+\end{equation}
 
 
 ![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_4.jpg)
