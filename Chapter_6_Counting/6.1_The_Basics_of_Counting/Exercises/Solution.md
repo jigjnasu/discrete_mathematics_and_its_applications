@@ -257,7 +257,4 @@ d) 6 . 2 ^ 4 = 84
 
 ![problem 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_46.jpg)
 #### Solution
-a) C(9 5) . 6! = 90720  
-b) C(8 4) . 6! = 50400  
-c) C(8 5) . 6! = 40320
-
+![solution 46](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_46.jpg)
