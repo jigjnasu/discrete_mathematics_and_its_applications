@@ -375,14 +375,4 @@ Total = 4! = 24 - 6 = 18 ways
 
 ![problem 67](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_67.jpg)
 #### Solution
---  
-  3  
-  7 3  
-  9 3  
-    7 3  
-  11  
-    3  
-    7 3  
-    9 7  
-    9 3  
-  24 3   
+![solution 67](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_67.jpg)
