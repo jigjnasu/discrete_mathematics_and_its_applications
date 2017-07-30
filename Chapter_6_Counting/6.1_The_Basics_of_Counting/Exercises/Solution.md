@@ -338,3 +338,8 @@ Numbers = NXX NXX XXXX
 #### Solution
 n - p - q + 1
 
+
+![problem 63](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_63.jpg)
+#### Solution
+![solution 63](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_63.jpg)
+
