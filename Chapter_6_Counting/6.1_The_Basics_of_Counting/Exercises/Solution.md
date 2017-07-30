@@ -312,5 +312,6 @@ d) 6 . 2<sup>4</sup> = 84
 
 ![problem 58](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_58.jpg)
 #### Solution
-Country Code = 9 + 100 + 1000 = 1109
+Country Code = 9 + 100 + 1000 = 1109  
 Numbers = 10<sup>15</sup>
+Total = 1109.10<sup>15</sup>
