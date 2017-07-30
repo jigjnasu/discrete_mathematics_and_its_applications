@@ -319,7 +319,7 @@ Total = 1109.10<sup>15</sup>
 
 ![problem 59](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_59.jpg)
 #### Solution
-Country Code = 10 + 100 + 1000 = 1110
-Numbers = NXX NXX XXXX
+Country Code = 10 + 100 + 1000 = 1110  
+Numbers = NXX NXX XXXX  
 8.10<sup>2</sup> 8.10<sup>2</sup> 10<sup>4</sup> = 64.10<sup>8</sup>
 
