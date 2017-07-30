@@ -10,8 +10,8 @@ b) 325 + 18 = 343 ways
 
 ![problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_3.jpg)
 #### Solution
-a) 4<sup>10</sup> = 1048576$  
-b) 5<sup>10</sup> = 9765625$
+a) 4<sup>10</sup> = 1048576   
+b) 5<sup>10</sup> = 9765625  
 
 ![problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_4.jpg)
 #### Solution
@@ -30,7 +30,7 @@ b) 5<sup>10</sup> = 9765625$
 
 ![problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_7.jpg)
 #### Solution
-26 * 26 * 26 = 26 ^ 3 = 17576 ways
+26 * 26 * 26 = 26<sup>3</sup> = 17576 ways
 
 
 ![problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_8.jpg)
@@ -45,12 +45,12 @@ b) 5<sup>10</sup> = 9765625$
 
 ![problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_10.jpg)
 #### Solution
-2 ^ 8 = 256 bit strings
+2<sup>8</sup> = 256 bit strings
 
 
 ![problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_11.jpg)
 #### Solution
-1 * 2 ^ 8 * 1 = 256 ways
+1 * 2<sup>8</sup> * 1 = 256 ways
 
 
 ![problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_12.jpg)
@@ -65,7 +65,7 @@ b) 5<sup>10</sup> = 9765625$
 
 ![problem 14](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_14.jpg)
 #### Solution
-2^(n - 2) ways
+2<sup>(n - 2)</sup> ways
 
 
 ![problem 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_15.jpg)
@@ -75,28 +75,28 @@ b) 5<sup>10</sup> = 9765625$
 
 ![problem 16](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_16.jpg)
 #### Solution
-(26 ^ 4) - (25 ^ 4) = 66351
+(26<sup>4</sup>) - (25<sup>4</sup>) = 66351
 
 
 ![problem 17](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_17.jpg)
 #### Solution
-(128 ^ 5) - (127 ^ 5) = 1321368961
+(128<sup>5</sup>) - (127<sup>5</sup>) = 1321368961
 
 
 ![problem 18](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_18.jpg)
 #### Solution
-a) 4 ^ 4 = 256  
-b) 4 ^ 3 = 64  
-c) 2 ^ 5 = 32  
-d) 3 ^ 5 = 243  
+a) 4<sup>4</sup> = 256  
+b) 4<sup>3</sup> = 64  
+c) 2<sup>5</sup> = 32  
+d) 3<sup>5</sup> = 243  
 
 
 ![problem 19](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_19.jpg)
 #### Solution
-a) 3 ^ 6 = 729  
-b) 4 ^ 4 = 256    
-c) 4 ^ 5 = 1024   
-d) 2 ^ 6 = 64   
+a) 3<sup>6</sup> = 729  
+b) 4<sup>4</sup> = 256    
+c) 4<sup>5</sup> = 1024   
+d) 2<sup>6</sup> = 64   
 
 
 ![problem 20](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_20.jpg)
@@ -153,7 +153,7 @@ c) 1 (9 * 1 * 1 * 1) * C(4, 3) = 9 * 4 = 36
 ![problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_27.jpg)
 #### Solution
 From 1 state 3 reprsentatives can be selected  
-From 50 states 3 ^ 50 reprsentatives can be selected
+From 50 states 3<sup>50</sup> reprsentatives can be selected
 
 
 ![problem 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_28.jpg)
