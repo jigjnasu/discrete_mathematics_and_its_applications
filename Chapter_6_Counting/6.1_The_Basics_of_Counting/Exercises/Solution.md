@@ -362,3 +362,9 @@ n - p - q + 1
 | 12 | 1110 |
 | 13 | 1111 |
 
+
+![problem 65](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_65.jpg)
+#### Solution
+a followed by b
+Total = 4! = 24 - 6 = 18 ways
+
