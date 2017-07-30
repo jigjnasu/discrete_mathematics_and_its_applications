@@ -368,3 +368,8 @@ n - p - q + 1
 a followed by b
 Total = 4! = 24 - 6 = 18 ways
 
+
+![problem 66](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_66.jpg)
+#### Solution
+2.C(7 4) = 2 . 35 = 70 ways
+
