@@ -269,3 +269,8 @@ d) 6 . 2 ^ 4 = 84
 #### Solution
 2 ^ 5 - 2 ^ 4 - 2 ^ 2 = 32 + 16 - 4 = 44 ways
 
+
+![problem 49](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_49.jpg)
+#### Solution
+2 ^ 7 + 2 ^ 8 - 2 ^ 5 = 128 + 256 - 32 = 352 ways
+
