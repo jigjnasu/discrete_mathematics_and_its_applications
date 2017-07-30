@@ -148,7 +148,7 @@ c) 9 * 1 * 1 + 1 * 9 * 1 + 1 * 1 * 9 = 27
 #### Solution
 a) 10 * 9 * 8 * 7 = 5040  
 b) 10 * 10 * 10 * 5 = 5000  
-c) 1 (9 * 1 * 1 * 1) * C(4, 1) = 9 * 4 = 36  
+c) 1 (9 * 1 * 1 * 1) * C(4, 3) = 9 * 4 = 36  
 
 
 ![problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_27.jpg)
