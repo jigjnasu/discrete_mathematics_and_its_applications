@@ -333,3 +333,8 @@ Numbers = NXX NXX XXXX
 #### Solution
 16<sup>10</sup> + 16<sup>26</sup> + 16<sup>58</sup>
 
+
+![problem 62](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_62.jpg)
+#### Solution
+n - p - q + 1
+
