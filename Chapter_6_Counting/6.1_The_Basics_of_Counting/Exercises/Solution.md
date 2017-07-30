@@ -327,3 +327,9 @@ Numbers = NXX NXX XXXX
 ![problem 60](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_60.jpg)
 #### Solution
 ![solution 60](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/solution_60.jpg)
+
+
+![problem 61](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.1_The_Basics_of_Counting/Exercises/repo/problem_61.jpg)
+#### Solution
+16<sup>10</sup> + 16<sup>26</sup> + 16<sup>58</sup>
+
