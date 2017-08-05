@@ -2,5 +2,6 @@
 
 #### Solution
 [solution.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.2_The_Pigeonhole_Principle/Exercises/repo/solution_25.cpp)
+
 ![solution](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.2_The_Pigeonhole_Principle/Exercises/repo/solution_25.jpg)
 
