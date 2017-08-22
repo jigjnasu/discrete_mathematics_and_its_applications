@@ -15,3 +15,6 @@
 
 [algorithm 3 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_3.h)
 
+#### Test Code
+[main .cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/main.cpp)
+
