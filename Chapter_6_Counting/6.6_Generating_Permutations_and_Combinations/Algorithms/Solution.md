@@ -9,3 +9,9 @@
 
 [algorithm 2 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_2.h)
 
+
+#### Algorithm 3
+![Algorithm 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_3.jpg)
+
+[algorithm 3 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_3.h)
+
