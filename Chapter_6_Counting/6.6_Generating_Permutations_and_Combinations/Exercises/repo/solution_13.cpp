@@ -2,7 +2,7 @@
   Discrete Mathematics and Its Applications
   by Dr. Kenneth H. Rosen
   Chapter 6.6 Generating Permutations and Combinations
-  Solution 12
+  Solution 13
   Rakesh Kumar, cpp.rakesh(at)gmail.com
   25/08/2017
  */
@@ -61,7 +61,7 @@ void r_permute(std::string& s, int r) {
 }
 
 int main() {
-    std::string s = "123456789";
-    r_permute(s, 5);
+    std::string s = "12345";
+    r_permute(s, 3);
     return 0;
 }
