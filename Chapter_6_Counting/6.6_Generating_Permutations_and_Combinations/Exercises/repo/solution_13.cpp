@@ -49,20 +49,19 @@ void permute(std::string& s) {
 void r_permute(std::string& s, int r) {
     for (std::size_t i = 0; i <= s.size() - r; ++i) {
         for (std::size_t j = i + 1; j <= s.size() - r + 1; ++j) {
-            std::string p;
-            p.push_back(s[i]);
-            p.push_back(s[j]);            
-            for (std::size_t k = 0; k < r - 2; ++k) {
-                p.push_back(s[k + j + 1]);
+            for (std::size_t k = j + r - 2; k < s.size(); ++k) {
+                std::string p;
+                p = s[i];
+                p += s.substr(j, r - 2);                
+                p += s[k];
+                permute(p);
             }
-
-            permute(p);
         }
     }
 }
 
 int main() {
-    std::string s = "12345";
-    r_permute(s, 3);
+    std::string s = "123456789";
+    r_permute(s, 5);
     return 0;
 }
