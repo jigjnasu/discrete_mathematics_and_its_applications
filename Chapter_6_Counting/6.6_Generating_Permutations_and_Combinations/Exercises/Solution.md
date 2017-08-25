@@ -5,6 +5,7 @@
 
 
 #### Problem 13
+P(n, r) = n! / (n - r)!
 ![Problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_13.jpg)
 
 [solution 13 .cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/solution_13.cpp)
