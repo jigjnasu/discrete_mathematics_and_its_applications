@@ -2,16 +2,18 @@
 ![Problem 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_1.jpg)
 
 ### Solution
-14532
-15432
-21345
-23451
-23514
-31452
-31542
-43521
-45213
-45321
+|  S.No | Permutaion   |
+|:-----:|:------------:|
+|  1    |     14532    |
+|  2    |     15432    |
+|  3    |     21345    |
+|  4    |     23451    |
+|  5    |     23514    |
+|  6    |     31452    |
+|  7    |     31542    |
+|  8    |     43521    |
+|  9    |     45213    |
+| 10    |     45321    |
 
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
