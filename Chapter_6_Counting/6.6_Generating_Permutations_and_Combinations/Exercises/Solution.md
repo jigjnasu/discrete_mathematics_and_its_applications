@@ -66,6 +66,20 @@
 | 12    |    BB2       |
 
 
+#### Problem 5
+![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_5.jpg)
+
+### Solution
+|  Permutation | Next Permutaion   |
+|:------------:|:-----------------:|
+|     1432     |       2134        |
+|     54123    |       54132       |
+|     12453    |       12534       |
+|     45231    |       45312       |
+|    6714235   |      6714253      |
+|    31528764  |      3154267      |
+
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
