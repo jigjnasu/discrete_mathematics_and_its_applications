@@ -46,6 +46,26 @@
 |  3    |  CAA1, CAB1, CAC1, CBA1, CBB1, CBC1, CCA1, CCB1, CCC1 |    CAA2, CAB2, CAC2, CBA2, CBB2, CBC2, CCA2, CCB2, CCC2   |
 
 
+#### Problem 4
+![Problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_4.jpg)
+
+### Solution
+|  S.No | Permutaion   |
+|:-----:|:------------:|
+|  1    |    AA0       |
+|  2    |    AA1       |
+|  3    |    AA2       |
+|  4    |    AB0       |
+|  5    |    AB1       |
+|  6    |    AB2       |
+|  7    |    BA0       |
+|  8    |    BA1       |
+|  9    |    BA2       |
+| 10    |    BB0       |
+| 11    |    BB1       |
+| 12    |    BB2       |
+
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
