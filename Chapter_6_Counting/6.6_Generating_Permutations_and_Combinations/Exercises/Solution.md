@@ -1,3 +1,18 @@
+#### Problem 1
+![Problem 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_1.jpg)
+
+### Solution
+14532
+15432
+21345
+23451
+23514
+31452
+31542
+43521
+45213
+45321
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
