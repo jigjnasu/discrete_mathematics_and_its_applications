@@ -162,9 +162,9 @@ Therefore, this solves the lexographic purpose.
 ![Problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_11.jpg)
 ### Solution
 
-The next larger r-combination must differ from the old one in position i, since i + 1, i + 2, ....., i + r.
-occupied by the largest possible number (i + n - r + 1 to n)
-Therefore, It is an r-combination algoritgm.
+The next larger r-combination must differ from the old one in position i, since i + 1, i + 2, ....., i + r.  
+occupied by the largest possible number (i + n - r + 1 to n)  
+Therefore, It is an r-combination algoritgm.  
 
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
