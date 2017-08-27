@@ -143,6 +143,21 @@ Set = {1, 2, 3, 4}
 {2, 3, 4}, {2, 3, 5}, {2, 4, 5},  
 {3, 4, 5}  
 
+
+#### Problem 10
+![Problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_10.jpg)
+### Solution
+As our purpose is to get the largest digit on the leftmost side and all digits on decreasing order then.
+
+Step 1) if a_{n - 1} < a_n
+swap(a_{n - 1}, a_n)
+Step 2) if a_{n - 2} < a_{n - 1}
+then get a_{n - 1} or a_n > a_{n - 2}
+and then in increasing order.
+
+Therefore, this solves the lexographic purpose.
+
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
