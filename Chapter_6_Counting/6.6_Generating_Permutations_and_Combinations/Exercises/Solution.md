@@ -147,8 +147,8 @@ Set = {1, 2, 3, 4}
 #### Problem 10
 ![Problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_10.jpg)
 ### Solution
-As our purpose is to get the largest digit on the leftmost side and all digits on decreasing order then.
 
+As our purpose is to get the largest digit on the leftmost side and all digits on decreasing order then.
 Step 1) if a_{n - 1} < a_n
 swap(a_{n - 1}, a_n)
 Step 2) if a_{n - 2} < a_{n - 1}
@@ -157,6 +157,14 @@ and then in increasing order.
 
 Therefore, this solves the lexographic purpose.
 
+
+#### Problem 11
+![Problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_11.jpg)
+### Solution
+
+The next larger r-combination must differ from the old one in position i, since i + 1, i + 2, ....., i + r.
+occupied by the largest possible number (i + n - r + 1 to n)
+Therefore, It is an r-combination algoritgm.
 
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
