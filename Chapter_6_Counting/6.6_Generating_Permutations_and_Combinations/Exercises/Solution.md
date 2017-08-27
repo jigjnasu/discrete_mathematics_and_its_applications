@@ -128,12 +128,12 @@
 #### Problem 8
 ![Problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_8.jpg)
 ### Solution
-Set = {1, 2, 3, 4}
-{},
-{1}, {2}, {3}, {4},
-{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4},
-{1, 2, 3}, {1, 2, 4}, {1, 3, 4}, {2, 3, 4},
-{1, 2, 3, 4}
+Set = {1, 2, 3, 4}  
+{},  
+{1}, {2}, {3}, {4},  
+{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4},  
+{1, 2, 3}, {1, 2, 4}, {1, 3, 4}, {2, 3, 4},  
+{1, 2, 3, 4}  
 
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
