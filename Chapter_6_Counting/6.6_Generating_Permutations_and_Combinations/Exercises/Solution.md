@@ -80,6 +80,20 @@
 |    31528764  |      3154267      |
 
 
+#### Problem 6
+![Problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_6.jpg)
+
+### Solution
+|  Permutation | Next Permutaion   |
+|:------------:|:-----------------:|
+|     1342     |       1423        |
+|     45321    |       51234       |
+|     13245    |       13254       |
+|    612345    |      612354       |
+|   1623547    |     1623574       |
+|   23587416   |     23614578      |
+
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
