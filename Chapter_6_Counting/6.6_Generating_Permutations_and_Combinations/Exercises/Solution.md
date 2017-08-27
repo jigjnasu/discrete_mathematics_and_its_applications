@@ -94,6 +94,37 @@
 |   23587416   |     23614578      |
 
 
+#### Problem 7
+![Problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_7.jpg)
+### Solution
+|  S.No | Permutaion   |
+|:-----:|:------------:|
+|  1    |    1234      |
+|  2    |    1243      |
+|  3    |    1324      |
+|  4    |    1342      |
+|  5    |    1423      |
+|  6    |    1432      |
+|  7    |    2134      |
+|  8    |    2143      |
+|  9    |    2314      |
+| 10    |    2341      |
+| 11    |    2413      |
+| 12    |    2431      |
+| 13    |    3124      |
+| 14    |    3142      |
+| 15    |    3214      |
+| 16    |    3241      |
+| 17    |    3412      |
+| 18    |    3421      |
+| 19    |    4123      |
+| 20    |    4132      |
+| 21    |    4213      |
+| 22    |    4231      |
+| 23    |    4312      |
+| 24    |    4321      |
+
+
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
 
