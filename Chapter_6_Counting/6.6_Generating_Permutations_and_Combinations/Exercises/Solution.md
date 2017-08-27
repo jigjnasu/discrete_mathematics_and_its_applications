@@ -133,7 +133,15 @@ Set = {1, 2, 3, 4}
 {1}, {2}, {3}, {4},  
 {1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4},  
 {1, 2, 3}, {1, 2, 4}, {1, 3, 4}, {2, 3, 4},  
-{1, 2, 3, 4}  
+{1, 2, 3, 4}
+
+
+#### Problem 9
+![Problem 9](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_9.jpg)
+### Solution
+{1, 2, 3}, {1, 2, 4}, {1, 2, 5}, {1, 3, 4}, {1, 3, 5}, {1, 4, 5},  
+{2, 3, 4}, {2, 3, 5}, {2, 4, 5},  
+{3, 4, 5}  
 
 #### Problem 12
 ![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
