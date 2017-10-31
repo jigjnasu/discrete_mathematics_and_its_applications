@@ -59,6 +59,23 @@ std::vector<Meeting> max_audience_schedule(const std::vector<Meeting>& meets, in
     return schedule;
 }
 
+void max_audience_dp(const std::vector<Meeting>& meets,
+                     const Meeting& m,
+                     std::size_t index, int& max) {
+    if (index >= meets.size()) {
+        return;
+    } else {
+        if (m.end_time() >= meets[index].start_time() &&
+            m.end_time() <= meets[index].end_time()) {
+            const Meeting t = max_audience(m, meets[index]);
+            max_audience_dp(meets, t, ++index, max);
+        } else {
+            max += m.audience();
+            max_audience_dp(meets, meets[index], index + 1, max);
+        }
+    }
+}
+
 void test_meeting_scheduler() {
     std::vector<Meeting> meets = meetings();
     print(meets);
@@ -71,11 +88,17 @@ void test_meeting_scheduler() {
     int max = 0;
     const std::vector<Meeting> best_schedule = max_audience_schedule(meets, max);
 
+    int max_dp = 0;
+    max_audience_dp(meets, meets[0], 1, max_dp);
     printf("-------------------------------------------------------------\n");
     printf("--------------------- Best Schedule -------------------------\n");
     printf("-------------------------------------------------------------\n");
     print(best_schedule);
     printf("Total Audience == [%d]\n", max);
+    printf("-------------------------------------------------------------\n");
+    printf("--------------------- Best Schedule(DP) ---------------------\n");
+    printf("-------------------------------------------------------------\n");
+    printf("Total Audience == [%d]\n", max_dp);
 }
 
 int main() {
