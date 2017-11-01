@@ -72,11 +72,11 @@ Matrix<2> power(Matrix<2>& m, int n) {
     } else if (n == 1){
         return m;
     } else {
-        Matrix<2> m = power(m, n >> 1);
+        Matrix<2> t = power(m, n >> 1);
         if (n % 2)
-            return m * m * m;
+            return m * t * t;
         else
-            return m * m;
+            return t * t;
     }
 }
 
@@ -90,10 +90,7 @@ Matrix<2> power(Matrix<2>& m, int n) {
 int fibonacci_matrix(int n) {
     int m[2][2] = {{1, 1}, {1, 0}};
     Matrix<2> mat(m);
-    mat.print();
-    Matrix<2> temp = power(mat, n);
-    temp.print();
-    return temp.get();
+    return power(mat, n).get(0, 0);
 }
 
 void test_fibonacci() {
@@ -125,7 +122,7 @@ void test_fibonacci() {
     // test the matrix based fibonacci series
     start = std::clock();
     printf("-- Matrix Power Multiplication Fibonacci -- \n");
-    for (int n = 1; n <= 35; ++n)
+    for (int n = 0; n < 35; ++n)
         printf("%d ", fibonacci_matrix(n));
     printf(" || [[%.8lf] seconds]\n",
            (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
