@@ -45,7 +45,7 @@ template <typename T>
 void TowerOfHanoi<T>::m_execute(int n, Stack<T>& source, Stack<T>& temp, Stack<T>& target) {
     if (n >= 0) {
         m_execute(n - 1, source, target, temp);
-        if (m_move(target, source)) return;
+        m_move(target, source);
 
         m_print();
 
@@ -71,13 +71,10 @@ bool TowerOfHanoi<T>::m_move(Stack<T>& source, Stack<T>& target) {
         source.pop();
     } else {
         source.push(target.top());
-        target.pop();
+        target.pop(
+            
+            );
     }
-
-    if (m_target.size() == m_size && m_target.top() == 1)
-        return true;
-    else
-        return false;
 }
 
 template <typename T>
