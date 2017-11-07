@@ -103,3 +103,14 @@ Number of steps for 8 stairs == 34
 Number of steps for 8 stairs == 68
 
 ![Solution 12 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_12_c.jpg)
+
+
+![Problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_13.jpg)
+
+#### Solution (a and b)
+![Solution 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_13.jpg)
+
+#### Solution c)
+Number of steps for 8 stairs == 68
+
+![Solution 13 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_13_c.jpg)
