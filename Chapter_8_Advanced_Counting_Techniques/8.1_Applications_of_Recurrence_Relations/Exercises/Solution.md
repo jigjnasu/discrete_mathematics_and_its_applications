@@ -81,3 +81,14 @@ Bitstring of length 7 == 81
 Bitstring of length 7 == 120
 
 ![Solution 10 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_10_c.jpg)
+
+
+![Problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_11.jpg)
+
+#### Solution (a and b)
+![Solution 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_11.jpg)
+
+#### Solution c)
+Number of steps for 8 stairs == 34
+
+![Solution 11 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_11_c.jpg)
