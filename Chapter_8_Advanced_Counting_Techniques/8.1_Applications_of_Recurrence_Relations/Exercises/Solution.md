@@ -183,3 +183,15 @@ Number of Ternary Strings of n(6) == 633
 Total Messages [1 + 2 + 3 + 5 + 8 + 13 + 21 + 34 + 55 + 89 = 231]
 
 ![Solution 19 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_19_c.jpg)
+
+
+
+![Problem 20](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_20.jpg)
+
+#### Solution a)
+![Solution 20](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_20_a.jpg)
+
+#### Solution b)
+Total ways = 45
+
+![Solution 20 b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_20_b.jpg)
