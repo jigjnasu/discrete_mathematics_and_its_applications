@@ -111,7 +111,7 @@ Number of steps for 8 stairs == 68
 ![Solution 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_13.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 448
+Number of Ternary Strings of n(6) == 448
 
 ![Solution 13 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_13_c.jpg)
 
@@ -122,7 +122,7 @@ Number of Bit Strings of n(6) == 448
 ![Solution 14](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_14.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 281
+Number of Ternary Strings of n(6) == 281
 
 ![Solution 14 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_14_c.jpg)
 
@@ -133,7 +133,7 @@ Number of Bit Strings of n(6) == 281
 ![Solution 15](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_15.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 239
+Number of Ternary Strings of n(6) == 239
 
 ![Solution 15 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_15_c.jpg)
 
@@ -145,7 +145,7 @@ Number of Bit Strings of n(6) == 239
 ![Solution 16](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_16.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 245
+Number of Ternary Strings of n(6) == 245
 
 ![Solution 16 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_16_c.jpg)
 
@@ -157,7 +157,7 @@ Number of Bit Strings of n(6) == 245
 ![Solution 17](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_17.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 96
+Number of Ternary Strings of n(6) == 96
 
 ![Solution 17 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_17_c.jpg)
 
@@ -168,6 +168,6 @@ Number of Bit Strings of n(6) == 96
 ![Solution 18](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_18.jpg)
 
 #### Solution c)
-Number of Bit Strings of n(6) == 96
+Number of Ternary Strings of n(6) == 633
 
 ![Solution 18 c](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_18_c.jpg)
