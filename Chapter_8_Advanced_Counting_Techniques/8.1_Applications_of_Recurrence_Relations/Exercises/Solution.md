@@ -237,3 +237,9 @@ Total ways = 45
 
 #### Source Code)
 ![Source Code](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/code_24.jpg)
+
+
+![Problem 25](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_25.jpg)
+
+#### Solution)
+2 ^ 7 - 1 = 63 bit strings
