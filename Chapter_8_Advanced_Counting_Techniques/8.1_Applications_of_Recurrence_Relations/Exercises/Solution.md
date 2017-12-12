@@ -235,5 +235,5 @@ Total ways = 45
 ![Solution 24](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/solution_24.jpg)
 
 
-#### Solution)
-![Program](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/program_24.jpg)
+#### Source Code)
+![Source Code](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/code_24.jpg)
