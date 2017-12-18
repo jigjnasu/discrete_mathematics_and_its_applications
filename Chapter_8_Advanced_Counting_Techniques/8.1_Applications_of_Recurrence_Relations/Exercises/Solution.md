@@ -254,3 +254,10 @@ Total ways = 45
 
 #### Solution c)
 There are 2584 ways for 17 [2 X 1] dominoes.
+
+
+
+![Problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_27.jpg)
+
+#### Solution a and b)
+
