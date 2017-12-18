@@ -260,4 +260,17 @@ There are 2584 ways for 17 [2 X 1] dominoes.
 ![Problem 27](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_27.jpg)
 
 #### Solution a and b)
+Let Red / Green / Gray can be picked to pick 1 tile.
+
+Then at n - 1 level we will have 2 options, so we can say an = 2a(n - 1).
+
+With same logic we can say that at n - 2 level we will have an = 2a(n - 2).
+
+So recurrence relation is an = 2an - 1 + 2an - 2.
+
+With Basic step a0 = 1 and a1 = 3.
+
+#### Solution c)
+There are 1224 ways to put 3 colored tiles.
+
 
