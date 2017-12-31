@@ -274,3 +274,6 @@ With Basic step a0 = 1 and a1 = 3.
 There are 1224 ways to put 3 colored tiles.
 
 
+![Problem 28](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.1_Applications_of_Recurrence_Relations/Exercises/repo/problem_28.jpg)
+
+#### Solution)
