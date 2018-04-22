@@ -62,3 +62,9 @@
 
 #### Solution
 ![solution 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/repo/example_12/solution_12.jpg)
+
+
+![Example 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/repo/example_13/example_13.jpg)
+
+#### Solution
+![solution 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/repo/example_13/solution_13.jpg)
