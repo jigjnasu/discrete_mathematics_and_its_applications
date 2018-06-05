@@ -12,3 +12,5 @@
 
 #### Solution
 ![Solution a](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/Exercises/repo/solution_3_a.jpg)
+
+![Solution b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/Exercises/repo/solution_3_b.jpg)
