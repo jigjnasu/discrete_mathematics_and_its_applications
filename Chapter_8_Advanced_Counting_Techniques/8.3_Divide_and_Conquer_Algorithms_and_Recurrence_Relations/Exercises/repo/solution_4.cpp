@@ -35,23 +35,34 @@ int normal_multiplay(int a, int b) {
     return a * b;
 }
 
-int random(int s, int e) {
-    return s + rand() % (e - s + 1);
+std::vector<int> get_random_numbers(int s, int e, int n) {
+    std::vector<int> v;
+    for (int i = 0; i < 2 * n; ++i)
+        v.push_back(s + rand() % (e - s + 1));
+
+    return v;
 }
 
 int unit_test() {
     printf("-----------------------------------------------------------------------------------------\n");
     printf("-----------------------------------------------------------------------------------------\n");
-    for (int i = 0; i < 30; ++i) {
-        const int a = random(1, 10000);
-        const int b = random(1, 10000);
+    const std::vector<int> v = get_random_numbers(1, 100000, 30);
 
-        const int x = fast_multiply(a, b);
-        const int y = normal_multiplay(a, b);
+    std::vector<int> rfm;
+    std::clock_t start = std::clock();
+    for (std::size_t i = 0; i < v.size(); i += 2)
+        rfm.push_back(fast_multiply(v[i], v[i + 1]));
+    printf("Execution time for fast multiplication   == [%.08lf] seconds\n", (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
 
-        printf("[%8d] * [%8d] == [%16d] || [%16d] || result == %s\n",
-               a, b, x, y, x == y ? "PASS" : "FAIL");
-    }
+    std::vector<int> rnm;
+    start = std::clock();
+    for (std::size_t i = 0; i < v.size(); i += 2)
+        rnm.push_back(fast_multiply(v[i], v[i + 1]));
+    printf("Execution time for normal multiplication == [%.08lf] seconds\n", (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+
+    for (std::size_t i = 0; i < rnm.size(); ++i)
+        printf("[%8d] * [%8d] == [%16d] || [%16d] || result == [%s]\n",
+               v[2 * i], v[2 * i + 1], rfm[i], rnm[i], rfm[i] == rnm[i] ? "PASS" : "FAIL");
     printf("-----------------------------------------------------------------------------------------\n");
     printf("-----------------------------------------------------------------------------------------\n");
 }
