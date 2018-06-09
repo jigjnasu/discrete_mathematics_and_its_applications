@@ -38,3 +38,4 @@
 
 ![Solution e](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/Exercises/repo/solution_4_e.jpg)
 
+![Solution f](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.2_Solving_Linear_Recurrence_Relations/Exercises/repo/solution_4_f.jpg)
