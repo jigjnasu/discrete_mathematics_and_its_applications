@@ -22,7 +22,7 @@ void test_divide_and_conquer(const std::vector<int>& list) {
 
 void book_test_cases() {
     const std::vector<int> a_list = {-2, 4, -1, 3, 5, -6, 1, 2};
-    const std::vector<int> b_list = {-3, 7, -1, -5, 3, -2};
+    const std::vector<int> b_list = {4, 1, -3, 7, -1, -5, 3, -2};
     const std::vector<int> c_list = {-1, 6, 3, -4, -5, 8, -1, 7};
 
     printf("Test case {a} from the book --------------------------\n");
