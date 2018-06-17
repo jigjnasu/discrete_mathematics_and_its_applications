@@ -18,7 +18,7 @@ int discrete_mathematics::chapter_8::Iterative::Max(const std::vector<int>& list
     discrete_mathematics::chapter_8::Utility<int> util;
     int max = list[0];
 
-    for (std::size_t i = 1; i < list.size(); ++i) {
+    for (std::size_t i = 0; i < list.size(); ++i) {
         int m = list[i];
         max = util.Max(max, m);
 

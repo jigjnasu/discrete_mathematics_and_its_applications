@@ -1,6 +1,5 @@
 #include "solution_23_c.h"
 #include "utility.h"
-#include <cstdio>
 
 discrete_mathematics::chapter_8::DivideAndConquer::DivideAndConquer() {}
 discrete_mathematics::chapter_8::DivideAndConquer::~DivideAndConquer() {}
