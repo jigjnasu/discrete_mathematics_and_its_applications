@@ -1,5 +1,6 @@
 #include "solution_23_c.h"
 #include "utility.h"
+#include <cstdio>
 
 discrete_mathematics::chapter_8::DivideAndConquer::DivideAndConquer() {}
 discrete_mathematics::chapter_8::DivideAndConquer::~DivideAndConquer() {}
@@ -9,6 +10,7 @@ int discrete_mathematics::chapter_8::DivideAndConquer::Max(const std::vector<int
 }
 
 int discrete_mathematics::chapter_8::DivideAndConquer::m_max(const std::vector<int>& list, int s, int e) {
+    printf("%d || %d\n", s, e);
     if (s == e) {
         return list[s];
     } else {
