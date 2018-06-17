@@ -58,3 +58,8 @@
 [solution_23_a.h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_a.h)
 
 [solution_23_a.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_a.cpp)
+
+
+##### Solution b)
+![Problem 23 b](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_b.jpg)
+
