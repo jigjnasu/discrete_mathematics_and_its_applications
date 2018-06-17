@@ -72,5 +72,12 @@
 [solution_23_c.cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_c.cpp)
 
 
-##### Solution d)
+##### Solution d 1)
 ![Problem 23 d 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_d_1.jpg)
+
+##### Solution d 2)
+![Problem 23 d 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_d_2.jpg)
+
+
+##### Solution d 3)
+![Problem 23 d 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_8_Advanced_Counting_Techniques/8.3_Divide_and_Conquer_Algorithms_and_Recurrence_Relations/Exercises/repo/problem_23/solution_23_d_3.jpg)
