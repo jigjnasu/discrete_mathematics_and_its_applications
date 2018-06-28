@@ -1,5 +1,5 @@
-#include "HallManager.h"
-#include "Meeting.h"
+#include "hall_manager.h"
+#include "meeting.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
