@@ -1,4 +1,4 @@
-#include "MergeSort.h"
+#include "merge_sort.h"
 
 namespace ds = discrete_mathematics::chapter_3::solution_38;
 
