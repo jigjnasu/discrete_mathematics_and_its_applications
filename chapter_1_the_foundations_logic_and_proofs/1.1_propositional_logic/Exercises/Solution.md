@@ -1,8 +1,8 @@
 # Exercises
 
-![Question 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/Q1.png)
+![Question 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/Exercises/repo/Q1.png)
 #### Solution
-![Answer 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/A1.png)
+![Answer 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/Exercises/repo/A1.png)
 
 ![Question 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/Chapter_1_The_Foundations_Logic_and_Proofs/1.1_Propositional_Logic/Exercises/repo/Q2.png)
 #### Solution
