@@ -7,52 +7,52 @@
 ![output 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_1.jpg)
 
 
-![problem 2]()
+![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_2.jpg)
 ### Solution -- O(n ^ 2)
 [solution_2.h]()
 
 [solution_2.cpp]()
 
-![output 2]()
+![output 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_2.jpg)
 
 
-![problem 3]()
+![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_3.jpg)
 ### Solution -- O(n ^ 2)
 [solution_3.h]()
 
 [solution_3.cpp)]()
 
-![output 3]()
+![output 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_3.jpg)
 
 
-![problem 4]()
+![problem 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_4.jpg)
 ### Solution -- O(lg n)
 [solution_4.h]()
 
 [solution_4.cpp]()
 
-![output 4]()
+![output 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_4.jpg)
 
 
-![problem 5]()
+![problem 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_5.jpg)
 ### Solution -- O(n)
 [solution_5.h]()
 
 [solution_5.cpp]()
 
-![output 5]()
+![output 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_5.jpg)
 
 
-![problem 6]()
+![problem 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_6.jpg)
 ### Solution -- O(1)
 [solution_6.h]()
 
 [solution_6.cpp]()
 
-![output 6]()
+![output 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_6.jpg)
 
 ### Solution -- 6(b)
-![solution 6 b]()
+![solution 6 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_6_b.jpg)
 
 
 ![problem 7]()
