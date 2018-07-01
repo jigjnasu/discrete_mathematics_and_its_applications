@@ -64,13 +64,13 @@
 #### Sequence
 1 1 2 6 24 120 720 5040 40320 362880 3628800 39916800 479001600 1932053504 1278945280 ...
 
-![Problem 16]()
+![Problem 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_16.jpg)
 
 ## Solution for Problem 16 a
-[Solution 16 a.cpp]()
+[Solution 16 a.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_16_a.cpp)
 #### Derevation of iterative solution
 
-![Iterative a]()
+![Iterative a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_16_a.jpg)
 
 #### Sequence
 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 -5 5 ...
