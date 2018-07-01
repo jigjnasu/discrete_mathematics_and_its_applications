@@ -160,7 +160,7 @@
 
 ![problem 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_26.jpg)
 ### Solution
-![solution_26.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_26.cpp)
+![solution_26.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_26.jpg)
 
 ![problem 27](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_27.jpg)
 ### Solution
