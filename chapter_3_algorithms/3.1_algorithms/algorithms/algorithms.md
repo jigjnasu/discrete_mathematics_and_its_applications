@@ -2,7 +2,7 @@
 [algorithm_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.cpp)
 
 ![Algorithm 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.jpg)
-[algorithm_2.cpp] (https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_2.cpp)
+[algorithm_2.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_2.cpp)
 
 ![Algorithm 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_3.jpg)
 [algorithm_3.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_3.cpp)
@@ -17,10 +17,10 @@
 [algorithm_6.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_6.cpp)
 
 ![Algorithm 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7.jpg)
-[algorithm_7.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7.cpp)
+[algorithm_7.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7/algorithm_7.cpp)
 
-[meeting.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/meeting.h)
+[meeting.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7/meeting.h)
 
-[meeting.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/meeting.cpp)
+[meeting.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7/meeting.cpp)
 
 
