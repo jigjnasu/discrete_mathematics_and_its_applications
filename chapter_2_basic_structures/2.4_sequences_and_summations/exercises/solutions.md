@@ -217,48 +217,48 @@
 #### Total amount after [100] years with [9.000000] rate of interest == [5529040.791826]
 [Solution 18 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_18_c.cpp)
 
-![Problem 19]()
+![Problem 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_19.jpg)
 
 ## Solution a)
 
-![Solution 19 a]()
+![Solution 19 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_a.jpg)
 
 ## Solution b)
-####Total bacterial population grows from [100] to [5904900] in [10] hours
-[Solution 19 b.cpp]()
+#### Total bacterial population grows from [100] to [5904900] in [10] hours
+[Solution 19 b.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_b.cpp)
 
-![Problem 20]()
+![Problem 20](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_20.jpg)
 
 ## Solution a)
 
-![Solution 20 a]()
+![Solution 20 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_a.jpg)
 
 ## Solution b)
 
-![Solution 20 a]()
+![Solution 20 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_b.jpg)
 
 ## Solution c)
-####Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
-[Solution 20 c.cpp]()
+#### Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
+[Solution 20 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_c.cpp)
 
-![Problem 21]()
+![Problem 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_21.jpg)
 
 ## Solution a)
 
-![Solution 21 a]()
+![Solution 21 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_21_a.jpg)
 
 ## Solution b)
-####After [12] months [78] cars will be produced
-[Solution 21 b.cpp]()
+#### After [12] months [78] cars will be produced
+[Solution 21 b.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_21_b.cpp)
 
 ## Solution c)
-![Solution 21 c]()
+![Solution 21 c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_21_c.jpg)
 
-![Problem 22]()
+![Problem 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_22.jpg)
 
 ## Solution a)
 
-![Solution 22 a]()
+![Solution 22 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_22_a.jpg)
 
 ## Solution b)
 ####Salary Iterative solution
@@ -287,14 +287,14 @@
 | 2016 |  78497.029586  |
 | 2017 |  83421.881065  |
 
-[Solution 22 b.cpp]()
+[Solution 22 b.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_22_b.cpp)
 
 ## Solution c)
-![Solution 22 c]()
+![Solution 22 c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_22_c.jpg)
 
-![Problem 23]()
+![Problem 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_23.jpg)
 
-[Solution 23.cpp]()
+[Solution 23.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_22.cpp)
 
 | Month  | Principal Paid | Interest Paid | Outstanding Principal |
 |:------:|:--------------:|:-------------:|:---------------------:|
@@ -343,6 +343,6 @@
 |  43    |    98.973164   |   1.026836]   |    75.002212          |
 |  44    |    99.562487   |   0.437513]   |    -25.435301         |
 
-![Solution 23]()
+![Solution 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_23.jpg)
 
 
