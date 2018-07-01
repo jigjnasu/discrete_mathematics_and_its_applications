@@ -18,7 +18,7 @@
 ![Algorithm 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_2.jpg)
 
 ### Source Code
-[Algorithm 2 (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_2.cpp)
+[algorithm_2.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_2.cpp)
 
 ### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/output_2.jpg)
