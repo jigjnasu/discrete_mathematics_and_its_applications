@@ -43,7 +43,7 @@
 
 ##### This class has binary implementation for binary number addition, subraction, multiplication and comparisions.
 
-[binary_5.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/binary/binary.h)
+[binary.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/binary/binary.h)
 
 [binary.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/binary/binary.cpp)
 
