@@ -2,15 +2,15 @@
 
 ### Source Code
 
-[Main (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/Main.cpp)
+[main.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/main.cpp)
 
-[BaseConversion (.h)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/BaseConversion.h)
+[base_conversion.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/base_conversion.h)
 
-[BaseConversion (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/BaseConversion.cpp)
+[base_conversion.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/base_conversion.cpp)
 
-[Conversion (.h)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/Conversion.h)
+[conversion.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/conversion.h)
 
-[Conversion (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/Conversion.cpp)
+[conversion.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_1/conversion.cpp)
 
 ### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/output_1.jpg)
@@ -26,7 +26,7 @@
 ![Algorithm 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_3.jpg)
 
 ### Source Code
-[Algorithm 3 (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_3.cpp)
+[algorithm_3.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_3.cpp)
 
 ### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/output_3.jpg)
@@ -35,7 +35,7 @@
 ![Algorithm 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_5.jpg)
 
 ### Source Code
-[Algorithm 5 (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_5.cpp)
+[algorithm_5.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_4_number_theory_and_cryptography/4.2_integer_representations_and_algorithms/algorithms/repo/algorithm_5.cpp)
 
 
 
@@ -43,11 +43,11 @@
 
 ##### This class has binary implementation for binary number addition, subraction, multiplication and comparisions.
 
-[binary 5 (.h)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Binary.h)
+[binary_5.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/binary.h)
 
-[Binary (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Binary.cpp)
+[binary.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/binary.cpp)
 
-[Main (.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/Main.cpp)
+[main.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.2_Integer_Representations_And_Algorithms/Binary/main.cpp)
 
 ### Output
 
