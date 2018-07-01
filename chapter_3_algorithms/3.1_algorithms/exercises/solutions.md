@@ -333,7 +333,7 @@
 
 ![problem 56](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_56.jpg)
 ### Solution
-[solution_56.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_56.jpg)
+[solution_56.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_56.cpp)
 
 If we can calculate 12(cents) coin before any of the lower denomination, we can't get the accurate change with fewer coins.
 
