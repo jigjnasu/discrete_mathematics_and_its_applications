@@ -287,7 +287,7 @@ Yes it is a optimal soltution.
 
 [solution_26.cpp]()
 
-![solution 26]()
+![solution 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_26.jpg)
 
 
 ![problem 27](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_27.jpg)
