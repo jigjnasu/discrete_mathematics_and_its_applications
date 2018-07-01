@@ -18,49 +18,49 @@
 
 ## c)
 #### Recurrence Relation
-![relation c]()
+![relation c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_c.jpg)
 
-[c.cpp]()
+[c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/c.cpp)
 #### Sequence
 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ....
 
 ## d)
 #### Recurrence Relation
-![relation d]()
+![relation d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_d.jpg)
 
-[d.cpp]()
+[d.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/d.cpp)
 #### Sequence
 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 ....
 
 ## e)
 #### Recurrence Relation
-![relation e]()
+![relation e](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_e.jpg)
 
-[e.cpp]
+[e.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/e.cpp)
 #### Sequence
 0 1 4 9 16 25 36 49 64 81 100 121 144 169 196 225 256 289 324 361 400 ...
 
 ## f)
 #### Recurrence Relation
-![relation f]()
+![relation f](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_f.jpg)
 
-[f.cpp]()
+[f.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/f.cpp)
 #### Sequence
 0 2 6 12 20 30 42 56 72 90 110 132 156 182 210 240 272 306 342 380 420 ...
 
 ## g)
 #### Recurrence Relation
-![relation g]()
+![relation g](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_g.jpg)
 
-[g.cpp]()
+[g.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/g.cpp)
 #### Sequence
 1 0 3 2 5 4 7 6 9 8 11 10 13 12 15 14 17 16 19 18 21 ...
 
 ## h)
 #### Recurrence Relation
-![relation h]()
+![relation h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/recurrence_relation_h.jpg)
 
-[h.cpp]()
+[h.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/h.cpp)
 #### Sequence
 1 1 2 6 24 120 720 5040 40320 362880 3628800 39916800 479001600 1932053504 1278945280 ...
 
