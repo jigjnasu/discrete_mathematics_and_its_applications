@@ -294,7 +294,7 @@
 
 ![Problem 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_23.jpg)
 
-[Solution 23.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_22.cpp)
+[Solution 23.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_23.cpp)
 
 | Month  | Principal Paid | Interest Paid | Outstanding Principal |
 |:------:|:--------------:|:-------------:|:---------------------:|
