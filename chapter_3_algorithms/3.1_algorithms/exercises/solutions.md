@@ -385,5 +385,5 @@ If we have less halls let's just 2 in this above example, we can't book all the 
 In that case we can't schedule all meetings and we need to drop some.
 See the result if the meeting halls are only 2.
 
-![solution 59](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_59.jpg)
+![solution 59 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_59_b.jpg)
 
