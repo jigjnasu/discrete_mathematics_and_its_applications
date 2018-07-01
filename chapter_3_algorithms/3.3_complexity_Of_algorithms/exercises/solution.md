@@ -55,7 +55,7 @@
 ![solution 6 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_6_b.jpg)
 
 
-![problem 7]()
+![problem 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_7.jpg)
 ### Solution
 ##### Linear Search, will always have worst case scenario 4 comparrisons. Therefore the O(1)
 ##### Binary Search, will have O(lg n), because of divide and conquer. So lg(32) is 5.
@@ -63,10 +63,10 @@
 
 [solution_7.cpp]()
 
-![output 7]()
+![output 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_7.jpg)
 
 
-![problem 8]()
+![problem 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_8.jpg)
 ### Solution
 ##### Naive Iterative Power Algorithm, will always have worst case of n multiplication,
 therefore, when n grows, the time complexity grows with n as well. But this is not the best solution
@@ -79,10 +79,10 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 [solution_8.cpp]()
 
-![output 8]()
+![output 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_8.jpg)
 
 
-![problem 9]()
+![problem 9](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_9.jpg)
 ###Solution
 ##### As it is a simple iterative approach to check wether bit is 1 or not, it will have O(n) complexity.
 
@@ -91,7 +91,7 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 [solution_9.cpp]()
 
 
-![problem 10]()
+![problem 10](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_10.jpg)
 ### Solution
 ##### As the number of ones' bits count is correct, therefore, the algorithm is okay.
 
@@ -104,7 +104,7 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 
 
-![problem 11]()
+![problem 11](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_11.jpg)
 ### Solution
 ##### As we are iterating through all the subsets first. (n iterations)
 ##### And comparing with all other subsets for disjoint sets. (n iterations)
@@ -121,10 +121,10 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ##### 2. Trying to find out the number in Si th subset by comparing all values. (n iteartions)
 ##### 3. Time complexity O(n ^ 2)
 
-![output 11]()
+![output 11](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_11.jpg)
 
 
-![problem 12]()
+![problem 12](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_12.jpg)
 ### Solution
 ##### 1. From the first loop, we have n iterations.
 ##### 2. From the second loop, we have n / 2 iterations.
@@ -141,97 +141,97 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 
 ### Solution 12(b)
 
-![problem 13]()
+![problem 13](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_13.jpg)
 ### Solution
 
 [solution_13.h]()
 
 [solution_13.cpp]()
 
-![output 13]()
+![output 13](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_13.jpg)
 
 ### Solution 13(a)
 ##### Answer is 15
-![solution 13 (a)]()
-![output 13 (a)]()
+![solution 13 (a)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_13_a.jpg)
+![output 13 (a)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_13_a.jpg)
 
 ### Solution 13(b)
 ##### At each iteration till n we will have y = y + cofficent * power(x, i), where i = 0 to n - 1.
 ##### Therefore, we will have n multiplications and n additions, so 2n.
 
 
-![problem 14]()
+![problem 14](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_14.jpg)
 ### Solution
 
 [solution_14.h]()
 
 [solution_14.cpp]()
 
-![output 14]()
+![output 14](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_14.jpg)
 
 ### Solution 14(a)
 ##### Answer is 15
-![solution 14(a)]()
-![output 14(a)]()
+![solution 14(a)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_14_a.jpg)
+![output 14(a)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_14_a.jpg)
 
 ### Solution 14(b)
 ##### At each iteration till n we will have y = y * x  + cofficent
 ##### Therefore, we will have n multiplications and n additions, so 2n.
 
 
-![problem 15]()
+![problem 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_15.jpg)
 ### Solution
 
 [solution_15.h]()
 
 [solution_15.cpp]()
 
-![output 15]()
+![output 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_15.jpg)
 
 
-![problem 16]()
+![problem 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_16.jpg)
 ### Solution
 
 [solution_16.h]()
 
 [solution_16.cpp]()
 
-![output 16]()
+![output 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_16.jpg)
 
 
-![problem 17]()
+![problem 17](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_17.jpg)
 ### Solution
 
 [solution17_.h]()
 
 [solution_17.cpp)]()
 
-![output 17]()
+![output 17](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_17.jpg)
 
 
-![problem 18]()
+![problem 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_18.jpg)
 ### Solution
-![solution 18]()
+![solution 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_18.jpg)
 
 
-![problem 19]()
+![problem 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_19.jpg)
 ### Solution
-![solution 19]()
+![solution 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_19.jpg)
 
 
-![problem 20]()
+![problem 20](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_20.jpg)
 ### Solution
-![solution 20]()
+![solution 20](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_20.jpg)
 
 
-![problem 21]()
+![problem 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_21.jpg)
 ### Solution
-![solution 21]()
+![solution 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_21.jpg)
 
 
-![problem 22]()
+![problem 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_22.jpg)
 
-![solution 22]()
+![solution 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_22.jpg)
 
 ### Solution (a)
 ##### To find out the maximum interger of n elements in a list.
@@ -249,14 +249,14 @@ So when n grows time complexity will grow by lg n, which will me very efficient 
 ##### Total time cost = 3lg(n), Time Comlexity = O(lg(n))
 
 
-![problem 23]()
+![problem 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_23.jpg)
 ### Solution
-![solution 23]()
+![solution 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_23.jpg)
 
 
-![problem 24]()
+![problem 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_24.jpg)
 ### Solution
-![solution 24]()
+![solution 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_24.jpg)
 
 ###Solution (a)
 #### Explanation:--
@@ -270,17 +270,17 @@ By looking at the above arguments it seems that linear search for max element is
 Yes it is a optimal soltution.
 
 
-![problem 25]()
+![problem 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_25.jpg)
 ### Solution
 
 [solution_25.h]()
 
 [solution_25.cpp]()
 
-![solution 25]()
+![solution 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_25.jpg)
 
 
-![problem 26]()
+![problem 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_26.jpg)
 ### Solution
 
 [solution_26.h]()
@@ -290,117 +290,117 @@ Yes it is a optimal soltution.
 ![solution 26]()
 
 
-![problem 27]()
+![problem 27](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_27.jpg)
 ### Solution
 
 [solution_27.h]()
 
 [solution_27.cpp]()
 
-![solution 27]()
+![solution 27](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_27.jpg)
 
 
 
-![problem 28]()
+![problem 28](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_28.jpg)
 ### Solution
 
 [solution_28.h]()
 
 [solution_28.cpp]()
 
-![solution 28]()
+![solution 28](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_28.jpg)
 
 
 
-![problem 29]()
+![problem 29](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_29.jpg)
 ### Solution
 
 [solution_29.h]()
 
 [solution_29.cpp]()
 
-![solution 29]()
+![solution 29](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_29.jpg)
 
 
-![problem 30]()
+![problem 30](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_30.jpg)
 ### Solution
 
 [solution_30.h]()
 
 [solution_30.cpp]()
 
-![solution 30]()
+![solution 30](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_30.jpg)
 
 
 
-![problem 31]()
+![problem 31](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_31.jpg)
 ### Solution
 
 [solution_31.h]()
 
 [solution_31.cpp]()
 
-![solution 31]()
+![solution 31](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_31.jpg)
 
 
-![problem 32]()
+![problem 32](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_32.jpg)
 ### Solution
 
 [solution_32.h]()
 
 [solution_32.cpp]()
 
-![solution 32]()
+![solution 32](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_32.jpg)
 
 
-![problem 33]()
+![problem 33](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_33.jpg)
 ### Solution
 
 [solution_33.h]()
 
 [solution_33.cpp]()
 
-![solution 33]()
+![solution 33](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_33.jpg)
 
 
 
-![problem 34]()
+![problem 34](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_34.jpg)
 ### Solution
 
 [solution_34.h]()
 
 [solution_34.cpp]()
 
-![solution 34]()
+![solution 34](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_34.jpg)
 
 
-![problem 35]()
+![problem 35](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_35.jpg)
 ### Solution
 
 [solution_35.h]()
 
 [solution_35.cpp]()
 
-![solution 35]()
+![solution 35](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_35.jpg)
 
 
-![problem 36]()
+![problem 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_36.jpg)
 ### Solution
 
 [solution_36.h]()
 
 [solution_36.cpp]()
 
-![solution 36]()
+![solution 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_36.jpg)
 
 
-![problem 37]()
+![problem 37](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_37.jpg)
 ### Solution
 
-![solution 37]()
+![solution 37](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_37.jpg)
 
 
-![problem 38]()
+![problem 38](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_1.jpg)
 ### Solution
 
 [time.h]()
@@ -422,43 +422,43 @@ Yes it is a optimal soltution.
 [main.cpp]()
 
 ### Time Compexity Calculation
-![solution 38]()
+![solution 38](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_38.jpg)
 
 ### Output
-![output 38]()
+![output 38](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_38.jpg)
 
 
-![problem 39]()
+![problem 39](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_39.jpg)
 ### Solution
 
-![solution 39]()
+![solution 39](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_39.jpg)
 
 
-![problem 40]()
+![problem 40](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_40.jpg)
 ### Solution a
 
-![solution a]()
+![solution a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_40_a.jpg)
 
 ### Solution b
 
-![solution b]()
+![solution b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_40_b.jpg)
 
 ### Solution c
 
-![solution c]()
+![solution c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_40_c.jpg)
 
 ### Solution d
 
-![solution d]()
+![solution d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_40_d.jpg)
 
 
-![problem 41]()
+![problem 41](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_41.jpg)
 ### Solution
 
-![solution 41]()
+![solution 41](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_41.jpg)
 
 
-![problem 42]()
+![problem 42](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_42.jpg)
 ### Solution
 
 [solution_42.h]()
@@ -466,31 +466,31 @@ Yes it is a optimal soltution.
 [solution_42.cpp]()
 
 ### Algorithm
-![solution 42]()
+![solution 42](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_42.jpg)
 
 ### Output
-![output 42]()
+![output 42](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_42.jpg)
 
 
-![problem 43]()
+![problem 43](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_43.jpg)
 ### Solution
 
-![solution 43]()
+![solution 43](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_43.jpg)
 
 
-![problem 44]()
+![problem 44](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_44.jpg)
 ### Solution
 
-![solution 44]()
+![solution 44](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_44.jpg)
 
 
-![problem 45]()
+![problem 45](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_45.jpg)
 ### Solution
 
-![solution 45]()
+![solution 45](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_45.jpg)
 
 
-![problem 46]()
+![problem 46](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_46.jpg)
 ### Solution
 
 ### Solution a)
