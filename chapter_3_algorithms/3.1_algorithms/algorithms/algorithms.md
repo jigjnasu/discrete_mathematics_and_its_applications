@@ -1,26 +1,26 @@
 ![Algorithm 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.jpg)
-[algorithm_1.cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.cpp)
+[algorithm_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.cpp)
 
 ![Algorithm 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.jpg)
-[Algorithm 2 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_2.cpp)
+[algorithm_2.cpp] (https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_2.cpp)
 
-![Algorithm 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_3.jpg)
-[Algorithm 3 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_3.cpp)
+![Algorithm 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_3.jpg)
+[algorithm_3.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_3.cpp)
 
-![Algorithm 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_4.jpg)
-[Algorithm 4 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_4.cpp)
+![Algorithm 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_4.jpg)
+[algorithm_4.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_4.cpp)
 
-![Algorithm 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_5.jpg)
-[Algorithm 5 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_5.cpp)
+![Algorithm 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_5.jpg)
+[algorithm_5.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_5.cpp)
 
-![Algorithm 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_6.jpg)
-[Algorithm 6 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_6.cpp)
+![Algorithm 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_6.jpg)
+[algorithm_6.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_6.cpp)
 
-![Algorithm 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_7.jpg)
-[Algorithm 7 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_7/Algorithm_7.cpp)
+![Algorithm 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7.jpg)
+[algorithm_7.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_7.cpp)
 
-[Meeting.h (h solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_7/Meeting.h)
+[meeting.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/meeting.h)
 
-[Meeting.cpp (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_7/Meeting.cpp)
+[meeting.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/meeting.cpp)
 
 
