@@ -1,3 +1,3 @@
-![Example 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Examples/repo/example_1.jpg)
-[Example 1 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Examples/repo/example_1.cpp)
+![example 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/examples/repo/example_1.jpg)
+[example_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/examples/repo/example_1.cpp)
 
