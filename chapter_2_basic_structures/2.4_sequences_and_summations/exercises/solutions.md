@@ -129,81 +129,81 @@
 #### Sequence
 7 -7 8 -6 9 -5 10 -4 11 -3 12 -2 13 -1 14 0 15 1 16 2 17 ... 
 
-![Problem 17]()
+![Problem 17](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_17.jpg)
 
 ## Solution for Problem 17 a
-[Solution 17 a.cpp]()
+[Solution 17 a.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_a.cpp)
 #### Derevation of iterative solution
 
-![Iterative a]()
+![Iterative a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_a.jpg)
 
 #### Sequence
 2 6 18 54 162 486 1458 4374 13122 39366 118098 354294 1062882 3188646 9565938 28697814 ...
 
 ## Solution for Problem 17 b
-[Solution 17 b.cpp]()
+[Solution 17 b.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_b.cpp)
 #### Derevation of iterative solution
 
-![Iterative b]()
+![Iterative b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_b.jpg)
 
 #### Sequence
 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 ...
 
 ## Solution for Problem 17 c
-[Solution 17 c.cpp]()
+[Solution 17 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_c.cpp)
 #### Derevation of iterative solution
 
-![Iterative c]()
+![Iterative c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_c.jpg)
 
 #### Sequence
 1 2 4 7 11 16 22 29 37 46 56 67 79 92 106 121 137 154 172 191 211 ...
 
 ## Solution for Problem 17 d
-[Solution 17 d.cpp]()
+[Solution 17 d.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_d.cpp)
 #### Derevation of iterative solution
 
-![Iterative d]()
+![Iterative d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_d.jpg)
 
 #### Sequence
 4 9 16 25 36 49 64 81 100 121 144 169 196 225 256 289 324 361 400 441 484 ...
 
 ## Solution for Problem 17 e
-[Solution 17 e.cpp]()
+[Solution 17 e.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_e.cpp)
 #### Derevation of iterative solution
 
-![Iterative e]()
+![Iterative e](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_e.jpg)
 
 #### Sequence
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ...
 
 ## Solution for Problem 17 f
-[Solution 17 f.cpp]()
+[Solution 17 f.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_f.cpp)
 #### Derevation of iterative solution
 
-![Iterative f]()
+![Iterative f](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_f.jpg)
 
 #### Sequence
 1 4 13 40 121 364 1093 3280 9841 29524 88573 265720 797161 2391484 7174453 21523360 ...
 
 ## Solution for Problem 17 g
-[Solution 17 g.cpp]()
+[Solution 17 g.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_g.cpp)
 #### Derevation of iterative solution
 
-![Iterative g]()
+![Iterative g](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_g.jpg)
 
 #### Sequence
 5 5 10 30 120 600 3600 25200 201600 1814400 18144000 199584000 -1899959296 1070332928 2099759104 1431615488 ...
 
 ## Solution for Problem 17 h
-[Solution 17 h.cpp]()
+[Solution 17 h.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_h.cpp)
 #### Derevation of iterative solution
 
-![Iterative h]()
+![Iterative h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_17_h.jpg)
 
 #### Sequence
 1 2 8 48 384 3840 46080 645120 10321920 185794560 ...
 
-![Problem 18]()
+![Problem 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_18.jpg)
 
 ## Solution a)
 
