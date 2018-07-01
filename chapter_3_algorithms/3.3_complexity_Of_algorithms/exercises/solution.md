@@ -317,7 +317,7 @@ Yes it is a optimal soltution.
 
 [solution_29.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/tree/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/source/source/inc/solution_29.h)
 
-[solution_29.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/source/source/inc/solution_29.cpp)
+[solution_29.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/source/source/src/solution_29.cpp)
 
 ![solution 29](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/solution_29.jpg)
 
