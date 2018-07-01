@@ -231,15 +231,15 @@
 
 ## Solution a)
 
-![Solution 20 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_a.jpg)
+![Solution 20 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_20_a.jpg)
 
 ## Solution b)
 
-![Solution 20 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_b.jpg)
+![Solution 20 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_20_b.jpg)
 
 ## Solution c)
 #### Population incresed from [6.900000 billion](2010) to [2030] == [8.587608 billion]
-[Solution 20 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_19_c.cpp)
+[Solution 20 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_20_c.cpp)
 
 ![Problem 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/problem_21.jpg)
 
