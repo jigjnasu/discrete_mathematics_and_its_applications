@@ -105,62 +105,62 @@
 
 ![problem 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_15.jpg)
 ### Solution
-[solution 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_15.jpg)
+[solution_15.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_15.cpp)
 
 
 ![problem 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_16.jpg)
 ### Solution
-[solution 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_16.jpg)
+[solution_16.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_16.cpp)
 
 
 ![problem 17](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_17.jpg)
 ### Solution
-[solution 17](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_17.jpg)
+[solution_17.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_17.cpp)
 
 
 ![problem 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_18.jpg)
 ### Solution
-[solution 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_18.jpg)
+[solution_18.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_18.cpp)
 
 
 ![problem 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_19.jpg)
 ### Solution
-[solution 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_19.jpg)
+[solution_19.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_19.cpp)
 
 
 ![problem 20](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_20.jpg)
 ### Solution
-[solution 20](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_20.jpg)
+[solution_20.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_20.cpp)
 
 
 ![problem 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_21.jpg)
 ### Solution
-[solution 21](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_21.jpg)
+[solution_21.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_21.cpp)
 
 
 ![problem 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_22.jpg)
 ### Solution
-[solution 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_22.jpg)
+[solution_22.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_22.cpp)
 
 
 ![problem 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_23.jpg)
 ### Solution
-[solution 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_23.jpg)
+[solution_23.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_23.cpp)
 
 
 ![problem 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_24.jpg)
 ### Solution
-[solution 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_24.jpg)
+[solution_24.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_24.cpp)
 
 
 ![problem 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_25.jpg)
 ### Solution
-[solution 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_25.jpg)
+[solution_25.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_25.cpp)
 
 
 ![problem 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_26.jpg)
 ### Solution
-![solution 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_26.jpg)
+![solution_26.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_26.cpp)
 
 ![problem 27](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_27.jpg)
 ### Solution
