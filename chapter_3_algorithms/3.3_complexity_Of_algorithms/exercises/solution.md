@@ -1,10 +1,10 @@
-![problem 1]()
+![problem 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/problem_1.jpg)
 ### Solution -- O(1)
 [solution_1.h]()
 
 [solution_1].cpp]()
 
-![output 1]()
+![output 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.3_complexity_Of_algorithms/exercises/repo/images/output_1.jpg)
 
 
 ![problem 2]()
