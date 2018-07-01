@@ -207,15 +207,15 @@
 
 ## Solution a)
 
-![Solution 18 a]()
+![Solution 18 a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_18_a.jpg)
 
 ## Solution b)
 
-![Solution 18 a]()
+![Solution 18 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_18_b.jpg)
 
 ## Solution c)
-####Total amount after [100] years with [9.000000] rate of interest == [5529040.791826]
-[Solution 18 c.cpp]()
+#### Total amount after [100] years with [9.000000] rate of interest == [5529040.791826]
+[Solution 18 c.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_2_basic_structures/2.4_sequences_and_summations/exercises/repo/solution_18_c.cpp)
 
 ![Problem 19]()
 
