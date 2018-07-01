@@ -362,19 +362,19 @@ If we can calculate 12(cents) coin before any of the lower denomination, we can'
 ![problem 59](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/problem_59.jpg)
 ### Solution
 
-[time.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/time.h)
+[time.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/time.h)
 
-[time.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/time.cpp)
+[time.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/time.cpp)
 
-[meeting.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/meeting.h)
+[meeting.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/meeting.h)
 
-[meeting.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/meeting.cpp)
+[meeting.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/meeting.cpp)
 
-[hall_manager.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/hall_manager.h)
+[hall_manager.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/hall_manager.h)
 
-[hall_manager.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/hall_manager.cpp)
+[hall_manager.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/hall_manager.cpp)
 
-[main.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/source_59/main.cpp)
+[main.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/source/solution_59/main.cpp)
 
 ### Solution a)
 ![solution 59](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/exercises/repo/images/solution_59_a.jpg)
