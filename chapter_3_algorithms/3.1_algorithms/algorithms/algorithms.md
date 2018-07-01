@@ -1,4 +1,4 @@
-![Algorithm 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_1.jpg)
+![Algorithm 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_3_algorithms/3.1_algorithms/algorithms/repo/algorithm_1.jpg)
 [Algorithm 1 (c++ solution)] (https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_1.cpp)
 
 ![Algorithm 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_3_Algorithms/3.1_Algorithms/Algorithms/repo/algorithm_2.jpg)
