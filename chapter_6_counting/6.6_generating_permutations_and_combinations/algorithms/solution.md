@@ -1,20 +1,20 @@
 #### Algorithm 1
-![Algorithm 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_1.jpg)
+![algorithm 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_1.jpg)
 
-[algorithm 1 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_1.h)
+[algorithm_1.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_1.h)
 
 
 #### Algorithm 2
-![Algorithm 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_2.jpg)
+![algorithm 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_2.jpg)
 
-[algorithm 2 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_2.h)
+[algorithm_2.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_2.h)
 
 
 #### Algorithm 3
-![Algorithm 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_3.jpg)
+![algorithm 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_3.jpg)
 
-[algorithm 3 .h](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/algorithm_3.h)
+[algorithm_3.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/algorithm_3.h)
 
 #### Test Code
-[main .cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Algorithms/repo/main.cpp)
+[main .cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/algorithms/repo/main.cpp)
 
