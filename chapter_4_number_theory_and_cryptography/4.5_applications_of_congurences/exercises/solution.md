@@ -6,7 +6,7 @@
 
 [hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.cpp)
 
-[problem_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_1.cpp)
+[solution_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_1.cpp)
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_1.jpg)
@@ -20,7 +20,7 @@
 
 [hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.cpp)
 
-[problem_2.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_2.cpp)
+[solution_2.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_2.cpp)
 
 #### Output
 ![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_2.jpg)
@@ -34,7 +34,7 @@
 
 [hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.cpp)
 
-[problem_3.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_3.cpp)
+[solution_3.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_3.cpp)
 
 #### Output
 ![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_3.jpg)
@@ -53,7 +53,7 @@ Example 4th cat, mod = 7, however, it was occupied next one 8 is also occupied, 
 
 [hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.cpp)
 
-[problem_4.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_4.cpp)
+[solution_4.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_4.cpp)
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_4.jpg)
@@ -67,63 +67,63 @@ Example 4th cat, mod = 7, however, it was occupied next one 8 is also occupied, 
 
 [pseudo_random.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/pseudo_random.cpp)
 
-[problem_5.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_5.cpp)
+[solution_5.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_5.cpp)
 
 #### Output
 ![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_5.jpg)
 
 
-![Problem 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_6.jpg)
+![problem 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_6.jpg)
 
 #### Solution
 
-[PseudoRandom.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/PseudoRandom.h)
+[pseudo_random.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/pseudo_random.h)
 
-[PseudoRandom.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/PseudoRandom.cpp)
+[pseudo_random.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/pseudo_random.cpp)
 
-[problem_6.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_6.cpp)
+[solution_6.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_6.cpp)
 
 #### Output
-![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_6.jpg)
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_6.jpg)
 
 
 
-![Problem 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_7.jpg)
+![problem 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_7.jpg)
 
 #### Solution
 
-[PseudoRandom.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/PseudoRandom.h)
+[pseudo_random.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/pseudo_random.h)
 
-[PseudoRandom.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/PseudoRandom.cpp)
+[pseudo_random.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/pseudo_random.cpp)
 
-[problem_7.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_7.cpp)
+[solution_7.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_7.cpp)
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_7.jpg)
 
 
-![Problem 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_8.jpg)
+![problem 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_8.jpg)
 
 #### Solution
-![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/solution_8.jpg)
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/solution_8.jpg)
 
 
-![Problem 9](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_9.jpg)
+![problem 9](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_9.jpg)
 
 #### Solution
 [problem_9.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_9.cpp)
 
 #### Output
-![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_9.jpg)
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_9.jpg)
 
 
-![Problem 10](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_10.jpg)
+![problem 10](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_10.jpg)
 
 #### Solution
-[problem_10.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_10.cpp)
+[solution_10.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_10.cpp)
 
 #### Output
-![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_10.jpg)
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/output_10.jpg)
 
 #### Explaination
 3792 will generate the same number again and again.
