@@ -47,7 +47,7 @@
 
 [caesar_cipher.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/caesar_cipher.h)
 
-[caesar_cipher.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/Caesar_cipher.cpp)
+[caesar_cipher.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/caesar_cipher.cpp)
 
 [solution_4.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_4.cpp)
 
