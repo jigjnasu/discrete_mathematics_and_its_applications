@@ -368,7 +368,7 @@ I reckon this is the only example we have.
 ![problem 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_51.jpg)
 
 ### Solution
-![solution](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_51.cpp)
+![solution.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_51.cpp)
 
 ### Output
 ![output 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_51.jpg)
