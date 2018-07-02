@@ -1,5 +1,5 @@
 #### Problem 1
-![Problem 1](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_1.jpg)
+![problem 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_1.jpg)
 
 ### Solution
 |  S.No | Permutaion   |
@@ -16,7 +16,7 @@
 | 10    |     45321    |
 
 #### Problem 2
-![Problem 2](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_2.jpg)
+![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_2.jpg)
 
 ### Solution
 |  S.No | Permutaion   |
@@ -36,7 +36,7 @@
 
 
 #### Problem 3
-![Problem 3](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_3.jpg)
+![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_3.jpg)
 
 ### Solution
 |  S.No |                     Permutaion                        |                        Permutaion                         |
@@ -47,7 +47,7 @@
 
 
 #### Problem 4
-![Problem 4](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_4.jpg)
+![problem 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_4.jpg)
 
 ### Solution
 |  S.No | Permutaion   |
@@ -67,7 +67,7 @@
 
 
 #### Problem 5
-![Problem 5](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_5.jpg)
+![problem 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_5.jpg)
 
 ### Solution
 |  Permutation | Next Permutaion   |
@@ -81,7 +81,7 @@
 
 
 #### Problem 6
-![Problem 6](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_6.jpg)
+![problem 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_6.jpg)
 
 ### Solution
 |  Permutation | Next Permutaion   |
@@ -95,7 +95,7 @@
 
 
 #### Problem 7
-![Problem 7](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_7.jpg)
+![problem 7](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_7.jpg)
 ### Solution
 |  S.No | Permutaion   |
 |:-----:|:------------:|
@@ -126,55 +126,55 @@
 
 
 #### Problem 8
-![Problem 8](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_8.jpg)
+![problem 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_8.jpg)
 ### Solution
-Set = {1, 2, 3, 4}  
-{},  
-{1}, {2}, {3}, {4},  
-{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4},  
-{1, 2, 3}, {1, 2, 4}, {1, 3, 4}, {2, 3, 4},  
+Set = {1, 2, 3, 4}
+{},
+{1}, {2}, {3}, {4},
+{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4},
+{1, 2, 3}, {1, 2, 4}, {1, 3, 4}, {2, 3, 4},
 {1, 2, 3, 4}
 
 
 #### Problem 9
-![Problem 9](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_9.jpg)
+![problem 9](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_9.jpg)
 ### Solution
-{1, 2, 3}, {1, 2, 4}, {1, 2, 5}, {1, 3, 4}, {1, 3, 5}, {1, 4, 5},  
-{2, 3, 4}, {2, 3, 5}, {2, 4, 5},  
-{3, 4, 5}  
+{1, 2, 3}, {1, 2, 4}, {1, 2, 5}, {1, 3, 4}, {1, 3, 5}, {1, 4, 5},
+{2, 3, 4}, {2, 3, 5}, {2, 4, 5},
+{3, 4, 5}
 
 
 #### Problem 10
-![Problem 10](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_10.jpg)
+![problem 10](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_10.jpg)
 ### Solution
 
-As our purpose is to get the largest digit on the leftmost side and all digits on decreasing order then.  
-Step 1) if a_{n - 1} < a_n  
-swap(a_{n - 1}, a_n)  
-Step 2) if a_{n - 2} < a_{n - 1}  
-then get a_{n - 1} or a_n > a_{n - 2}  
-and then in increasing order.  
+As our purpose is to get the largest digit on the leftmost side and all digits on decreasing order then.
+Step 1) if a_{n - 1} < a_n
+swap(a_{n - 1}, a_n)
+Step 2) if a_{n - 2} < a_{n - 1}
+then get a_{n - 1} or a_n > a_{n - 2}
+and then in increasing order.
 
-Therefore, this solves the lexographic purpose.  
+Therefore, this solves the lexographic purpose.
 
 
 #### Problem 11
-![Problem 11](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_11.jpg)
+![problem 11](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_11.jpg)
 ### Solution
 
-The next larger r-combination must differ from the old one in position i, since i + 1, i + 2, ....., i + r.  
-occupied by the largest possible number (i + n - r + 1 to n)  
-Therefore, It is an r-combination algoritgm.  
+The next larger r-combination must differ from the old one in position i, since i + 1, i + 2, ....., i + r.
+occupied by the largest possible number (i + n - r + 1 to n)
+Therefore, It is an r-combination algoritgm.
 
 #### Problem 12
-![Problem 12](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_12.jpg)
+![problem 12](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_12.jpg)
 
-[solution 12 .cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/solution_12.cpp)
+[solution_12.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/solution_12.cpp)
 
 
 #### Problem 13
 P(n, r) = n! / (n - r)!
 
-![Problem 13](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/problem_13.jpg)
+![roblem 13](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/problem_13.jpg)
 
-[solution 13 .cpp](https://github.com/cpp-rakesh/DiscreteMathematicsAndItsApplications/blob/master/Chapter_6_Counting/6.6_Generating_Permutations_and_Combinations/Exercises/repo/solution_13.cpp)
+[solution_13.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_6_counting/6.6_generating_permutations_and_combinations/exercises/repo/solution_13.cpp)
