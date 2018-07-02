@@ -2,11 +2,11 @@
 
 #### Solution
 
-[CaesarCipher.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/CaesarCipher.h)
+[caesar_cipher.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/caesar_cipher.h)
 
-[CaesarCipher.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/CaesarCipher.cpp)
+[caesar_cipher.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/caesar_cipher.cpp)
 
-[problem_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_1.cpp)
+[solution_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_1.cpp)
 
 #### Output
 ![Output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/output_1.jpg)
