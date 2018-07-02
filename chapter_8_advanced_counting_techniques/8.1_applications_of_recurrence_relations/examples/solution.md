@@ -12,7 +12,7 @@
 [tower_of_hanoi_iterative.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/examples/repo/example_2/tower_of_hanoi_iterative.h)
 
 #### Recursive Solution
-[tower_Of_hanoi.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/examples/repo/example_2/tower_of_hanoi.h)
+[tower_of_hanoi.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/examples/repo/example_2/tower_of_hanoi.h)
 
 #### Test File
 [test.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/examples/repo/example_2/test.cpp)
