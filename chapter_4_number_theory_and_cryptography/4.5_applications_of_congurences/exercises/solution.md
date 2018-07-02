@@ -2,9 +2,9 @@
 
 #### Solution
 
-[Hash.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/Hash.h)
+[hash.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.h)
 
-[Hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/Hash.cpp)
+[hash.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/hash.cpp)
 
 [problem_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.5_applications_of_congurences/exercises/repo/problem_1.cpp)
 
