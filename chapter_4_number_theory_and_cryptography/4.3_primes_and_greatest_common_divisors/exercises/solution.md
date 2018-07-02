@@ -335,40 +335,40 @@ I reckon this is the only example we have.
 ![solution 45](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_45.jpg)
 
 
-![Problem 46](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_46.jpg)
+![problem 46](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_46.jpg)
 
 ### Solution
 ![solution 46](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_46.jpg)
 
 
-![Problem 47](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_47.jpg)
+![problem 47](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_47.jpg)
 
 ### Solution
-[solution (cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_47.cpp)
+[solution.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_47.cpp)
 
 ### Output
 ![output 47](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_47.jpg)
 
 
-![Problem 48](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_48.jpg)
+![problem 48](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_48.jpg)
 
 ### Solution
-[solution (cpp)](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_48.cpp)
+[solution.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_48.cpp)
 
 ### Output
 ![output 48](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_48.jpg)
 
 
-![Problem 49](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_49.jpg)
+![problem 49](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_49.jpg)
 
 ### Solution
 ![solution](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_49.jpg)
 
 
-![Problem 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_51.jpg)
+![problem 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_51.jpg)
 
 ### Solution
 ![solution](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_51.cpp)
 
 ### Output
-![Output 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_51.jpg)
+![output 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_51.jpg)
