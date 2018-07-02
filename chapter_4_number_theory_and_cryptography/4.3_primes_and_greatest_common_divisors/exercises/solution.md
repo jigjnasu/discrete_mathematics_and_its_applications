@@ -17,7 +17,7 @@
 [solution_1.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/solution_1.cpp)
 
 ### Output
-![output 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_2.jpg)
+![output 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/output_2.jpg)
 
 
 ![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.3_primes_and_greatest_common_divisors/exercises/repo/problem_3.jpg)
