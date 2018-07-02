@@ -405,9 +405,9 @@ a) 1 4 and d) 4 4
 ![problem 50](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/problem_50.jpg)
 
 #### Solution
-[Quick Sort](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/quick_sort.h)
+[quick_sort.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/quick_sort.h)
 
-[Quick Sort Test](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/quick_sort_test.cpp)
+[quick_sort_test.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/quick_sort_test.cpp)
 
 
 ![problem 51](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_5_induction_and_recursion/5.4_recursive_algorithms/exercises/repo/problem_51.jpg)
