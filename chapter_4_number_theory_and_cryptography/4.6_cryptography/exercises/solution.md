@@ -212,15 +212,6 @@ Then we will have shift of 2k from the original text. In that case we don't have
 ![solution](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/solution_23.jpg)
 
 
-![problem 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_25.jpg)
-
-#### Solution
-[solution_25.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_25.cpp)
-
-#### Output
-![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/output_25.jpg)
-
-
 ![problem 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_24.jpg)
 
 #### Solution
@@ -228,3 +219,12 @@ Then we will have shift of 2k from the original text. In that case we don't have
 
 #### Output
 ![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/output_24.jpg)
+
+
+![problem 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_25.jpg)
+
+#### Solution
+[solution_25.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/problem_25.cpp)
+
+#### Output
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_4_number_theory_and_cryptography/4.6_cryptography/exercises/repo/output_25.jpg)
