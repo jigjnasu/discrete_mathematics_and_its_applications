@@ -25,7 +25,7 @@ bool is_prime_sets(const std::vector<int>& set) {
         for (std::size_t j = i + 1; j < set.size(); ++j)
             if (gcd(set[i], set[j]) > 1)
                 return false;
-    
+
     return true;
 }
 
