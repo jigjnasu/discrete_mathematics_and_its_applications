@@ -211,22 +211,15 @@ Total ways = 45
 ![problem 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/problem_22.jpg)
 
 #### Solution a)
-![solution 22](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/solution_22.jpg)
 
 #### Solution b)
-
-![solution 22 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/solution_22_b.jpg)
-
 
 
 ![problem 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/problem_23.jpg)
 
 #### Solution a)
-![solution 23](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/solution_23.jpg)
 
 #### Solution b)
-
-![solution 23 b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/solution_23_b.jpg)
 
 
 ![problem 24](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.1_applications_of_recurrence_relations/exercises/repo/problem_24.jpg)
