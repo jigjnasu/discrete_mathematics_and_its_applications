@@ -13,11 +13,11 @@ OBJ_FILES := $(addprefix $(OBJ_PATH)/,$(notdir $(SRC_FILES:.cpp=.o)))
 
 INC         := -I ../source/inc
 TEST_INC    := -I ../test/inc
-INTEGER_INC := -I ~/git_hub/Utility/integer/inc/
-MATHS_INC   := -I ~/git_hub/Utility/maths/inc/
-COMMON_INC  := -I ~/git_hub/Utility/common/inc/
-SEARCH_INC  := -I ~/git_hub/Utility/algorithms/search/inc
-SORT_INC    := -I ~/git_hub/Utility/algorithms/sort/inc
+INTEGER_INC := -I ~/git_hub/utility/integer/inc/
+MATHS_INC   := -I ~/git_hub/utility/maths/inc/
+COMMON_INC  := -I ~/git_hub/utility/common/inc/
+SEARCH_INC  := -I ~/git_hub/utility/algorithms/search/inc
+SORT_INC    := -I ~/git_hub/utility/algorithms/sort/inc
 
 INCLUDES := $(INC)
 INCLUDES += $(TEST_INC)
