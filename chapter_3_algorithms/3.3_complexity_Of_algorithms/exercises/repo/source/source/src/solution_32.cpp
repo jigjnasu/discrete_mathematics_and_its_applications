@@ -1,4 +1,4 @@
-#include "Solution_32.h"
+#include "solution_32.h"
 #include <map>
 #include <cstdio>
 

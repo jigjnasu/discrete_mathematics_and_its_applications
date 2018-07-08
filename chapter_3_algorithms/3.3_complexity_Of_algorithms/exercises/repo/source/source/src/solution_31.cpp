@@ -1,4 +1,4 @@
-#include "Solution_31.h"
+#include "solution_31.h"
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;

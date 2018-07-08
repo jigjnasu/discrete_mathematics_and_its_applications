@@ -1,4 +1,4 @@
-#include "Solution_42.h"
+#include "solution_42.h"
 #include <cstdio>
 
 namespace ds = discrete_mathematics::chapter_3;
@@ -9,7 +9,7 @@ ds::Solution_42::~Solution_42() {}
 
 void ds::Solution_42::upper_triangular() const {
     const int size = 5;
-    
+
     int matrix[size][size] = {0};
     m_build_matrix<size>(matrix);
     m_print<size>(matrix);
@@ -18,11 +18,11 @@ void ds::Solution_42::upper_triangular() const {
     int result2[size][size] = {0};
     m_matrix_multiply<size>(matrix, matrix, result1);
     m_upper_multiply<size>(matrix, matrix, result2);
-    
+
     printf("-------------------------- Normal multiplication --------------------\n");
     m_print<size>(result1);
-    printf("---------------- Upper Trinagular multiplication --------------------\n");    
-    m_print<size>(result2);    
+    printf("---------------- Upper Trinagular multiplication --------------------\n");
+    m_print<size>(result2);
 }
 
 template <int size>
@@ -43,7 +43,7 @@ void ds::Solution_42::m_matrix_multiply(const int (&A)[size][size],
             for (int k = 0; k < size; ++k)
                 C[r][c] += A[r][k] * B[k][c];
 }
-    
+
 template <int size>
 void ds::Solution_42::m_upper_multiply(const int (&A)[size][size],
                                        const int (&B)[size][size],

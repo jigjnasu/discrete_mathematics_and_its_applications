@@ -1,4 +1,4 @@
-#include "Solution_7.h"
+#include "solution_7.h"
 #include "LinearSearch.h"
 #include "BinarySearch.h"
 #include <cstdio>
@@ -10,10 +10,10 @@
   However here, as we need to find out in first 4 elements.
   Worst case always be a constant here O(4) = O(1).
   If it is not in the first, then second then ... fourth.
-  
+
   --------- Binary Search --------------
   Time Complexity for binary search is O(lg n).
-  But as the n = 32, it will first come to 16 --> 8 --> 4 --> 2. 
+  But as the n = 32, it will first come to 16 --> 8 --> 4 --> 2.
   And then depending on the key to search it will search it will
   have more comparisions than the linear search of max 4.
   Therefore, in this special case where key is always in
@@ -21,7 +21,7 @@
   than the binary search
 
   --------- Summary -------------------
-  For first 4 elements search out of 32, linear search is always better than the 
+  For first 4 elements search out of 32, linear search is always better than the
   binary search.
 */
 
@@ -51,7 +51,7 @@ void dc::Solution_7::compare() const {
     if (binary_search.search(data, k))
         printf("Binary Search found element [%d] in the data vector\n", k);
     printf("Binary search Execution time == [%.8f]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));        
+           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
 }
 
 void dc::Solution_7::m_print(const std::vector<int>& data) const {

@@ -1,4 +1,4 @@
-#include "Solution_26.h"
+#include "solution_26.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
@@ -14,7 +14,7 @@ int dc::Solution_26::search(const std::vector<int>& list, int key) const {
 
     while (start <= end) {
         const int split = (end - start) / n;
-        
+
         for (int i = 0; i < n; ++i)
             if (key == list[start + i * split])
                 return start + i * split + 1;
@@ -29,9 +29,9 @@ int dc::Solution_26::search(const std::vector<int>& list, int key) const {
                 if (key < list[start + i * split]) {
                     end = start + i * split - 1;
                     start += (i - 1) * split + 1;
-                }                    
+                }
             }
-        }         
+        }
     }
 
     return 0;

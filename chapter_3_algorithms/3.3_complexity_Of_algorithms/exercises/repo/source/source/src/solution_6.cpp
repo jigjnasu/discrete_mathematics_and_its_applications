@@ -1,4 +1,4 @@
-#include "Solution_6.h"
+#include "solution_6.h"
 
 /*
   As we just need to limit the sorting to first 4 elements.

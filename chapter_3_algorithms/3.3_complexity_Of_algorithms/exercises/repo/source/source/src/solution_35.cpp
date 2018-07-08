@@ -1,4 +1,4 @@
-#include "Solution_35.h"
+#include "solution_35.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
@@ -11,7 +11,6 @@ void dc::Solution_35::sort(std::vector<int>& list) const {
         const int pos = m_pos(list, i, list[i]);
         for (int j = i; j > pos; --j)
             m_swap(list[j], list[j - 1]);
-            
     }
 }
 

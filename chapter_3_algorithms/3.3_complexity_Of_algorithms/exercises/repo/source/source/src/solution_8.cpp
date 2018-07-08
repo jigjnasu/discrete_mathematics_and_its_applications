@@ -1,4 +1,4 @@
-#include "Solution_8.h"
+#include "solution_8.h"
 #include <cstdio>
 #include <ctime>
 #include <cstdlib>
@@ -8,7 +8,7 @@
   Time Complexity for naive power algorithm is O(n).
   This is the naive power algorithm, where power is caluclated by n times
   multiplying the base in a iterative manner.
-  
+
   --------- Divide and Conquer Algorithm --------------
   Time Complexity for divide and conquer algorithm O(lg n).
   In this algorithm we divide the power factor by half till we reach the base condition
@@ -37,7 +37,7 @@ void dc::Solution_8::compare() const {
     printf("[%d] ^ [2] ^ [%d] == [%s]\n",
            x, k, m_divide_and_conquer_power(x, m_divide_and_conquer_power(2, k)).get().c_str());
     printf("Execution time == [%.8f] seconds\n", (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
-    printf("------------------------------------------------------------------\n");    
+    printf("------------------------------------------------------------------\n");
 }
 
 utility::integer::Integer dc::Solution_8::m_naive_power(utility::integer::Integer x,

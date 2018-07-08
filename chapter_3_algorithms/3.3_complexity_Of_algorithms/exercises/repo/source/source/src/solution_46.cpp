@@ -1,4 +1,4 @@
-#include "Solution_46.h"
+#include "solution_46.h"
 
 namespace ds = discrete_mathematics::chapter_3;
 
@@ -20,6 +20,6 @@ bool ds::Solution_46::m_is_match(const std::string& str, const std::string& targ
     for (std::size_t i = 1; i < target.size(); ++i)
         if (str[pos + i] != target[i])
             return false;
-    
+
     return true;
 }

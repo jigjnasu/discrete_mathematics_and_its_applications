@@ -1,4 +1,4 @@
-#include "Solution_5.h"
+#include "solution_5.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 

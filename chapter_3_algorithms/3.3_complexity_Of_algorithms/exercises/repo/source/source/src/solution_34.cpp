@@ -1,4 +1,4 @@
-#include "Solution_34.h"
+#include "solution_34.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
@@ -22,7 +22,7 @@ std::size_t dc::Solution_34::m_minimum(const std::vector<int>& list, std::size_t
         if (list[i] < min) {
             min = list[i];
             min_pos = i;
-        }            
+        }
     }
 
     return min_pos;

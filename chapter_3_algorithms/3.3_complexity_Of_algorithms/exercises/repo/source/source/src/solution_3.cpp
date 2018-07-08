@@ -1,5 +1,5 @@
-#include "Solution_3.h"
-#include "Maths.h"
+#include "solution_3.h"
+#include "maths.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
