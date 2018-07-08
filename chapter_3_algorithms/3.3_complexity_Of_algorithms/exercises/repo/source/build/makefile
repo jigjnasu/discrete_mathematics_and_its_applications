@@ -14,7 +14,7 @@ OBJ_FILES := $(addprefix $(OBJ_PATH)/,$(notdir $(SRC_FILES:.cpp=.o)))
 INC         := -I ../source/inc
 TEST_INC    := -I ../test/inc
 INTEGER_INC := -I ~/git_hub/utility/integer/inc/
-MATHS_INC   := -I ~/git_hub/utility/maths/inc/
+MATHS_INC   := -I ~/git_hub/utility/maths/general/inc/
 COMMON_INC  := -I ~/git_hub/utility/common/inc/
 SEARCH_INC  := -I ~/git_hub/utility/algorithms/search/inc
 SORT_INC    := -I ~/git_hub/utility/algorithms/sort/inc
@@ -29,7 +29,7 @@ INCLUDES += $(SEARCH_INC)
 INCLUDES += $(SORT_INC)
 
 UTILITY_LIB := -lutility
-UTILITY_LIB_PATH := -L ~/git_hub/Utility/lib/
+UTILITY_LIB_PATH := -L ~/git_hub/utility/lib/
 
 TARGET := exe
 
@@ -44,10 +44,10 @@ $(OBJ_PATH)/%.o : $(SRC_PATH)/%.cpp
 	@echo "Compiling --> " $<
 	@$(GXX) $(CC_FLAGS) $(INCLUDES) $< -o $@
 
-test: $ ../test/src/Main.cpp
+test: $ ../test/src/main.cpp
 	@echo "Compiling the test file"
-	@$(GXX) $(CC_FLAGS) $(INCLUDES) -o objs/TestSuite.o ../test/src/TestSuite.cpp
-	@$(GXX) $(CC_FLAGS) $(INCLUDES) -o objs/Main.o ../test/src/Main.cpp
+	@$(GXX) $(CC_FLAGS) $(INCLUDES) -o objs/test_suite.o ../test/src/test_suite.cpp
+	@$(GXX) $(CC_FLAGS) $(INCLUDES) -o objs/main.o ../test/src/main.cpp
 
 clean:
 	@echo "Removing -->> all object files and executable"

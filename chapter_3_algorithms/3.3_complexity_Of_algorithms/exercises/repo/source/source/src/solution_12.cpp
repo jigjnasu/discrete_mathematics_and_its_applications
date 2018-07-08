@@ -15,14 +15,27 @@ void dc::Solution_12::compute_matrix(const std::vector<int>& data) const {
     printf("-------------------------------- Input ----------------------------\n");
     m_print(data);
 
-    for (std::size_t i = 0; i < data.size(); ++i) {
-        for (std::size_t j = i + 1; j < data.size(); ++j) {
-            for (std::size_t k = i + 1; k <= j; ++k) {
-                       maths.min(matrix[i][j], data[k]);
+    printf("--------------------------------------------\n");
+    printf("size == [%lu]\n", data.size());
+    printf("--------------------------------------------\n");
+    for (int i = 0; i < data.size(); ++i) {
+        for (int j = i + 1; j < data.size(); ++j) {
+            for (int k = i + 1; k <= j; ++k) {
+                printf("i == [%lu] || j == [%lu] || k == [%lu]\n", i, j, k);
                 matrix[i][j] = maths.min(matrix[i][j], data[k]);
             }
         }
     }
+#if 0
+    for (std::size_t i = 0; i < data.size(); ++i) {
+        for (std::size_t j = i + 1; j < data.size(); ++j) {
+            for (std::size_t k = i + 1; k <= j; ++k) {
+                printf("i == [%lu] || j == [%lu] || k == [%lu]\n", i, j, k);
+                matrix[i][j] = maths.min(matrix[i][j], data[k]);
+            }
+        }
+    }
+#endif
 
     printf("----------------------------- Output Matrix -----------------------\n");
     m_print_matrix<10>(matrix);

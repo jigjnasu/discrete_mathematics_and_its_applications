@@ -1,7 +1,7 @@
-#include "TestSuite.h"
-#include "AllHeaders.h"
-#include "Maths.h"
-#include "MergeSort.h"
+#include "test_suite.h"
+#include "all_headers.h"
+#include "maths.h"
+#include "merge_sort.h"
 #include <string>
 #include <cstdlib>
 #include <cstdio>
@@ -59,7 +59,7 @@ void dc::TestSuite::m_initialize_test_cases_dictionary() {
     m_test_cases_dictionary[35] = &TestSuite::m_test_solution_35;
     m_test_cases_dictionary[36] = &TestSuite::m_test_solution_36;
     m_test_cases_dictionary[42] = &TestSuite::m_test_solution_42;
-    m_test_cases_dictionary[46] = &TestSuite::m_test_solution_46;    
+    m_test_cases_dictionary[46] = &TestSuite::m_test_solution_46;
 }
 
 void dc::TestSuite::m_execute(ptrFunc function) {
@@ -69,7 +69,7 @@ void dc::TestSuite::m_execute(ptrFunc function) {
 void dc::TestSuite::m_show_banner(int test_case) {
     printf("-----------------------------------------------------------\n");
     printf("                    Solution %d                            \n", test_case);
-    printf("-----------------------------------------------------------\n");    
+    printf("-----------------------------------------------------------\n");
 }
 
 void dc::TestSuite::m_start_timer() {
@@ -79,14 +79,14 @@ void dc::TestSuite::m_start_timer() {
 void dc::TestSuite::m_end_timer() {
     printf("Execution time == [%.8f] seconds\n",
            (std::clock() - m_start_time) / static_cast<double>(CLOCKS_PER_SEC));
-    printf("-----------------------------------------------------------\n");    
+    printf("-----------------------------------------------------------\n");
 }
 
 void dc::TestSuite::m_print_vector(const std::vector<int>& V) const {
     printf("-----------------------------------------------------------\n");
     for (std::size_t i = 0; i < V.size(); ++i)
         printf("%d ", V[i]);
-    printf("\n-----------------------------------------------------------\n");    
+    printf("\n-----------------------------------------------------------\n");
 }
 
 void dc::TestSuite::m_test_solution_1() {
@@ -135,7 +135,7 @@ void dc::TestSuite::m_test_solution_5() {
     const int max = 100;
     utility::maths::Maths<int> maths;
     const std::vector<int> list = maths.random_vector(n, min, max);
-    m_print_vector(list);    
+    m_print_vector(list);
     discrete_mathematics::chapter_3::Solution_5 solution;
     m_show_banner(5);
     m_start_timer();
@@ -156,7 +156,7 @@ void dc::TestSuite::m_test_solution_6() {
     m_start_timer();
     solution.partial_insertion_sort(list);
     m_end_timer();
-    m_print_vector(list);    
+    m_print_vector(list);
 }
 
 void dc::TestSuite::m_test_solution_7() {
@@ -186,7 +186,6 @@ void dc::TestSuite::m_test_solution_9() {
         const int n = maths.random(min, max);
         printf("[%12d] has number of one [%d] bits\n", n, solution.number_of_ones(n));
     }
-    
 }
 
 void dc::TestSuite::m_test_solution_10() {
@@ -200,7 +199,6 @@ void dc::TestSuite::m_test_solution_10() {
         const int n = maths.random(min, max);
         printf("[%12d] has number of one [%d] bits\n", n, solution.number_of_ones(n));
     }
-    
 }
 
 void dc::TestSuite::m_test_solution_11() {
@@ -216,19 +214,19 @@ void dc::TestSuite::m_test_solution_11() {
     set.push_back(s2);
     set.push_back(s3);
     set.push_back(s4);
-    set.push_back(s5);    
+    set.push_back(s5);
 
     discrete_mathematics::chapter_3::Solution_11 solution;
     printf("Number of disjoint subsets are == [%d]\n", solution.disjoint_pairs(set));
     int key = 178;
     printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));
     key = 11;
-    printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));    
+    printf("[%d] key found in [%d] subset\n", key, solution.find(set, key));
 }
 
 void dc::TestSuite::m_test_solution_12() {
     std::vector<int> list;
-    for (int i = 0; i < 20; ++i)
+    for (int i = 0; i < 10; ++i)
         list.push_back(i + 1);
 
     discrete_mathematics::chapter_3::Solution_12 solution;
@@ -240,7 +238,7 @@ void dc::TestSuite::m_test_solution_13() {
     const int max = 100;
     const int x = 3;
     utility::maths::Maths<int> maths;
-    
+
     std::vector<int> list;
     for (int i = 0; i < 10; ++i)
         list.push_back(maths.random(min, max));
@@ -284,7 +282,7 @@ void dc::TestSuite::m_test_solution_25() {
     const int n = 50;
     const int min = 1;
     const int max = 100;
-    
+
     std::vector<int> list = maths.random_vector(n, min, max);
     printf("-------------------------------------- List of Random number -------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
@@ -295,7 +293,7 @@ void dc::TestSuite::m_test_solution_25() {
     printf("----------------------------------------- Sorted List  --------------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
-    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");
 
     const int key = maths.random(min, max);
     discrete_mathematics::chapter_3::Solution_25 solution;
@@ -308,7 +306,7 @@ void dc::TestSuite::m_test_solution_26() {
     const int n = 50;
     const int min = 1;
     const int max = 100;
-    
+
     std::vector<int> list = maths.random_vector(n, min, max);
     printf("-------------------------------------- List of Random number -------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
@@ -319,7 +317,7 @@ void dc::TestSuite::m_test_solution_26() {
     printf("----------------------------------------- Sorted List  --------------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
-    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");
 
     const int key = maths.random(min, max);
     discrete_mathematics::chapter_3::Solution_26 solution;
@@ -345,7 +343,7 @@ void dc::TestSuite::m_test_solution_27() {
     printf("----------------------------------------- Sorted List  --------------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
-    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");
 
     discrete_mathematics::chapter_3::Solution_27 solution;
     const std::map<int, int> modes = solution.mode(list);
@@ -373,7 +371,7 @@ void dc::TestSuite::m_test_solution_28() {
     printf("----------------------------------------- Sorted List  --------------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
-    printf("\n----------------------------------------- Sorted List  --------------------------------\n");    
+    printf("\n----------------------------------------- Sorted List  --------------------------------\n");
 
     discrete_mathematics::chapter_3::Solution_27 solution;
     const std::map<int, int> modes = solution.mode(list);
@@ -470,7 +468,7 @@ void dc::TestSuite::m_test_solution_33() {
     if (solution.is_palindrome(input3))
         printf("[%s] is a palindrome\n", input3.c_str());
     else
-        printf("[%s] is a NOT palindrome\n", input3.c_str());        
+        printf("[%s] is a NOT palindrome\n", input3.c_str());
 }
 
 void dc::TestSuite::m_test_solution_34() {
@@ -491,7 +489,7 @@ void dc::TestSuite::m_test_solution_34() {
     printf("----------------------------- After Selection Sort ----------------------------------\n");
     for (std::size_t i = 0; i < list.size(); ++i)
         printf("%d ", list[i]);
-    printf("\n----------------------------- After Selection Sort ----------------------------------\n");    
+    printf("\n----------------------------- After Selection Sort ----------------------------------\n");
 }
 
 void dc::TestSuite::m_test_solution_35() {
@@ -538,14 +536,14 @@ void dc::TestSuite::m_test_solution_46() {
     const std::string target1 = "Rakesh";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
            target1.c_str(), solution.pos(str, target1), str.c_str());
-    
+
     const std::string target2 = "Model";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
            target2.c_str(), solution.pos(str, target2), str.c_str());
 
     const std::string target3 = "11000";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
-           target3.c_str(), solution.pos(str, target3), str.c_str());    
+           target3.c_str(), solution.pos(str, target3), str.c_str());
 
     const std::string target4 = "1100";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
@@ -557,5 +555,5 @@ void dc::TestSuite::m_test_solution_46() {
 
     const std::string target6 = "2611";
     printf("Target == [%10s] found at [%2d] position in [%s]\n",
-           target6.c_str(), solution.pos(str, target6), str.c_str());            
+           target6.c_str(), solution.pos(str, target6), str.c_str());
 }

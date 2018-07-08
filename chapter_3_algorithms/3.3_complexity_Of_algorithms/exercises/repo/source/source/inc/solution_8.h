@@ -12,7 +12,7 @@
   Date: Feb 11th, 2017
  */
 
-#include "Integer.h"
+#include "integer.h"
 
 namespace discrete_mathematics {
     namespace chapter_3 {

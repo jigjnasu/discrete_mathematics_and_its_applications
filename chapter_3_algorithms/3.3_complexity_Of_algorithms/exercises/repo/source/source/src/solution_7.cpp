@@ -1,6 +1,6 @@
 #include "solution_7.h"
-#include "LinearSearch.h"
-#include "BinarySearch.h"
+#include "linear_search.h"
+#include "binary_search.h"
 #include <cstdio>
 #include <ctime>
 

@@ -1,4 +1,4 @@
-#include "Solution_27.h"
+#include "solution_27.h"
 #include <stack>
 #include <cstdio>
 
@@ -14,16 +14,16 @@ std::map<int, int> dc::Solution_27::mode(const std::vector<int>& list) const {
 
     std::size_t i = 0;
     while (i < list.size()) {
-        int frequency = 1;        
+        int frequency = 1;
         while (list[i] == list[i + frequency])
             ++frequency;
-        
+
         if (frequency >= max_frequency) {
             max_frequency = frequency;
             modes.insert(std::make_pair(list[i], frequency));
         }
-        
-        i = i + frequency;
+
+        i += frequency;
     }
 
     std::map<int, int> result;

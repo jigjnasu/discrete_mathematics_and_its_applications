@@ -12,7 +12,7 @@
   Date: Feb 12th, 2017
  */
 
-#include "Integer.h"
+#include "integer.h"
 #include <vector>
 
 namespace discrete_mathematics {
