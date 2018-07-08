@@ -1,6 +1,7 @@
-#include "FiveFriends.h"
+#include "five_friends.h"
 #include <cstdio>
 #include <cstdlib>
+#include <random>
 
 /*
   Discrete mathematics by Dr. Kenneth H. Rosen.
@@ -22,7 +23,7 @@ void WhoIsChatting::Compute() const {
         const bool R = m_get_random();
         const bool V = m_get_random();
         const bool A = m_get_random();
-        
+
         if (m_can_compute(K, H, R, V, A))
             break;
     }
@@ -52,7 +53,9 @@ bool WhoIsChatting::m_can_compute(bool K, bool H, bool R, bool V, bool A) const 
 bool WhoIsChatting::m_get_random() const {
     const int MIN = 1;
     const int MAX = 10;
-    return ((MIN + rand() % (MAX - MIN) + 1) % 2 == 0) ? 0 : 1;
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(MIN, MAX);
+    return dt(rd);
 }
 
 void WhoIsChatting::m_print_chatters(bool K, bool H, bool R, bool V, bool A) const {

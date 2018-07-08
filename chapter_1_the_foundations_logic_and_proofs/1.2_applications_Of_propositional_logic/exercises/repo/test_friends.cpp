@@ -1,4 +1,4 @@
-#include "FiveFriends.h"
+#include "five_friends.h"
 
 int main() {
     WhoIsChatting chat;
