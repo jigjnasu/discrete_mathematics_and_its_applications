@@ -1,5 +1,5 @@
-#include "Solution_13.h"
-#include "Maths.h"
+#include "solution_13.h"
+#include "maths.h"
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;

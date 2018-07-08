@@ -1,4 +1,4 @@
-#include "Solution_15.h"
+#include "solution_15.h"
 #include <cstdio>
 #include <cmath>
 
@@ -14,7 +14,7 @@ void dc::Solution_15::compute() const {
     printf("f(n lg n) == [%f]\n", m_fn_c());
     printf("f(n ^ 2 ) == [%f]\n", m_fn_d());
     printf("f(2 ^ n)  == [%f]\n", m_fn_e());
-    printf("f(n!)     == [%d]\n", m_fn_f());    
+    printf("f(n!)     == [%d]\n", m_fn_f());
 }
 
 std::string dc::Solution_15::m_fn_a() const {

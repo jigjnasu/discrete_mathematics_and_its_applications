@@ -1,4 +1,4 @@
-#include "Solution_25.h"
+#include "solution_25.h"
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;
@@ -12,7 +12,7 @@ dc::Solution_25::~Solution_25() {}
 int dc::Solution_25::search(const std::vector<int>& list, int key) const {
     int start = 0;
     int end = list.size() - 1;
-    
+
     while (start <= end) {
         const int split = (end - start) / 3;
         for (int i = 0; i < n; ++i)
@@ -34,6 +34,6 @@ int dc::Solution_25::search(const std::vector<int>& list, int key) const {
             }
         }
     }
-    
+
     return 0;
 }

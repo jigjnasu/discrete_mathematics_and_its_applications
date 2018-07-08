@@ -1,4 +1,4 @@
-#include "Solution_1.h"
+#include "solution_1.h"
 
 namespace dc = discrete_mathematics::chapter_3;
 
@@ -11,5 +11,5 @@ int dc::Solution_1::compute() const {
     for (int i = 1; i <= 3; ++i)
         for (int j = 1; j <= 4; ++j)
             t += (i * j);
-    return t;    
+    return t;
 }

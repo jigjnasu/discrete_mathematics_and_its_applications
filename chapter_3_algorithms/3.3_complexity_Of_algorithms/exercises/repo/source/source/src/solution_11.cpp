@@ -1,4 +1,4 @@
-#include "Solution_11.h"
+#include "solution_11.h"
 #include <cstdio>
 
 /*
@@ -16,7 +16,7 @@ dc::Solution_11::~Solution_11() {}
 
 int dc::Solution_11::disjoint_pairs(const std::vector< std::vector<int> >& set) const {
     m_print_set(set);
-    
+
     int counter = 0;
     for (std::size_t i = 0; i < set.size() - 1; ++i) {
         for (std::size_t j = i + 1; j < set.size(); ++j) {

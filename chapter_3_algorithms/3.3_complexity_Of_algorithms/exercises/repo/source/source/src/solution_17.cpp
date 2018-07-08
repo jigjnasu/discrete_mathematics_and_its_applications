@@ -1,4 +1,4 @@
-#include "Solution_17.h"
+#include "solution_17.h"
 #include <cstdio>
 #include <cmath>
 
