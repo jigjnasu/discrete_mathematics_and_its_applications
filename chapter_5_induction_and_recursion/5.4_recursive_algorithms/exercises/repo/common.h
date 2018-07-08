@@ -2,6 +2,8 @@
 #define DISCRETE_MATHEMATICS_CHAPTER_5_4_COMMON_H_
 
 #include <cstdlib>
+#include <ctime>
+#include <random>
 
 namespace discrete_mathematics {
     template <typename T>
@@ -25,7 +27,9 @@ discrete_mathematics::Common<T>::~Common() {}
 
 template <typename T>
 T discrete_mathematics::Common<T>::random(T min, T max) const {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dist(min, max);
+    return dist(rd);
 }
 
 template <typename T>
