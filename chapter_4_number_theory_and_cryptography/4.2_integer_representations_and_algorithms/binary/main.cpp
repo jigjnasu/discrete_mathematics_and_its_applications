@@ -1,12 +1,15 @@
-#include "Binary.h"
+#include "binary.h"
 #include <cmath>
 #include <cstdlib>
+#include <random>
 
 const int min = 1;
 const int max = 1000;
 
 int random(int min, int max) {
-    return min + rand() % (max - min) + 1;
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 namespace dc = discrete_mathematics::chapter_4;
@@ -34,10 +37,11 @@ void test_add() {
         const dc::Binary b_c = b_a + b_b;
         printf("c == [%d] || Binary == [", c);
         b_c.print();
-        printf("] || Decimal == [%d]\n", b_c.decimal());        
-        printf("-----------------------------------------------------\n");        
+        printf("] || Decimal == [%d]\n", b_c.decimal());
+        printf("-----------------------------------------------------\n");
     }
-    printf("-----------------------------------------------------\n");        
+
+    printf("-----------------------------------------------------\n");
 }
 
 void test_subtract() {
@@ -62,10 +66,11 @@ void test_subtract() {
         const dc::Binary b_c = b_a - b_b;
         printf("c == [%d] || Binary == [", c);
         b_c.print();
-        printf("] || Decimal == [%d]\n", b_c.decimal());        
-        printf("-----------------------------------------------------\n");        
+        printf("] || Decimal == [%d]\n", b_c.decimal());
+        printf("-----------------------------------------------------\n");
     }
-    printf("-----------------------------------------------------\n");            
+
+    printf("-----------------------------------------------------\n");
 }
 
 void test_multiplay() {
@@ -90,10 +95,11 @@ void test_multiplay() {
         const dc::Binary b_c = b_a * b_b;
         printf("c == [%d] || Binary == [", c);
         b_c.print();
-        printf("] || Decimal == [%d]\n", b_c.decimal());        
-        printf("-----------------------------------------------------\n");        
+        printf("] || Decimal == [%d]\n", b_c.decimal());
+        printf("-----------------------------------------------------\n");
     }
-    printf("-----------------------------------------------------\n");            
+
+    printf("-----------------------------------------------------\n");
 }
 
 void test_compare() {
@@ -117,11 +123,12 @@ void test_compare() {
         printf("a > b   == [%d]\n", b_a >  b_b);
         printf("a < b   == [%d]\n", b_a <  b_b);
         printf("a ==  b == [%d]\n", b_a == b_b);
-        printf("a != b  == [%d]\n", b_a != b_b);        
-        
-        printf("-----------------------------------------------------\n");        
+        printf("a != b  == [%d]\n", b_a != b_b);
+
+        printf("-----------------------------------------------------\n");
     }
-    printf("-----------------------------------------------------\n");                
+
+    printf("-----------------------------------------------------\n");
 }
 
 int main() {
