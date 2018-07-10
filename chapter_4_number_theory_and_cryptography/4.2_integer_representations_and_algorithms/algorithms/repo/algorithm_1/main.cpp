@@ -1,11 +1,14 @@
-#include "BaseConversion.h"
-#include "Conversion.h"
+#include "base_conversion.h"
+#include "conversion.h"
 #include <cstdio>
+#include <random>
 
 namespace dc = discrete_mathematics::chapter_4;
 
 int random(int min, int max) {
-    return min + rand() % (max - min) + 1;
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 // Testing binary number
@@ -15,6 +18,7 @@ void test_binary() {
 
     dc::BaseConversion conversion;
     printf("--------------------------  Binary Numbers  -----------------------------\n");
+
     for (int i = 0; i < 5; ++i) {
         const int number = random(min, max);
         const std::string n = conversion.convert_to_base(number, dc::Base::BINARY);
@@ -22,6 +26,7 @@ void test_binary() {
         printf("Binary to Decimal || [%20s] == [%20d]\n", n.c_str(),
                conversion.convert_to_decimal(n, dc::Base::BINARY));
     }
+
     printf("-------------------------------------------------------------------------\n");
 }
 
@@ -32,6 +37,7 @@ void test_octal() {
 
     dc::BaseConversion conversion;
     printf("---------------------------  Octal Numbers  -----------------------------\n");
+
     for (int i = 0; i < 5; ++i) {
         const int number = random(min, max);
         const std::string n = conversion.convert_to_base(number, dc::Base::OCTAL);
@@ -39,7 +45,8 @@ void test_octal() {
         printf("Octal to Decimal || [%20s] == [%20d]\n", n.c_str(),
                conversion.convert_to_decimal(n, dc::Base::OCTAL));
     }
-    printf("-------------------------------------------------------------------------\n");    
+
+    printf("-------------------------------------------------------------------------\n");
 }
 
 // Testing hexadecimal number
@@ -49,6 +56,7 @@ void test_hexadecimal() {
 
     dc::BaseConversion conversion;
     printf("----------------------- Hexadecimal Numbers  ----------------------------\n");
+
     for (int i = 0; i < 5; ++i) {
         const int number = random(min, max);
         const std::string n = conversion.convert_to_base(number, dc::Base::HEXADECIMAL);
@@ -56,7 +64,8 @@ void test_hexadecimal() {
         printf("Hexadecimal to Decimal || [%20s] == [%20d]\n", n.c_str(),
                conversion.convert_to_decimal(n, dc::Base::HEXADECIMAL));
     }
-    printf("-------------------------------------------------------------------------\n");    
+
+    printf("-------------------------------------------------------------------------\n");
 }
 
 // Test Binary Octal
@@ -66,7 +75,7 @@ void test_binary_octal() {
 
     dc::BaseConversion base_conversion;
     dc::Conversion conversion;
-    
+
     printf("-----------------------  Binary to Octal  -------------------------------\n");
     for (int i = 0; i < 5; ++i) {
         const int number = random(min, max);
@@ -78,7 +87,7 @@ void test_binary_octal() {
         printf("Binary == [%30s] || Octal == [%20s]\n",
                conversion.to_binary(r, dc::Base::OCTAL).c_str(), r.c_str());
     }
-    printf("-------------------------------------------------------------------------\n");        
+    printf("-------------------------------------------------------------------------\n");
 }
 
 // Test Binary Hexadecimal
@@ -88,8 +97,9 @@ void test_binary_hexadecimal() {
 
     dc::BaseConversion base_conversion;
     dc::Conversion conversion;
-    
+
     printf("-------------------  Binary to Hexadecimal  -----------------------------\n");
+
     for (int i = 0; i < 5; ++i) {
         const int number = random(min, max);
         printf("%d\n", number);
@@ -100,7 +110,8 @@ void test_binary_hexadecimal() {
         printf("Binary == [%30s] || Octal == [%20s]\n",
                conversion.to_binary(r, dc::Base::HEXADECIMAL).c_str(), r.c_str());
     }
-    printf("-------------------------------------------------------------------------\n");    
+
+    printf("-------------------------------------------------------------------------\n");
 }
 
 int main() {
@@ -109,6 +120,6 @@ int main() {
     test_hexadecimal();
     test_binary_octal();
     test_binary_hexadecimal();
-    
+
     return 0;
 }

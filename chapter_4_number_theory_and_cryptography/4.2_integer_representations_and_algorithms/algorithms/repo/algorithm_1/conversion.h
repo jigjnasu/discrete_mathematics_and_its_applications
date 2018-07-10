@@ -8,7 +8,7 @@
   Date March 5th, 2017
  */
 
-#include "BaseConversion.h"
+#include "base_conversion.h"
 #include <string>
 
 namespace discrete_mathematics {

@@ -17,7 +17,7 @@ namespace discrete_mathematics {
             DECIMAL     = 10,
             HEXADECIMAL = 16
         };
-        
+
         class BaseConversion {
         public:
             BaseConversion();

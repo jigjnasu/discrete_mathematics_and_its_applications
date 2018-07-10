@@ -1,4 +1,4 @@
-#include "BaseConversion.h"
+#include "base_conversion.h"
 
 namespace dc = discrete_mathematics::chapter_4;
 
@@ -39,7 +39,7 @@ int dc::BaseConversion::convert_to_decimal(const std::string& number, Base base)
 void dc::BaseConversion::t_reverse(std::string& number) const {
     int i = 0;
     int j = number.size() - 1;
-    
+
     while (i < j) {
         t_swap(number[i], number[j]);
         ++i;

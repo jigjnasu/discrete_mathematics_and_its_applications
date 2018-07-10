@@ -1,5 +1,4 @@
-
-#include "Conversion.h"
+#include "conversion.h"
 
 namespace dc = discrete_mathematics::chapter_4;
 
@@ -28,7 +27,7 @@ std::string dc::Conversion::m_to_octal(std::string& number) const {
     const int base = 3;
     std::string n;
     int i = number.size() % base;
-    
+
     if (i)
         n.push_back((convert_to_decimal(number.substr(0, i), dc::Base::BINARY)) + '0');
 
@@ -44,7 +43,7 @@ std::string dc::Conversion::m_to_hexadecimal(const std::string& number) const {
     const int base = 4;
     std::string n;
     int i = number.size() % base;
-    
+
     if (i)
         n.push_back(value[convert_to_decimal(number.substr(0, i), dc::Base::BINARY)]);
 
