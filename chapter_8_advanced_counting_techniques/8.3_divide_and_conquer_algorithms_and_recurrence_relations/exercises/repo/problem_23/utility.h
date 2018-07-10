@@ -12,6 +12,8 @@
 
 #include <vector>
 #include <cstdlib>
+#include <random>
+
 namespace discrete_mathematics {
     namespace chapter_8 {
         template <typename T>
@@ -52,7 +54,9 @@ T discrete_mathematics::chapter_8::Utility<T>::Max(const T& a, const T& b) {
 
 template <typename T>
 T discrete_mathematics::chapter_8::Utility<T>::m_random(const T& s, const T& e) {
-    return s + rand() % (e - s + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(s, e);
+    return dt(rd);
 }
 
 #endif //DISCRETE_MATHEMATICS_CHAPTER_8_8_3_PROBLEM_23_UTILITY_H_

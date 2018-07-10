@@ -8,6 +8,7 @@
  */
 
 #include <bits/stdc++.h>
+#include <random>
 
 int fast_multiply(int a, int b) {
     int a1 = a >> 16;
@@ -35,10 +36,16 @@ int normal_multiplay(int a, int b) {
     return a * b;
 }
 
+int random(int s, int e) {
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(s, e);
+    return dt(rd);
+}
+
 std::vector<int> get_random_numbers(int s, int e, int n) {
     std::vector<int> v;
     for (int i = 0; i < 2 * n; ++i)
-        v.push_back(s + rand() % (e - s + 1));
+        v.push_back(random(s, e));
 
     return v;
 }

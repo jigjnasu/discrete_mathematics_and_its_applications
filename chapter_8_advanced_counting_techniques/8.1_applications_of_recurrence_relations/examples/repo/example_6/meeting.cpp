@@ -1,4 +1,4 @@
-#include "Meeting.h"
+#include "meeting.h"
 #include <cstdio>
 
 Meeting::Meeting() : m_start_time(0), m_end_time(0), m_audience(0) {}

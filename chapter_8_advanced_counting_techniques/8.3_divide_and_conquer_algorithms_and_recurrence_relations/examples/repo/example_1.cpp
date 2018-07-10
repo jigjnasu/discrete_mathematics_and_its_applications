@@ -17,6 +17,7 @@
 
 
 #include <bits/stdc++.h>
+#include <random>
 
 int search(const std::vector<int>& list, int n, int s, int e) {
     while (s <= e) {
@@ -46,7 +47,9 @@ void print(const std::vector<int>& list) {
 }
 
 int random(int s, int e) {
-    return s + rand() % (e - s + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(s, e);
+    return dt(rd);
 }
 
 std::vector<int> get(int n) {

@@ -1,14 +1,17 @@
-#include "Meeting.h"
+#include "meeting.h"
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
 #include <algorithm>
+#include <random>
 
 const int START_LIMIT = 600;
 const int END_LIMIT = 1800;
 
 int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 int min(int x, int y) {
