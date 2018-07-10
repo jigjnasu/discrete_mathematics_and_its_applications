@@ -11,6 +11,7 @@
 #include <cstdlib>
 #include <vector>
 #include <set>
+#include <random>
 
 namespace discrete_mathematics {
     namespace chapter_3 {
@@ -48,7 +49,9 @@ dc::Common<T>::~Common() {}
 
 template <typename T>
 int dc::Common<T>::random(int min, int max) const {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 template <typename T>
