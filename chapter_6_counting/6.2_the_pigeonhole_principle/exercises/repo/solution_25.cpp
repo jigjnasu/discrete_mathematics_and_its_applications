@@ -10,9 +10,12 @@
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+#include <random>
 
 int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 inline void print(const std::vector<int>& v) {
@@ -35,7 +38,7 @@ int max_increasing_count(const std::vector<int>& v) {
         if (m > max)
             max = m;
     }
-    return max;        
+    return max;
 }
 
 int max_decreaing_count(const std::vector<int>& v) {
@@ -51,7 +54,7 @@ int max_decreaing_count(const std::vector<int>& v) {
         if (m > max)
             max = m;
     }
-    return max;        
+    return max;
 }
 
 int main() {
