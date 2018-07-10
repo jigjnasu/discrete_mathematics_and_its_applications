@@ -1,8 +1,11 @@
 #include <cstdio>
 #include <string>
+#include <random>
 
 int random(int min, int max) {
-    return min + rand() % (max - min) + 1;
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 int power(int x, int y) {
@@ -55,7 +58,7 @@ std::string add(const std::string& a, const std::string& b) {
     int i = 0;
     int j = 0;
     int c = 0;
-    
+
     while (i < a.size() && j < b.size()) {
         const int n_a = a[i] - '0';
         const int n_b = b[j] - '0';
@@ -91,15 +94,15 @@ std::string add(const std::string& a, const std::string& b) {
 void test_add() {
     const int min = 1;
     const int max = 1000000;
-    
+
     for (int i = 0; i < 10; ++i) {
         printf("----------------------------------------------------------------\n");
         const int a = random(min, max);
         const int b = random(min, max / 5);
-        
+
         printf("[%10d] + [%10d] == [%10d]\n", a, b, a + b);
         const std::string s_a = to_binary(a);
-        const std::string s_b = to_binary(b);        
+        const std::string s_b = to_binary(b);
         print(s_a);
         printf("\n");
         print(s_b);
@@ -107,7 +110,7 @@ void test_add() {
         const std::string s_c = add(s_a, s_b);
         print(s_c);
         printf("\nBinary to Decimal == [%d]\n", to_decimal(s_c));
-        printf("\n----------------------------------------------------------------\n");        
+        printf("\n----------------------------------------------------------------\n");
     }
 }
 
