@@ -226,8 +226,9 @@ void dc::TestSuite::m_test_solution_11() {
 
 void dc::TestSuite::m_test_solution_12() {
     std::vector<int> list;
-    for (int i = 0; i < 10; ++i)
-        list.push_back(i + 1);
+    utility::maths::Maths<int> maths;
+    for (int i = 0; i < 20; ++i)
+        list.push_back(maths.random(-100, 100));
 
     discrete_mathematics::chapter_3::Solution_12 solution;
     solution.compute_matrix(list);

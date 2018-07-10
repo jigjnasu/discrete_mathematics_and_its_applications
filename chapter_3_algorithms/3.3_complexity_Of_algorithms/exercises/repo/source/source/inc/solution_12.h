@@ -24,8 +24,10 @@ namespace discrete_mathematics {
             void compute_matrix(const std::vector<int>& data) const;
 
         private:
-            void m_print(const std::vector<int>& data) const;
+            template <std::size_t size>
+            void m_fill_matrix(int (&matrix)[size][size]) const;
 
+            void m_print(const std::vector<int>& data) const;
             template <std::size_t size>
             void m_print_matrix(int matrix[size][size]) const;
         };
