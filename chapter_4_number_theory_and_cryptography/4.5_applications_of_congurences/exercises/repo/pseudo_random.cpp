@@ -1,4 +1,4 @@
-#include "PseudoRandom.h"
+#include "pseudo_random.h"
 
 discrete_mathematics::chapter_4::PseudoRandom::PseudoRandom() {}
 

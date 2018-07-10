@@ -5,7 +5,7 @@
 int random(int x, int n) {
     std::ostringstream oss;
     oss << x * x;
-    
+
     std::string num;
     for (int i = 0; i < 2 * n - oss.str().size(); ++i)
         num.push_back('0');
@@ -25,7 +25,7 @@ void test_a() {
         x = random(x, n);
     }
 
-    printf("\n--------------------------------------------\n");    
+    printf("\n--------------------------------------------\n");
 }
 
 void test_b() {
@@ -38,12 +38,12 @@ void test_b() {
         x = random(x, n);
     }
 
-    printf("\n--------------------------------------------\n");    
+    printf("\n--------------------------------------------\n");
 }
 
 int main() {
     test_a();
     test_b();
-    
+
     return 0;
 }
