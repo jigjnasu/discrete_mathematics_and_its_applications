@@ -5,19 +5,22 @@
   Date: Jan 18th, 2017
  */
 
-#include "MergeSort.h"
+#include "merge_sort.h"
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
+#include <random>
 
 int random(int max, int min) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 int binary_search(const std::vector<int>& list, int x) {
     int start = 0;
     int end   = list.size() - 1;
-    
+
     while (start <= end) {
         if (x == list[start])
             return start + 1;
@@ -50,10 +53,10 @@ std::vector<int> build_list() {
     const int min = 0;
     const int max = 100;
     std::vector<int> list;
-    
+
     for (int i = 0; i < 50; ++i)
         list.push_back(random(min, max));
-    
+
     return list;
 }
 
@@ -72,6 +75,6 @@ void test_max() {
 
 int main() {
     test_max();
-    
+
     return 0;
 }

@@ -8,18 +8,21 @@
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
+#include <random>
 
 int random(int max, int min) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 int max(const std::vector<int>& list) {
     int max = list[0];
-    
+
     for (std::size_t i = 1; i < list.size(); ++i)
         if (list[i] > max)
             max = list[i];
-    
+
     return max;
 }
 
@@ -33,10 +36,10 @@ std::vector<int> build_list() {
     const int min = 0;
     const int max = 100;
     std::vector<int> list;
-    
+
     for (int i = 0; i < 50; ++i)
         list.push_back(random(min, max));
-    
+
     return list;
 }
 
@@ -52,6 +55,6 @@ void test_max() {
 
 int main() {
     test_max();
-    
+
     return 0;
 }

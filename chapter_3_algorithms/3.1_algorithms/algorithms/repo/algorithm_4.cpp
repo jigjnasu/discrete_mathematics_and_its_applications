@@ -8,9 +8,12 @@
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+#include <random>
 
 int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 void print(const std::vector<int>& list) {

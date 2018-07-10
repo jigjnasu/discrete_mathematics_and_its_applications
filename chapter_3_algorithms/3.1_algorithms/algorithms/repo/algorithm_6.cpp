@@ -9,9 +9,12 @@
 #include <map>
 #include <vector>
 #include <cstdlib>
+#include <random>
 
 int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 std::map<int, int> change(const std::vector<int> denominations, int value) {
@@ -43,6 +46,6 @@ void test_change() {
 
 int main() {
     test_change();
-    
+
     return 0;
 }
