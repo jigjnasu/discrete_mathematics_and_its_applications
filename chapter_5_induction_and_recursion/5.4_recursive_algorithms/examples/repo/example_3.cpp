@@ -9,6 +9,7 @@
 
 #include <cstdio>
 #include <cstdlib>
+#include <random>
 
 int gcd(int a, int b) {
     if (b == 0)
@@ -26,7 +27,9 @@ inline int min(int a, int b) {
 }
 
 inline int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 int main() {

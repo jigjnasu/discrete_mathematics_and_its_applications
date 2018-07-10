@@ -7,6 +7,7 @@
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
+#include <random>
 
 // This definition is based on divide and conquer
 // But this also has same number of O(n - 1) comparissions in worst case as linear search has
@@ -31,11 +32,13 @@ int max(const std::vector<int>& V, int start, int end) {
         const int a = max(V, start, mid);
         const int b = max(V, mid + 1, end);
         return a > b ? a : b;
-    }    
+    }
 }
 
 int random(int min, int max) {
-    return min + rand() % (max - min + 1);
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 void print(const std::vector<int>& v) {
@@ -53,11 +56,11 @@ void test_min_max() {
 
     print(v);
     printf("min == [%d]\n", min(v, 0, v.size() - 1));
-    printf("max == [%d]\n", max(v, 0, v.size() - 1));           
+    printf("max == [%d]\n", max(v, 0, v.size() - 1));
 }
 
 int main() {
     test_min_max();
-    
+
     return 0;
 }
