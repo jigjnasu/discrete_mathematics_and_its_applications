@@ -9,9 +9,12 @@
 #include <cstdio>
 #include <string>
 #include <cstdlib>
+#include <random>
 
 int random(int min, int max) {
-    return min + rand() % (max - min) + 1;
+    std::random_device rd;
+    std::uniform_int_distribution<> dt(min, max);
+    return dt(rd);
 }
 
 std::string to_binary(int n) {
@@ -48,7 +51,7 @@ std::string add(const std::string& a, const std::string& b) {
     std::size_t i = 0;
     std::size_t j = 0;
     int c = 0;
-    
+
     while (i < a.size() && j < b.size()) {
         const int n_a = a[i++] - '0';
         const int n_b = b[j++] - '0';
@@ -73,7 +76,7 @@ std::string add(const std::string& a, const std::string& b) {
 
     if (c)
         sum.push_back('1');
-    
+
     return sum;
 }
 
@@ -100,11 +103,11 @@ std::string multiply(const std::string& a, const std::string& b) {
 void test_add() {
     int min = 1;
     int max = 100;
-    
+
     for (int n = 0; n < 10; ++n) {
         printf("------------------------------------------------\n");
         const int a = random(min, max);
-        const int b = random(min, max);        
+        const int b = random(min, max);
         printf("[%4d] + [%4d] == [%d]\n", a, b, a + b);
         const std::string s_a = to_binary(a);
         const std::string s_b = to_binary(b);
@@ -113,18 +116,18 @@ void test_add() {
         const std::string s_c = add(s_a, s_b);
         print(s_c);
         printf("Binary to decimal == [%d]\n", to_decimal(s_c));
-        printf("------------------------------------------------\n");        
+        printf("------------------------------------------------\n");
     }
 }
 
 void test_multiply() {
     int min = 1;
     int max = 100;
-    
+
     for (int n = 0; n < 10; ++n) {
         printf("------------------------------------------------\n");
         const int a = random(min, max);
-        const int b = random(min, max);        
+        const int b = random(min, max);
         printf("[%4d] * [%4d] == [%d]\n", a, b, a * b);
         const std::string s_a = to_binary(a);
         const std::string s_b = to_binary(b);
@@ -133,8 +136,8 @@ void test_multiply() {
         const std::string s_c = multiply(s_a, s_b);
         print(s_c);
         printf("Binary to decimal == [%d]\n", to_decimal(s_c));
-        printf("------------------------------------------------\n");        
-    }    
+        printf("------------------------------------------------\n");
+    }
 }
 
 int main() {
@@ -149,6 +152,6 @@ int main() {
     printf("a == [%s] || b == [%s] || c == [%s]\n",
            a.c_str(), b.c_str(), c.c_str());
 #endif
-    
+
     return 0;
 }
