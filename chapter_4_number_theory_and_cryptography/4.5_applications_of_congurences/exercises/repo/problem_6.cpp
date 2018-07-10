@@ -1,4 +1,4 @@
-#include "PseudoRandom.h"
+#include "pseudo_random.h"
 #include <cstdio>
 
 int main() {
@@ -10,6 +10,6 @@ int main() {
     for (std::size_t i = 0; i < numbers.size(); ++i)
         printf("%d ", numbers[i]);
     printf("\n-------------------------------------------------------\n");
-    
+
     return 0;
 }

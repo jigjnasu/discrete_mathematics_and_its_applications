@@ -1,4 +1,4 @@
-#include "Hash.h"
+#include "hash.h"
 #include <cstdio>
 #include <vector>
 
@@ -13,6 +13,6 @@ int main() {
         printf("Employee with social security number [%12d] have memory address == [%5d]\n",
                employees[i], h.location(employees[i]));
     printf("---------------------------------------------------------\n");
-    
+
     return 0;
 }

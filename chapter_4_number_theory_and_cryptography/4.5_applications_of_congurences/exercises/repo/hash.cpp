@@ -1,4 +1,4 @@
-#include "Hash.h"
+#include "hash.h"
 
 discrete_mathematics::chapter_4::Hash::Hash() : m_mod(0) {}
 

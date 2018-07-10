@@ -1,4 +1,4 @@
-#include "Hash.h"
+#include "hash.h"
 #include <cstdio>
 
 int main() {
@@ -22,6 +22,6 @@ int main() {
     printf("[%10d] memory location == [%2d]\n", d, h.location(d));
 
     printf("---------------------------------------------------------\n");
-    
+
     return 0;
 }

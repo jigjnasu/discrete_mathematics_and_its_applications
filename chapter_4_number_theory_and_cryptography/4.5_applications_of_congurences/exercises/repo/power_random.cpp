@@ -1,4 +1,4 @@
-#include "PowerRandom.h"
+#include "power_random.h"
 
 discrete_mathematics::chapter_4::PowerRandom::PowerRandom() {}
 

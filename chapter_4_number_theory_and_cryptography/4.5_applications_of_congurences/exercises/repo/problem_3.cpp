@@ -1,4 +1,4 @@
-#include "Hash.h"
+#include "hash.h"
 #include <cstdio>
 #include <vector>
 
@@ -11,6 +11,6 @@ int main() {
         printf("Car with plate number [%3d] can be parked at spot == [%2d]\n",
                cars[i], h.location(cars[i]));
     printf("---------------------------------------------------------\n");
-    
+
     return 0;
 }
