@@ -5,7 +5,7 @@
   Date: Jan 26th, 2017
  */
 
-#include "Meeting.h"
+#include "meeting.h"
 #include "merge_sort.h"
 #include <vector>
 #include <cstdio>
@@ -18,7 +18,7 @@ void print_meetings(const std::vector<dc::Meeting>& list) {
         printf("Meeting [%lu] start from ", i + 1);
         list[i].print();
     }
-    printf("---------------------------------------------------------------\n");    
+    printf("---------------------------------------------------------------\n");
 }
 
 std::vector<dc::Meeting> list_of_all_meetings() {
@@ -44,7 +44,7 @@ bool can_schedule(const dc::Meeting& meeting,
              meeting.end_time() <= list[i].end_time()))
             return false;
     }
-    
+
     return true;
 }
 
