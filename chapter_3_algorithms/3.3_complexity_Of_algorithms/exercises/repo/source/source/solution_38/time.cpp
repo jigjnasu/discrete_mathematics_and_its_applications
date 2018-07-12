@@ -1,4 +1,4 @@
-#include "Time.h"
+#include "time.h"
 #include <cstdlib>
 #include <cstdio>
 

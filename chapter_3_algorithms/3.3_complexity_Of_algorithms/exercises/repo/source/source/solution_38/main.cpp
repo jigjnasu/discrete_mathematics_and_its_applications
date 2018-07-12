@@ -1,4 +1,4 @@
-#include "Scheduler.h"
+#include "scheduler.h"
 
 namespace ds = discrete_mathematics::chapter_3::solution_38;
 
@@ -45,6 +45,6 @@ int main() {
     add(scheduler, a);
     ds::Meeting b("8:00", "8:20");
     add(scheduler, b);
-    
+
     return 0;
 }

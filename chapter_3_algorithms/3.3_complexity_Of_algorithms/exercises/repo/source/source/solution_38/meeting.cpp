@@ -1,4 +1,4 @@
-#include "Meeting.h"
+#include "meeting.h"
 #include <cstdio>
 
 namespace ds = discrete_mathematics::chapter_3::solution_38;

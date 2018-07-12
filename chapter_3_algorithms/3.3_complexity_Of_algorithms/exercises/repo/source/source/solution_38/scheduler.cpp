@@ -1,5 +1,5 @@
-#include "Scheduler.h"
-#include "MergeSort.h"
+#include "scheduler.h"
+#include "merge_sort.h"
 
 namespace ds = discrete_mathematics::chapter_3::solution_38;
 
@@ -8,7 +8,7 @@ ds::Scheduler::Scheduler() {}
 ds::Scheduler::~Scheduler() {}
 
 void ds::Scheduler::schedule(std::vector<ds::Meeting>& meeting_list) {
-    printf("---------------------------------------------------------------------\n");    
+    printf("---------------------------------------------------------------------\n");
     printf("Scheduling the intial meeting list\n");
     printf("---------------------------------------------------------------------\n");
     print(meeting_list);
@@ -17,14 +17,13 @@ void ds::Scheduler::schedule(std::vector<ds::Meeting>& meeting_list) {
     ds::MergeSort sort;
     sort.sort(meeting_list);
 
-    printf("---------------------------------------------------------------------\n");    
+    printf("---------------------------------------------------------------------\n");
     printf("Sorted meeting list on start time\n");
     printf("---------------------------------------------------------------------\n");
     print(meeting_list);
     printf("---------------------------------------------------------------------\n");
 
-    
-    printf("---------------------------------------------------------------------\n");    
+    printf("---------------------------------------------------------------------\n");
     printf("Scheduled meeting list\n");
     printf("---------------------------------------------------------------------\n");
     m_schedule(meeting_list);
@@ -37,7 +36,7 @@ void ds::Scheduler::print() const {
         printf("Meeting [%3lu] ||", i + 1);
         m_meetings[i].print();
         printf("\n");
-    }    
+    }
 }
 
 void ds::Scheduler::print(const std::vector<ds::Meeting>& meeting_list) const {
@@ -51,7 +50,7 @@ void ds::Scheduler::print(const std::vector<ds::Meeting>& meeting_list) const {
 int ds::Scheduler::add(const Meeting& meeting) {
     if (meeting.end_time() <= m_meetings[0].start_time())
         return 1;
-    
+
     for (std::size_t i = 0; i < m_meetings.size() - 1; ++i) {
         if (meeting.start_time() >= m_meetings[i].end_time() &&
             meeting.end_time() <= m_meetings[i + 1].start_time())

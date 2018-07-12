@@ -14,7 +14,7 @@
   Date: Feb 24th, 2017
  */
 
-#include "Time.h"
+#include "time.h"
 
 namespace discrete_mathematics {
     namespace chapter_3 {

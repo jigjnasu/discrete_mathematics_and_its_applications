@@ -13,7 +13,7 @@
   Date: Feb 24th, 2017
  */
 
-#include "Meeting.h"
+#include "meeting.h"
 #include <vector>
 
 namespace discrete_mathematics {
