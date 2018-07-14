@@ -28,7 +28,7 @@ namespace discrete_mathematics {
             bool operator != (const Time& rhs) const;
 
             void print() const;
-                
+
         private:
             int m_hours;
             int m_minutes;

@@ -1,4 +1,4 @@
-#include "Time.h"
+#include "time.h"
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;
@@ -57,7 +57,7 @@ bool dc::Time::operator > (const dc::Time& rhs) const {
             return m_minutes > rhs.m_minutes;
     }
 
-    return m_hours > rhs.m_hours;    
+    return m_hours > rhs.m_hours;
 }
 
 bool dc::Time::operator <= (const dc::Time& rhs) const {
@@ -87,7 +87,7 @@ bool dc::Time::operator == (const dc::Time& rhs) const {
         (m_minutes == rhs.m_seconds) &&
         (m_seconds == rhs.m_seconds))
         return true;
-    
+
     return false;
 }
 
@@ -96,7 +96,7 @@ bool dc::Time::operator != (const dc::Time& rhs) const {
         (m_minutes == rhs.m_seconds) &&
         (m_seconds == rhs.m_seconds))
         return false;
-    
+
     return true;
 }
 

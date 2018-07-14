@@ -1,6 +1,6 @@
-#include "Time.h"
-#include "Meeting.h"
-#include "HallManager.h"
+#include "time.h"
+#include "meeting.h"
+#include "hall_manager.h"
 #include "merge_sort.h"
 #include <vector>
 
@@ -29,16 +29,16 @@ void print(const std::vector<dc::Meeting>& meetings) {
 }
 
 void schedule_meetings() {
-    
+
 }
 
 void test_meeting_scheduler() {
-    dc::MergeSort<dc::Meeting> sort;
-    
+    MergeSort<dc::Meeting> sort;
+
     std::vector<dc::Meeting> meetings = all_meetings();
     printf("---------------------- All Meetings Schedule ----------------\n");
     print(meetings);
-    printf("-------------------------------------------------------------\n");    
+    printf("-------------------------------------------------------------\n");
 
     sort.sort(meetings);
     printf("---------------------- Sorted by Start Time -----------------\n");
@@ -51,7 +51,7 @@ void test_meeting_scheduler() {
 
     printf("--------------- Hall Manager scheduled meetings -------------\n");
     print(meetings);
-    printf("-------------------------------------------------------------\n");    
+    printf("-------------------------------------------------------------\n");
 }
 
 int main() {
