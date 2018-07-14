@@ -1,4 +1,4 @@
-#include "Meeting.h"
+#include "meeting.h"
 #include <cstdio>
 
 namespace dc = discrete_mathematics::chapter_3;
@@ -17,7 +17,7 @@ dc::Meeting::Meeting(const dc::Meeting& rhs) {
 
 dc::Meeting dc::Meeting::operator = (const dc::Meeting& rhs) {
     m_start_time = rhs.m_start_time;
-    m_end_time = rhs.m_end_time;    
+    m_end_time = rhs.m_end_time;
     return *this;
 }
 

@@ -7,14 +7,14 @@
   Date: 27th, Jan 2017
  */
 
-#include "Time.h"
+#include "time.h"
 
 namespace discrete_mathematics {
     namespace chapter_3 {
         class Meeting {
         public:
             Meeting();
-            Meeting(const Time& start_time, const Time& end_time);            
+            Meeting(const Time& start_time, const Time& end_time);
             ~Meeting();
 
             Meeting(const Meeting& rhs);
@@ -29,7 +29,7 @@ namespace discrete_mathematics {
 
             Time start_time() const;
             Time end_time() const;
-            
+
             void print() const;
 
         private:
