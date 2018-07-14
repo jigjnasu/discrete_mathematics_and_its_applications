@@ -8,7 +8,7 @@
   Date: 01/05/2017
  */
 
-#include "CaesarCipher.h"
+#include "caesar_cipher.h"
 #include <cstdio>
 
 void print(const std::vector<int>& message) {
@@ -24,7 +24,7 @@ void test_caesar_cipher() {
     printf("Encrypted Message == ");
     const std::vector<int> encrypted_message = caesar.encrypt(message);
     print(encrypted_message);
-    printf("Decryted Message == [%s]\n", caesar.decrypt(encrypted_message).c_str());    
+    printf("Decryted Message == [%s]\n", caesar.decrypt(encrypted_message).c_str());
 }
 
 int main() {
