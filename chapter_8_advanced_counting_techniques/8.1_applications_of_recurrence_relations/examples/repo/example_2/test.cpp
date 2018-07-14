@@ -1,5 +1,5 @@
 //#include "TowerOfHanoiIterative.h"
-#include "TowerOfHanoi.h"
+#include "tower_of_hanoi.h"
 
 int main() {
     TowerOfHanoi<int> tower(10);

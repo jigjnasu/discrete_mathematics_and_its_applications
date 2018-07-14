@@ -6,7 +6,7 @@
   01/11/2017
  */
 
-#include "Matrix.h"
+#include "matrix.h"
 #include <cstdio>
 #include <ctime>
 #include <vector>

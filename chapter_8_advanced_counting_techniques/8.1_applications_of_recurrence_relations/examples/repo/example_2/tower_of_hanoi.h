@@ -1,7 +1,7 @@
 #ifndef DISCRETE_MATHEMATICS_CHAPTER_8_8_1_TOWER_OF_HANOI_H_
 #define DISCRETE_MATHEMATICS_CHAPTER_8_8_1_TOWER_OF_HANOI_H_
 
-#include "Stack.h"
+#include "stack.h"
 
 template <typename T>
 class TowerOfHanoi {
