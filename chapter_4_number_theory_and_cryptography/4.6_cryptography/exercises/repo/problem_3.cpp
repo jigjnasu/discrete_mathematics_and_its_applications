@@ -1,4 +1,4 @@
-#include "CaesarCipher.h"
+#include "caesar_cipher.h"
 #include <cstdio>
 
 void print(const std::vector<int>& message) {
@@ -26,7 +26,7 @@ void problem_a() {
     const std::vector<int> msg = caesar.encrypt(message);
     print(msg);
     printf("Encrypted Message == [%s]\n", convert(msg).c_str());
-    printf("-------------------------------------------\n");    
+    printf("-------------------------------------------\n");
 }
 
 void problem_b() {
@@ -37,7 +37,7 @@ void problem_b() {
     const std::vector<int> msg = caesar.encrypt(message);
     print(msg);
     printf("Encrypted Message == [%s]\n", convert(msg).c_str());
-    printf("-------------------------------------------\n");        
+    printf("-------------------------------------------\n");
 }
 
 void problem_c() {
@@ -48,7 +48,7 @@ void problem_c() {
     const std::vector<int> msg = caesar.encrypt(message);
     print(msg);
     printf("Encrypted Message == [%s]\n", convert(msg).c_str());
-    printf("-------------------------------------------\n");    
+    printf("-------------------------------------------\n");
 }
 
 int main() {

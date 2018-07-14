@@ -1,4 +1,4 @@
-#include "CaesarCipher.h"
+#include "caesar_cipher.h"
 
 discrete_mathematics::chapter_4::CaesarCipher::CaesarCipher() : m_key(3), m_mul(1) {}
 

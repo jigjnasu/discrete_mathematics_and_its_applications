@@ -25,6 +25,6 @@ int main() {
     const std::string message = "DY CVOOZZOBMRKXMO DY NBOKW";
     for (int i = 1; i < 26; ++i)
         printf("i == [%2d] || message == [%s]\n", i, decrypt(message, i).c_str());
-    
+
     return 0;
 }

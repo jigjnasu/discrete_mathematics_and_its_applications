@@ -1,4 +1,4 @@
-#include "CaesarCipher.h"
+#include "caesar_cipher.h"
 #include <cstdio>
 
 std::vector<int> convert(const std::string& message) {
@@ -15,7 +15,7 @@ void problem_a() {
     discrete_mathematics::chapter_4::CaesarCipher caesar(3, 1);
     printf("Decrypt  Message == [%s]\n", message.c_str());
     printf("Original Message == [%s]\n", caesar.decrypt(convert(message)).c_str());
-    printf("-------------------------------------------\n");    
+    printf("-------------------------------------------\n");
 }
 
 void problem_b() {
@@ -24,7 +24,7 @@ void problem_b() {
     discrete_mathematics::chapter_4::CaesarCipher caesar(3, 1);
     printf("Decrypt  Message == [%s]\n", message.c_str());
     printf("Original Message == [%s]\n", caesar.decrypt(convert(message)).c_str());
-    printf("-------------------------------------------\n");    
+    printf("-------------------------------------------\n");
 }
 
 void problem_c() {
@@ -33,7 +33,7 @@ void problem_c() {
     discrete_mathematics::chapter_4::CaesarCipher caesar(3, 1);
     printf("Decrypt  Message == [%s]\n", message.c_str());
     printf("Original Message == [%s]\n", caesar.decrypt(convert(message)).c_str());
-    printf("-------------------------------------------\n");    
+    printf("-------------------------------------------\n");
 }
 
 int main() {
