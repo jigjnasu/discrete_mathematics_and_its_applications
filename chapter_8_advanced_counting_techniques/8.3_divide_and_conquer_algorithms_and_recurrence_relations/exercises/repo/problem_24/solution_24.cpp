@@ -56,11 +56,26 @@ void iterative(const std::vector<std::pair<int, int>>& p) {
     printf("-------------------------------------------------------\n");
 }
 
+void divide_and_conquer(std::vector<std::pair<int, int>>& p) {
+    print(p);
+    std::sort(p.begin(), p.end(), [] (std::pair<int, int> a, std::pair<int, int> b) {
+            return a.first < b.first;
+        });
+    print(p);
+
+    std::sort(p.begin(), p.end(), [] (std::pair<int, int> a, std::pair<int, int> b) {
+            return a.second < b.second;
+        });
+    print(p);
+}
+
 void test() {
     const int n = 10;
-    const std::vector<std::pair<int, int>> p = get(n);
+    std::vector<std::pair<int, int>> p = get(n);
     print(p);
     iterative(p);
+
+    divide_and_conquer(p);
 }
 
 int main() {
