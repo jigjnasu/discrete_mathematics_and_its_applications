@@ -9,12 +9,17 @@
 
 #include "common.h"
 #include "iterative.h"
+#include "divide_and_conquer.h"
 
 void test() {
+    discrete_mathematics::chapter_8::Common<int> common;
+    discrete_mathematics::chapter_8::Iterative<int> it;
     const int n = 20;
-    std::vector<std::pair<int, int>> p = get<int>(n);
-    print<int>(p);
-    iterative<int>(p);
+
+    std::vector<std::pair<int, int>> p = common.get(n);
+    common.print(p);
+    printf("Euclidean distance for closest point == [%lf]\n", it.closest(p));
+//    divide_and_conquer<int>(p);
 }
 
 int main() {

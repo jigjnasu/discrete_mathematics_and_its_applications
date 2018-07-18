@@ -12,25 +12,38 @@
 
 #include "common.h"
 
+namespace discrete_mathematics {
+    namespace chapter_8 {
+        template <typename T>
+        class Iterative {
+        public:
+            Iterative();
+            ~Iterative();
+
+            double closest(const std::vector<std::pair<T, T>>& p);
+        };
+    };
+};
+
 template <typename T>
-void iterative(const std::vector<std::pair<T, T>>& p) {
-    T a      = 0;
-    T b      = 1;
-    double min = euclidean_distance(p[0], p[1]);
+discrete_mathematics::chapter_8::Iterative<T>::Iterative() {}
+
+template <typename T>
+discrete_mathematics::chapter_8::Iterative<T>::~Iterative() {}
+
+template <typename T>
+double discrete_mathematics::chapter_8::Iterative<T>::closest(const std::vector<std::pair<T, T>>& p) {
+    discrete_mathematics::chapter_8::Common<T> common;
+    double min = common.euclidean_distance(p[0], p[1]);
     for (std::size_t i = 1; i < p.size() - 1; ++i) {
         for (std::size_t j = i + 1; j < p.size(); ++j) {
-            const double m = euclidean_distance(p[i], p[j]);
-            if (m < min) {
+            const double m = common.euclidean_distance(p[i], p[j]);
+            if (min < m)
                 min = m;
-                a   = i;
-                b   = j;
-            }
         }
     }
 
-    printf("-------------------------------------------------------\n");
-    printf("Minimum distance between (%2d and %2d) == [%lf]\n", a, b, min);
-    printf("-------------------------------------------------------\n");
+    return min;
 }
 
 
