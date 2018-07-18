@@ -2,7 +2,7 @@
   Discrete Mathematics and Its Applications
   by Dr. Kenneth H. Rosen
   Chapter 8.3 Divide and Conquer Algorithms and Recurrence Relations
-  Solution 24
+  Closest Pair algorithm test code
   Rakesh Kumar, cpp.rakesh@gmail.com
   17/07/2018
  */
@@ -20,8 +20,8 @@ void test() {
     std::vector<std::pair<int, int>> p = common.get(n);
     common.print(p);
 
-    printf("Euclidean distance for closest point == [%lf]\n", it.closest(p));
-    printf("Euclidean distance for closest point == [%lf]\n", dc.closest(p));
+    printf("[Iterative Algorithm          O(n ^ 2)] Euclidean distance for closest point == [%lf]\n", it.closest(p));
+    printf("[Divide and Conquer Algorithm O(nlogn)] Euclidean distance for closest point == [%lf]\n", dc.closest(p));
 }
 
 int main() {
