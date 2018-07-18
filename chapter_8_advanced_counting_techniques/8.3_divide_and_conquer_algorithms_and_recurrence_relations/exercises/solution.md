@@ -94,6 +94,7 @@
 
 #### Solution
 Closest pair algorithms code
+
 [common.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/closest_pair/common.h)
 
 [iterative.h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/closest_pair/iterative.h)
