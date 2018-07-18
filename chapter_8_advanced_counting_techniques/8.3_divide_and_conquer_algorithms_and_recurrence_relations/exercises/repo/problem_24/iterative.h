@@ -38,7 +38,7 @@ double discrete_mathematics::chapter_8::Iterative<T>::closest(const std::vector<
     for (std::size_t i = 1; i < p.size() - 1; ++i) {
         for (std::size_t j = i + 1; j < p.size(); ++j) {
             const double m = common.euclidean_distance(p[i], p[j]);
-            if (min < m)
+            if (m < min)
                 min = m;
         }
     }
