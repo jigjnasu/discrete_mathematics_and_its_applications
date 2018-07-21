@@ -132,7 +132,7 @@ Closest pair algorithms code
 ![output 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/output_25.jpg)
 
 ##### Solution walkthrough
-*S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3), (5, 1), (5, 5), (5, 9), (6, 7), (7, 1), (7, 4), (7, 9), (8, 6) }
+*S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3), (5, 1), (5, 5), (5, 9), (6, 7), (7, 1), (7, 4), (7, 9), (8, 6) }*
 
 Let's apply divide and conquer algorithm to find the closest pair.
 
