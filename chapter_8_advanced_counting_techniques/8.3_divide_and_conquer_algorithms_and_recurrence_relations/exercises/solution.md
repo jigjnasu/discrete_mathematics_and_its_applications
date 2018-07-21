@@ -132,23 +132,15 @@ Closest pair algorithms code
 ![output 25](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/output_25.jpg)
 
 ##### Solution walkthrough
-S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3), (5, 1), (5, 5), (5, 9), (6, 7), (7, 1), (7, 4), (7, 9), (8, 6) }
-
-Let's apply divide and conquer algorithm to find the closest pair.
-
-Letf side of tree will look like S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3) }
-
-Then S = { (1, 2), (1, 6), (2, 4), (2, 8) }
-
-Then S = { (1, 2), (1, 6) } and its eculidean distance = 4.0
-
-And then it will go to the right side of the child which is S = { (2, 4), (2, 8) }
-
-and it's euclidean distance = 4.0
-
-And now let's calculate its's strip distance = (1, 2), (1, 6), (2, 4), (2, 8) and closest will be (1, 6), (2, 4) = 2.236068
-
-And if we will have this repeated we will come up with (1, 6), (3, 6) = 2.0
+>S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3), (5, 1), (5, 5), (5, 9), (6, 7), (7, 1), (7, 4), (7, 9), (8, 6) }
+>Let's apply divide and conquer algorithm to find the closest pair.
+>Left side of tree will look like S = { (1, 2), (1, 6), (2, 4), (2, 8), (3, 1), (3, 6), (3, 10), (4, 3) }
+>Then S = { (1, 2), (1, 6), (2, 4), (2, 8) }
+>Then S = { (1, 2), (1, 6) } and its eculidean distance = 4.0
+>And then it will go to the right side of the child which is S = { (2, 4), (2, 8) }
+>and it's euclidean distance = 4.0
+>And now let's calculate its's strip distance = (1, 2), (1, 6), (2, 4), (2, 8) and closest will be (1, 6), (2, 4) = 2.236068
+>And if we will have this repeated we will come up with (1, 6), (3, 6) = 2.0
 
 ![problem 26](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_26.jpg)
 
