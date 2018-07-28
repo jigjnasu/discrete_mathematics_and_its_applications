@@ -76,7 +76,7 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_strip(std::vector
 
     double min = common.euclidean_distance(p[0], p[1]);
     for (std::size_t i = 1; i < p.size() - 1; ++i) {
-        for (std::size_t j = i + 1; j < p.size() && p[j].second - p[i].second < min; ++j) {
+        for (std::size_t j = i + 1; j < p.size() && (p[j].second - p[i].second) < min; ++j) {
             const double m = common.euclidean_distance(p[i], p[j]);
             if (m < min)
                 min = m;
