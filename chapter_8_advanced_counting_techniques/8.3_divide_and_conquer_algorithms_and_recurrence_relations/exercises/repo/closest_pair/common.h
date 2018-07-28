@@ -45,7 +45,7 @@ template <typename T>
 std::vector<std::pair<T, T>> discrete_mathematics::chapter_8::Common<T>::get(int n) {
     std::vector<std::pair<T, T>> p;
     for (int i = 0; i < n; ++i)
-        p.push_back(std::pair<T, T>(random(1, 99), random(1, 99)));
+        p.push_back(std::pair<T, T>(random(1, 10000), random(1, 10000)));
     return p;
 }
 

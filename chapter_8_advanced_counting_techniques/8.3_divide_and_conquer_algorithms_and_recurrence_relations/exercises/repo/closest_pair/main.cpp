@@ -15,7 +15,7 @@ void test() {
     discrete_mathematics::chapter_8::Common<int> common;
     discrete_mathematics::chapter_8::Iterative<int> it;
     discrete_mathematics::chapter_8::DivideAndConquer<int> dc;
-    const int n = 20;
+    const int n = 1000;
 
     std::vector<std::pair<int, int>> p = common.get(n);
     common.print(p);
