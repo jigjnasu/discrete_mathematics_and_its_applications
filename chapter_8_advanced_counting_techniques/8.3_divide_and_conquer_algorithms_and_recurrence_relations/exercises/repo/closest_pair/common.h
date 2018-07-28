@@ -60,8 +60,8 @@ void discrete_mathematics::chapter_8::Common<T>::print(const std::vector<std::pa
 template <typename T>
 double discrete_mathematics::chapter_8::Common<T>::euclidean_distance(const std::pair<T, T>& a,
                                                                       const std::pair<T, T>& b) {
-    return std::sqrt(std::abs((b.first  - a.first)  * (b.first  - a.first) +
-                              (b.second - a.second) * (b.second - a.second)));
+    return std::sqrt((b.first  - a.first)  * (b.first  - a.first) +
+                     (b.second - a.second) * (b.second - a.second));
 }
 
 #endif // DISCRETE_MATHEMATICS_AND_ITS_APPLICATIONS_CHAPTER_8_8_3_DIVIDE_AND_CONQUER_ALGORITHMS_AND_RECURRENCE_RELATIONS_EXERCISES_REPO_COMMON_H_
