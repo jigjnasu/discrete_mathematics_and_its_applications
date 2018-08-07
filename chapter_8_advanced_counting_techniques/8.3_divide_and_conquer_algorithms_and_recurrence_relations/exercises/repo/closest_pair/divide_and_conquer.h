@@ -62,12 +62,10 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_closest(std::vect
             if (std::abs(p[i].first - p[m].first) < min)
                 list.push_back(p[i]);
 
-        if (list.size()) {
-            const double s_min = m_strip(list);
-            return m_min(min, s_min);
-        } else {
+        if (list.size() < 2)
             return min;
-        }
+        else
+            return m_min(min, m_strip(list));
     }
 }
 
