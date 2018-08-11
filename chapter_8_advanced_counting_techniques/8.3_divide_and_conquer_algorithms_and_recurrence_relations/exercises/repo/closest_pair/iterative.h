@@ -35,7 +35,7 @@ template <typename T>
 double discrete_mathematics::chapter_8::Iterative<T>::closest(const std::vector<std::pair<T, T>>& p) {
     discrete_mathematics::chapter_8::Common<T> common;
     double min = common.euclidean_distance(p[0], p[1]);
-    for (std::size_t i = 1; i < p.size() - 1; ++i) {
+    for (std::size_t i = 0; i < p.size() - 1; ++i) {
         for (std::size_t j = i + 1; j < p.size(); ++j) {
             const double m = common.euclidean_distance(p[i], p[j]);
             if (m < min)
