@@ -58,7 +58,13 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_closest(std::vect
         double min = m_min(l_min, r_min);
 
         std::vector<std::pair<T, T>> list;
-        for (int i = s; i <= e; ++i)
+        for (int i = s; i < m; ++i)
+            if (std::abs(p[i].first - p[m].first) < min)
+                list.push_back(p[i]);
+
+        list.push_back(p[m]);
+
+        for (int i = m + 1; i <= e; ++i)
             if (std::abs(p[i].first - p[m].first) < min)
                 list.push_back(p[i]);
 
@@ -78,13 +84,9 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_strip(std::vector
         });
 
     double min = common.euclidean_distance(p[0], p[1]);
-    for (std::size_t i = 1; i < p.size() - 1; ++i) {
-        for (std::size_t j = i + 1; j < p.size() && (p[j].second - p[i].second) < min; ++j) {
-            const double m = common.euclidean_distance(p[i], p[j]);
-            if (m < min)
-                min = m;
-        }
-    }
+    for (std::size_t i = 1; i < p.size() - 1; ++i)
+        for (std::size_t j = i + 1; j < p.size() && (p[j].second - p[i].second) < min; ++j)
+            min = std::min(min, common.euclidean_distance(p[i], p[j]));
 
     return min;
 }
