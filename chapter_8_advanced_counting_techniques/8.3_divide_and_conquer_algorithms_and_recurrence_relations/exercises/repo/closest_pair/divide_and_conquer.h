@@ -25,8 +25,6 @@ namespace discrete_mathematics {
         private:
             double m_closest(std::vector<std::pair<T, T>>& p, int s, int e);
             double m_strip(std::vector<std::pair<T, T>>& p);
-
-            double m_min(const double& a, const double& b);
         };
     };
 };
@@ -55,7 +53,7 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_closest(std::vect
         const int m = (s + e) >> 1;
         const double l_min = m_closest(p, s, m);
         const double r_min = m_closest(p, m + 1, e);
-        double min = m_min(l_min, r_min);
+        double min = std::min(l_min, r_min);
 
         std::vector<std::pair<T, T>> list;
         for (int i = s; i < m; ++i)
@@ -71,7 +69,7 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_closest(std::vect
         if (list.size() < 2)
             return min;
         else
-            return m_min(min, m_strip(list));
+            return std::min(min, m_strip(list));
     }
 }
 
@@ -89,11 +87,6 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_strip(std::vector
             min = std::min(min, common.euclidean_distance(p[i], p[j]));
 
     return min;
-}
-
-template <typename T>
-double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_min(const double& a, const double& b) {
-    return a < b ? a : b;
 }
 
 #endif // DISCRETE_MATHEMATICS_AND_ITS_APPLICATIONS_CHAPTER_8_8_3_DIVIDE_AND_CONQUER_ALGORITHMS_AND_RECURRENCE_RELATIONS_EXERCISES_REPO_DIVIDE_AND_CONQUER_H_
