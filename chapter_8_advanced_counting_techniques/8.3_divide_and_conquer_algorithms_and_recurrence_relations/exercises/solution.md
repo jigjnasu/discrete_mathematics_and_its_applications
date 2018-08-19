@@ -179,3 +179,9 @@ Closest pair algorithms code
 
 ![solution 27 iter](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_27_iter.jpg)
 
+##### Divide and Conquer 0(nlgn)
+
+![solution 27 dac a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_27_dac_a.jpg)
+
+![solution 27 dac a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_27_dac_b.jpg)
+
