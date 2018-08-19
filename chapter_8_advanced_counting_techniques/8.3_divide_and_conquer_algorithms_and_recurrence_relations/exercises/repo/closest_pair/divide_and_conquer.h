@@ -12,6 +12,8 @@
 
 #include "common.h"
 
+const int inf = 1 << 30;
+
 namespace discrete_mathematics {
     namespace chapter_8 {
         template <typename T>
@@ -71,6 +73,8 @@ double discrete_mathematics::chapter_8::DivideAndConquer<T>::m_closest(std::vect
         else
             return std::min(min, m_strip(list));
     }
+
+    return inf;
 }
 
 template <typename T>
