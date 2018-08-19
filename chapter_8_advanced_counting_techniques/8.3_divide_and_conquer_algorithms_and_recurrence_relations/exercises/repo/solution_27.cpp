@@ -85,6 +85,7 @@ int divide_and_conquer_closest_distance(points& p, int s, int e) {
         else
             return std::min(min, strip_distance(strip));
     }
+
     return inf;
 }
 
