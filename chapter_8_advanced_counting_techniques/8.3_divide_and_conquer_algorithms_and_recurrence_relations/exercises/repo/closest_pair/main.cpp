@@ -12,12 +12,12 @@
 #include "divide_and_conquer.h"
 
 void test() {
-    discrete_mathematics::chapter_8::Common<int> common;
-    discrete_mathematics::chapter_8::Iterative<int> it;
-    discrete_mathematics::chapter_8::DivideAndConquer<int> dc;
-    const int n = 1000;
+    discrete_mathematics::chapter_8::Common<double> common;
+    discrete_mathematics::chapter_8::Iterative<double> it;
+    discrete_mathematics::chapter_8::DivideAndConquer<double> dc;
+    const int n = 1e+4;
 
-    std::vector<std::pair<int, int>> p = common.get(n);
+    std::vector<std::pair<double, double>> p = common.get(n);
     common.print(p);
 
     printf("[Iterative Algorithm          O(n ^ 2)] Euclidean distance for closest point == [%lf]\n", it.closest(p));

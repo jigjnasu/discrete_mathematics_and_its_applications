@@ -31,7 +31,7 @@ namespace discrete_mathematics {
 template <typename T>
 T random(T s, T e) {
     std::random_device rd;
-    std::uniform_int_distribution<> dt(s, e);
+    std::uniform_real_distribution<> dt(s, e);
     return dt(rd);
 }
 
@@ -45,7 +45,8 @@ template <typename T>
 std::vector<std::pair<T, T>> discrete_mathematics::chapter_8::Common<T>::get(int n) {
     std::vector<std::pair<T, T>> p;
     for (int i = 0; i < n; ++i)
-        p.push_back(std::pair<T, T>(random(1, 10000), random(1, 10000)));
+        p.push_back(std::pair<T, T>(random(static_cast<double>(1), 1e+10),
+                                    random(static_cast<double>(1), 1e+10)));
     return p;
 }
 
@@ -53,7 +54,7 @@ template <typename T>
 void discrete_mathematics::chapter_8::Common<T>::print(const std::vector<std::pair<T, T>>& p) {
     printf("-------------------------------------------------------\n");
     for (std::size_t i = 0;i < p.size(); ++i)
-        printf("%2d.   (%2d, %2d)\n", i, p[i].first, p[i].second);
+        printf("%8d.   (%32lf, %32lf)\n", i, p[i].first, p[i].second);
     printf("-------------------------------------------------------\n");
 }
 
