@@ -187,3 +187,5 @@ Closest pair algorithms code
 
 
 ![problem 28](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_28.jpg)
+
+![solution 28 dac a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_28_a_a.jpg)
