@@ -32,7 +32,7 @@ void dc::Solution_8::compare() const {
     printf("[%d] ^ [2] ^ [%d] == [%s]\n",
            x, k, m_naive_power(x, m_naive_power(2, k)).get().c_str());
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------\n");
 
     printf("----------------- Divide and Conquer Algorithm -------------------\n");
@@ -40,7 +40,7 @@ void dc::Solution_8::compare() const {
     printf("[%d] ^ [2] ^ [%d] == [%s]\n",
            x, k, m_divide_and_conquer_power(x, m_divide_and_conquer_power(2, k)).get().c_str());
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------\n");
 }
 

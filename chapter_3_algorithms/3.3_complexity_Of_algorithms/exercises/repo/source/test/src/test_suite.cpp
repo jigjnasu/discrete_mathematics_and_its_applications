@@ -78,7 +78,7 @@ void dc::TestSuite::m_start_timer() {
 
 void dc::TestSuite::m_end_timer() {
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(std::chrono::steady_clock::now() - m_start_time));
+           std::chrono::duration<double>(std::chrono::steady_clock::now() - m_start_time).count());
     printf("-----------------------------------------------------------\n");
 }
 

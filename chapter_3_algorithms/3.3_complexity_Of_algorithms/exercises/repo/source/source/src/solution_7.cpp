@@ -2,7 +2,6 @@
 #include "linear_search.h"
 #include "binary_search.h"
 #include <cstdio>
-#include <ctime>
 #include <chrono>
 
 /*
@@ -48,12 +47,12 @@ void dc::Solution_7::compare() const {
     if (linear_search.search(data, k))
         printf("Linear Search found element [%d] in the data vector\n", k);
     printf("Linear search Execution time == [%16lf]\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------\n");
     if (binary_search.search(data, k))
         printf("Binary Search found element [%d] in the data vector\n", k);
     printf("Binary search Execution time == [%16lf]\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
 }
 
 void dc::Solution_7::m_print(const std::vector<int>& data) const {
