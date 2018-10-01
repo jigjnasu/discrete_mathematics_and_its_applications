@@ -10,7 +10,7 @@
 #include <cstdio>
 #include <string>
 #include <cstdlib>
-#include <ctime>
+#include <chrono>
 
 int linear_count(const std::string& input) {
     int count = 0;
@@ -48,18 +48,19 @@ std::string build_bit_string() {
 
 void test_count() {
     const std::string input = build_bit_string();
-    
-    std::clock_t start = clock();
+
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     printf("---------------------------------------------------------------------\n");
-    printf("Linear count execution time == [%.8f] seconds | result == [%d]\n",
-           clock() - start / static_cast<double>(CLOCKS_PER_SEC), linear_count(input));
+    printf("Linear count execution time == [%16lf] seconds | result == [%d]\n",
+           std::chrono::duration<double>(clock::now() - start), linear_count(input));
     printf("---------------------------------------------------------------------\n");
 
-    start = clock();
+    start = clock::now();
     printf("---------------------------------------------------------------------\n");
-    printf("Double count execution time == [%.8f] seconds | result == [%d]\n",
-           clock() - start / static_cast<double>(CLOCKS_PER_SEC), double_count(input));
-    printf("---------------------------------------------------------------------\n");        
+    printf("Double count execution time == [%16lf] seconds | result == [%d]\n",
+           std::chrono::duration<double>(clock::now() - start), double_count(input));
+    printf("---------------------------------------------------------------------\n");
 }
 
 int main() {
