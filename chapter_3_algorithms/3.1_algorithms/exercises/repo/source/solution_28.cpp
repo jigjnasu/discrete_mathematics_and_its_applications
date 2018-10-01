@@ -16,7 +16,7 @@
   Algorithm 5, Binary search, split input in 5 and search in the appropriate section.
      ....       ..     ..      ..    ..    . . ..    ..    .  .      ...       ...
      ....       ..     ..      ..    ..    . . ..    ..    .  .      ...       ...
-  Algorithm 10, Binary search, split input in 10 and search in the appropriate section.     
+  Algorithm 10, Binary search, split input in 10 and search in the appropriate section.
  */
 
 #include "common.h"
@@ -24,7 +24,7 @@
 #include <vector>
 #include <cstdlib>
 #include <string>
-#include <ctime>
+#include <chrono>
 
 int unary_search(const std::vector<int>& list, int x) {
     for (std::size_t i = 0; i < list.size(); ++i)
@@ -60,7 +60,7 @@ int binary_search(const std::vector<int>& list, int x) {
 
 int n_split_search(const std::vector<int>& list, int x, int n) {
     int start = 0;
-    int end   = list.size() - 1; 
+    int end   = list.size() - 1;
 
     while (start <= end) {
         const int split = (end - start) / n;
@@ -90,7 +90,7 @@ int n_split_search(const std::vector<int>& list, int x, int n) {
 void test_searches() {
     const int min = 1;
     const int max = 10000000;
-    
+
     std::vector<int> list;
     for (int i = min; i <= max; ++i)
         list.push_back(i);
@@ -98,24 +98,28 @@ void test_searches() {
     discrete_mathematics::chapter_3::Common<int> common;
     const int x = common.random(min, max);
 
-    std::clock_t start = clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     printf("--------------------------------------------------------------------\n");
     printf("Linear search x == [%d] found at [%d] location\n", x, unary_search(list, x));
     printf("--------------------------------------------------------------------\n");
-    printf("Execution time  == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time  == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
 
-    start = clock();
+    start = clock::now();
     printf("--------------------------------------------------------------------\n");
     printf("Binary search x == [%d] found at [%d] location\n", x, binary_search(list, x));
     printf("--------------------------------------------------------------------\n");
-    printf("Execution time  == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time  == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
 
     for (int n = 3; n <= 10; ++n) {
-        start = clock();
+        start = clock::now();
         printf("--------------------------------------------------------------------\n");
         printf("Search with [%d] splits, x == [%d] found at [%d] location\n", n, x, n_split_search(list, x, n));
         printf("--------------------------------------------------------------------\n");
-        printf("Execution time  == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+        printf("Execution time  == [%16lf] seconds\n",
+               std::chrono::duration<double>(clock::now() - start));
     }
 }
 
@@ -124,4 +128,3 @@ int main() {
 
     return 0;
 }
-
