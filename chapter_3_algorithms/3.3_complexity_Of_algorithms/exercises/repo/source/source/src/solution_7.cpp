@@ -3,6 +3,7 @@
 #include "binary_search.h"
 #include <cstdio>
 #include <ctime>
+#include <chrono>
 
 /*
   --------- Linear Search --------------
@@ -42,16 +43,17 @@ void dc::Solution_7::compare() const {
 
     const int k = 4;
 
-    std::clock_t start = std::clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     if (linear_search.search(data, k))
         printf("Linear Search found element [%d] in the data vector\n", k);
-    printf("Linear search Execution time == [%.8f]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Linear search Execution time == [%16lf]\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------\n");
     if (binary_search.search(data, k))
         printf("Binary Search found element [%d] in the data vector\n", k);
-    printf("Binary search Execution time == [%.8f]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Binary search Execution time == [%16lf]\n",
+           std::chrono::duration<double>(clock::now() - start));
 }
 
 void dc::Solution_7::m_print(const std::vector<int>& data) const {
