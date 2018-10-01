@@ -100,14 +100,14 @@ void test_fibonacci() {
     printf("-- Iterative -- \n");
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_iterative(n));
-    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start).count());
 
     // test the recursive naive fibonacci
     start = clock::now();
     printf("-- Recursive -- \n");
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_recursive(n));
-    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start).count());
 
     // test the recursive dynamic programming fibonacci
     start = clock::now();
@@ -115,14 +115,14 @@ void test_fibonacci() {
     std::vector<int> dict(35, 0);
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_dp(n, dict));
-    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start).count());
 
     // test the matrix based fibonacci series
     start = clock::now();
     printf("-- Matrix Power Multiplication Fibonacci -- \n");
     for (int n = 0; n < 35; ++n)
         printf("%d ", fibonacci_matrix(n));
-    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start).count());
 }
 
 int main() {

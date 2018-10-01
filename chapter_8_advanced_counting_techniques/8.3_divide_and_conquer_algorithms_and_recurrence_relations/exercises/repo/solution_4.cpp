@@ -60,14 +60,14 @@ int unit_test() {
     for (std::size_t i = 0; i < v.size(); i += 2)
         rfm.push_back(fast_multiply(v[i], v[i + 1]));
     printf("Execution time for fast multiplication   == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
 
     std::vector<int> rnm;
     start = clock::now();
     for (std::size_t i = 0; i < v.size(); i += 2)
         rnm.push_back(fast_multiply(v[i], v[i + 1]));
     printf("Execution time for normal multiplication == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
 
     for (std::size_t i = 0; i < rnm.size(); ++i)
         printf("[%8d] * [%8d] == [%16d] || [%16d] || result == [%s]\n",
