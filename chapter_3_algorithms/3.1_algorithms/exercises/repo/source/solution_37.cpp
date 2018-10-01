@@ -10,7 +10,7 @@
 #include "common.h"
 #include <cstdio>
 #include <vector>
-#include <ctime>
+#include <chrono>
 
 void swap(int& a, int& b) {
     a ^= b;
@@ -50,14 +50,17 @@ void test_sorts() {
     std::vector<int> V1 = V;
 
     common.print(V);
-    std::clock_t start = clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     bubble_sort(V);
-    printf("Execution time for normal bubble sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time for normal bubble sort == [%16f] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     common.print(V);
 
-    start = clock();
+    start = clock::now();
     modified_bubble_sort(V1);
-    printf("Execution time for modified bubble sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time for modified bubble sort == [%16f] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     common.print(V1);
 }
 
