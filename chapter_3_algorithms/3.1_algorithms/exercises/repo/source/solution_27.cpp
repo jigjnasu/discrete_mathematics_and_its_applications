@@ -8,9 +8,9 @@
 
 /*
   Input, asscending sorted vector / list.
-  
+
   Algorithm 1, linear search O(n), search each element from start to end.
-  Algorithm 2, binary search O(lg n) search element in two parts 
+  Algorithm 2, binary search O(lg n) search element in two parts
        | ----- | ------ |, if x < mid search in left else in right
   Algorthm 3, ternary search (log3 n)
        | ----- | ------ | ----- |, if x in first half, second or third search in that.
@@ -21,7 +21,7 @@
 #include <cstdio>
 #include <vector>
 #include <cstdlib>
-#include <ctime>
+#include <chrono>
 
 const int min   = 0;
 const int max   = 10000;
@@ -56,7 +56,7 @@ int binary_search(const std::vector<int>& list, int x) {
             --end;
         }
     }
-    
+
     return 0;
 }
 
@@ -67,7 +67,7 @@ int ternary_search(const std::vector<int>& list, int x) {
 
     while (start <= end) {
         const int split = (end - start) / n;
-        
+
         for (int i = 0; i < n; ++i)
             if (x == list[start + i * split])
                 return start + i * split + 1;
@@ -89,7 +89,7 @@ int ternary_search(const std::vector<int>& list, int x) {
             }
         }
     }
-    
+
     return 0;
 }
 
@@ -100,31 +100,35 @@ void test_searches() {
     for (int i = 1; i <= limit; ++i)
         list.push_back(i);
     const int x = common.random(min, limit);
-    
+
     // Algorithm 1 (Linear Search)
-    std::clock_t start = clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, linear_search(list, x));
-    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
-    start = clock();
+    start = clock::now();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, binary_search(list, x));
-    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
-    start = clock();
+    start = clock::now();
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, ternary_search(list, x));
-    printf("Execution time == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
-    printf("---------------------------------------------------------------\n");            
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
+    printf("---------------------------------------------------------------\n");
 }
 
 int main() {
     test_searches();
-    
+
     return 0;
 }
