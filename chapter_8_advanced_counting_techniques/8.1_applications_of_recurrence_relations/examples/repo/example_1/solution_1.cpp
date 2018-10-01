@@ -8,7 +8,7 @@
 
 #include "matrix.h"
 #include <cstdio>
-#include <ctime>
+#include <chrono>
 #include <vector>
 
 /*
@@ -95,37 +95,34 @@ int fibonacci_matrix(int n) {
 
 void test_fibonacci() {
     // test the iterative one
-    std::clock_t start = std::clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     printf("-- Iterative -- \n");
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_iterative(n));
-    printf(" || [[%.8lf] seconds]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
 
     // test the recursive naive fibonacci
-    start = std::clock();
+    start = clock::now();
     printf("-- Recursive -- \n");
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_recursive(n));
-    printf(" || [[%.8lf] seconds]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
 
     // test the recursive dynamic programming fibonacci
-    start = std::clock();
+    start = clock::now();
     printf("-- Dynamic Programming -- \n");
     std::vector<int> dict(35, 0);
     for (int n = 1; n <= 35; ++n)
         printf("%d ", fibonacci_dp(n, dict));
-    printf(" || [[%.8lf] seconds]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
 
     // test the matrix based fibonacci series
-    start = std::clock();
+    start = clock::now();
     printf("-- Matrix Power Multiplication Fibonacci -- \n");
     for (int n = 0; n < 35; ++n)
         printf("%d ", fibonacci_matrix(n));
-    printf(" || [[%.8lf] seconds]\n",
-           (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf(" || [[%16lf] seconds]\n", std::chrono::duration<double>(clock::now() - start));
 }
 
 int main() {
