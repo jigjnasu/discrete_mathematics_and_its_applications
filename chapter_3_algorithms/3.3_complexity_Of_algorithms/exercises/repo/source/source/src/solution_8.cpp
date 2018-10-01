@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <ctime>
 #include <cstdlib>
+#include <chrono>
 
 /*
   --------- Naive Power Algorithm ---------------------
@@ -26,17 +27,20 @@ void dc::Solution_8::compare() const {
     const int x = 9;
     const int k = 10;
     printf("----------------- Naive Iterative Algorithm ----------------------\n");
-    std::clock_t start = std::clock();
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
     printf("[%d] ^ [2] ^ [%d] == [%s]\n",
            x, k, m_naive_power(x, m_naive_power(2, k)).get().c_str());
-    printf("Execution time == [%.8f] seconds\n", (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------\n");
 
     printf("----------------- Divide and Conquer Algorithm -------------------\n");
-    start = std::clock();
+    start = clock::now();
     printf("[%d] ^ [2] ^ [%d] == [%s]\n",
            x, k, m_divide_and_conquer_power(x, m_divide_and_conquer_power(2, k)).get().c_str());
-    printf("Execution time == [%.8f] seconds\n", (std::clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------\n");
 }
 
