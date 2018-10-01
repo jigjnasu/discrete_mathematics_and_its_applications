@@ -3,7 +3,7 @@
 
 #include <map>
 #include <vector>
-#include <ctime>
+#include <chrono>
 
 namespace discrete_mathematics {
     namespace chapter_3 {
@@ -18,7 +18,7 @@ namespace discrete_mathematics {
             typedef void (TestSuite::*ptrFunc)();
 
         private:
-            std::clock_t m_start_time;
+            std::chrono::steady_clock::time_point m_start_time;
             std::map<int, ptrFunc> m_test_cases_dictionary;
 
             void m_initialize_test_cases_dictionary();
@@ -28,7 +28,7 @@ namespace discrete_mathematics {
             void m_end_timer();
 
             void m_print_vector(const std::vector<int>& V) const;
-            
+
             void m_test_solution_1();
             void m_test_solution_2();
             void m_test_solution_3();
@@ -59,7 +59,7 @@ namespace discrete_mathematics {
             void m_test_solution_35();
             void m_test_solution_36();
             void m_test_solution_42();
-            void m_test_solution_46();            
+            void m_test_solution_46();
         };
     };
 };

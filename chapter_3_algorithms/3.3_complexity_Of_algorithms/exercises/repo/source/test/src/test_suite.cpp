@@ -73,12 +73,12 @@ void dc::TestSuite::m_show_banner(int test_case) {
 }
 
 void dc::TestSuite::m_start_timer() {
-    m_start_time = std::clock();
+    m_start_time = std::chrono::steady_clock::now();
 }
 
 void dc::TestSuite::m_end_timer() {
-    printf("Execution time == [%.8f] seconds\n",
-           (std::clock() - m_start_time) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time == [%16lf] seconds\n",
+           std::chrono::duration<double>(std::chrono::steady_clock::now() - m_start_time));
     printf("-----------------------------------------------------------\n");
 }
 
