@@ -15,7 +15,7 @@
 #include "common.h"
 #include "merge_sort.h"
 #include <cstdio>
-#include <ctime>
+#include <chrono>
 
 void swap(int& a, int& b) {
     a ^= b;
@@ -77,26 +77,30 @@ void test_binary_insertion_sort() {
     discrete_mathematics::chapter_3::MergeSort<int> sort;
     std::vector<int> list = common.build_vector(limit, min, max);
     std::vector<int> list1 = list;
-    std::vector<int> list2 = list;    
+    std::vector<int> list2 = list;
 
-    std::clock_t start = clock();
-    insertion_sort(list);    
+    using clock = std::chrono::steady_clock;
+    clock::time_point start = clock::now();
+    insertion_sort(list);
     printf("------------------------------------------------------------------------\n");
-    printf("Execution time taken by insertion sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time taken by insertion sort == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------------\n");
 
     common.print(list1);
-    start = clock();
+    start = clock::now();
     binary_insertion_sort(list1);
     common.print(list1);
     printf("------------------------------------------------------------------------\n");
-    printf("Execution time taken by binary insertion sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time taken by binary insertion sort == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------------\n");
 
-    start = clock();
+    start = clock::now();
     sort.sort(list2);
     printf("------------------------------------------------------------------------\n");
-    printf("Execution time taken by merge sort == [%.8f] seconds\n", (clock() - start) / static_cast<double>(CLOCKS_PER_SEC));
+    printf("Execution time taken by merge sort == [%16lf] seconds\n",
+           std::chrono::duration<double>(clock::now() - start));
     printf("------------------------------------------------------------------------\n");
 }
 
