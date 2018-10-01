@@ -54,13 +54,13 @@ void test_sorts() {
     clock::time_point start = clock::now();
     bubble_sort(V);
     printf("Execution time for normal bubble sort == [%16f] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     common.print(V);
 
     start = clock::now();
     modified_bubble_sort(V1);
     printf("Execution time for modified bubble sort == [%16f] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     common.print(V1);
 }
 

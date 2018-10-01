@@ -104,14 +104,14 @@ void test_searches() {
     printf("Linear search x == [%d] found at [%d] location\n", x, unary_search(list, x));
     printf("--------------------------------------------------------------------\n");
     printf("Execution time  == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
 
     start = clock::now();
     printf("--------------------------------------------------------------------\n");
     printf("Binary search x == [%d] found at [%d] location\n", x, binary_search(list, x));
     printf("--------------------------------------------------------------------\n");
     printf("Execution time  == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
 
     for (int n = 3; n <= 10; ++n) {
         start = clock::now();
@@ -119,7 +119,7 @@ void test_searches() {
         printf("Search with [%d] splits, x == [%d] found at [%d] location\n", n, x, n_split_search(list, x, n));
         printf("--------------------------------------------------------------------\n");
         printf("Execution time  == [%16lf] seconds\n",
-               std::chrono::duration<double>(clock::now() - start));
+               std::chrono::duration<double>(clock::now() - start).count());
     }
 }
 

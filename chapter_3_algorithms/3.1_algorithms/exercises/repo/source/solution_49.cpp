@@ -84,7 +84,7 @@ void test_binary_insertion_sort() {
     insertion_sort(list);
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by insertion sort == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------------\n");
 
     common.print(list1);
@@ -93,14 +93,14 @@ void test_binary_insertion_sort() {
     common.print(list1);
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by binary insertion sort == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------------\n");
 
     start = clock::now();
     sort.sort(list2);
     printf("------------------------------------------------------------------------\n");
     printf("Execution time taken by merge sort == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("------------------------------------------------------------------------\n");
 }
 

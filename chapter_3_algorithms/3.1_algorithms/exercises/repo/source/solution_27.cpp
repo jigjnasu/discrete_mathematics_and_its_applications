@@ -107,7 +107,7 @@ void test_searches() {
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, linear_search(list, x));
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
@@ -115,7 +115,7 @@ void test_searches() {
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, binary_search(list, x));
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("---------------------------------------------------------------\n");
 
     // Algorithm 2 (Binary Search)
@@ -123,7 +123,7 @@ void test_searches() {
     printf("---------------------------------------------------------------\n");
     printf("[%d] found at [%d] location in the input list\n", x, ternary_search(list, x));
     printf("Execution time == [%16lf] seconds\n",
-           std::chrono::duration<double>(clock::now() - start));
+           std::chrono::duration<double>(clock::now() - start).count());
     printf("---------------------------------------------------------------\n");
 }
 

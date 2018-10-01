@@ -53,13 +53,13 @@ void test_count() {
     clock::time_point start = clock::now();
     printf("---------------------------------------------------------------------\n");
     printf("Linear count execution time == [%16lf] seconds | result == [%d]\n",
-           std::chrono::duration<double>(clock::now() - start), linear_count(input));
+           std::chrono::duration<double>(clock::now() - start).count(), linear_count(input));
     printf("---------------------------------------------------------------------\n");
 
     start = clock::now();
     printf("---------------------------------------------------------------------\n");
     printf("Double count execution time == [%16lf] seconds | result == [%d]\n",
-           std::chrono::duration<double>(clock::now() - start), double_count(input));
+           std::chrono::duration<double>(clock::now() - start).count(), double_count(input));
     printf("---------------------------------------------------------------------\n");
 }
 
