@@ -243,3 +243,8 @@ Closest pair algorithms code
 ![problem 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_36.jpg)
 
 ![solution 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_36.jpg)
+
+
+![problem 37](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_37.jpg)
+
+![solution 37](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_37.jpg)
