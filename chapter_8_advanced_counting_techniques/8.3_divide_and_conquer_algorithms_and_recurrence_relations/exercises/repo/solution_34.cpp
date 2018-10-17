@@ -22,8 +22,10 @@ int log_4(int n) {
     return log(n) / log(4);
 }
 
+// f(4 ^k) = 5^{k + 2} - 6.4^{k + 1}
 double equation(int n) {
-    return (std::pow(5, log_4(n))) + (std::pow(6, log_4(n)) * (std::pow(4, log_4(n)) -1  / 3));
+    const int k = log_4(n);
+    return (std::pow(5, k + 2) - (6 * std::pow(4, k + 1)));
 }
 
 
