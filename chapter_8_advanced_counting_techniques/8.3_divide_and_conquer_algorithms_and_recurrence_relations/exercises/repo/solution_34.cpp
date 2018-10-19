@@ -22,17 +22,22 @@ int log_4(int n) {
     return log(n) / log(4);
 }
 
+// f(n) = 5^{log_4n + 2} - 6.4^{log_4n + 1}
+double equation_n(int n) {
+    return (std::pow(5, log_4(n) + 2) - (6 * std::pow(4, log_4(n) + 1)));
+}
+
 // f(4 ^k) = 5^{k + 2} - 6.4^{k + 1}
-double equation(int n) {
+double equation_k(int n) {
     const int k = log_4(n);
     return (std::pow(5, k + 2) - (6 * std::pow(4, k + 1)));
 }
 
 
 int main() {
-    for (int i = 0; i < 10; ++i) {
-        printf("%16.0lf || %16.0lf\n", function(std::pow(4, i)), equation(std::pow(4, i)));
-    }
+    for (int i = 0; i < 10; ++i)
+        printf("%16.0lf || %16.0lf || %16.0lf\n",
+               function(std::pow(4, i)), equation_n(std::pow(4, i)), equation_k(std::pow(4, i)));
 
     return 0;
 }
