@@ -243,13 +243,13 @@ Closest pair algorithms code
 
 ![solution 35](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_35.jpg)
 
-![problem 34](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_34.jpg)
+![problem 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_36.jpg)
 
-![solution 34](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_34.jpg)
+![solution 36](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_36.jpg)
 
-[solution_34.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_34.cpp)
+[solution_36.cpp](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/solution_36.cpp)
 
-![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/output_34.jpg)
+![output](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/output_36.jpg)
 
 ![problem 37](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.3_divide_and_conquer_algorithms_and_recurrence_relations/exercises/repo/problem_37.jpg)
 
