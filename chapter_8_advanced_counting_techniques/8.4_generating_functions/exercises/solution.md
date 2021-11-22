@@ -39,5 +39,8 @@
 #### Solution (a)
 ![solution_4_a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_a.png)
 
-#### Solution (a)
+#### Solution (b)
 ![solution_4_b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_b.png)
+
+#### Solution (c)
+![solution_4_c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_c.png)
