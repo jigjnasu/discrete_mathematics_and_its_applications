@@ -11,27 +11,30 @@
 ![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/problem_3.png)
 
 #### Solution (a)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_a.png)
+![solution_3_a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_a.png)
 
 #### Solution (b)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_b.png)
+![solution_3_b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_b.png)
 
 #### Solution (c)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_c.png)
+![solution_3_c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_c.png)
 
 #### Solution (d)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_d.png)
+![solution_3_d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_d.png)
 
 #### Solution (e)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_e.png)
+![solution_3_e](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_e.png)
 
 #### Solution (f)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_f.png)
+![solution_3_f](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_f.png)
 
 #### Solution (g)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_g.png)
+![solution_3_g](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_g.png)
 
 #### Solution (h)
-![solution_2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_h.png)
+![solution_3_h](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_3_h.png)
 
 ![problem 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/problem_4.png)
+
+#### Solution (a)
+![solution_4_a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_a.png)
