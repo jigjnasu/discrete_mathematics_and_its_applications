@@ -50,3 +50,6 @@
 
 #### Solution (e)
 ![solution_4_e](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_e.png)
+
+#### Solution (f)
+![solution_4_f](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_4_f.png)
