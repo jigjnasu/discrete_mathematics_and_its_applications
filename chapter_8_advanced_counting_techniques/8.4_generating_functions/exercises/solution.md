@@ -76,3 +76,6 @@
 
 #### Solution (e)
 ![solution_5_e](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_5_e.png)
+
+#### Solution (f)
+![solution_5_f](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_5_f.png)
