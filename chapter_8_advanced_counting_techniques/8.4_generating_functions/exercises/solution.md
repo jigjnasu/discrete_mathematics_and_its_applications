@@ -90,3 +90,6 @@
 
 #### Solution (c)
 ![solution_6_c](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_6_c.png)
+
+#### Solution (d)
+![solution_6_d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.4_generating_functions/exercises/repo/solution_6_d.png)
