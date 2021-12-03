@@ -35,3 +35,6 @@
 ![solution_5_d](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/solution_5_d.png)
 
 ![problem 6](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/problem_6.png)
+
+#### Solution (a)
+![solution_6_a](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/solution_6_a.png)
