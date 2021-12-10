@@ -96,3 +96,6 @@ Check the programming solution of this problem
 ![solution_14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/solution_14.png)
 
 ![problem 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/problem_15.png)
+
+#### Solution
+![solution_15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/solution_15.png)
