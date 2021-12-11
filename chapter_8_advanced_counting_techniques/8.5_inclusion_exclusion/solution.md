@@ -112,4 +112,4 @@ Check the programming solution of this problem
 
 ![problem 18](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.5_inclusion_exclusion/exercises/repo/problem_18.png)
 #### Solution
-2^10 - 1 = 1023
+$2^10 - 1 = 1023$
