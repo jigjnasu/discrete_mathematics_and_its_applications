@@ -1,7 +1,7 @@
 '''
     factorial implementation
 '''
-def fact(n):
+def fact(n)->None:
     r = 1
     for i in range(1, n+1):
         r = r * i
@@ -10,7 +10,7 @@ def fact(n):
 '''
     onto function implementation
 '''
-def onto(m, n)->None:
+def onto(m, n)->int:
     '''
         distribute m elements to n
         formula for onto function is
