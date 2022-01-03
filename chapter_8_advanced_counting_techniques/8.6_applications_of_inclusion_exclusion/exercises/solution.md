@@ -35,7 +35,8 @@
 
 ### onto function python implementation
 ![onto](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/onto.png)
-[onto](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/onto.py)
+
+[onto python code](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/onto.py)
 
 
 ![problem 8](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/problem_8.png)
