@@ -77,3 +77,5 @@
 
 #### Solution
 ![solution_14](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/solution_14.png)
+
+![problem 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/problem_15.png)
