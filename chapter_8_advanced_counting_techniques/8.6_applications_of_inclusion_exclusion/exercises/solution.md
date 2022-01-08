@@ -69,3 +69,6 @@
 ![solution_12](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/solution_12.png)
 
 ![problem 13](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/problem_13.png)
+
+#### Solution
+![solution_13](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_8_advanced_counting_techniques/8.6_applications_of_inclusion_exclusion/exercises/repo/solution_13.png)
