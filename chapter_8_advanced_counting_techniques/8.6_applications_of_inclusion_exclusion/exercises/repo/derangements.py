@@ -25,5 +25,12 @@ def derangements(n):
     print()
     return r
 
+def prob(n):
+    f = fact(n)
+    d = derangements(n)
+    print('{}/{} = {}'.format(d, f, d/f))
+
 if __name__ == '__main__':
-    print(derangements(int(input())))
+    n = int(input())
+    print(derangements(n))
+    prob(n)
