@@ -67,3 +67,13 @@ C)
 | 6 |   |   |   |   |   | X |
 
 ![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/problem_3.png)
+#### Solution
+<ol type="a">
+  <li>
+    $S = {1, 2, 3, 4}$ <br/>
+    $(2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4)$ <br/>
+    **Reflexive No** <br/>
+    Because it does not contain $(1, 1), (4, 4)$ 
+  </li>
+</ol>
+
