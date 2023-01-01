@@ -72,8 +72,10 @@ C)
   <li>
     $S = {1, 2, 3, 4}$ <br/>
     $(2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4)$ <br/>
-    **Reflexive No** <br/>
-    Because it does not contain $(1, 1), (4, 4)$ 
+    <b>Reflexive No</b> <br/>
+    Because it does not contain $(1, 1), (4, 4)$ <br/>
+    <b>Symmetric No</b> <br/>
+    Because it does not contain $(2, 4) <--> (4, 2)$ and $(3,4) <--> (4,3)$ </br> 
   </li>
 </ol>
 
