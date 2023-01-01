@@ -75,7 +75,7 @@ C)
     <b>Reflexive No</b> <br/>
     Because it does not contain $(1, 1), (4, 4)$ <br/>
     <b>Symmetric No</b> <br/>
-    Because it does not contain $(2, 4) <--> (4, 2)$ and $(3,4) <--> (4,3)$ </br> 
+    Because it does not contain $(4, 2) for (2, 4)$ and $(4, 3) for (3, 4)$ </br> 
   </li>
 </ol>
 
