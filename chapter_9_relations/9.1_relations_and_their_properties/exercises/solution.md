@@ -54,7 +54,7 @@
 </ol>
 
 B) \
-![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/solution_2_b.jpg)
+![solution 2b](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/solution_2_b.jpg)
 
 C)
 | R | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -65,3 +65,5 @@ C)
 | 4 |   |   |   | X |   |   |
 | 5 |   |   |   |   | X |   |
 | 6 |   |   |   |   |   | X |
+
+![problem 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/problem_3.png)
