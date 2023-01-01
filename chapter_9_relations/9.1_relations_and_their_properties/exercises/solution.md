@@ -53,4 +53,5 @@
   </li>
 </ol>
 
+B) \
 ![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/solution_2_b.jpg)
