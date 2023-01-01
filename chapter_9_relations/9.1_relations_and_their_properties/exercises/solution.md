@@ -77,7 +77,18 @@ C)
     <b>Symmetric No</b> <br/>
     Because it does not contain $(4, 2) for &nbsp; (2, 4)$ and $(4, 3) for &nbsp; (3, 4)$ </br>
     <b>Antisymmetric No</b> <br/>
-    Because it contains $(2, 3) and &nbsp; (3, 2) where &nbsp a \neq b$
+    Because it contains $(2, 3)$ and $(3, 2)$ where $a \neq b$ <br/>
+    <b>Transitive Yes</b> <br/>
+    As transitive relations are those where $(a, b) \in R $ and $(b, c) \in R $ then $(a, c) \in R$ also <br/>
+    Now let's check the pair from the above relations <br/>
+    | R | 1 | 2 | 3 | 4 | 5 | 6 |
+    | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+    | 1 | X | X | X | X | X | X |
+    | 2 |   | X |   | X |   | X |
+    | 3 |   |   | X |   |   | X |
+    | 4 |   |   |   | X |   |   |
+    | 5 |   |   |   |   | X |   |
+    | 6 |   |   |   |   |   | X |
   </li>
 </ol>
 
