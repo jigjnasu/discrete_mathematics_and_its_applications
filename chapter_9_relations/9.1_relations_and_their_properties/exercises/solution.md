@@ -75,11 +75,11 @@ C)
     <b>Reflexive No</b> <br/>
     Because it does not contain $(1, 1), (4, 4)$ <br/>
     <b>Symmetric No</b> <br/>
-    Because it does not contain $(4, 2) for &nbsp; (2, 4)$ and $(4, 3) for &nbsp; (3, 4)$ </br>
+    Because it does not contain $(4, 2)$ for $(2, 4)$ and $(4, 3)$ for $(3, 4)$ </br>
     <b>Antisymmetric No</b> <br/>
     Because it contains $(2, 3)$ and $(3, 2)$ where $a \neq b$ <br/>
     <b>Transitive Yes</b> <br/>
-    As transitive relations are those where $(a, b) \in R $ and $(b, c) \in R $ then $(a, c) \in R$ also <br/>
+    As transitive relations are those where $$(a, b) \in R $$ and $$(b, c) \in R$$ then $$(a, c) \in R$$ also <br/>
     Now let's check the pair from the above relations <br/>
     $(2, 2), (2, 3) -> (2, 3)$ OK <br/>
     $(2, 2), (2, 4) -> (2, 4)$ OK <br/>
