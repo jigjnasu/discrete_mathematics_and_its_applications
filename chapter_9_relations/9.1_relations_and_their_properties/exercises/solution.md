@@ -24,6 +24,18 @@
     $(3, 0), (3, 3)$ <br/>
     $(4, 0)$
   </li>
+  <li>
+    $gcd(a, b) = 1$ <br/>
+    $(0, 1)$ <br/>
+    $(1, 0), (1, 1), (1, 2), (1, 3)$ <br/>
+    $(2, 1), (2, 3)$ <br/>
+    $(3, 1), (3, 2)$ <br/>
+    $(4, 1), (4, 3)$    
+  </li>
+  <li>
+    $lcm(a, b) == 2$ <br/>
+    $(1, 2), (2, 1), (2, 2)$
+  </li>
 </ol>
 
 ![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/problem_2.png)
