@@ -39,3 +39,18 @@
 </ol>
 
 ![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/problem_2.png)
+
+#### Solution
+<ol type="a">
+  <li>
+    $R = (a | b) a divides b $ and $s = {1, 2, 3, 4, 5, 6}$ <br/>
+    $(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6)$ <br/>
+    $(2, 2), (2, 4), (2, 6)$ <br/>
+    $(3, 3), (3, 6)$ <br/>
+    $(4, 4)$ <br/>
+    $(5, 6)$ <br/>
+    $(6, 6)$
+  </li>
+</ol>
+
+![problem 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.1_relations_and_their_properties/repo/solution_2_b.jpg)
