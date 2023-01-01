@@ -81,14 +81,14 @@ C)
     <b>Transitive Yes</b> <br/>
     As transitive relations are those where $(a, b) \in R $ and $(b, c) \in R $ then $(a, c) \in R$ also <br/>
     Now let's check the pair from the above relations <br/>
-    | R | 1 | 2 | 3 | 4 | 5 | 6 |
-    | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-    | 1 | X | X | X | X | X | X |
-    | 2 |   | X |   | X |   | X |
-    | 3 |   |   | X |   |   | X |
-    | 4 |   |   |   | X |   |   |
-    | 5 |   |   |   |   | X |   |
-    | 6 |   |   |   |   |   | X |
+    $(2, 2), (2, 3) -> (2, 3)$ OK <br/>
+    $(2, 2), (2, 4) -> (2, 4)$ OK <br/>
+    $(2, 3), (3, 2) -> (2, 2)$ OK <br/>
+    $(2, 3), (3, 3) -> (2, 3)$ OK <br/>
+    $(3, 2), (2, 2) -> (3, 2)$ OK <br/>
+    $(3, 2), (2, 3) -> (3, 3)$ OK <br/>
+    $(3, 3), (3, 2) -> (3, 2)$ OK <br/>
+    $(3, 3), (3, 4) -> (3, 4)$ OK <br/> 
   </li>
 </ol>
 
