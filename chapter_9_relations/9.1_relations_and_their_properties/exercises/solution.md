@@ -94,8 +94,19 @@ C)
     $S = {1, 2, 3, 4}$ <br/>
     $(1, 1), (1, 2), (2, 1), (2, 2), (3, 3), (4, 4)$ <br/>
     <b>Reflexive Yes</b> <br/>
-    For all a (a, a) $\in$ R are present <br/>
+    For all a (a, a) $\in$ R are present $\therefore$<br/>
     $(1, 1), (2, 2), (3, 3), (4, 4)$
+    <b>Symmetric Yes</b>
+    Because $(1,2)$ and $(2, 1)$ both pairs are present
+    <b>Anti Symmetric No</b> </br>
+    Because pair $(1,2)$ and $(2, 1)$ is present where $a \neq b$ $\therefore$ it is not an anti symmetric </br>
+    <b>Transitive Yes</b> </br>
+    As transitive relations are those where $$(a, b) \in R $$ and $$(b, c) \in R$$ then $$(a, c) \in R$$ also <br/>
+    Now let's check the pair from the above relations <br/>
+    $(1, 2), (2, 1) -> (1, 1)$ OK <br/>
+    $(2, 1), (1, 2) -> (2, 2)$ OK <br/>
+  </li>
+  <li>
+    
   </li>
 </ol>
-
