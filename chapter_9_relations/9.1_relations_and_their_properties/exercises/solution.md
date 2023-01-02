@@ -94,7 +94,7 @@ C)
     $S = {1, 2, 3, 4}$ <br/>
     $(1, 1), (1, 2), (2, 1), (2, 2), (3, 3), (4, 4)$ <br/>
     <b>Reflexive Yes</b> <br/>
-    For all a (a, a) $\n$ R are present <br/>
+    For all a (a, a) $\in$ R are present <br/>
     $(1, 1), (2, 2), (3, 3), (4, 4)$
   </li>
 </ol>
