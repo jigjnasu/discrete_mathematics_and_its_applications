@@ -107,6 +107,18 @@ C)
     $(2, 1), (1, 2) -> (2, 2)$ OK <br/>
   </li>
   <li>
-    
+    $S = {1, 2, 3, 4}$ <br/>
+    $(2, 4), (4, 2)$ <br/>
+    <b>Reflexive No</b> <br/>
+    Because all $(1, 1), (2, 2), (3, 3), (4, 4)$ are not present
+    <b>Symmetric Yes</b>
+    Because $(2,4)$ and $(4, 2)$ both pairs are present
+    <b>Anti Symmetric No</b> </br>
+    Because pair $(2,4)$ and $(4, 2)$ is present where $a \neq b$ $\therefore$ it is not an anti symmetric </br>
+    <b>Transitive No</b> </br>
+    As transitive relations are those where $$(a, b) \in R $$ and $$(b, c) \in R$$ then $$(a, c) \in R$$ also <br/>
+    Now let's check the pair from the above relations <br/>
+    $(2, 4), (4, 2) -> (2, 2)$ not present <br/>
+    $(4, 2), (2, 4) -> (4, 4)$ not present <br/>
   </li>
 </ol>
