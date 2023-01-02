@@ -121,4 +121,19 @@ C)
     $(2, 4), (4, 2) -> (2, 2)$ not present <br/>
     $(4, 2), (2, 4) -> (4, 4)$ not present <br/>
   </li>
+  <li>
+    $S = {1, 2, 3, 4}$ <br/>
+    $(1, 2), (2, 3), (3, 4)$ <br/>
+    <b>Reflexive No</b> <br/>
+    Because all $(1, 1), (2, 2), (3, 3), (4, 4)$ are not present
+    <b>Symmetric No</b>
+    Because does not have following pairs $(2, 1), (3, 2), (4, 3)$ for $(1, 2), (2, 3), (3, 4)$ respectively.
+    <b>Anti Symmetric Yes</b> </br>
+    Because does not have following pairs $(2, 1), (3, 2), (4, 3)$ for $(1, 2), (2, 3), (3, 4)$ respectively.
+    <b>Transitive No</b> </br>
+    As transitive relations are those where $$(a, b) \in R $$ and $$(b, c) \in R$$ then $$(a, c) \in R$$ also <br/>
+    Now let's check the pair from the above relations <br/>
+    $(1, 2), (2, 3) -> (1, 3)$ not present <br/>
+    $(2, 3), (3, 4) -> (2, 4)$ not present <br/>
+  </li>
 </ol>
