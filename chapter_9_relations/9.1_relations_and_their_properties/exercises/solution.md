@@ -140,4 +140,15 @@ C)
     $(2, 3), (3, 4) -> (2, 4)$ not present <br/>
   </li>
   <br/>
+  <li>
+    $S = {1, 2, 3, 4}$ <br/>
+    $(1, 1), (2, 2), (3, 3), (4, 4)$ <br/>
+    <b>Reflexive Yes</b> <br/>
+    For all a (a, a) $\in$ R are present $\therefore$<br/>
+    $(1, 1), (2, 2), (3, 3), (4, 4)$
+    <b>Symmetric Yes</b>
+    <b>Anti Symmetric Yes</b> </br>
+    <b>Transitive Yes</b> </br>
+  </li>
+  <br/>
 </ol>
