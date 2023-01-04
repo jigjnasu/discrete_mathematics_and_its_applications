@@ -154,4 +154,18 @@ C)
     As there is not violation of $(a, b) \in R $ and $(b, c) \in R$ $\therefore$ it is a transitive relation.
   </li>
   <br/>
+  <li>
+    $S = {1, 2, 3, 4}$ <br/>
+    $(1, 3), (1, 4), (2, 3), (2, 4), (3, 1), (3, 4)$ <br/>
+    <b>Reflexive No</b> <br/>
+    For all a (a, a) $\in$ R are not present $\therefore$ not a reflexive relation<br/>
+    $(1, 1), (2, 2), (3, 3), (4, 4)$ </br>
+    <b>Symmetric No</b> </br>
+    For example absence of $(4, 1)$ due to the presence of $(1, 4)$ makes it not symmetric. </br>
+    <b>Anti Symmetric No</b> </br>
+    Presence of $(1, 3)$ and $(3, 1)$ makes it not anti symmetric relation. </br>
+    <b>Transitive No</b> </br>
+    For instance absence of $(1, 1)$ due to $(1, 3), (3, 1)$ makes it not a transitive relation.
+  </li>
+  <br/>  
 </ol>
