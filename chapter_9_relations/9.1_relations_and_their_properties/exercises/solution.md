@@ -147,11 +147,11 @@ C)
     For all a (a, a) $\in$ R are present $\therefore$<br/>
     $(1, 1), (2, 2), (3, 3), (4, 4)$ </br>
     <b>Symmetric Yes</b> </br>
-    This is symmetric because it is evident that that all the relations are $(a, b) \in R$ and $(b, a) \n R$</br>
+    This is symmetric because it is evident that that all the relations are $(a, b) \in R$ and $(b, a) \in R$</br>
     <b>Anti Symmetric Yes</b> </br>
-    As there is no presence of a relation where $(a, b) \n R$ where $a \neq b$ $\therefore$ it is an anti symmetric relation</br>
+    As there is no presence of a relation where $(a, b) \in R$ where $a \neq b$ $\therefore$ it is an anti symmetric relation</br>
     <b>Transitive Yes</b> </br>
-    As there is not violation of $(a, b) \in R $ and $(b, c) \n R$ $\therefore$ it is a transitive relation.
+    As there is not violation of $(a, b) \in R $ and $(b, c) \in R$ $\therefore$ it is a transitive relation.
   </li>
   <br/>
 </ol>
