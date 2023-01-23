@@ -58,3 +58,5 @@ $(Nadir, 322, 34, Detroit, 09:44)$ </br>
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_5.png)
 
 #### Solution
+composite key = <i>airline, flight_number</i> </br>
+composite key = <i>airline, departure_time</i> </br>
