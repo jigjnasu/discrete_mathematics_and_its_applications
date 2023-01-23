@@ -27,3 +27,12 @@ $(3, 1, 2, 1)$ </br>
 $(3, 2, 1, 1)$ </br>
 
 ![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_3.png)
+
+#### Solution
+$(Nadir, 122, 34, Detroit, 08:10)$ </br>
+$(Acme, 221, 22, Denver, 08:17)$ </br>
+$(Acme, 122, 33, Anchorage, 08:22)$ </br>
+$(Acme, 323, 34, Honolulu, 08:30)$ </br>
+$(Nadir, 199, 13, Detroit, 08:47)$ </br>
+$(Acme, 222, 22, Denver, 09:10)$ </br>
+$(Nadir, 322, 34, Detroit, 09:44)$ </br>
