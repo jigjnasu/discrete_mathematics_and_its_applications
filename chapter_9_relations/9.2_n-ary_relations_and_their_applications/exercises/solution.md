@@ -25,3 +25,5 @@ $(3, 1, 1, 2)$ </br>
 $(1, 3, 2, 1)$ </br>
 $(3, 1, 2, 1)$ </br>
 $(3, 2, 1, 1)$ </br>
+
+![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_3.png)
