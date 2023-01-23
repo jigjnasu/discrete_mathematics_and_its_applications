@@ -38,6 +38,8 @@ $(Acme, 222, 22, Denver, 09:10)$ </br>
 $(Nadir, 322, 34, Detroit, 09:44)$ </br>
 
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_4.png)
+
+#### Solution
 <ol type="a">
   <li>
     primary key = <i>course</i>
@@ -52,3 +54,7 @@ $(Nadir, 322, 34, Detroit, 09:44)$ </br>
     primary key = <i>departure_time</i>
   </li>
 </ol>
+
+![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_5.png)
+
+#### Solution
