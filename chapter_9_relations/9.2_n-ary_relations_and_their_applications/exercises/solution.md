@@ -82,6 +82,11 @@ composite key = <i>professor, time</i> </br>
     <b>No</b> Easily you can found 2 students with same name in a school, $\therefore$ it cannot be a primary key.
   </li>
   <li>
-    <b>No</b> If two students from the same family are in the school, $\therefore$, it cannot be a primary key.
+    <b>No</b> If two students from the same family are in the school, $\therefore$ it cannot be a primary key.
   </li>
 </ol>
+
+![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_8.png)
+
+#### Solution
+
