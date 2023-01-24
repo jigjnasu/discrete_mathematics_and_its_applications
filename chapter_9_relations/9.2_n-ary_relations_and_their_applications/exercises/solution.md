@@ -90,3 +90,16 @@ composite key = <i>professor, time</i> </br>
 
 #### Solution
 
+<ol type="a">
+  <li>
+    <b>ISBN</b> The International Standard Book Number (ISBN) is a unique identifier for books, as the definition of ISBN is $\therefore$ this is the only primary key among all fields.
+  </li>
+  <li>
+    <b>(title, publication_date) </b> cannot be a composite key, because in the same year of publication there should not be the same title published. $\therefore$ this composite key is hard to make.
+  </li>
+  <li>
+    <b>(title, no_of_pages) </b> cannot be a composite key, because it can be possible that other book with the same title will have same number of pages, if it has to be the composite key, it has to be the unique title and number of pages.
+
+  </li>
+</ol>
+
