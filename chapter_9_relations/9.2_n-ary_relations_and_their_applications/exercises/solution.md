@@ -1,5 +1,4 @@
 ![problem 1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_1.png)
-
 #### Solution
 $(1, 2, 3)$ </br>
 $(1, 2, 4)$ </br>
@@ -7,7 +6,6 @@ $(1, 3, 4)$ </br>
 $(2, 3, 4)$ </br>
 
 ![problem 2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_2.png)
-
 #### Solution
 $(1, 1, 1, 6)$ </br>
 $(1, 1, 6, 1)$ </br>
@@ -27,7 +25,6 @@ $(3, 1, 2, 1)$ </br>
 $(3, 2, 1, 1)$ </br>
 
 ![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_3.png)
-
 #### Solution
 $(Nadir, 122, 34, Detroit, 08:10)$ </br>
 $(Acme, 221, 22, Denver, 08:17)$ </br>
@@ -38,7 +35,6 @@ $(Acme, 222, 22, Denver, 09:10)$ </br>
 $(Nadir, 322, 34, Detroit, 09:44)$ </br>
 
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_4.png)
-
 #### Solution
 <ol type="a">
   <li>
@@ -56,24 +52,19 @@ $(Nadir, 322, 34, Detroit, 09:44)$ </br>
 </ol>
 
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_5.png)
-
 #### Solution
 composite key = <i>airline, flight_number</i> </br>
 composite key = <i>airline, departure_time</i> </br>
 
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_6.png)
-
 #### Solution
-
 With the existing data in table 7, as the professor field alone is not a primary key, but with current data professor field with 2 keys can become unique composite keys. </br>
 
 composite key = <i>professor, course_number</i> </br>
 composite key = <i>professor, time</i> </br>
 
 ![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_7.png)
-
 #### Solution
-
 <ol type="a">
   <li>
     <b>Yes</b> As in most of the school <i> school_id </i> are unique identifier of a student $\therefore$ it is a primary key.
@@ -87,9 +78,7 @@ composite key = <i>professor, time</i> </br>
 </ol>
 
 ![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_8.png)
-
 #### Solution
-
 <ol type="a">
   <li>
     <b>ISBN</b> The International Standard Book Number (ISBN) is a unique identifier for books, as the definition of ISBN is $\therefore$ this is the only primary key among all fields.
@@ -103,9 +92,7 @@ composite key = <i>professor, time</i> </br>
 </ol>
 
 ![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_9.png)
-
 #### Solution
-
 <ol type="a">
   <li>
     <b>SSN(Social Security Number)</b> This is the only key among all the fields because it is a unique identifier of a person in USA.
@@ -117,3 +104,6 @@ composite key = <i>professor, time</i> </br>
     <b>(name, street_address, city) </b> cannot be a composite key, to be the composite key, there should not be two persons living at same street at in the same city. Which seems to be unlikely.
   </li>
 </ol>
+
+![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_10.png)
+#### Solution
