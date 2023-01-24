@@ -99,10 +99,21 @@ composite key = <i>professor, time</i> </br>
   </li>
   <li>
     <b>(title, no_of_pages) </b> cannot be a composite key, because it can be possible that other book with the same title will have same number of pages, if it has to be the composite key, it has to be the unique title and number of pages.
-
   </li>
 </ol>
 
 ![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_9.png)
 
 #### Solution
+
+<ol type="a">
+  <li>
+    <b>SSN(Social Security Number)</b> This is the only key among all the fields because it is a unique identifier of a person in USA.
+  </li>
+  <li>
+    <b>(name, street_address) </b> cannot be a composite key, because if two persons with the same name lives on the same street then it can't be the composite key. $\therefore$ it is highly unlikely that this can be the composite key.
+  </li>
+  <li>
+    <b>(name, street_address, city) </b> cannot be a composite key, to be the composite key, there should not be two persons living at same street at in the same city. Which seems to be unlikely.
+  </li>
+</ol>
