@@ -74,3 +74,14 @@ composite key = <i>professor, time</i> </br>
 
 #### Solution
 
+<ol type="a">
+  <li>
+    <b>Yes</b> As in most of the school <i> school_id </i> are unique identifier of a student $\therefore$ it is a primary key.
+  </li>
+  <li>
+    <b>No</b> Easily you can found 2 students with same name in a school, $\therefore$ it cannot be a primary key.
+  </li>
+  <li>
+    <b>No</b> If two students from the same family are in the school, $\therefore$, it cannot be a primary key.
+  </li>
+</ol>
