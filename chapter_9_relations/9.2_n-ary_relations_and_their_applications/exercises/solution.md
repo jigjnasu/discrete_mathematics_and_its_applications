@@ -69,3 +69,8 @@ With the existing data in table 7, as the professor field alone is not a primary
 
 composite key = <i>professor, course_number</i> </br>
 composite key = <i>professor, time</i> </br>
+
+![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_7.png)
+
+#### Solution
+
