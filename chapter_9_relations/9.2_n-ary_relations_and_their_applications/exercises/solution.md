@@ -64,3 +64,8 @@ composite key = <i>airline, departure_time</i> </br>
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_6.png)
 
 #### Solution
+
+With the existing data in table 7, as the professor field alone is not a primary key, but with current data professor field with 2 keys can become unique composite keys. </br>
+
+composite key = <i>professor, course_number</i> </br>
+composite key = <i>professor, time</i> </br>
