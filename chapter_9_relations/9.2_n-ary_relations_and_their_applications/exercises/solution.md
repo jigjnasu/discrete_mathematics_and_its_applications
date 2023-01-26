@@ -123,3 +123,8 @@ composite key = <i>professor, time</i> </br>
 
 ![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_14.png)
 #### Solution
+$P_{235}$ or projection is to select $2^{nd}$, $3^{rd}$ and {5^{th}} columns from the tuple. It is same like SQL <b>SELECT</b> statement.</br>
+If a table has a, b, c, d, e columns. Then the statement will be.</br>
+<b>SELECT B, C, E from TABLE T</b>
+
+
