@@ -145,3 +145,6 @@ $P_{3,5,6}$
 Joining m tuple A and n tuple B on p columns, $\therefore$ m + n - p is the solution.</br>
 In this case it will be 8 + 5 - 3 = 10</br>
 In simple term union of two tuples on common p columns, therefore m + n - p.</br>
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_19.png)
+#### Solution
