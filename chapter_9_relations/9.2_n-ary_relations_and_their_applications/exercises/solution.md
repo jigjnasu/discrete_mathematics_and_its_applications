@@ -148,3 +148,4 @@ In simple term union of two tuples on common p columns, therefore m + n - p.</br
 
 ![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_19.png)
 #### Solution
+![solution 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution_19.png)
