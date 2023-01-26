@@ -142,5 +142,6 @@ $P_{3,5,6}$
 
 ![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_18.png)
 #### Solution
-According to the definition, we need to join m columns from A, and b columns from B on p. </br>
-$\therefore$ M + N - p, which in this case is 8 + 5 - 3 = 10
+Joining m tuple A and n tuple B on p columns, $\therefore$ m + n - p is the solution.</br>
+In this case it will be 8 + 5 - 3 = 10</br>
+In simple term union of two tuples on common p columns, therefore m + n - p.</br>
