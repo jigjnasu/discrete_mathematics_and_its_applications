@@ -127,4 +127,6 @@ $P_{235}$ or projection is to select $2^{nd}$, $3^{rd}$ and {5^{th}} columns fro
 If a table has a, b, c, d, e columns. Then the statement will be.</br>
 <b>SELECT B, C, E from TABLE T</b>
 
+![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_15.png)
+#### Solution
 
