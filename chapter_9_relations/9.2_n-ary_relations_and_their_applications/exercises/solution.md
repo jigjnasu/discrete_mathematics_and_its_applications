@@ -165,3 +165,6 @@ Both sides of this equation pick out the set of n-tuples that satisfy condition 
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_23.png)
 #### Solution
 Both sides of this equation pick out the set of n-tuples that satisfy three conditions: they are in R, they are in S, and they satisfy condition C. This follows immediately from the definitions of intersection and the selection operator.
+
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_24.png)
+#### Solution
