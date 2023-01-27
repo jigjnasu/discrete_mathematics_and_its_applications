@@ -173,3 +173,6 @@ Both sides of this equation pick out the set of n-tuples that satisfy condition 
 ![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_25.png)
 #### Solution
 Both sides of this equation pick out the m-tuples consisting of ilh, i~h, ... , i~ components of n-tuples in either R or S (or, of course, both). This follows immediately from the definitions of union and the projection operator.
+
+![problem 26](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_26.png)
+#### Solution
