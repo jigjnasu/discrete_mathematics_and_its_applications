@@ -179,3 +179,6 @@ Both sides of this equation pick out the m-tuples consisting of ilh, i~h, ... , 
 Note that we lose information when we delete columns. Therefore we might have more in the second set than in the first, since it could be easier to be in the intersection in the second case. A simple example would be to </br>
 let $R = \{(a,b)\}$ and $S = \{(a,c)\}$, $n = 2, m = 1$, and $i_1 = 1$. </br>
 Then $R \bigcap S = \phi$, so $P_{1}(R \bigcap S) = \phi$. On the other hand, $P_{1}(R) = P_{1}(S) = \{(a)\}$, so $P_{1}(R) \bigcap P_{1}(S) = \{(a)\}$.
+
+![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_27.png)
+#### Solution
