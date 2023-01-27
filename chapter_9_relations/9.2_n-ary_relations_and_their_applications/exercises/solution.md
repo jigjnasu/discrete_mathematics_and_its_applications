@@ -160,3 +160,4 @@ Both sides of this equation pick out the subset of R consisting of those n-tuple
 
 ![problem 22](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_22.png)
 #### Solution
+Both sides of this equation pick out the set of n-tuples that satisfy condition C, and furthermore are in R or S (or both, of course). This follows immediately from the definitions of union and the selection operator.
