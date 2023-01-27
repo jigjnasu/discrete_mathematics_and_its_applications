@@ -157,3 +157,6 @@ Both sides of this equation pick out the subset of R consisting of those n-tuple
 ![problem 21](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_21.png)
 #### Solution
 Both sides of this equation pick out the subset of R consisting of those n-tuples satisfying both conditions C1 and C2 . This follows immediately from the definition of the selection operator.
+
+![problem 22](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_22.png)
+#### Solution
