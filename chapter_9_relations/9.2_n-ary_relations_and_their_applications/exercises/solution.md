@@ -152,3 +152,6 @@ In simple term union of two tuples on common p columns, therefore m + n - p.</br
 
 ![problem 20](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_20.png)
 #### Solution
+Both sides of this equation pick out the subset of R consisting of those n-tuples satisfying both conditions C1 and C2 . This follows immediately from the definitions of conjunction and the selection operator. </br>
+
+
