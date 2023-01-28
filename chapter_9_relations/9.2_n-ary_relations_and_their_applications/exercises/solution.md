@@ -196,3 +196,8 @@ b) </br>
 
 ![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_29.png)
 #### Solution
+a) </br>
+  Selection operator on supplier, $S_{supplier}$. </br>
+  Condition $part\_number \geq 1000$ and $part\_number \le 5000$  </br>
+b) </br>
+![solution 28b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution_28_b.png)
