@@ -197,5 +197,5 @@ Then $R \bigcap S = \phi$, so $P_{1}(R \bigcap S) = \phi$. On the other hand, $P
   <li>
   </li>
 </ol>
-![solution 28_b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution 28_b.png)
+![solution 28b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution_28_b.png)
 
