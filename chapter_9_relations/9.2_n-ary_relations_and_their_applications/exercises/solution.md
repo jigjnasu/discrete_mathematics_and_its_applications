@@ -198,7 +198,9 @@ b) </br>
 ![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_29.png)
 #### Solution
 a) </br>
-  Selection operator on supplier, $S_{supplier}$. </br>
-  Condition $part\_number \geq 1000$ and $part\_number \le 5000$  </br>
+  Selection operator on Table 9 and Table 10 because of FROM statement. </br>
+  Join operator on $J_{2,3}$ of Table 9, $part_number, project$ </br>
+  Condition $C_{1} = quantity \le 10$  </br>
+  Projection operator of selecting only supplier and project. </br>
 b) </br>
 ![solution 28b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution_28_b.png)
