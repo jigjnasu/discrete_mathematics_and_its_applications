@@ -222,3 +222,5 @@ As $(8, 2, 3) \in R$  and $(8, 3, 5) \in R \therefore$ column 1 is not a primary
 As $(8, 2, 3) \in R$  and $(8, 1, 3) \in R \therefore$ column 2 is not a primary key. </br>
 As $(8, 2, 3) \in R$  and $(5, 2, 3) \in R \therefore$ column 3 is not a primary key. </br>
 It means there is no primary key in example 2. </br>
+
+![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_32.png)
