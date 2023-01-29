@@ -209,7 +209,10 @@ b) </br>
 #### Solution
 As the triplet $(a,b,c)$ is an arithmetic progression. </br>
 And the primary key is the unique key in the column of the table. </br>
-As $(1, 3, 5) \in R$  and $(1, 2, 3) \n R \therefore$ column 1 is not a primary key. </br>
-As $(1, 3, 5) \in R$  and $(2, 3, 4) \n R \therefore$ column 2 is not a primary key. </br>
-As $(1, 3, 5) \in R$  and $(3, 4, 5) \n R \therefore$ column 3 is not a primary key. </br>
+As $(1, 3, 5) \in R$  and $(1, 2, 3) \in R \therefore$ column 1 is not a primary key. </br>
+As $(1, 3, 5) \in R$  and $(2, 3, 4) \in R \therefore$ column 2 is not a primary key. </br>
+As $(1, 3, 5) \in R$  and $(3, 4, 5) \in R \therefore$ column 3 is not a primary key. </br>
 It means there is no primary key in example 2. </br>
+
+![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_31.png)
+#### Solution
