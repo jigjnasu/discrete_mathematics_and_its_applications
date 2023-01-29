@@ -189,8 +189,9 @@ Then $R \bigcap S = \phi$, so $P_{1}(R \bigcap S) = \phi$. On the other hand, $P
 ![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/problem_28.png)
 #### Solution
 a) </br>
-  Selection operator on supplier, $S_{supplier}$. </br>
+  Selection operator on Table 9 with condition. </br>
   Condition $part\_number \geq 1000$ and $part\_number \le 5000$  </br>
+  Finally the Project on $S_{supplier}$. </br>
 b) </br>
 ![solution 28b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.2_n-ary_relations_and_their_applications/repo/solution_28_b.png)
 
