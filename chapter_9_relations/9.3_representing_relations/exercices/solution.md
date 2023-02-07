@@ -51,5 +51,11 @@
 
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_5.png)
 #### Solution
-As the definition of irreflexive is that no element should have a connection to itself. $\therefore$ if a matrix $M$ is of $m X n$.
-Then $A_{ij} in R$ when $i \ne j$.
+As the definition of irreflexive is that no element should have a connection to itself. $\therefore$ if a matrix $M$ is of $m x n$.
+Then $A_{ij} \in R$ when $i \ne j$.
+</br>
+Example of irreflexive <br>
+![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/irreflexive_yes.png)
+</br>
+Example of not irreflexive <br>
+![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/irreflexive_no.png)
