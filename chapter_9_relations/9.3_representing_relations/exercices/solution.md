@@ -80,6 +80,11 @@ Example of not asymmetric matrix is </br>
     <b>antisymmetric no</b> because we have like $(1,1)$ </br>
     <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
   </li>
+    <b>reflexive no</b> $(1,1), (3,3)$ are not present </br>
+    <b>irreflexive no</b> because we have $(2,2)$ </br>
+    <b>symmetric no</b> because we have $(1,2), (3,2)$ but not $(2,1),(2,3)$ </br>
+    <b>antisymmetric no</b> because we have $(2,2)$ </br>
+    <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
   <li>
   </li>
   <li>
