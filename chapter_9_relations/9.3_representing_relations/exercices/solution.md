@@ -63,7 +63,7 @@ Example of not irreflexive <br>
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_6.png)
 #### Solution
 As the symmetric relation is $(a,b) \in R$ and $(b,a) \in R$, $\therefore$ asymmetric relations are those which can not hold these simultaneously. </br>
-As $M_{ij}$ where $i = j$ is also symmetric $\therefore$ we cannot have any 1 on the main diagonal where $i = j$ and as we cannot have $(a,b) \n R$ and $(b,a) \in R$ at the same time. </br>
+As $M_{ij}$ where $i = j$ is also symmetric $\therefore$ we cannot have any 1 on the main diagonal where $i = j$ and as we cannot have $(a,b) \in R$ and $(b,a) \in R$ at the same time. </br>
 For instance we cannot have 1 at $(1,2)$ and $(2,1)$. </br>
 Example of asymmetric matrix is </br>
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/asymmetric_yes.png) </br>
