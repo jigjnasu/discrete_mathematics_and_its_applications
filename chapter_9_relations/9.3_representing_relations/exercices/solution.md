@@ -70,4 +70,6 @@ Example of asymmetric matrix is </br>
 Example of not asymmetric matrix is </br>
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/asymmetric_no.png) </br>
 
+![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_7.png)
+#### Solution
 
