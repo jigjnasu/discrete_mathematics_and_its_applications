@@ -97,6 +97,8 @@ Example of not asymmetric matrix is </br>
   </li>
 </ol>
 
+</br>
+
 ![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_8.png)
 #### Solution
 <ol type="a">
