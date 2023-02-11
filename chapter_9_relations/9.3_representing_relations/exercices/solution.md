@@ -73,12 +73,27 @@ Example of not asymmetric matrix is </br>
 ![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_7.png)
 #### Solution
 <ol type="a">
+<ol type="a">
   <li>
     <b>reflexive yes</b> because we have all $(1,1), (2,2), (3,3)$ </br>
     <b>irreflexive no</b> because we have $(1,1), (2,2), (3,3)$ </br>
     <b>symmetric yes</b> because we have all $(a,b) \in R$ and $(b,a) \in R$ </br>
     <b>antisymmetric no</b> because we have like $(1,1)$ </br>
-    <b>transitive no</b> we have pairs $(2,1), (1,2)$ but $(2,2)$ is missing </br>
+    <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
+  </li>
+  <li>
+    <b>reflexive no</b> $(1,1), (3,3)$ are not present </br>
+    <b>irreflexive no</b> because we have $(2,2)$ </br>
+    <b>symmetric no</b> because we have $(1,2), (3,2)$ but not $(2,1),(2,3)$ </br>
+    <b>antisymmetric no</b> because we have $(2,2)$ </br>
+    <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
+  </li>
+  <li>
+    <b>reflexive no</b> $(2,2)$ is not present </br>
+    <b>irreflexive no</b> because we have example $(1,1)$ </br>
+    <b>symmetric yes</b> because we have all $(a,b) \in R$ and $(b,a) \in R$ </br>
+    <b>antisymmetric no</b> because we have $(1,2), (2,1)$ </br>
+    <b>transitive no</b> because we have $(1,2), (2,1)$ but not $(2,2)$ </br>
   </li>
 </ol>
 
