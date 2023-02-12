@@ -130,7 +130,7 @@ Example of not asymmetric matrix is </br>
 #### Solution
 <ol type="a">
   <li>
-    ${a,b} | a > b$ </br>
+    $\{a,b\} | a > b$ </br>
     As there are total $100 * 100 = 100^2 = 10000$ entries of the matrix. </br>
     In the first row $(1,1), (1, 2), ... ,(1, 100)$ none entries will $\in R$ </br>
     In the second row $(2,1), (2, 2), ..., (2, 100)$ there are 1 entry. </br>
@@ -138,25 +138,25 @@ Example of not asymmetric matrix is </br>
     which is $\frac{99 * 100}{2} = 4950$ </br>
   </li>
   <li>
-    ${a,b} | a \ne b$ </br>
+    $\{a,b\} | a \ne b$ </br>
     as matrix is from $(1, 1), (1, 2), ... (1, 100)$ </br>
     $(100, 1), (100, 2), ... , (100, 100)$ </br>
     And if we observe closely only the diagonals values which are 100 in total have $a = b$ other than that all are $a \ne b$ </br>
     $\therefore$ solution is $10000 - 100 = 9900$
   </li>
   <li>
-    ${a, b} | a = b + 1$ </br>
+    $\{a, b\} | a = b + 1$ </br>
     In first row we will not have any value because it will start from $(1, 1), (1, 2), ..., (1, 100)$ </br>
     In second row we will have $(2,1)$ and so on one value in all the subsequent rows. </br>
     $\therefore$ solution is 99. </br>
   </li>
   <li>
-    ${a, b} | a = 1$ </br>
+    $\{a, b\} | a = 1$ </br>
     only the first row $(1, 1), (1, 2), ..., (1, 100)$ </br>
     $\therefore$ solution is 100. </br>
   </li>
   <li>
-    ${a, b} | ab = 1$ </br>
+    $\{a, b\} | ab = 1$ </br>
     only one entry where $a = b = 1$ which is the first in first row $(1, 1)$ </br>
     $\therefore$ solution is 1
   </li>
