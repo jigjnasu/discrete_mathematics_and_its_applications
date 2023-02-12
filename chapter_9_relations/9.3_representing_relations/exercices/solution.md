@@ -165,3 +165,15 @@ Example of not asymmetric matrix is </br>
 
 ![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_10.png)
 #### Solution
+as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 1000000$ </br>
+<ol type="a">
+  <li>
+    $\{a,b\} | a \le b$ </br>
+    take a look at first row, we have $(1, 1), (1, 2), ..., (1, 1000)$ </br>
+    second row $(2,1), (2, 2), ..., (2, 1000)$ </br>
+    and if we look at all rows then we will find we have </br>
+    $1000 + 999 + .... + 1 = \frac{1000 * 1001}{2} = 500 * 1001 = 500500$</br>
+
+  </li>
+</ol>
+</br>
