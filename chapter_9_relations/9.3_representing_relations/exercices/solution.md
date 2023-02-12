@@ -73,7 +73,6 @@ Example of not asymmetric matrix is </br>
 ![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_7.png)
 #### Solution
 <ol type="a">
-<ol type="a">
   <li>
     <b>reflexive yes</b> because we have all $(1,1), (2,2), (3,3)$ </br>
     <b>irreflexive no</b> because we have $(1,1), (2,2), (3,3)$ </br>
@@ -124,6 +123,8 @@ Example of not asymmetric matrix is </br>
     <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(1,1)$ </br>
   </li>
 </ol>
+
+</br>
 
 ![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_9.png)
 #### Solution
