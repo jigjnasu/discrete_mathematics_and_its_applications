@@ -124,3 +124,6 @@ Example of not asymmetric matrix is </br>
     <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(1,1)$ </br>
   </li>
 </ol>
+
+![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_9.png)
+#### Solution
