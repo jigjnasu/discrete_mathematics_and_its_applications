@@ -78,22 +78,22 @@ Example of not asymmetric matrix is </br>
     <b>reflexive yes</b> because we have all $(1,1), (2,2), (3,3)$ </br>
     <b>irreflexive no</b> because we have $(1,1), (2,2), (3,3)$ </br>
     <b>symmetric yes</b> because we have all $(a,b) \in R$ and $(b,a) \in R$ </br>
-    <b>antisymmetric no</b> because we have like $(1,1)$ </br>
+    <b>antisymmetric no</b> because we have like $(1,3) ,(3, 1)$ where $1 \ne 3$</br>
     <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
   </li>
   <li>
     <b>reflexive no</b> $(1,1), (3,3)$ are not present </br>
     <b>irreflexive no</b> because we have $(2,2)$ </br>
     <b>symmetric no</b> because we have $(1,2), (3,2)$ but not $(2,1),(2,3)$ </br>
-    <b>antisymmetric no</b> because we have $(2,2)$ </br>
+    <b>antisymmetric yes</b> </br>
     <b>transitive yes</b> because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ </br>
   </li>
   <li>
     <b>reflexive no</b> $(2,2)$ is not present </br>
     <b>irreflexive no</b> because we have example $(1,1)$ </br>
     <b>symmetric yes</b> because we have all $(a,b) \in R$ and $(b,a) \in R$ </br>
-    <b>antisymmetric no</b> because we have $(1,2), (2,1)$ </br>
-    <b>transitive no</b> because we have $(1,2), (2,1)$ but not $(2,2)$ </br>
+    <b>antisymmetric no</b> because we have $(1,2), (2,1)$ where $1 \ne 2$ </br>
+    <b>transitive no</b> because we have $(2,1), (1,2)$ but not $(2,2)$ </br>
   </li>
 </ol>
 
@@ -106,11 +106,21 @@ Example of not asymmetric matrix is </br>
     <b>reflexive no</b> because missing pair is $(2,2)$ </br>
     <b>irreflexive no</b> because we have $(1,1), (3,3), (4,4)$ </br>
     <b>symmetric no</b> because we have missing pair $(2,2)$ </br>
-    <b>antisymmetric no</b> because we have like $(1,1)$ or $(1, 2), (2, 1)$ etc. </br>
-    <b>transitive yes</b> because we have $(1,2), (2, 1)$ but not $(2,2)$ </br>
+    <b>antisymmetric no</b> because we have $(1, 2), (2, 1)$ where $1 \ne 2$ </br>
+    <b>transitive no</b> because we have $(1,4), (4, 3)$ but not $(1,3)$ </br>
   </li>
   <li>
+    <b>reflexive yes</b> because we have all pairs $(1,1), (2,2), (3,3), (4,4)$ </br>
+    <b>irreflexive no</b> because we have $(1,1), (3,3), (4,4)$ </br>
+    <b>symmetric no</b> because we have $(1, 2)$ but not $(2, 1)$ </br>
+    <b>antisymmetric yes</b>  </br>
+    <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(2,2)$ </br>
   </li>
   <li>
+    <b>reflexive no</b> because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ </br>
+    <b>irreflexive yes</b> because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ </br>
+    <b>symmetric yes</b> because we have for every $(b,a) \in R$ $(b,a) \in R$ </br>
+    <b>antisymmetric no</b> because we have $(1,2), (2,1)$ where $1 \ne 2$  </br>
+    <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(1,1)$ </br>
   </li>
 </ol>
