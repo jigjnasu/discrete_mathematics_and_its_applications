@@ -173,7 +173,6 @@ as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 100
     second row $(2,1), (2, 2), ..., (2, 1000)$ </br>
     and if we look at all rows then we will find we have </br>
     $1000 + 999 + .... + 1 = \frac{1000 * 1001}{2} = 500 * 1001 = 500500$</br>
-
   </li>
 </ol>
 </br>
