@@ -204,7 +204,9 @@ as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 100
 
 ![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_11.png)
 #### Solution
-Since the relation R is the relation that contains the pair (a, b) (where a and b are elements of the appropriate sets) if and only if R does not contain that pair, we can form the matrix for R simply by changing all the l's to 0's and 0's to l's in the matrix for R.
+Since the relation R is the relation that contains the pair (a, b) (where a and b are elements of the appropriate sets) if and only if R does not contain that pair, we can form the matrix for R simply by changing all the l's to 0's and 0's to l's in the matrix for R.</br>
 
 ![problem 12](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_12.png)
 #### Solution
+we can take the transpose of the matrix, since we want the $(i,j)^{th}$ entry of the matrix for $R−1$ to be $1$ if and
+only if the $(j,i)^{th}$ entry of R is 1.</br>
