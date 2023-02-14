@@ -181,5 +181,23 @@ as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 100
     same goes for all the rows except last row where only 1 element will be picked because $a = 999$ or $a = 1001$ </br>
     $\therefore$ result is $(998 * 2) + 2 = 1996 + 2 = 1998$ </br>
   </li>
+  <li>
+    $\{(a,b) | a + b = 1000 \}$ </br>
+    as the first row's elements are $(1,1), (1,2), ... , (1,1000)$, so we will have $(1,999)$ as 1 element $\in R$ </br>
+    in the same way the second row will have $(2,998)$, third row will have $(3,997)$ and so on till second last row $(999,1)$ </br>
+    $\therefore$ the solution is $1000-1 = 999$ </br>
+  </li>
+  <li>
+    $\{(a,b) | a + b \le 1001 \}$ </br>
+    as the first row's elements are $(1,1), (1,2), ... , (1,1000)$, so all elements are $\in R$ </br>
+    in the same way second row will have $(2,1), (2,2), ..., (2, 999)$, means 999 elements </br>
+    in this way we will have $1000 + 999 + 998 + ... + 1$ elements </br>
+    $\therefore$ solution is $\frac{1000 * 1001}{2} = 500 * 1001 = 500500$ </br>
+  </li>
+  <li>
+    $\{(a,b) | a \ne 0 \}$ </br>
+    as all the elements falls between range of from $1 .. 1000$ </br>
+    $\therefore$ the solution is all the elements which is $1000 * 1000 = 1000,000$ </br>
+  </li>
 </ol>
 </br>
