@@ -165,7 +165,7 @@ Example of not asymmetric matrix is </br>
 
 ![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_10.png)
 #### Solution
-as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 1000000$ </br>
+as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 1000,000$ </br>
 <ol type="a">
   <li>
     $\{(a, b) | a \le b\}$ </br>
@@ -204,4 +204,4 @@ as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 100
 
 ![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_11.png)
 #### Solution
-Since the relation R is the relation that contains the pair (a, b) (where a and b are elements of the appropriate sets) if and only if R does not contain that pair, we can form the matrix for R simply by changing all the l's to O's and O's to l's in the matrix for R.
+Since the relation R is the relation that contains the pair (a, b) (where a and b are elements of the appropriate sets) if and only if R does not contain that pair, we can form the matrix for R simply by changing all the l's to 0's and 0's to l's in the matrix for R.
