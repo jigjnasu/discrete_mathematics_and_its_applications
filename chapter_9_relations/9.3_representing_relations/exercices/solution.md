@@ -201,3 +201,6 @@ as $A$ has 1000 elements $\therefore$ total elements of matrix are $1000^2 = 100
   </li>
 </ol>
 </br>
+
+![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_11.png)
+#### Solution
