@@ -213,3 +213,9 @@ only if the $(j,i)^{th}$ entry of R is 1.</br>
 
 ![problem 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_13.png)
 #### Solution
+A) </br>
+![solution 13 A](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/solution_13_a.png)
+B) </br>
+![solution 13 B](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/solution_13_b.png)
+C) </br>
+![solution 13 C](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/solution_13_c.png)
