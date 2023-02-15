@@ -223,3 +223,7 @@ C)
 
 ![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_14.png)
 #### Solution
+A)
+![solution 14 A](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/solution_14_a.png)
+B)
+![solution 14 B](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/solution_14_b.png)
