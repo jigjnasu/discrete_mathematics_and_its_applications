@@ -285,3 +285,5 @@ As $M_{R}$ has k non zero entries, $M_{R-1}$ will also have the same number enti
 
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_17.png)
 #### Solution
+As there are $n$ elements in $A$ $\therefore$ the total number of elements in $M_{R}$ is $n^2$ </br>
+As the complement of a matrix is reverse means 0 is 1, and 1 is 0, $\therefore$ the total numbner of elements in $M_{\overline{R}}$ is $n^2 - k$
