@@ -290,3 +290,5 @@ As the complement of a matrix is reverse means 0 is 1, and 1 is 0, $\therefore$ 
 
 ![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_18.png)
 #### Solution
+
+![23 - 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/intro_23_to_28.png)
