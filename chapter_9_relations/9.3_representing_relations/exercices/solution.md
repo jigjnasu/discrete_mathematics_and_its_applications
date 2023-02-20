@@ -289,8 +289,11 @@ As there are $n$ elements in $A$ $\therefore$ the total number of elements in $M
 As the complement of a matrix is reverse means 0 is 1, and 1 is 0, $\therefore$ the total numbner of elements in $M_{\overline{R}}$ is $n^2 - k$
 
 ![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_18.png)
-#### Solution
+#### Solution 
+Solutions from 18 to 22 are in my paper notebook, I will bring them here later.
+
 ![23 - 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/intro_23_to_28.png)
+
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_23.png)
 #### Solution
 $(a,b), (a,c)$</br>
