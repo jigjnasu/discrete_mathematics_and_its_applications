@@ -308,3 +308,8 @@ $(c,c)$
 
 ![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_25.png)
 #### Solution
+$(a,c)$</br>
+$(b,a)$</br>
+$(c,d)$</br>
+$(d,b)$
+
