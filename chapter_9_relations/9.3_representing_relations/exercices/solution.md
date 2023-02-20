@@ -281,3 +281,4 @@ if __name__ == '__main__':
 ```
 ![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_16.png)
 #### Solution
+As $M_{R}$ has k non zero entries, $M_{R-1}$ will also have the same number entires because it is just the transpose of a matrix.
