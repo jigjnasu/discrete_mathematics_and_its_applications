@@ -319,3 +319,6 @@ $(a,a), (a,b)$</br>
 $(b,a), (b,b)$</br>
 $(c,a), (c,d)$</br>
 $(d,d)$
+
+![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_27.png)
+#### Solution
