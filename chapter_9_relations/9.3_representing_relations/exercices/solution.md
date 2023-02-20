@@ -299,3 +299,9 @@ Solutions from 18 to 22 are in my paper notebook, I will bring them here later.
 $(a,b), (a,c)$</br>
 $(b,c)$ </br>
 $(c,b)$
+
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_24.png)
+#### Solution
+$(a,a), (a,c)$ </br>
+$(b,a), (b,b), (b,c)$ </br>
+$(c,c)$
