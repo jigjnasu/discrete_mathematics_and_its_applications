@@ -279,3 +279,5 @@ if __name__ == '__main__':
     C = boolean_pow(R, B)
     print_matrix(C)
 ```
+![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_16.png)
+#### Solution
