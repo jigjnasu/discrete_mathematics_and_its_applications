@@ -343,3 +343,5 @@ $\therefore$ in directed graph, asymmetric should not have.</br>
 
 ![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_30.png)
 #### Solution
+As irreflexive relations are those where for every $a$ in $A$, $(a, a) \n R$. </br>
+$\therefore$ we should not have any loops in the directed graphs.
