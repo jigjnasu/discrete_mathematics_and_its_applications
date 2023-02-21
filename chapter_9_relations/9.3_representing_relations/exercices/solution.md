@@ -340,3 +340,6 @@ As asymmetric relations are those where $(a,b) \in R$ but not $(b,a) \in R$ at t
 $\therefore$ in directed graph, asymmetric should not have.</br>
 1. loops</br>
 2. connection in both directions from one vertex to another.
+
+![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_30.png)
+#### Solution
