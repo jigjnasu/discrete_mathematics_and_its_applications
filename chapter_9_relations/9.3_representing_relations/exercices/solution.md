@@ -333,3 +333,6 @@ $(a,a), (a,b)$</br>
 $(b,a), (b,b)$</br>
 $(c,c), (c,d)$</br>
 $(d,c), (d,d)$
+
+![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_29.png)
+#### Solution
