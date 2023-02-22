@@ -103,29 +103,32 @@ A)</br>
 
 ![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_8.png)
 #### Solution
-<ol type="a">
-  <li>
-    <b>reflexive no</b> because missing pair is $(2,2)$ </br>
-    <b>irreflexive no</b> because we have $(1,1), (3,3), (4,4)$ </br>
-    <b>symmetric no</b> because we have missing pair $(2,2)$ </br>
-    <b>antisymmetric no</b> because we have $(1, 2), (2, 1)$ where $1 \ne 2$ </br>
-    <b>transitive no</b> because we have $(1,4), (4, 3)$ but not $(1,3)$ </br>
-  </li>
-  <li>
-    <b>reflexive yes</b> because we have all pairs $(1,1), (2,2), (3,3), (4,4)$ </br>
-    <b>irreflexive no</b> because we have $(1,1), (3,3), (4,4)$ </br>
-    <b>symmetric no</b> because we have $(1, 2)$ but not $(2, 1)$ </br>
-    <b>antisymmetric yes</b>  </br>
-    <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(2,2)$ </br>
-  </li>
-  <li>
-    <b>reflexive no</b> because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ </br>
-    <b>irreflexive yes</b> because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ </br>
-    <b>symmetric yes</b> because we have for every $(b,a) \in R$ $(b,a) \in R$ </br>
-    <b>antisymmetric no</b> because we have $(1,2), (2,1)$ where $1 \ne 2$  </br>
-    <b>transitive no</b> because we have $(1,2), (2, 1)$ but not $(1,1)$ </br>
-  </li>
-</ol>
+A)</br>
+| type          | result | notes                                            |
+| :------------ | :----- | :----------------------------------------------- |
+| reflexive     | No     | because $(2,2) \not\in R$                        |
+| irreflexive   | No     | because we have $(1,1), (3,3), (4,4)$            |
+| symmetric     | No     | because we have missing pair $(2,2)$             |
+| antisymmetric | No     | because we have $(1, 2), (2, 1)$ where $1 \ne 2$ |
+| transitive    | No     | because we have $(1,4), (4, 3)$ but not $(1,3)$  |
+
+</br>B)</br>
+| type          | result | notes                                                  |
+| :------------ | :----- | :----------------------------------------------------- |
+| reflexive     | Yes    | because we have all pairs $(1,1), (2,2), (3,3), (4,4)$ |
+| irreflexive   | No     | because we have $(1,1), (3,3), (4,4)$                  |
+| symmetric     | No     | because we have $(1, 2)$ but not $(2, 1)$              |
+| antisymmetric | Yes    |                                                        |
+| transitive    | No     | because we have $(1,2), (2, 1)$ but not $(2,2)$        |
+
+</br>C)</br>
+| type          | result | notes                                                       |
+| :------------ | :----- | :---------------------------------------------------------- |
+| reflexive     | No     | because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ |
+| irreflexive   | Yes    | because we don't have any pair $(1,1), (2,2), (3,3), (4,4)$ |
+| symmetric     | Yes    | because we have for every $(b,a) \in R$ $(b,a) \in R$       |
+| antisymmetric | No     | because we have $(1,2), (2,1)$ where $1 \ne 2$              |
+| transitive    | No     | because we have $(1,2), (2, 1)$ but not $(1,1)$             |
 
 </br>
 
