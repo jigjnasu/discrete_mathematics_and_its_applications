@@ -392,3 +392,12 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | No     | For example, $(c,d) \in R$ but $(d,c) \not\in R$                    |
 | antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$        |
 | transitive    | No     | For example, $(c,a) \in R$ and $(a,b ) \in R$ but $(c,b) \not\in R$ |
+
+</br>27)</br>
+| type          | result | notes                                                              |
+| :------------ | :----- | :----------------------------------------------------------------- |
+| reflexive     | No     | $(c,c) \not\in R$                                                  |
+| irreflexive   | No     | For example, $(a,a) \in R$, $(b,b) \in R$                          |
+| symmetric     | Yes    | For all $(a,b) \in R$ and $(b,a) \in R$                            |
+| antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$       |
+| transitive    | No     | For example, $(c,a) \in R$ and $(a,c) \in R$ but $(c,c) \not\in R$ |
