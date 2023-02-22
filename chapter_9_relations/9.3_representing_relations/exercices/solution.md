@@ -349,13 +349,14 @@ $\therefore$ we should not have any loops in the directed graphs.
 ![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_31.png)
 #### Solution
 23)</br>
-| type          | result | notes                                                  |
-| :------------ | :----- | :----------------------------------------------------- |
-| reflexive     | No     | There are no loops on any vertex                       |
-| irreflexive   | Yes    | There are no loops on any vertex                       |
-| symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$       |
-| antisymmetric | No     | Presence of $(b,c) \in R$ and $(c,b) \in R$            |
-| transitive    | No     | $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
+| type          | result | notes                                                               |
+| :------------ | :----- | :------------------------------------------------------------------ |
+| reflexive     | No     | All vertices doesn't have loops                                     |
+| irreflexive   | Yes    | There are no loops on any vertex                                    |
+| symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
+| antisymmetric | No     | Presence of $(b,c) \in R$ and $(c,b) \in R$                         |
+| transitive    | No     | For example, $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
+|               |        |                                                                     |
 
 </br>24)</br>
 | type          | result | notes                                                                                                                |
@@ -365,3 +366,12 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | No     | For example $(a,c) \in R$ but $(c,a) \not\in R$                                                                      |
 | antisymmetric | Yes    | It matches the definition of antisymmetric relations, as in all cases $$(a,b) \in R and $(b,a) \in R$  where $a = b$ |
 | transitive    | Yes    | In all cases where $(a,b) \in R$, $(b,c) \in R$ also present $(a,c) \in R$                                           |
+
+</br>25)</br>
+| type          | result | notes                                                               |
+| :------------ | :----- | :------------------------------------------------------------------ |
+| reflexive     | No     | All vertices doesn't have loops                                     |
+| irreflexive   | Yes    | There are no loops on any vertex                                    |
+| symmetric     | No     | For example $(a,c) \in R$ but $(c,a) \not\in R$                     |
+| antisymmetric | Yes    | Because there is not any pair where $(a,b) \in R$ and $(b,a) \in R$ |
+| transitive    | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
