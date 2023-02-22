@@ -369,7 +369,7 @@ $\therefore$ we should not have any loops in the directed graphs.
 | reflexive     | Yes    | Loops on all vertices                                                                                                |
 | irreflexive   | No     | Loops on all vertices                                                                                                |
 | symmetric     | No     | For example $(a,c) \in R$ but $(c,a) \not\in R$                                                                      |
-| antisymmetric | Yes    | It matches the definition of antisymmetric relations, as in all cases $$(a,b) \in R and $(b,a) \in R$  where $a = b$ |
+| antisymmetric | Yes    | It matches the definition of antisymmetric relations, as in all cases $(a,b) \in R$ and $(b,a) \in R$  where $a = b$ |
 | transitive    | Yes    | In all cases where $(a,b) \in R$, $(b,c) \in R$ also present $(a,c) \in R$                                           |
 
 </br>25)</br>
