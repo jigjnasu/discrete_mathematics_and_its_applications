@@ -74,6 +74,14 @@ Example of not asymmetric matrix is </br>
 #### Solution
 <ol type="a">
   <li>
+    | type          | result | notes                                                               |
+    | :------------ | :----- | :------------------------------------------------------------------ |
+    | reflexive     | No     | All vertices doesn't have loops                                     |
+    | irreflexive   | Yes    | There are no loops on any vertex                                    |
+    | symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
+    | antisymmetric | No     | Presence of $(b,c) \in R$ and $(c,b) \in R$                         |
+    | transitive    | No     | For example, $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
+
     <b>reflexive yes</b> because we have all $(1,1), (2,2), (3,3)$ </br>
     <b>irreflexive no</b> because we have $(1,1), (2,2), (3,3)$ </br>
     <b>symmetric yes</b> because we have all $(a,b) \in R$ and $(b,a) \in R$ </br>
@@ -356,7 +364,6 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
 | antisymmetric | No     | Presence of $(b,c) \in R$ and $(c,b) \in R$                         |
 | transitive    | No     | For example, $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
-|               |        |                                                                     |
 
 </br>24)</br>
 | type          | result | notes                                                                                                                |
@@ -375,6 +382,7 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | No     | For example $(a,c) \in R$ but $(c,a) \not\in R$                     |
 | antisymmetric | Yes    | Because there is not any pair where $(a,b) \in R$ and $(b,a) \in R$ |
 | transitive    | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
+</br>
 
 ![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_32.png)
 #### Solution
