@@ -375,3 +375,6 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | No     | For example $(a,c) \in R$ but $(c,a) \not\in R$                     |
 | antisymmetric | Yes    | Because there is not any pair where $(a,b) \in R$ and $(b,a) \in R$ |
 | transitive    | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
+
+![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_32.png)
+#### Solution
