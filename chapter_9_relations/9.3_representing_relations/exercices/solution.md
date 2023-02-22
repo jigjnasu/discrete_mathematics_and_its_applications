@@ -360,7 +360,7 @@ $\therefore$ we should not have any loops in the directed graphs.
 | reflexive     | No     | All vertices doesn't have loops                                     |
 | irreflexive   | Yes    | There are no loops on any vertex                                    |
 | symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
-| antisymmetric | No     | For example, of $(b,c) \in R$ and $(c,b) \in R$                         |
+| antisymmetric | No     | For example, of $(b,c) \in R$ and $(c,b) \in R$                     |
 | transitive    | No     | For example, $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
 
 </br>24)</br>
