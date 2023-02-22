@@ -360,7 +360,7 @@ $\therefore$ we should not have any loops in the directed graphs.
 | reflexive     | No     | All vertices doesn't have loops                                     |
 | irreflexive   | Yes    | There are no loops on any vertex                                    |
 | symmetric     | No     | For example, $(a,c) \in R$ but $(c,a) \not\in R$                    |
-| antisymmetric | No     | Presence of $(b,c) \in R$ and $(c,b) \in R$                         |
+| antisymmetric | No     | For example, of $(b,c) \in R$ and $(c,b) \in R$                         |
 | transitive    | No     | For example, $(c,b) \in R$ and $(b,c ) \in R$ but $(c,c) \not\in R$ |
 
 </br>24)</br>
@@ -384,3 +384,11 @@ $\therefore$ we should not have any loops in the directed graphs.
 
 ![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_32.png)
 #### Solution
+26)</br>
+| type          | result | notes                                                               |
+| :------------ | :----- | :------------------------------------------------------------------ |
+| reflexive     | Yes    | All vertices have loops                                             |
+| irreflexive   | No     | All vertices have loops                                             |
+| symmetric     | No     | For example, $(c,d) \in R$ but $(d,c) \not\in R$                    |
+| antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$        |
+| transitive    | No     | For example, $(c,a) \in R$ and $(a,b ) \in R$ but $(c,b) \not\in R$ |
