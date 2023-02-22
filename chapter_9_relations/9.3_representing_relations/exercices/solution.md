@@ -73,31 +73,31 @@ Example of not asymmetric matrix is </br>
 ![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_7.png)
 #### Solution
 A)</br>
-    | type          | result | notes                                                              |
-    | :------------ | :----- | :----------------------------------------------------------------- |
-    | reflexive     | Yes    | because we have all $(1,1), (2,2), (3,3)$                          |
-    | irreflexive   | No     | because we have $(1,1), (2,2), (3,3)$                              |
-    | symmetric     | Yes    | because we have all $(a,b) \in R$ and $(b,a) \in R$                |
-    | antisymmetric | No     | because we have like $(1,3) ,(3, 1)$ where $1 \ne 3$               |
-    | transitive    | Yes    | because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ |
+| type          | result | notes                                                              |
+| :------------ | :----- | :----------------------------------------------------------------- |
+| reflexive     | Yes    | because we have all $(1,1), (2,2), (3,3)$                          |
+| irreflexive   | No     | because we have $(1,1), (2,2), (3,3)$                              |
+| symmetric     | Yes    | because we have all $(a,b) \in R$ and $(b,a) \in R$                |
+| antisymmetric | No     | because we have like $(1,3) ,(3, 1)$ where $1 \ne 3$               |
+| transitive    | Yes    | because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ |
 
 </br>B)</br>
-    | type          | result | notes                                                              |
-    | :------------ | :----- | :----------------------------------------------------------------- |
-    | reflexive     | No     | $(1,1) \not\in R$ and $(3,3) \not\in R$                            |
-    | irreflexive   | No     | because we have $(2,2) \in R$                                      |
-    | symmetric     | No     | because we have $(1,2), (3,2)$ but not $(2,1),(2,3)$               |
-    | antisymmetric | Yes    |                                                                    |
-    | transitive    | Yes    | because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ |
+| type          | result | notes                                                              |
+| :------------ | :----- | :----------------------------------------------------------------- |
+| reflexive     | No     | $(1,1) \not\in R$ and $(3,3) \not\in R$                            |
+| irreflexive   | No     | because we have $(2,2) \in R$                                      |
+| symmetric     | No     | because we have $(1,2), (3,2)$ but not $(2,1),(2,3)$               |
+| antisymmetric | Yes    |                                                                    |
+| transitive    | Yes    | because we have all $(a,b) \in R$, $(b,c) \in R$ and $(a,c) \in R$ |
 
 </br>C)</br>
-    | type          | result | notes                                                                 |
-    | :------------ | :----- | :-------------------------------------------------------------------- |
-    | reflexive     | No     | $(2,2) \not\in R$                                                     |
-    | irreflexive   | No     | because we have for example $(1,1) \in R$                             |
-    | symmetric     | Yes    | because we have all $(a,b) \in R$ and $(b,a) \in R$                   |
-    | antisymmetric | No     | because we have $(1,2) \in R$ and $(2,1) \in R$ where $1 \ne 2$       |
-    | transitive    | No     | because we have $(2,1) \in R$ and $(1,2) \in R$ but $(2,2) \not\in R$ |
+| type          | result | notes                                                                 |
+| :------------ | :----- | :-------------------------------------------------------------------- |
+| reflexive     | No     | $(2,2) \not\in R$                                                     |
+| irreflexive   | No     | because we have for example $(1,1) \in R$                             |
+| symmetric     | Yes    | because we have all $(a,b) \in R$ and $(b,a) \in R$                   |
+| antisymmetric | No     | because we have $(1,2) \in R$ and $(2,1) \in R$ where $1 \ne 2$       |
+| transitive    | No     | because we have $(2,1) \in R$ and $(1,2) \in R$ but $(2,2) \not\in R$ |
 
 </br>
 
