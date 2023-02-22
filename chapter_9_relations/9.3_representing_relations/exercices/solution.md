@@ -349,14 +349,10 @@ $\therefore$ we should not have any loops in the directed graphs.
 ![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_31.png)
 #### Solution
 23)</br>
-| type          | result | notes |
-| :------------ | :----- | :---- |
-| reflexive     | No     |       |
-| irreflexive   | Yes    |       |
-| symmetric     | No     |       |
-| antisymmetric | No     |       |
-| transitive    | No     |       |
-
-<b>reflexive no</b>, there are none loops exists.</br>
-<b>irreflexive yes</b>, there are none loops exists.</br>
-<b>symmetric no</b>, there are none loops exists.</br>
+| type          | result | notes                                            |
+| :------------ | :----- | :----------------------------------------------- |
+| reflexive     | No     | There are no loops on any vertex                 |
+| irreflexive   | Yes    | There are no loops on any vertex                 |
+| symmetric     | No     | For example, $(a,c) \in R$ but not $(c,a) \in R$ |
+| antisymmetric | No     |                                                  |
+| transitive    | No     |                                                  |
