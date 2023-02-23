@@ -428,3 +428,6 @@ Let's take the inductive hypothesis case $R^n = {M^{[n]}_R}$
 Let's boolean multiply by $R^1$ on both sides</br>
 $R^1 \odot R^n = {M^{[1]}_R} \odot {M^{[n]}_R} = {M^{[n+1]}_R}$ as we know $M_{S \odot R} = M_R \odot M_S$ </br>
 Hence proved, $\therefore$ proved by base and inductive case
+
+![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_36.png)
+
