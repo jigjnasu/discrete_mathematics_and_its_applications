@@ -413,3 +413,4 @@ $\therefore$ we should not have any loops in the directed graphs.
 
 ![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_33.png)
 #### Solution
+For example $(a,b) \in R$ then $(b,a) \in R^{-1}$. In that case if we will reverse the direction of every edge. We will be able to achieve that.
