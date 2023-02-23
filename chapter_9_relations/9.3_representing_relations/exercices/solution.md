@@ -430,4 +430,10 @@ $R^1 \odot R^n = {M^{[1]}_R} \odot {M^{[n]}_R} = {M^{[n+1]}_R}$ as we know $M_{S
 Hence proved, $\therefore$ proved by base and inductive case
 
 ![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_36.png)
-
+#### Solution
+We assume that the two relations are on the same set.</br>
+For the **union**, we simply take the union of the directed graphs, i.e., take the directed graph on the same vertices and put in an edge from $i$ to $j$ whenever there is an edge from $i$ to $j$ in either of them.</br>
+For **intersection**, we simply take the intersection of the directed graphs, i.e., take the directed graph on the same vertices and put in an edge from $i$ to $j$ whenever there are edges from $i$ to $j$ in both of them.</br>
+For **symmetric difference**, we simply take the symmetric difference of the directed graphs, i.e., take the directed graph on the same vertices and put in an edge from $i$ to $j$ whenever there is an edge from $i$ to $j$ in one, but not both, of them. </br>
+Similarly, to form the **difference**, we take the difference of the directed graphs, i.e., take the directed graph on the same vertices and put in an edge from $i$ to $j$ whenever there is an edge from $i$ to $j$ in the first but not the second.</br>
+To form the directed graph for the **composition** $S \odot R$ of relations $R$ and $S$ , we draw a directed graph on the same set of vertices and put in an edge from $i$ to $j$ whenever there is a vertex $k$ such that there is an edge from $i$ to $k$ in$ $R$, and an edge from $k$ to $j$ in $S$.
