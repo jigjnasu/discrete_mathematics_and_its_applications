@@ -417,4 +417,5 @@ For example $(a,b) \in R$ then $(b,a) \in R^{-1}$. In that case if we will rever
 
 ![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_34.png)
 #### Solution
-$A \overline{-}$
+For example $(a,b) \in R$ then $(a,b) \not\in \overline{R}$ and $(b,a) \in R$ even $a = b$ or $a \ne b$</br>
+$\therefore$ in directed graph if there is an edge remove it and if no edge is there draw it.
