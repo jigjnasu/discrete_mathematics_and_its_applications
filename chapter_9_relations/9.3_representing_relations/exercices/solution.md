@@ -411,3 +411,5 @@ $\therefore$ we should not have any loops in the directed graphs.
 | antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$               |
 | transitive    | Yes    | In all cases where $(a,b) \in R$, $(b,c) \in R$ also present $(a,c) \in R$ |
 
+![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.3_representing_relations/repo/problem_33.png)
+#### Solution
