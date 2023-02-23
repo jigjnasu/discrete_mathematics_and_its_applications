@@ -401,3 +401,13 @@ $\therefore$ we should not have any loops in the directed graphs.
 | symmetric     | Yes    | For all $(a,b) \in R$ and $(b,a) \in R$                            |
 | antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$       |
 | transitive    | No     | For example, $(c,a) \in R$ and $(a,c) \in R$ but $(c,c) \not\in R$ |
+
+</br>28)</br>
+| type          | result | notes                                                                      |
+| :------------ | :----- | :------------------------------------------------------------------------- |
+| reflexive     | Yes    | All vertices have loops                                                    |
+| irreflexive   | No     | All vertices have loops                                                    |
+| symmetric     | Yes    | For all $(a,b) \in R$ and $(b,a) \in R$                                    |
+| antisymmetric | No     | For example, $(a,b) \in R$ and $(b,a) \in R$ where $a \ne b$               |
+| transitive    | Yes    | In all cases where $(a,b) \in R$, $(b,c) \in R$ also present $(a,c) \in R$ |
+
