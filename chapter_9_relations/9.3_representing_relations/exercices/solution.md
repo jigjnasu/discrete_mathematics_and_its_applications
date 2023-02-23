@@ -426,5 +426,5 @@ Let's prove it by mathematical induction</br>
 Let's base case is $R^{1} = {M^{[1]}_R}$ at $n = 1$</br>
 Let's take the inductive hypothesis case $R^n = {M^{[n]}_R}$
 Let's boolean multiply by $R^1$ on both sides</br>
-$R^n \cdotp R^1 = R \cdotp R^n = {M^{[n+1]}_R$ as we know $M_s \cdotp M_r = M_R \cdotp M_S$ </br>
+$R^n \odot R^1 = R \odot R^n = {M^{[n+1]}_R$ as we know $M_s \odot M_r = M_R \odot M_S$ </br>
 $\therefore$ proved by base and inductive case
