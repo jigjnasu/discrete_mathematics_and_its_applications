@@ -14,3 +14,5 @@ ${(0,1), (0,2),(0,3), (1,0), (1,1), (1,2), (2,0), (2,1),(2,2), (3,0)}$
 
 ![problem 2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_2.png)
 #### Solution
+The reflexive closure is the pairs which are present of the form $(a,a) \n R$ and adding the remaining ones. </br>
+$R \cup \Delta$ where $\Delta =(a,b) | a = b = \mathbb{Z} X \mathbb{Z}$
