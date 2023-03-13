@@ -22,3 +22,6 @@ $R \cup \Delta$ where $\Delta ={\{ (a,b) | a = b = \mathbb{Z} X \mathbb{Z}} \}$
 For making symmetric closure we need all $(b,a) \in R$ and $(a,b) \in R$ </br>
 in this case we need all pairs where $(a,b) | $ b divides a and $(b,a) | $ a divides b.</br>
 $\therefore$ the symmetric closure of this is $(a,b) | $ a divides b or b divides a
+
+![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_4.png)
+#### Solution
