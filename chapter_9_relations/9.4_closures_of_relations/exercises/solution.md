@@ -26,3 +26,6 @@ $\therefore$ the symmetric closure of this is $(a,b) | $ a divides b or b divide
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_4.png)
 #### Solution
 At every node / vertex add the loop if not present.
+
+![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_8.png)
+#### Solution
