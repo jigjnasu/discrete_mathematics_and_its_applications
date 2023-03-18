@@ -37,3 +37,8 @@ In the directed graph add an edge to b -> a if there is any edge present from a 
 #### Solution
 The symmetric closure in example 2 is $ \{(a,b) | a > b \} \therefore $ is not equal to $R$ relation. </br>
 If we want to make it reflexive relations then, we will have all the relations which will always hold.
+
+<b> Note: solution for problem 11 is in my physical notebook. </b></br>
+
+![problem 12](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_12.png)
+#### Solution
