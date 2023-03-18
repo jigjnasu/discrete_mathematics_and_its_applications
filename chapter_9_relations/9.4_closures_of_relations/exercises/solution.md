@@ -31,7 +31,7 @@ At every node / vertex add the loop if not present.
 #### Solution
 In the directed graph add an edge to b -> a if there is any edge present from a -> b. because symmetric relations are those where $(b,a) \in R$ and $(a,b) \in R$
 
-<b> Note: solution for problem 9 is in my physical notebook. </br>
+<b> Note: solution for problem 9 is in my physical notebook. </b></br>
 
 ![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_10.png)
 #### Solution
