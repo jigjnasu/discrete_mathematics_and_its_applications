@@ -57,5 +57,9 @@ by definition of closure, $C$ is a subset of every relation $S$ that has propert
 is contained in their intersection.
 
 ![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_15.png)
+#### Solution
 If relation $R$ is already a irreflexive relation then there is no need of adding to that $R$. However, if $R$ is not irreflexive then there is no relation containing R that is irreflexive, since the loop or loops in R prevent any such relation
 from being irreflexive. $\therefore$ in this case $R$ has no irreflexive closure.
+
+![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_16.png)
+#### Solution
