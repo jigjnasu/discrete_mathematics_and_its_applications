@@ -63,3 +63,12 @@ from being irreflexive. $\therefore$ in this case $R$ has no irreflexive closure
 
 ![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_16.png)
 #### Solution
+|     | solution |           path            | note                              |
+| :-: | :------: | :-----------------------: | --------------------------------- |
+|  a  |   yes    |        a, b, c, e         | this is the complete path         |
+|  b  |    no    |       b, e, c, b, e       | there is no path from edge e to c |
+|  c  |   yes    |     a, a, b, e, d, e      | this is the complete path         |
+|  d  |    no    |    b, c, e, d, a, a, b    | there is no path from edge d to a |
+|  e  |   yes    |  b, c, c, b, e, d, e, d   | this is the complete path         |
+|  f  |    no    | a, a, b, b, c, c, b, e, d | there is no path from edge b to b |
+|     |          |                           |                                   |
