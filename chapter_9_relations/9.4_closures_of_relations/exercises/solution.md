@@ -90,3 +90,6 @@ $aaaa, adea, bccb, beeb, becb, cccc, cbcc, ccbc, cbec, deed, dead, eeee, eade, e
 |  g  |   yes    | ded  | 2      |
 |  h  |   yes    | eade | 3      |
 |  i  |   yes    | eabc | 3      |
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_19.png)
+#### Solution
