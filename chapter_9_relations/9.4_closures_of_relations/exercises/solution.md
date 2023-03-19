@@ -72,3 +72,6 @@ from being irreflexive. $\therefore$ in this case $R$ has no irreflexive closure
 |  e  |   yes    |  b, c, c, b, e, d, e, d   | this is the complete path         |
 |  f  |    no    | a, a, b, b, c, c, b, e, d | there is no path from edge b to b |
 |     |          |                           |                                   |
+
+![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_17.png)
+#### Solution
