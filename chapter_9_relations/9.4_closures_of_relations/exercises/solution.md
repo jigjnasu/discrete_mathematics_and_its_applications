@@ -71,7 +71,6 @@ from being irreflexive. $\therefore$ in this case $R$ has no irreflexive closure
 |  d  |    no    |    b, c, e, d, a, a, b    | there is no path from edge d to a |
 |  e  |   yes    |  b, c, c, b, e, d, e, d   | this is the complete path         |
 |  f  |    no    | a, a, b, b, c, c, b, e, d | there is no path from edge b to b |
-|     |          |                           |                                   |
 
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_17.png)
 #### Solution
@@ -80,3 +79,14 @@ $aaaa, adea, bccb, beeb, becb, cccc, cbcc, ccbc, cbec, deed, dead, eeee, eade, e
 
 ![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_18.png)
 #### Solution
+|     | solution | path | length |
+| :-: | :------: | :--: | ------ |
+|  a  |   yes    |  ab  | 1      |
+|  b  |   yes    | bea  | 2      |
+|  c  |   yes    | beeb | 3      |
+|  d  |   yes    | ade  | 2      |
+|  e  |   yes    | bed  | 2      |
+|  f  |   yes    | cbed | 3      |
+|  g  |   yes    | ded  | 2      |
+|  h  |   yes    | eade | 3      |
+|  i  |   yes    | eabc | 3      |
