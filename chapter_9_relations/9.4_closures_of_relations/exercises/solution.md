@@ -75,3 +75,5 @@ from being irreflexive. $\therefore$ in this case $R$ has no irreflexive closure
 
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_17.png)
 #### Solution
+Length three means we should have four edges, and there are many in the problem 16.Following are the paths</br>
+$aaaa, adea, bccb, beeb, becb, cccc, cbcc, ccbc, cbec, deed, dead, eeee, eade, edee, eede$
