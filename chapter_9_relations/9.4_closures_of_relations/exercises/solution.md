@@ -146,4 +146,4 @@ if __name__ == '__main__':
     solution_19()
 ```
 here $R = M_R$ </br>
-!R](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r_m.png)
+[!R](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r_m.png)
