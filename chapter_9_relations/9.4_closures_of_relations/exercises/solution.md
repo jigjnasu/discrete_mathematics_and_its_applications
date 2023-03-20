@@ -146,4 +146,19 @@ if __name__ == '__main__':
     solution_19()
 ```
 here $R = M_R$ </br>
-![R](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r_m.png)
+![R](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r_m.png) </br>
+
+a) $R^2 = M_R^2$ </br>
+![R2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r2_m.png) </br>
+
+b) $R^3 = M_R^3$ </br>
+![R3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r3_m.png) </br>
+
+c) $R^4 = M_R^4$ </br>
+![R4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r4_m.png) </br>
+
+d) $R^5 = M_R^5$ </br>
+![R5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r5_m.png) </br>
+
+e) $R^6 = M_R^6$ </br>
+![R6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_19_r6_m.png) </br>
