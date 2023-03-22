@@ -178,3 +178,6 @@ $a->c, c->d, d->b \therefore a->b$ </br>
 
 c) </br>
 $R^*$ means direct flight from $a->b \therefore (a,b)$ 
+
+![problem 21](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_21.png)
+#### Solution
