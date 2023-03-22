@@ -168,3 +168,8 @@ f) $R^* = M_R v M_R^2 v M_R^3 v M_R^4 v M_R^5$ </br>
 
 ![problem 20](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_20.png)
 #### Solution
+a) </br>
+$R^2$ means from $(a,b)$ there is a city $c$ where $(a,c)$ and $(c,b)$ </br>
+$a->c, c->b \therefore a->b$</br>
+
+b) </br>
