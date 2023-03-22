@@ -173,3 +173,8 @@ $R^2$ means from $(a,b)$ there is a city $c$ where $(a,c)$ and $(c,b)$ </br>
 $a->c, c->b \therefore a->b$</br>
 
 b) </br>
+$R^3$ means from $(a,b)$ there are two cities c, d where $(a,c), (c,d)$ and $(d,b)$ </br>
+$a->c, c->d, d->b \therefore a->b$ </br>
+
+c) </br>
+$R^*$ means direct flight from $a->b \therefore (a,b)$ 
