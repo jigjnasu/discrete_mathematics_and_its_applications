@@ -191,3 +191,6 @@ $a->c, c->d, d->b \therefore a->b$ </br>
 
 c) </br>
 The pair $(a, b)$ is in $R^*$ if there is a sequence of students, $s_1, s_2, s_3, s_4, ..., s_n$, where every student is different than a or b, and $(a, s_1), (s_1, s_2), ..., (s_n, b)$
+
+![problem 22](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_22.png)
+#### Solution
