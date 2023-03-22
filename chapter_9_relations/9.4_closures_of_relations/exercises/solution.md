@@ -177,7 +177,17 @@ $R^3$ means from $(a,b)$ there are two cities c, d where $(a,c), (c,d)$ and $(d,
 $a->c, c->d, d->b \therefore a->b$ </br>
 
 c) </br>
-$R^*$ means direct flight from $a->b \therefore (a,b)$ 
+The pair $(a, b)$ is in $R^*$ if there is a sequence of cities, $s_1, s_2, s_3, s_4, ..., s_n$, where $(a, s_1), (s_1, s_2), ..., (s_n, b)$
 
 ![problem 21](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_21.png)
 #### Solution
+a) </br>
+$R^2$ means from $(a,b)$ there is a student $c$ where $(a,c)$ and $(c,b)$ </br>
+$a->c, c->b \therefore a->b$</br>
+
+b) </br>
+$R^3$ means from $(a,b)$ there are two students c, d where $(a,c), (c,d)$ and $(d,b)$ </br>
+$a->c, c->d, d->b \therefore a->b$ </br>
+
+c) </br>
+The pair $(a, b)$ is in $R^*$ if there is a sequence of students, $s_1, s_2, s_3, s_4, ..., s_n$, where every student is different than a or b, and $(a, s_1), (s_1, s_2), ..., (s_n, b)$
