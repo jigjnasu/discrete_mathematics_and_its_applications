@@ -198,10 +198,7 @@ since $R \subseteq R^*$, if $\Delta \subseteq R$, then $\Delta \subseteq$ $R^*$,
 
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_23.png)
 #### Solution
-Suppose that $(a, b) \in R^*$; then there is a path from a to b in (the digraph for) $R$. Given such a path, if $R$
-is symmetric, then the reverse of every edge in the path is also in $R$; therefore there is a path from b to a
-in $R$ (following the given path backwards). This means that $(b, a) \in R^*$ whenever $(a, b)$ is, exactly what
-we needed to prove.
+Suppose that $(a,b) \in R^*$ then there is a path from a to b in (the digraph for) $R$. Given such a path, if $R$ is symmetric, then the everse of every edge in the path is also in $R$; therefore there is a path from b to a in $R$ (following the given path backwards). This means that $(b, a) \in R^*$ whenever $(a, b)$ is, exactly what we needed to prove.
 
 ![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_24.png)
 #### Solution
