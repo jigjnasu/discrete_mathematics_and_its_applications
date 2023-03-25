@@ -196,3 +196,5 @@ The pair $(a, b)$ is in $R^*$ if there is a sequence of students, $s_1, s_2, s_3
 #### Solution
 since $R \subseteq R^*$, if $\Delta \subseteq R$, then $\Delta \subseteq$ $R^*$, hence proved
 
+![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_23.png)
+#### Solution
