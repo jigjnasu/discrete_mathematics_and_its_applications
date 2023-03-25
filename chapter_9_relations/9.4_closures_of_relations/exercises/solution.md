@@ -203,3 +203,5 @@ is symmetric, then the reverse of every edge in the path is also in $R$; therefo
 in $R$ (following the given path backwards). This means that $(b, a) \in R^*$ whenever $(a, b)$ is, exactly what
 we needed to prove.
 
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_24.png)
+#### Solution
