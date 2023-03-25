@@ -203,3 +203,6 @@ Suppose that $(a,b) \in R^*$ then there is a path from a to b in (the digraph fo
 ![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_24.png)
 #### Solution
 Yes we can have refelxive pairs from irreflexive. For instance $(1,2), (2,1)$ will have $R^2$ = $(1,2), (2,2)$
+
+![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_25.png)
+#### Solution
