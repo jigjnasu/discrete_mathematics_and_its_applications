@@ -662,3 +662,6 @@ if __name__ == '__main__':
     solution_c(n)
     solution_d(n)
 ```
+
+![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_29.png)
+#### Solution
