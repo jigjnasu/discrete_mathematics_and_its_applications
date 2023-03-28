@@ -74,7 +74,7 @@ def test_b(n):
     print_matrix(R)
 
 def test_c(n):
-    op = []
+    op = [('a', 'b'), ('a', 'c'), ('a', 'e'), ('b', 'a'), ('b', 'c'), ('c','a'), ('c','b'), ('d', 'a'),('e', 'd')]
     mr = MR(n, op)
     A = []
     for i in range(1, n + 1):
@@ -98,6 +98,6 @@ def test_d(n):
 if __name__ == '__main__':
     n = 5
     #test_a(n)
-    test_b(n)
-    #test_c(n)
+    #test_b(n)
+    test_c(n)
     #test_d(n)
