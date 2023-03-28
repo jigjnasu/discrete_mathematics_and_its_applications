@@ -341,3 +341,6 @@ b)
 
 c)
 ![problem 26 c](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_26_c.png)
+
+d)
+![problem 26 d](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_26_d.png)
