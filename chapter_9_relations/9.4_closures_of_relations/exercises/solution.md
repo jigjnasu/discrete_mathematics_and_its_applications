@@ -465,3 +465,6 @@ a)
 b)
 ![solution 27 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27_b.png)
 
+c)
+![solution 27 c](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27_c.png)
+

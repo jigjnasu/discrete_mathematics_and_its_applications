@@ -64,7 +64,13 @@ def test_b(n):
     mr = MR(n, op)
     mr.R()
 
+def test_c(n):
+    op = [(1, 2), (1,3), (1,4), (2,3), (2,4), (3, 4)]
+    mr = MR(n, op)
+    mr.R()
+
 if __name__ == '__main__':
     n = 4
     #test_a(n)
-    test_b(n)
+    #test_b(n)
+    test_c(n)
