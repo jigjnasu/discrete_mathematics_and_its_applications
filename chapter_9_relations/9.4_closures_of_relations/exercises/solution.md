@@ -335,3 +335,6 @@ We can compute $M_R V M_R^2 V M_R^3 V ... V M_R^n$
 
 a)
 ![problem 26 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_26_a.png)
+
+b)
+![problem 26 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_26_b.png)
