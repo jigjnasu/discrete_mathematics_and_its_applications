@@ -562,3 +562,16 @@ if __name__ == '__main__':
 ![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_28.png)
 #### Solution
 We can compute $W_0, W_1, W_2, ..., W_n$
+
+a)
+![solution 28 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_28_a.png)
+
+b)
+![solution 28 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_28_b.png)
+
+c)
+![solution 28 c](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_28_c.png)
+
+d)
+![solution 28 d](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_28_d.png)
+
