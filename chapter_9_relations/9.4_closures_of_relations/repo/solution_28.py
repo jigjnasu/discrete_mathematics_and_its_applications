@@ -60,7 +60,7 @@ def solution_a(n):
     mr.R()
 
 def solution_b(n):
-    op = [(2, 1), (2,3), (3,1), (3,4), (4,1), (4, 3)]
+    op = [('b', 'c'), ('b', 'e'), ('c', 'e'), ('d', 'a'), ('e', 'b'), ('e', 'c')]
     mr = MR(n, op)
     mr.R()
 
@@ -76,7 +76,7 @@ def solution_d(n):
 
 if __name__ == '__main__':
     n = 5
-    solution_a(n)
-    #solution_b(n)
+    #solution_a(n)
+    solution_b(n)
     #solution_c(n)
     #solution_d(n)
