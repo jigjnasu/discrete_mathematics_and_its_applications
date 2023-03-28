@@ -76,7 +76,7 @@ def solution_d(n):
 
 if __name__ == '__main__':
     n = 5
-    #solution_a(n)
-    #solution_b(n)
-    #solution_c(n)
+    solution_a(n)
+    solution_b(n)
+    solution_c(n)
     solution_d(n)
