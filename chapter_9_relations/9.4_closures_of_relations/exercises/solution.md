@@ -206,3 +206,7 @@ Yes we can have refelxive pairs from irreflexive. For instance $(1,2), (2,1)$ wi
 
 ![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_25.png)
 #### Solution
+We can compute $M_R v M_R^2 v M_R^3 ... M_R^n$
+
+a)
+![solution 25 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_25_a.png)

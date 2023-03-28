@@ -98,6 +98,6 @@ def test_d(n):
 if __name__ == '__main__':
     n = 4
     test_a(n)
-    test_b(n)
-    test_c(n)
-    test_d(n)
+    #test_b(n)
+    #test_c(n)
+    #test_d(n)
