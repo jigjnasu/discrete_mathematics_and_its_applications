@@ -54,23 +54,29 @@ class MR(object):
             for c in range(len(T)):
                 self._M[r][c] = self._M[r][c] or T[r][c]
     
-def test_a(n):
+def solution_a(n):
     op = [(1, 2), (2,1), (2,3), (3,4), (4,1)]
     mr = MR(n, op)
     mr.R()
 
-def test_b(n):
+def solution_b(n):
     op = [(2, 1), (2,3), (3,1), (3,4), (4,1), (4, 3)]
     mr = MR(n, op)
     mr.R()
 
-def test_c(n):
+def solution_c(n):
     op = [(1, 2), (1,3), (1,4), (2,3), (2,4), (3, 4)]
+    mr = MR(n, op)
+    mr.R()
+    
+def solution_d(n):
+    op = [(1, 1), (1,4), (2,1), (2,3), (3,1), (3, 2), (3,4), (4, 2)]
     mr = MR(n, op)
     mr.R()
 
 if __name__ == '__main__':
     n = 4
-    #test_a(n)
-    #test_b(n)
-    test_c(n)
+    #solution_a(n)
+    #solution_b(n)
+    #solution_c(n)
+    solution_d(n)
