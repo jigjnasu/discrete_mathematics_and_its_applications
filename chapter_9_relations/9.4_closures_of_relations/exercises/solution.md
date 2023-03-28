@@ -558,3 +558,7 @@ if __name__ == '__main__':
     solution_c(n)
     solution_d(n)
 ```
+
+![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_28.png)
+#### Solution
+We can compute $W_0, W_1, W_2, ..., W_n$
