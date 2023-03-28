@@ -328,3 +328,7 @@ if __name__ == '__main__':
     test_c(n)
     test_d(n)
 ```
+
+![problem 26](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_26.png)
+#### Solution
+We can compute $M_R v M_R^2 v M_R^3 ... M_R^n$
