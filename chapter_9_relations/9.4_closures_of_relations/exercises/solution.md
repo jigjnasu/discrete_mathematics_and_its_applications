@@ -665,3 +665,4 @@ if __name__ == '__main__':
 
 ![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_29.png)
 #### Solution
+As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is 1[problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_29_m_a1.png)
