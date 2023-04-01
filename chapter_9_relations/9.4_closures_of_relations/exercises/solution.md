@@ -670,7 +670,7 @@ For calculating transitive closures, I can use following two programme written i
 
 1. [algorithm 1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_25.py)
 
-2. [algorithm 1 / Warshall's algorithm](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27.py)
+2. [algorithm 2 / Warshall's algorithm](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27.py)
 
 
 a)</br>
@@ -682,4 +682,4 @@ And if we will add $(2,2)$ to the above we can have reflexive and transitive rel
 And $\therefore$ we have this as the solution
 
 b)</br>
-As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_a1.png), let's apply the symmetric closure to this, 
+As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_a1.png), let's apply the symmetric closure to this, and we will get ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_b2.png)
