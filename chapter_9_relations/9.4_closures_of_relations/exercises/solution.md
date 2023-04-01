@@ -668,9 +668,9 @@ if __name__ == '__main__':
 
 For calculating transitive closures, I can use following two programme written in python by using algorithm 1 or algorithm 2 / Warshall's algorithm for finding transitive closure. </br>
 
-1. [solution 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_25.py)
+1. [algorithm 1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_25.py)
 
-2. [solution 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27.py)
+2. [algorithm 1 / Warshall's algorithm](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27.py)
 
 
 a)</br>
