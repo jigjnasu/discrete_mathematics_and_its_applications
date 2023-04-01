@@ -687,3 +687,6 @@ As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is ![problem 29_m
 c)</br>
 The solution from b) has reflexive, symmetric and transitive closure. </br>
 ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_b3.png)
+
+![problem 39](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_30.png)
+#### Solution
