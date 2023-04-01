@@ -666,6 +666,13 @@ if __name__ == '__main__':
 ![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_29.png)
 #### Solution
 
+For calculating transitive closures, I can use following two programme written in python by using algorithm 1 or algorithm 2 / Warshall's algorithm for finding transitive closure. </br>
+
+1. [solution 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_25.py)
+
+2. [solution 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_27.py)
+
+
 a)</br>
 As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_a1.png)
 if we apply transitive closure, we can have ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_a2.png). </br>
@@ -675,3 +682,4 @@ And if we will add $(2,2)$ to the above we can have reflexive and transitive rel
 And $\therefore$ we have this as the solution
 
 b)</br>
+As given $(1, 2), (1, 4), (3, 3), (4, 1)$, the matrix for this is ![problem 29_m_a1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/solution_29_m_a1.png), let's apply the symmetric closure to this, 
