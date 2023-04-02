@@ -709,4 +709,4 @@ $x_0, . . . , x_i, x_{j+1}, . . . , x_m$. This contradicts the choice of $m$. Th
 Warshall’s algorithm determines the existence of paths. If instead we keep track of the lengths of paths, then
 we can get the desired information. Thus we make the following changes in Algorithm 2. First, instead of
 initializing $W$ to be $M_R$ , we initialize it to be $M_R$ with each 0 replaced by $\infty$. Second, the computational
-step becomes $w_{ij}$ = min( w_{ij} ,w_{ik} + w_{kj} )$.
+step becomes $w_{ij} := min( w_{ij} ,w_{ik} + w_{kj} )$.
