@@ -715,5 +715,9 @@ step becomes $w_{ij} := min( w_{ij} ,w_{ik} + w_{kj} )$.
 ![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_33.png)
 #### Solution
 
-
+There are two ways to go. One approach is to take the output of Algorithm 1 as it stands and then make sure
+that all the pairs $(a, a)$ are included by forming the join with the identity matrix (specifically set $B := B V I_n$).
+See the discussion in Exercise $29a$ for the justification. The other approach is to insure the reflexivity at the
+beginning by initializing $A := M_r V I_n$; if we do this, then only paths of length strictly less than n need to
+be looked at, so we can change the n in the loop to $n - 1$.
 
