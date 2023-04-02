@@ -726,3 +726,7 @@ be looked at, so we can change the n in the loop to $n - 1$.
 
 All we need to do is make sure that all the pairs $(a, a)$ are included. An easy way to accomplish this is to
 add them at the end, by setting $W:=W V I_n$.
+
+![problem 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_35.png)
+#### Solution
+
