@@ -696,3 +696,6 @@ path. If $m > n − 1$, then $m \ge n$, so $m + 1 \ge n + 1$, which means that n
 . . . , x_m$ are distinct. Thus $x_i = x_j$ for some $i$ and $j$ with $0 \le i < j \le m$ (but not both $i = 0$ and $j = m$,
 since $a \ne b$). We can then excise the circuit from $x_i$ to $x_j$ , leaving a shorter path from $a$ to $b$, namely
 $x_0, . . . , x_i, x_{j+1}, . . . , x_m$. This contradicts the choice of $m$. Therefore $m \le n − 1$, as desired.
+
+![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_31.png)
+#### Solution
