@@ -721,3 +721,7 @@ See the discussion in Exercise $29a$ for the justification. The other approach i
 beginning by initializing $A := M_r V I_n$; if we do this, then only paths of length strictly less than n need to
 be looked at, so we can change the n in the loop to $n - 1$.
 
+![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_34.png)
+#### Solution
+
+
