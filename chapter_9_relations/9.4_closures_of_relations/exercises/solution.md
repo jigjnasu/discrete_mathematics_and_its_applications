@@ -730,3 +730,15 @@ add them at the end, by setting $W:=W V I_n$.
 ![problem 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_35.png)
 #### Solution
 
+a) </br>
+No relation that contains $R$ is not reflexive, since R already contains all the pairs $(0, 0), (1, 1), and (2, 2)$.
+$\therefore$ there is no "nonreflexive" closure of R. </br>
+
+b)</br>
+Suppose $S$ were the closure of $R$ with respect to this property. Since $R$ does not have an odd number
+of elements, $S \ne R$, so $S$ must be a proper superset of $R$. Clearly $S$ cannot have more than 5 elements,
+for if it did, then any subset of $S$ consisting of $R$ and one element of $S - R$ would be a proper subset of
+$S$ with the property; this would violate the requirement that $S$ be a subset of every superset of $R$ with the
+property. Thus $S$ must have exactly 5 elements. Let $T$ be another superset of $R$ with 5 elements (there
+are 9 - 4 = 5 such sets in all). Thus $T$ has the property, but $S$ is not a subset of $T$. This contradicts the
+definition. Therefore our original assumption was faulty, and the closure does not exist.
