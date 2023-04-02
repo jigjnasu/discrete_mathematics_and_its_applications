@@ -699,3 +699,8 @@ $x_0, . . . , x_i, x_{j+1}, . . . , x_m$. This contradicts the choice of $m$. Th
 
 ![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.4_closures_of_relations/repo/problem_31.png)
 #### Solution
+
+1. Algorithm 1 has a main loop executed $O(n)$ times in which the primary operation is the boolean product computations. </br>
+2. If we can do bit operation in $O(n^{2.8})$ then entire algorithm will take $O(n.n^{2.8}) = O(n^{3.8})$ </br>
+3. Since algorithm 2 does not use the boolean product, therefore boolean product is irrelevant and algorithm 2 still requires $O(n^3)$ bit operations.
+
