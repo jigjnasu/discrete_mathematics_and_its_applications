@@ -15,3 +15,8 @@ c) $\{ (0, 0), (1, 1), (1, 2), (2, 1), (2, 2), (3, 3) \}$
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
+
+d) $\{ (0, 0), (1, 1), (1, 3), (2, 2), (2, 3), (3, 1), (3, 2),(3, 3) \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | no | no | It's not transitive as well because $(0,3) \in R$ $(3,2) \in r$ but $(1,2) \notin R$ | 
