@@ -49,5 +49,9 @@ d) $\{ (a, b) | a and b have met \}$
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | no | no | $(a, b) \in R$ and $(b, c) \n R$ but $(a, c) \notin R$ because it can be possible b and c has not met each other|
 
-e) 
+e) $\{ (a, b) | a and b speak a common language \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | no | no | let $(a,b)$ speaks Hindi, and $(b, c)$ speaks Tamil, it can be possible that $a$ and $c$ does not speak the same language|
+
 
