@@ -38,3 +38,16 @@ b) $\{ (a, b) | a and b have the same parents \}$
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
+
+c) $\{ (a, b) | a and b share a common parent \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | no | no | $(a,b)$ have $x$ and $y$ parents but $(b, c)$ have $y$ and $z$ parents, it doesn't mean $(a, c)$ have common parents as $x$ and $z$ |
+
+d) $\{ (a, b) | a and b have met \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | no | no | $(a, b) \in R$ and $(b, c) \n R$ but $(a, c) \notin R$ because it can be possible b and c has not met each other|
+
+e) 
+
