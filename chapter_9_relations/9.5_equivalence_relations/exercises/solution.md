@@ -56,3 +56,10 @@ e) $\{ (a, b) | a and b speak a common language \}$
 
 ![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_3.png)
 #### Solution
+
+a) $\{ (f, g) | f (1) = g(1) \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | yes | yes | NA | 
+
+b)
