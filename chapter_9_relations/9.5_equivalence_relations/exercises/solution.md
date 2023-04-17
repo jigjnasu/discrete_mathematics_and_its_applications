@@ -54,4 +54,5 @@ e) $\{ (a, b) | a and b speak a common language \}$
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | no | no | let $(a,b)$ speaks Hindi, and $(b, c)$ speaks Tamil, it can be possible that $a$ and $c$ does not speak the same language|
 
-
+![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_3.png)
+#### Solution
