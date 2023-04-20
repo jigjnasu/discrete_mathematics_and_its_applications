@@ -75,4 +75,4 @@ c) { $(f, g) | f(x) − g(x) = 1 $ for all $x \in Z $ }
 d) { $(f, g) | $ for some $C \in Z$, for all $x \in Z$, $f(x) − g(x) = C$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
-| yes  | yes | yes | yes | This is reflexive as $f(x) - f(x) = 0 = C$  </br> This is symmetric because $f(x) - g(x) = C$ and $g(x) - f(x) = -C$ <br> This is transitive as $f(x) - g(x) = C_1$ and $g(x) - h(x) = C2$ and $f(x) - h(x) = C_1 + C_2 = C_3$| 
+| yes  | yes | yes | yes | This is reflexive as $f(x) - f(x) = 0 = C$  </br> This is symmetric because $f(x) - g(x) = C$ and $g(x) - f(x) = -C$ <br> This is transitive as $f(x) - g(x) = C_{1}$ and $g(x) - h(x) = C_{2}$ and $f(x) - h(x) = C_{1} + C_{2} = C_{3}$| 
