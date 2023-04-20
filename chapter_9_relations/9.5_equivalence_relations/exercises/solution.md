@@ -80,4 +80,4 @@ d) { $(f, g) | $ for some $C \in Z$, for all $x \in Z$, $f(x) − g(x) = C$ }
 e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
-| no  | yes | no | no | This is not reflexive as $f(x) = \lambda$ where $f(0) = f(1)$  </br> This is symmetric because $f(0) = g(1)$ and $f(1) = g(0)$ <br> This is not transitive as $f(0) = g(1) = h(0) \alpha$ and $f(1) = g(0) = g(1) \beta$| as $\alpha \ne \beta$
+| no  | yes | no | no | This is not reflexive as $f(x) = \lambda$ where $f(0) = f(1)$  </br> This is symmetric because $f(0) = g(1)$ and $f(1) = g(0)$ <br> This is not transitive as $f(0) = g(1) = h(0) = \alpha$ and $f(1) = g(0) = g(1) = \beta$| as $\alpha \ne \beta$
