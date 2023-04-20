@@ -62,4 +62,9 @@ a) $\{ (f, g) | f (1) = g(1) \}$
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
 
-b)
+b) $\ {(f, g) | f (0) = g(0) or f (1) = g(1) \}$
+| Reflexive    | Symmetric | Transitive | Equivalence | Note |
+| :-: | :------: | :--: | :--: |:--|
+| yes  | yes | no | no | This is not an equivalence relation because it is not transitive. Let $f(x) = 0$, $g(x) = x$, and $h(x) = 1$
+for all $x \n \Z $. Then f is related tog since $f(O) = g(O)$, and $g$ is related to $h$ since $g(l) = h(l)$, but $f$ is
+not related to $h$ since they have no values in common. | 
