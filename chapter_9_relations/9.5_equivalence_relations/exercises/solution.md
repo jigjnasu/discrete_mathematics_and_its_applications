@@ -29,7 +29,7 @@ e) $\{ (0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0),(2, 2), (3, 3) \}$
 ![problem 2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_2.png)
 #### Solution
 
-a) $\{ (a,b) | a$ and $b$ are the same age
+a) $ \{ (a,b) | a$ and $b$ are the same age $ \} $
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
