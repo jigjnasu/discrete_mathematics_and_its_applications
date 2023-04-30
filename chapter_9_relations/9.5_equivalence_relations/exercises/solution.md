@@ -34,7 +34,7 @@ a) { $(a,b) | a$ and $b$ are the same age }
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
 
-b) { $ (a, b) | a$ and $b$ have the same parents }
+b) { $(a, b) | a$ and $b$ have the same parents }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | NA | 
@@ -67,12 +67,12 @@ b) { $(f, g) | f(0) = g(0)$ or $f(1) = g(1)$ }
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | no | no | This is not an equivalence relation because it is not transitive. Let $f(x) = 0$, $g(x) = x$, and $h(x) = 1$ for all $x \in Z$. Then f is related tog since $f(O) = g(O)$, and $g$ is related to $h$ since $g(l) = h(l)$, but $f$ is not related to $h$ since they have no values in common. | 
 
-c) { $(f, g) | f(x) − g(x) = 1 $ for all $x \in Z$ }
+c) { $(f, g) | f(x) − g(x) = 1$ for all $x \in Z$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | no  | no | no | no | This is not reflexive as $f(x) - f(x) = 0 \ne 1$ </br> This is not symmetric because $f(x) - g(x) = 1$ but $g(x) - f(x) = -1 \ne 1$ <br> This is not transitive as $f(x) - g(x) = 1$ and $g(x) - h(x) = 1$ but $f(x) - h(x) = 2 \in 1 $| 
 
-d) { $(f, g) | $ for some $C \in Z$, for all $x \in Z$, $f(x) − g(x) = C$ }
+d) { $(f, g) |$ for some $C \in Z$, for all $x \in Z$, $f(x) − g(x) = C$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: |:--|
 | yes  | yes | yes | yes | This is reflexive as $f(x) - f(x) = 0 = C$  </br> This is symmetric because $f(x) - g(x) = C$ and $g(x) - f(x) = -C$ <br> This is transitive as $f(x) - g(x) = C_{1}$ and $g(x) - h(x) = C_{2}$ and $f(x) - h(x) = C_{1} + C_{2} = C_{3}$| 
