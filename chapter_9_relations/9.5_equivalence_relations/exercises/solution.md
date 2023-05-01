@@ -98,3 +98,13 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_5.png)
 #### Solution
+
+Two building can be equivalent on these equivalence relations for example,
+
+| S.No.    | Equivalence Relation | Class | 
+| :------: | :------ | :------ |
+| 1 | No of stories in the building | 1 story, 2 story, 3 story, ... |
+| 2 | No of science labs in the collage campus | 1, 2, 3, ... |
+| 3 | minium number of CGPA required for the course | 1, 2, 3, ... |
+
+
