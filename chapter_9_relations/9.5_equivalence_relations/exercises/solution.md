@@ -95,3 +95,6 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 3) </br>
    Marks in Mathematics in the high school? </br>
    Set of all the marks obtained by all the students.
+
+![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_5.png)
+#### Solution
