@@ -123,4 +123,4 @@ The two propositions are equivalent if their truth tables are same. </br>
 Let's say we have $p$ and $q$ propositions and as they have same truth tables therefore they are reflexive in nature. </br>
 As both have same truth table therefore they are symmetric as $p$ has same truth table as $q$, and $q$ has same truth table as $q$. <br>
 Let's say $p , q$ and $r$ has same truth table, and we need to take one thing into consideration is that, all have same variables in their truth tables and in that case we can say they have transitive property as well. </br>
-Hence two propositions are equal.
+Hence two propositions are equal. Similarly. the equivalence class of F is the set of all contradictions.
