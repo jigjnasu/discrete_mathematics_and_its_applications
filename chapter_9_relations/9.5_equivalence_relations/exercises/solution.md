@@ -84,3 +84,14 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_4.png)
 #### Solution
+
+1) </br>
+   Day when they were born?
+   Set will be all days of students when they were born.
+
+2) </br>
+   City in which the student was born?
+   Set will be all the cities where students were born.
+3) </br>
+   Marks in Mathematics in the high school?
+   Set of all the marks obtained by all the students.
