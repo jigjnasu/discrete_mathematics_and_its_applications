@@ -86,12 +86,12 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 #### Solution
 
 1) </br>
-   Day when they were born?
+   Day when they were born? </br>
    Set will be all days of students when they were born.
 
 2) </br>
-   City in which the student was born?
+   City in which the student was born? </br>
    Set will be all the cities where students were born.
 3) </br>
-   Marks in Mathematics in the high school?
+   Marks in Mathematics in the high school? </br>
    Set of all the marks obtained by all the students.
