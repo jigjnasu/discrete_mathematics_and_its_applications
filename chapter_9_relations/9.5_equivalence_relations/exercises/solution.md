@@ -84,6 +84,7 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_4.png)
 #### Solution
+This exercise will let us know that two students are equal on these relations.
 Two students can be equivalent on these equivalence relations for example,
 
 | S.No.    | Equivalence Relation | Class | 
@@ -94,7 +95,7 @@ Two students can be equivalent on these equivalence relations for example,
 
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_5.png)
 #### Solution
-
+This exercise will let us know that two campus buildings are equal on these relations.
 Two building can be equivalent on these equivalence relations for example,
 
 | S.No.    | Equivalence Relation | Class | 
@@ -106,3 +107,11 @@ Two building can be equivalent on these equivalence relations for example,
 
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_6.png)
 #### Solution
+This exercise will let us know that two classes are equal on these relations.
+Two classes can be equivalent on these equivalence relations for example,
+
+| S.No.    | Equivalence Relation | Class | 
+| :------: | :------ | :------ |
+| 1 | Department of the class | Mathematics, Computer Science, Biology, ... |
+| 2 | Type of the class | Theoretical, Lab, ... |
+| 3 | Location of the class | Off campus, On campus |
