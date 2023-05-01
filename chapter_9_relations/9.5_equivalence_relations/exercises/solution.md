@@ -108,3 +108,5 @@ Two building can be equivalent on these equivalence relations for example,
 | 3 | minium number of CGPA required for the course | 1, 2, 3, ... |
 
 
+![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_6.png)
+#### Solution
