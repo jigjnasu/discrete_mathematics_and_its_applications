@@ -115,3 +115,7 @@ Two classes can be equivalent on these equivalence relations for example,
 | 1 | Department of the class | Mathematics, Computer Science, Biology, ... |
 | 2 | Type of the class | Theoretical, Lab, ... |
 | 3 | Location of the class | Off campus, On campus |
+
+![problem 7](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_7.png)
+#### Solution
+
