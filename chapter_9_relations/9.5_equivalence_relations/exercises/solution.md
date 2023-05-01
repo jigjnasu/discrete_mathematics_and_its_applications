@@ -124,3 +124,6 @@ Let's say we have $p$ and $q$ propositions and as they have same truth tables th
 As both have same truth table therefore they are symmetric as $p$ has same truth table as $q$, and $q$ has same truth table as $q$. <br>
 Let's say $p , q$ and $r$ has same truth table, and we need to take one thing into consideration is that, all have same variables in their truth tables and in that case we can say they have transitive property as well. </br>
 Hence two propositions are equal. Similarly. the equivalence class of F is the set of all contradictions.
+
+![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_8.png)
+#### Solution
