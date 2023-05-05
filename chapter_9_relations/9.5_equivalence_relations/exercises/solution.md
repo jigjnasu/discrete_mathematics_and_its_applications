@@ -142,4 +142,9 @@ for more on countable sets.
 ![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_9.png)
 #### Solution
 
+a) This relation is reflexive, since $f(x) = f(x) | x \in A$.  </br>It is symmetric as well because $f(x) = f(y)$ and $f(y) = f(x)$.</br>
+It is transitive as well because $f(x) = f(y)$ and $f(y) = f(z)$ as we can say $f(x) = f(z)$ therefore we can say it is transitive. </br>
+And if all these properties are there on this relation $R \therefore$  we can say that R is an equivalence relation on domain $A$
+
+b) The equivalence class of x is the set of all $y \in A$  such that $f(y) = f(x)$. This by definition means $f^{-1}(x)$
 
