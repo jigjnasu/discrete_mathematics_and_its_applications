@@ -148,3 +148,5 @@ And if all these properties are there on this relation $R \therefore$  we can sa
 
 b) The equivalence class of x is the set of all $y \in A$  such that $f(y) = f(x)$. This by definition means $f^{-1}(x)$
 
+![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_10.png)
+#### Solution
