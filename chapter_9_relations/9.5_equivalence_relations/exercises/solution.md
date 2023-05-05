@@ -152,3 +152,7 @@ b) The equivalence class of x is the set of all $y \in A$  such that $f(y) = f(x
 #### Solution
 
 The function that sends each $x \n A$ to its equivalence class $[x]$ is obviously such a function.
+
+![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_11.png)
+#### Solution
+
