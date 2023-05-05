@@ -127,3 +127,19 @@ Hence two propositions are equal. Similarly. the equivalence class of F is the s
 
 ![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_8.png)
 #### Solution
+
+The two sets have the same cardinality if there is a bijection (one-to-one and onto function) from one set to the other. </br>
+We must show that $R$ is reflexive, symmetric, and transitive. Every set has the same cardinality as itself because of the identity function. </br>
+If $f$ is a bijection from $S$ to $T$, then $f^1$ is a bijection from T to S , so R is symmetric. Finally, if f is a bijection from S to T and g
+is a bijection from T to U , then g ( f is a bijection from T to U , so R is transitive (see Exercise 33 in
+Section 2.3).
+The equivalence class of {1, 2, 3} is the set of all three-element sets of real numbers, including such
+sets as {4, 25, 1948} and {e, !,02}. Similarly, [Z] is the set of all infinite countable sets of real numbers (see
+Section 2.5), such as the set of natural numbers, the set of rational numbers, and the set of the prime numbers,
+but not including the set {1, 2, 3} (it’s too small) or the set of all real numbers (it’s too big). See Section 2.5
+for more on countable sets.
+
+![problem 9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_9.png)
+#### Solution
+
+
