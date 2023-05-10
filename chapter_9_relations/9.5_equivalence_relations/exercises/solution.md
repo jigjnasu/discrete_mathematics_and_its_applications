@@ -164,3 +164,6 @@ If $(x, y) \in R$ which have length more than 3 or more strings have first 3 bit
 | yes  | yes | yes | yes |
 | $(x, x) \in R$ | $(x, y) \in R$ and $(y,x) \in R$ | $(p,q) \in R$ , $(q, s) \in R$ , $(p, s) \in R$ |  |
 
+
+![problem 12](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_12.png)
+#### Solution
