@@ -152,7 +152,9 @@ b) The equivalence class of x is the set of all $y \in A$  such that $f(y) = f(x
 ![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_10.png)
 #### Solution
 
-The function that sends each $x \n A$ to its equivalence class $[x]$ is obviously such a function.
+The function that sends each $x \n A$ to its equivalence class $[x]$ is obviously such a function. </br>
+For instance, for the reflexive case, $f(x) = f(x)$ if any other case then this will always fail, even for symmetric case think $f(x) = f(y)$, other than this will fail.</br>
+And because of this it is evident that $f(x) = f(y)$ is the only function which can have equivalence relation.
 
 ![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_11.png)
 #### Solution
