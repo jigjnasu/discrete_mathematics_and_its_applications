@@ -143,8 +143,8 @@ for more on countable sets.
 #### Solution
 
 a)  </br>
-This relation is reflexive, since $f(x) = f(x) | x \in A$.  </br>It is symmetric as well because $f(x) = f(y)$ and $f(y) = f(x)$.</br>
-It is transitive as well because $f(x) = f(y)$ and $f(y) = f(z)$ as we can say $f(x) = f(z)$ therefore we can say it is transitive. </br>
+This relation is reflexive, since $f(x) = f(x) | x \in A$.  </br>It is symmetric as well because $f(x) = f(y)$ and $f(y) = f(x)$ | $x \in A$ and $y \in A$.</br>
+It is transitive as well because $f(x) = f(y)$ and $f(y) = f(z)$ as we can say $f(x) = f(z)$ | $x \in A$, $y \in A$ and $z \n A$, therefore we can say it is transitive. </br>
 And if all these properties are there on this relation $R \therefore$  we can say that R is an equivalence relation on domain $A$
 
 b) The equivalence class of x is the set of all $y \in A$  such that $f(y) = f(x)$. This by definition means $f^{-1}(x)$
@@ -159,7 +159,7 @@ And because of this it is evident that $f(x) = f(y)$ is the only function which 
 ![problem 11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_11.png)
 #### Solution
 
-If $(x, y) \in R$ which have length more than 3 or more strings have first 3 bits equivalence.
+If $(x, y) \in R$ which have length more than 3 or more bit strings have first 3 bits agree on equivalence.
 
 | Reflexive    | Symmetric | Transitive | Equivalence |
 | :-: | :------: | :--: | :--: |
