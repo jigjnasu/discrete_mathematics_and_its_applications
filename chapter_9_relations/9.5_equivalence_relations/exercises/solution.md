@@ -258,3 +258,20 @@ B) As $f\prime(x^2) = 2x$ and $\int2x = x^2+C$. where is C is a constant and $x^
 ![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_18.png)
 #### Solution
 
+Given functions from $R$ to $R$, such that $(f,g) \in R$ if $f^{(n)} = g^{(n)}$, where n is the $n^{th}$ derivative </br>
+
+Reflexive, $(f,f) \in R$ because $f^{(n)} = f^{(n)}</br>
+Symmetric, $(f,g) \in R$ and $(g,f) \in R$ because $f^{(n)}=g^{(n)}$ and $g^{(n)} = f^{(n)}$ </br>
+Transitive, $(f,g) \in R$, $(g,q) \in R$ then $(f,q) \in R$ because $f^{(n)} = g^{(n)}$, $g^{(n)} = q^{(n)}$ and $f^{(n)} = q^{(n)}$ </</br> 
+
+B) </br>
+1. $f(x) = x^4$
+2. $f^{(1)}(x) = 4x^3$
+3. $f^{(2)}(x) = 12x^2$
+4. $f^{(3)}(x) = 24x$
+
+And </br>
+1. $\int24x = 12x^2 + C_1$
+2. $\int12x^2 + C_1 = 4x^3 + C_1 + C_2 = 4x^3 + C$
+
+4x^4 + C$ is a function in the same equivalence class.
