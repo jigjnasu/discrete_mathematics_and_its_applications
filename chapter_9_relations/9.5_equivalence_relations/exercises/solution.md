@@ -275,3 +275,6 @@ And </br>
 2. $\int12x^2 + C_1 = 4x^3 + C_1 + C_2 = 4x^3 + C$
 
 4x^4 + C$ is a function in the same equivalence class.
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_19.png)
+#### Solution
