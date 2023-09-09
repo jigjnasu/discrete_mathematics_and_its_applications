@@ -200,12 +200,12 @@ If $(x, y) \in R$ which have length more than 3 or more bit strings have first 3
 
 Let's see the solution for Reflexive, Symmetric and transitive properties. </br>
 ##### Reflexive
-1. $((a,a), (a,a))$ as $a + a = a + a \therefore$ $((a,a), (a,a)) \in R$. </br>
-2. $((a,b), (a,b))$ as $a + b = a + b \therefore$ $((a,b), (a,b)) \in R$. </br> 
+1. $((a,a), (a,a)) \in R$ because $a + a = a + a$, $a = a$ </br>
+2. $((a,b), (a,b)) \in R$ because $a + b = a + b$  </br> 
 
 ##### Symmetric
 $(a, b), (c, d) \in R$ and $(c, d), (a, b) \in R$, it is symmetric relations. </br> 
-As $a+d = b+c$ and $d+a = c+b$ both are same equations. <br>
+because $a+d = b+c$ and $d+a = c+b$ both are same equations. <br>
 
 ##### Transitive
 If $((a,b), (c,d)) \in R$ and $((c, d), (e,f)) \in R$ </br>
@@ -220,3 +220,26 @@ And it is proved this is transitive, and hence it is an equivalence relation.
 
 ![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_16.png)
 #### Solution
+
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | yes | yes |
+| $(x, x) \in R$ | $(x, y) \in R$ and $(y,x) \in R$ | $(p,q) \in R$ , $(q, s) \in R$ , $(p, s) \in R$ |  |
+
+Let's prove this </br>
+
+##### Reflexive
+1. $((a,a), (a,a)) \in R$ because $2a = 2a = a = a$ </br>
+2. $((a,b), (a,b)) \in R$ because $ab = ab$ </br>
+
+##### Symmetric
+$((a,b), (c,d)) \in R$ and $((c,d), (a, b)) \in R$ because $ad = bc$ and $bc = ad$ both are same equations </br>
+
+##### Transitive
+1. $((a,b), (c,d)) \in R$ and $((c,d), (e,f)) \in R$
+2. $ad = bc$
+3. $cf = de$, put value of c from equation 2 $c = \frac{ad}{b}$ in equation 3
+4. $\frac{adf}{b} = de$, $af = be$, which can also be written as $((a,b), (e,f)) \in R$
+$\therefore$ it is a transitive relation.
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.
