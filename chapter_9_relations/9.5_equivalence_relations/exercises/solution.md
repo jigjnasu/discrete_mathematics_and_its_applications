@@ -247,3 +247,6 @@ As it is reflexive, symmetric and transitive, it is an equivalence relation.
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_17.png)
 #### Solution
 
+Given functions from $R$ to $R$, such that $(f, g) \in R$ if $f\prime(x) = g\prime(x)$ </br>
+
+As $(f, f) \n R$ because
