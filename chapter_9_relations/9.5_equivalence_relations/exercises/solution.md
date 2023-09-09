@@ -249,4 +249,8 @@ As it is reflexive, symmetric and transitive, it is an equivalence relation.
 
 Given functions from $R$ to $R$, such that $(f, g) \in R$ if $f\prime(x) = g\prime(x)$ </br>
 
-As $(f, f) \n R$ because
+Reflexive, $(f,f) \in R$ because $f\prime(x) = f\prime(x)$</br>
+Symmetric, $(f,g) \in R$ and $(g,f) \in R$ because $f\prime(x) = g\prime(x)$ and $g\prime(x) = f\prime(x)$ </br>
+Transitive, $(f,g) \in R$, $(g,q) \in R$ then $(f,q) \in R$ because $f\prime(x) = g\prime(x)$, $g\prime(x) = q\prime(x)$ and $f\prime(x) = q\prime(x)$ </</br> 
+
+B) As $f\prime(x^2) = 2x$ and $\int2x = x^2+C$. where is C is a constant and $x^2+C$ is a function in the same equivalence class.
