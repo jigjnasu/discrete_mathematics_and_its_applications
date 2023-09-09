@@ -301,3 +301,6 @@ $4x^3 + C$ is a function in the same equivalence class.
 | :-: | :------: | :--: | :--: |
 | yes  | yes | yes | yes |
 | $(x, x) \in R$ | $(x, y) \in R$ and $(y,x) \in R$ | $(p,q) \in R$ , $(q, s) \in R$ , $(p, s) \in R$ |  |
+
+![problem 21 22 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_21_22_23.png)
+#### Solution
