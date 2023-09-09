@@ -193,3 +193,27 @@ If $(x, y) \in R$ which have length more than 3 or more bit strings have first 3
 
 ![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_15.png)
 #### Solution
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | yes | yes |
+| $(x, x) \in R$ | $(x, y) \in R$ and $(y,x) \in R$ | $(p,q) \in R$ , $(q, s) \in R$ , $(p, s) \in R$ |  |
+
+Let's see the solution for Reflexive, Symmetric and transitive properties. </br>
+##### Reflexive
+1. $((a,a), (a,a))$ as $a + a = a + a \therefore$ $((a,a), (a,a)) \in R$. </br>
+2. $((a,b), (a,b))$ as $a + b = a + b \therefore$ $((a,b), (a,b)) \in R$. </br> 
+
+##### Symmetric
+$(a, b), (c, d) \in R$ and $(c, d), (a, b) \in R$, it is symmetric relations. </br> 
+As $a+d = b+c$ and $d+a = c+b$ both are same equations. <br>
+
+##### Transitive
+If $((a,b), (c,d)) \in R$ and $((c, d), (e,f)) \in R$ </br>
+Means 
+1. $a+d = b+c$ </br>
+2. $c+f = d+e$ </br>
+3. in equation 1, put value of $c = d+e-f$ </br>
+4. $a+d = b+d+e-f$, $a = b+e-f$, $a+f = b+e$, which can be written as</br>
+5. $((a, b), (e,f)) \therefore$ it is proved that, $((a, b), (e,f)) \in R$ </br>
+
+And it is proved this is transitive, and hence it is an equivalence relation.
