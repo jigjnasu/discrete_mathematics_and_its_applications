@@ -254,3 +254,7 @@ Symmetric, $(f,g) \in R$ and $(g,f) \in R$ because $f\prime(x) = g\prime(x)$ and
 Transitive, $(f,g) \in R$, $(g,q) \in R$ then $(f,q) \in R$ because $f\prime(x) = g\prime(x)$, $g\prime(x) = q\prime(x)$ and $f\prime(x) = q\prime(x)$ </</br> 
 
 B) As $f\prime(x^2) = 2x$ and $\int2x = x^2+C$. where is C is a constant and $x^2+C$ is a function in the same equivalence class.
+
+![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_18.png)
+#### Solution
+
