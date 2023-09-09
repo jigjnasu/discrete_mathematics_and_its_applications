@@ -217,3 +217,6 @@ Means
 5. $((a, b), (e,f)) \therefore$ it is proved that, $((a, b), (e,f)) \in R$ </br>
 
 And it is proved this is transitive, and hence it is an equivalence relation.
+
+![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_16.png)
+#### Solution
