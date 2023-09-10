@@ -304,3 +304,27 @@ $4x^3 + C$ is a function in the same equivalence class.
 
 ![problem 21 22 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_21_22_23.png)
 #### Solution
+
+21)</br>
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | no | no |
+
+As these are the following relations</br>
+$(a,a), (a,c), (a,d)$</br>
+$(b,b)$</br>
+$(c,a), (c,c)$</br>
+$(d,a), (d,d)$</br>
+
+##### Reflexive Yes
+$(a,a), (b,b), (c,c), (d,d)$
+
+##### Symmetric Yes
+$(a,c), (c,a)$</br>
+$(a,d), (d,a)$</br>
+
+##### Transitive No
+$(c,a), (a,d) \in R$ and $(a,d) \notin R$ </br>
+$(d,a), (a,c) \in R$ and $(d,c) \notin R$ </br>
+
+As it is reflexive, symmetric but not transitive, it is not an equivalence relation.
