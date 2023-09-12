@@ -358,3 +358,29 @@ $(d,a), (a,a) \in R$ and $(d,a) \in R$ </br>
 $(d,a), (a,d) \in R$ and $(d,d) \in R$ </br>
 
 As it is reflexive, symmetric and transitive therefore it is an equivalence relation.
+
+23)</br>
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | no | no |
+
+As these are the following relations</br>
+$(a,a), (a,b), (a,d)$</br>
+$(b,a), (b,b), (b,c)$</br>
+$(c,b), (c,c), (c,d)$</br>
+$(d,a), (d,c), (d,d)$</br>
+
+##### Reflexive Yes
+$(a,a), (b,b), (c,c), (d,d)$
+
+##### Symmetric Yes
+$(a,b), (b,c) \in R$ and $(a,d), (d,a) \in R$</br>
+
+
+##### Transitive Yes
+$(a,b), (b,c) \in R$ and $(a,c) \notin R$ </br>
+$(b,a), (a,d) \in R$ and $(b,d) \notin R$ </br>
+$(c,b), (b,a) \in R$ and $(c,a) \notin R$ </br>
+$(d,a), (a,b) \in R$ and $(d,b) \notin R$ </br>
+
+As it is reflexive, symmetric but not transitive, it is not an equivalence relation.
