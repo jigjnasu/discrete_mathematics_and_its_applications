@@ -427,7 +427,7 @@ $(c,a), (c,c)$</br>
 $(d,b), (d,d)$</br>
 
 ##### Reflexive Yes
-$(a,a), (b,b), (c,c)$
+$(a,a), (b,b), (c,c), (d,d)$
 
 ##### Symmetric Yes
 $(a,c), (c,a) \in R$</br>
@@ -451,4 +451,54 @@ $(d,d), (d,b) \in R$ and $(d,b) \in R$ </br>
 
 As it is reflexive, symmetric and transitive, it is an equivalence relation.</br>
 $(a,c)$ and $(b,d)$ are equivalent classes.</br></br>
+
+c)</br>
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | yes | yes |
+
+As these are the following relations</br>
+$(a,a), (a,b), (a,c)$</br>
+$(b,a), (b,b), (b,c)$</br>
+$(c,a), (c,b), (c,c)$</br>
+$((d,d)$</br>
+
+##### Reflexive Yes
+$(a,a), (b,b), (c,c), (d,d)$
+
+##### Symmetric Yes
+$(a,b), (b,a) \in R$ and $(a,c), (c,a) \in R$</br>
+$(b,a), (a,b) \in R$ and $(b,c), (c,b) \in R$</br>
+$(c,a), (a,c) \in R$ and $(c,b), (b,c) \in R$</br>
+
+##### Transitive Yes
+$(a,a), (a,b) \in R$ and $(a,b) \in R$ </br>
+$(a,a), (a,c) \in R$ and $(a,c) \in R$ </br>
+$(a,b), (b,a) \in R$ and $(a,a) \in R$ </br>
+$(a,b), (b,b) \in R$ and $(a,b) \in R$ </br>
+$(a,b), (b,c) \in R$ and $(a,c) \in R$ </br>
+$(a,c), (c,a) \in R$ and $(a,a) \in R$ </br>
+$(a,c), (c,b) \in R$ and $(a,b) \in R$ </br>
+$(a,c), (c,c) \in R$ and $(a,c) \in R$ </br>
+</br>
+$(b,a), (a,a) \in R$ and $(b,a) \in R$ </br>
+$(b,a), (a,b) \in R$ and $(b,b) \in R$ </br>
+$(b,a), (a,c) \in R$ and $(b,c) \in R$ </br>
+$(b,b), (b,a) \in R$ and $(b,a) \in R$ </br>
+$(b,b), (b,c) \in R$ and $(b,c) \in R$ </br>
+$(b,c), (c,a) \in R$ and $(b,a) \in R$ </br>
+$(b,c), (c,b) \in R$ and $(b,b) \in R$ </br>
+$(b,c), (b,c) \in R$ and $(b,c) \in R$ </br>
+</br>
+$(c,a), (a,a) \in R$ and $(c,a) \in R$ </br>
+$(c,a), (a,b) \in R$ and $(c,b) \in R$ </br>
+$(c,a), (a,c) \in R$ and $(c,c) \in R$ </br>
+$(c,b), (b,a) \in R$ and $(c,a) \in R$ </br>
+$(c,b), (b,b) \in R$ and $(c,b) \in R$ </br>
+$(c,b), (b,c) \in R$ and $(c,c) \in R$ </br>
+$(c,c), (c,a) \in R$ and $(c,a) \in R$ </br>
+$(c,c), (c,b) \in R$ and $(c,b) \in R$ </br>
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.</br>
+$(a,b, c)$ and $d$ are equivalent classes.</br></br>
 
