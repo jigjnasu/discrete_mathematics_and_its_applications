@@ -380,7 +380,7 @@ $(c,b), (b,c) \in R$ and $(c,d), (d,c) \in R$</br>
 $(d,a), (a,d) \in R$ and $(d,c), (c,d) \in R$</br>
 
 
-##### Transitive Yes
+##### Transitive No
 $(a,b), (b,c) \in R$ and $(a,c) \notin R$ </br>
 $(b,a), (a,d) \in R$ and $(b,d) \notin R$ </br>
 $(c,b), (b,a) \in R$ and $(c,a) \notin R$ </br>
@@ -391,5 +391,26 @@ As it is reflexive, symmetric but not transitive, it is not an equivalence relat
 ![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_24.png)
 #### Solution
 
+a)</br>
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | no | no | no |
+
+As these are the following relations</br>
+$(a,a), (a,b), (a,c)$</br>
+$(b,b), (b,c)$</br>
+$(c,a), (c,b), (c,c)$</br>
+
+##### Reflexive Yes
+$(a,a), (b,b), (c,c), (d,d)$
+
+##### Symmetric No
+$(a,b) \in R$ and $(b,a) \notin R$
+
+
+##### Transitive No
+$(b,c), (c,a) \in R$ and $(b,a) \notin R$ </br>
+
+As it is reflexive but not symmetric and transitive, it is not an equivalence relation.</br></br>
 
 
