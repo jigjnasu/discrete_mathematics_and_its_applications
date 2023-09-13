@@ -386,4 +386,10 @@ $(b,a), (a,d) \in R$ and $(b,d) \notin R$ </br>
 $(c,b), (b,a) \in R$ and $(c,a) \notin R$ </br>
 $(d,a), (a,b) \in R$ and $(d,b) \notin R$ </br>
 
-As it is reflexive, symmetric but not transitive, it is not an equivalence relation.
+As it is reflexive, symmetric but not transitive, it is not an equivalence relation.</br></br>
+
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_24.png)
+#### Solution
+
+
+
