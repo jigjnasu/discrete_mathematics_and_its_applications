@@ -357,7 +357,8 @@ $(c,b), (b,c) \in R$ and $(c,c) \in R$ </br>
 $(d,a), (a,a) \in R$ and $(d,a) \in R$ </br>
 $(d,a), (a,d) \in R$ and $(d,d) \in R$ </br>
 
-As it is reflexive, symmetric and transitive therefore it is an equivalence relation.
+As it is reflexive, symmetric and transitive therefore it is an equivalence relation.</br>
+$(a,d)$ and $(a,c)$ are equivalent classes.</br></br>
 
 23)</br>
 | Reflexive    | Symmetric | Transitive | Equivalence |
@@ -402,7 +403,7 @@ $(b,b), (b,c)$</br>
 $(c,a), (c,b), (c,c)$</br>
 
 ##### Reflexive Yes
-$(a,a), (b,b), (c,c), (d,d)$
+$(a,a), (b,b), (c,c)$
 
 ##### Symmetric No
 $(a,b) \in R$ and $(b,a) \notin R$
@@ -413,4 +414,41 @@ $(b,c), (c,a) \in R$ and $(b,a) \notin R$ </br>
 
 As it is reflexive but not symmetric and transitive, it is not an equivalence relation.</br></br>
 
+
+b)</br>
+| Reflexive    | Symmetric | Transitive | Equivalence |
+| :-: | :------: | :--: | :--: |
+| yes  | yes | yes | yes |
+
+As these are the following relations</br>
+$(a,a), (a,c)$</br>
+$(b,b), (b,d)$</br>
+$(c,a), (c,c)$</br>
+$(d,b), (d,d)$</br>
+
+##### Reflexive Yes
+$(a,a), (b,b), (c,c)$
+
+##### Symmetric Yes
+$(a,c), (c,a) \in R$</br>
+$(b,d), (d,b) \in R$</br>
+$(c,a), (a,c) \in R$</br>
+$(d,b), (b,d) \in R$</br>
+
+##### Transitive Yes
+$(a,a), (a,c) \in R$ and $(a,c) \in R$ </br>
+$(a,c), (c,a) \in R$ and $(a,a) \in R$ </br>
+$(a,c), (c,c) \in R$ and $(a,c) \in R$ </br>
+$(b,b), (b,d) \in R$ and $(b,d) \in R$ </br>
+$(b,d), (d,b) \in R$ and $(b,b) \in R$ </br>
+$(b,d), (d,d) \in R$ and $(b,d) \in R$ </br>
+$(c,a), (c,c) \in R$ and $(c,c) \in R$ </br>
+$(c,a), (a,a) \in R$ and $(c,a) \in R$ </br>
+$(c,a), (a,c) \in R$ and $(c,c) \in R$ </br>
+$(d,b), (b,b) \in R$ and $(d,b) \in R$ </br>
+$(d,b), (b,d) \in R$ and $(d,d) \in R$ </br>
+$(d,d), (d,b) \in R$ and $(d,b) \in R$ </br>
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.</br>
+$(a,c)$ and $(b,d)$ are equivalent classes.</br></br>
 
