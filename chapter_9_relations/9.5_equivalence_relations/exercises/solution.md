@@ -375,6 +375,9 @@ $(a,a), (b,b), (c,c), (d,d)$
 
 ##### Symmetric Yes
 $(a,b), (b,c) \in R$ and $(a,d), (d,a) \in R$</br>
+$(b,a), (a,b) \in R$ and $(b,c), (c,b) \in R$</br>
+$(c,b), (b,c) \in R$ and $(c,d), (d,c) \in R$</br>
+$(d,a), (a,d) \in R$ and $(d,c), (c,d) \in R$</br>
 
 
 ##### Transitive Yes
