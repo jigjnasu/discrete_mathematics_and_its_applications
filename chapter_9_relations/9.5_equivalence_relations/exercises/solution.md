@@ -505,11 +505,11 @@ $(a,b, c)$ and $d$ are equivalent classes.</br></br>
 ![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_25.png)
 #### Solution
 
-Let's the function $f(s)$ = number of $1^s$ in bit string $s$ </br>
-
 | Reflexive    | Symmetric | Transitive | Equivalence |
 | :-: | :------: | :--: | :--: |
 | yes  | yes | yes | yes |
+
+Let's the function $f(s)$ = number of $1^s$ in bit string $s$ </br>
 
 ##### Reflexive Yes
 $(s,s) \in R$
@@ -523,3 +523,7 @@ $(s,t), (t,p) \in R$ and $(s,p) \in R$ </br>
 because $f(s) = f(t) = f(p)$
 
 As it is reflexive, symmetric and transitive, it is an equivalence relation.</br>
+
+![problem 26](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_26.png)
+#### Solution
+
