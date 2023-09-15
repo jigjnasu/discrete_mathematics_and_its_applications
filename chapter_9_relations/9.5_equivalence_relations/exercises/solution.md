@@ -552,3 +552,6 @@ e) $\{ (0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0),(2, 2), (3, 3) \}$
 | Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
 | :-: | :------: | :--: | :--: | :--: |:--|
 | yes  | no | no | no | NA | It's not symmetric because $(1,2) \in R$ $(3,2) but $(2,1) \notin R$ </br> It's not transitive because $(2,0) \in R$ $(0,1) \in r$ but $(2,1) \notin R$ | 
+
+![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_27.png)
+#### Solution
