@@ -555,3 +555,28 @@ e) $\{ (0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0),(2, 2), (3, 3) \}$
 
 ![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_27.png)
 #### Solution
+
+a) { $(a,b) | a$ and $b$ are the same age }
+| Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
+| :-: | :------: | :--: | :--: | :--: |:--|
+| yes  | yes | yes | yes | all the same age people, for example all of the age of 25 |  NA |
+
+b) { $(a, b) | a$ and $b$ have the same parents }
+| Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
+| :-: | :------: | :--: | :--: | :--: |:--|
+| yes  | yes | yes | yes | all the siblings, or all the children of a parents | NA  |
+
+c) { $(a, b) | a$ and $b$ share a common parent }
+| Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
+| :-: | :------: | :--: | :--: | :--: |:--|
+| yes  | yes | no | no | NA | $(a,b)$ have $x$ and $y$ parents but $(b, c)$ have $y$ and $z$ parents, it doesn't mean $(a, c)$ have common parents as $x$ and $z$ |
+
+d) { $(a, b) | a$ and $b$ have met }
+| Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
+| :-: | :------: | :--: | :--: | :--: |:--|
+| yes  | yes | no | no | NA | $(a, b) \in R$ and $(b, c) \n R$ but $(a, c) \notin R$ because it can be possible b and c has not met each other|
+
+e) { $(a, b) | a$ and $b speak a common language }
+| Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
+| :-: | :------: | :--: | :--: | :--: |:--|
+| yes  | yes | no | no | NA | let $(a,b)$ speaks Hindi, and $(b, c)$ speaks Tamil, it can be possible that $a$ and $c$ does not speak the same language|
