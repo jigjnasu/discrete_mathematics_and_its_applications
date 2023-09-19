@@ -608,3 +608,6 @@ e) { $(f,g) | f(0) = g(1)$ and $f(1) = g(0)$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
 | :-: | :------: | :--: | :--: | :--: |:--|
 | no  | yes | no | no | This is not reflexive as $f(x) = \lambda$ where $f(0) = f(1)$  </br> This is symmetric because $f(0) = g(1)$ and $f(1) = g(0)$ <br> This is not transitive as $f(0) = g(1) = h(0) = \alpha$ and $f(1) = g(0) = g(1) = \beta$| as $\alpha \ne \beta$
+
+![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_29.png)
+#### Solution
