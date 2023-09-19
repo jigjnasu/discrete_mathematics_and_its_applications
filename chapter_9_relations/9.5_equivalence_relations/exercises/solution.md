@@ -618,3 +618,21 @@ For $11$ the solution can be $011, 101, 110, 0011, 0101, 1010, 1100, 0110,...$ e
 
 ![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_30.png)
 #### Solution
+
+Following are the equivalence classes :--
+
+a) </br>
+all bit strings whose bit strings starts with $010$.
+$010$ = $010, 0100, 0101, 01000, 01001, 01010, 01011, 010000, 010001, ...$
+
+b) </br>
+all bit strings whose bit strings starts with $1011$.
+$1011$ = $1011, 10110, 10111, 101100, 101101, 101110, 101111, 1011000, 1011001, ...$
+
+c) </br>
+all bit strings whose bit strings starts with $11111$.
+$11111$ = $11111, 111110, 111111, 1111100, 1111101, 1111110, 1111111, 11111000, 11111001, ...$
+
+d) </br>
+all bit strings whose bit strings starts with $01010101$.
+$01010101$ = $01010101, 010101010, 010101011, 0101010100, 0101010101, 0101010110, 0101010111, 01010101000, 01010101001, ...$
