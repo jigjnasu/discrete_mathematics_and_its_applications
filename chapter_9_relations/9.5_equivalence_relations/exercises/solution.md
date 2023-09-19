@@ -616,3 +616,5 @@ The equivalence classes for this solution are many. </br>
 One of the example as follows:-- </br>
 For $11$ the solution can be $011, 101, 110, 0011, 0101, 1010, 1100, 0110,...$ etc
 
+![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_30.png)
+#### Solution
