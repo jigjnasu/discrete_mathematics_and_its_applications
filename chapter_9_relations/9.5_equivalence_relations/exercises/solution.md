@@ -636,3 +636,6 @@ $11111$ = $11111, 111110, 111111, 1111100, 1111101, 1111110, 1111111, 11111000, 
 d) </br>
 all bit strings whose bit strings starts with $01010101$.
 $01010101$ = $01010101, 010101010, 010101011, 0101010100, 0101010101, 0101010110, 0101010111, 01010101000, 01010101001, ...$
+
+![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_31.png)
+#### Solution
