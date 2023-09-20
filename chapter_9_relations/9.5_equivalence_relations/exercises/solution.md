@@ -642,7 +642,7 @@ $01010101$ = $01010101, 010101010, 010101011, 0101010100, 0101010101, 0101010110
 
 For two bit strings to be equivalent where first three bits can be anything and after that all bit strings has to be equivalent. </br>
 
-For instance $xyzt$ and $x\prime y\prime z\prime t$, where $xyz$ and $$x\prime y\prime z\prime$ can be any bits and $t$ bit strings are equivalent. </br>
+For instance $xyzt$ and $x\prime y\prime z\prime t$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits and $t$ bit strings are equivalent. </br>
 
 a) 3 length of any two bit strings are equivalent classes. </br>
 b) $xyz1$ and $x\prime y\prime z\prime1$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
@@ -651,3 +651,12 @@ d) $xyz10101$ and $x\prime y\prime z\prime10101$, where $xyz$ and $x\prime y\pri
 
 ![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_32.png)
 #### Solution
+
+For two bit strings to be equivalent where first and third bits to be equivalent where length is 3 or more. </br>
+
+For instance $xyzt$ and $x y\prime z t\prime$, where $y$ and $y\prime$ can be any bits and $t$ and $t\prime$ can be any bit strings. </br>
+
+a) all bit strings starts with $000$ or $010$. </br>
+b) all bit strings starts with $101$ or $111$. </br>
+c) all bit strings starts with $101$ or $111$. </br>
+d) all bit strings starts with $000$ or $010$. </br> 
