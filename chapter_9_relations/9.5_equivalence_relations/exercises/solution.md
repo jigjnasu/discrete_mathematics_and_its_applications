@@ -639,3 +639,12 @@ $01010101$ = $01010101, 010101010, 010101011, 0101010100, 0101010101, 0101010110
 
 ![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_31.png)
 #### Solution
+
+For two bit strings to be equivalent where first three bits can be anything and after that all bit strings has to be equivalent. </br>
+
+For instance $xyzt$ and $x\prime y\prime z\prime t$, where $xyz$ and $$x\prime y\prime z\prime$ can be any bits and $t$ bit strings are equivalent. </br>
+
+a) 3 length of any two bit strings are equivalent classes. </br>
+b) $xyz1$ and $x\prime y\prime z\prime1$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
+c) $xyz11$ and $x\prime y\prime z\prime11$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
+d) $xyz10101$ and $x\prime y\prime z\prime10101$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
