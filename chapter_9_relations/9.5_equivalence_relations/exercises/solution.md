@@ -648,3 +648,6 @@ a) 3 length of any two bit strings are equivalent classes. </br>
 b) $xyz1$ and $x\prime y\prime z\prime1$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
 c) $xyz11$ and $x\prime y\prime z\prime11$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
 d) $xyz10101$ and $x\prime y\prime z\prime10101$, where $xyz$ and $x\prime y\prime z\prime$ can be any bits. </br>
+
+![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_32.png)
+#### Solution
