@@ -670,3 +670,6 @@ a) As the length of the bit string is less than 4, $010$ bit string is equivalen
 b) all the strings starting with $1011$ are equivalent. </br>
 c) all the strings starting with $1111$ are equivalent. </br>
 d) all the strings starting with $0101$ are equivalent. </br>
+
+![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_34.png)
+#### Solution
