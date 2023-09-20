@@ -663,3 +663,10 @@ d) all bit strings starts with $000$ or $010$. </br>
 
 ![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_33.png)
 #### Solution
+
+Two bit strings have $R_4$ equivalence when first 4 bits are equivalent. </br>
+
+a) As the length of the bit string is less than 4, $010$ bit string is equivalent. </br>
+b) all the strings starting with $1011$ are equivalent. </br>
+c) all the strings starting with $1111$ are equivalent. </br>
+d) all the strings starting with $0101$ are equivalent. </br>
