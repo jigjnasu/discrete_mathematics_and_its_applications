@@ -660,3 +660,6 @@ a) all bit strings starts with $000$ or $010$. </br>
 b) all bit strings starts with $101$ or $111$. </br>
 c) all bit strings starts with $101$ or $111$. </br>
 d) all bit strings starts with $000$ or $010$. </br> 
+
+![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_33.png)
+#### Solution
