@@ -680,3 +680,6 @@ a) As the length of the bit string is less than 5, $010$ bit string is equivalen
 b) As the length of the bit string is less than 5, $1011$ bit string is equivalent. </br>
 c) all the strings starting with $11111$ are equivalent. </br>
 d) all the strings starting with $01010$ are equivalent. </br>
+
+![problem 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_35.png)
+#### Solution
