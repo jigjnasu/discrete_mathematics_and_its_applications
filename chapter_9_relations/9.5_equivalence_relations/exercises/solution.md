@@ -739,3 +739,6 @@ $yes, yeS, yEs, yES, Yes, YeS, YEs, YES$ </br>
 
 c) Help </br>
 $help, helP, heLp, heLP, hElp, hElP, hELp, hELP, Help, HelP, HeLp, HeLP, HElp, HElP, HELp, HELP$ </br>
+
+![problem 39](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_39.png)
+#### Solution
