@@ -727,3 +727,6 @@ $[2]_6$ = $...,-16, -10, -4,  2, 8,  14,  20, ...$ </br>
 $[3]_6$ = $...,-15, -9,  -3,  3, 9,  15,  21, ...$ </br>
 $[4]_6$ = $...,-14, -8,  -2,  4, 10, 16,  22, ...$ </br>
 $[5]_6$ = $...,-13, -7,  -1,  5, 11, 17,  23, ...$ </br>
+
+![problem 38](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_38.png)
+#### Solution
