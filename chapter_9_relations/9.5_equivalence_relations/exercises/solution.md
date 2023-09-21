@@ -714,3 +714,6 @@ $[4]_{6}$ = $\{i| i = 6 (mod \space 5) \}$ = $\{ ..., -14, -8, -2, 4, 10, 16, 22
 
 d) 8 ? </br>
 $[4]_{8}$ = $\{i| i = -3 (mod \space 5) \}$ = $\{ ..., -28 , -20, -12, -4, 4, 12, 20, 28, ... \}$</br>
+
+![problem 37](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_37.png)
+#### Solution
