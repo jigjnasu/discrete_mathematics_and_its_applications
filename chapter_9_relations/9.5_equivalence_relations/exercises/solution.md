@@ -698,3 +698,5 @@ $[6]_{5}$ = $\{i| i = 6 (mod \space 5) \}$ = $\{ ..., -14, -9, -4, 1, 6, 11, 16,
 d) -3 ? </br>
 $[-3]_{5}$ = $\{i| i = -3 (mod \space 5) \}$ = $\{ ..., -13, -8, -3, 2, 7, 12, 17, ... \}$</br>
 
+![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_36.png)
+#### Solution
