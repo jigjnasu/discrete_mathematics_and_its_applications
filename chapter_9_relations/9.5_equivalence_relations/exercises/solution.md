@@ -683,3 +683,18 @@ d) all the strings starting with $01010$ are equivalent. </br>
 
 ![problem 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_35.png)
 #### Solution
+
+$[n]_{5}$ = $\{i| i = n (mod \space 5) \}$ </br>
+
+a) 2 ? </br>
+$[2]_{5}$ = $\{i| i = 2 (mod \space 5) \}$ = $\{ ..., -13, -8, -3, 2, 7, 12, 17, ... \}$</br>
+
+b) 3 ? </br>
+$[3]_{5}$ = $\{i| i = 3 (mod \space 5) \}$ = $\{ ..., -12, -7, -2, 3, 8, 13, 18, ... \}$</br>
+
+c) 6 ? </br>
+$[6]_{5}$ = $\{i| i = 6 (mod \space 5) \}$ = $\{ ..., -14, -9, -4, 1, 6, 11, 16, ... \}$</br>
+
+d) -3 ? </br>
+$[-3]_{5}$ = $\{i| i = -3 (mod \space 5) \}$ = $\{ ..., -13, -8, -3, 2, 7, 12, 17, ... \}$</br>
+
