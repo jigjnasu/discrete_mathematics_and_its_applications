@@ -700,3 +700,17 @@ $[-3]_{5}$ = $\{i| i = -3 (mod \space 5) \}$ = $\{ ..., -13, -8, -3, 2, 7, 12, 1
 
 ![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_36.png)
 #### Solution
+
+$[4]_{m}$ = $\{i| i = 4 (mod \space m) \}$ </br>
+
+a) 2 ? </br>
+$[4]_{2}$ = $\{i| i = 4 (mod \space 2) \}$ = $\{ ..., -6, -4, -2, 0, 2, 4, 6, 8, ... \}$</br>
+
+b) 3 ? </br>
+$[4]_{3}$ = $\{i| i = 3 (mod \space 5) \}$ = $\{ ...,-8, -5, -2, 1, 4, 7, 10, ... \}$</br>
+
+c) 6 ? </br>
+$[4]_{6}$ = $\{i| i = 6 (mod \space 5) \}$ = $\{ ..., -14, -8, -2, 4, 10, 16, 22, ... \}$</br>
+
+d) 8 ? </br>
+$[4]_{8}$ = $\{i| i = -3 (mod \space 5) \}$ = $\{ ..., -28 , -20, -12, -4, 4, 12, 20, 28, ... \}$</br>
