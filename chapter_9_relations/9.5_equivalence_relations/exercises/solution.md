@@ -730,3 +730,12 @@ $[5]_6$ = $...,-13, -7,  -1,  5, 11, 17,  23, ...$ </br>
 
 ![problem 38](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_38.png)
 #### Solution
+
+a) No </br>
+$no, nO, No, NO$ </br>
+
+b) Yes </br>
+$yes, yeS, yEs, yES, Yes, YeS, YEs, YES$ </br>
+
+c) Help </br>
+$help, helP, heLp, heLP, hElp, hElP, hELp, hELP, Help, HelP, HeLp, HeLP, HElp, HElP, HELp, HELP$ </br>
