@@ -752,3 +752,6 @@ $\therefore$ the equivalence classes for $(c,d)$ = $\{..., (-3-,2), (-2,-1), (0,
 b) </br>
 As the equivalence class is $(1, 2), \{..., (-3-,2), (-2,-1), (0, 1), (1, 2), (2, 3), (3,4), ... \}$ </br>
 In this case $c-d$ can be negative, positive, which is a definition of an Integer, and $\therefore$ this represents $\Z$ </br>
+
+![problem 40](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_40.png)
+#### Solution
