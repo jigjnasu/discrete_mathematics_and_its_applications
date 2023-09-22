@@ -742,3 +742,13 @@ $help, helP, heLp, heLP, hElp, hElP, hELp, hELP, Help, HelP, HeLp, HeLP, HElp, H
 
 ![problem 39](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_39.png)
 #### Solution
+
+a) </br>
+According to exercise 15 $((a,b), (c,d)) \in R$ if $a + d = b + c$ </br>
+$a + d = b + c$ => $a - b = c - d$ => $1 - 2 = c - d$ => $-1 = c - d$ </br>
+
+$\therefore$ the equivalence classes for $(c,d)$ = $\{..., (-3-,2), (-2,-1), (0, 1), (1, 2), (2, 3), (3,4), ... \}$
+
+b) </br>
+As the equivalence class is $(1, 2), \{..., (-3-,2), (-2,-1), (0, 1), (1, 2), (2, 3), (3,4), ... \}$ </br>
+In this case $c-d$ can be negative, positive, which is a definition of an Integer, and $\therefore$ this represents $\Z$ </br>
