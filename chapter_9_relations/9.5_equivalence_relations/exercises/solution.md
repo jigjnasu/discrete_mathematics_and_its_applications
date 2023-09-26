@@ -767,3 +767,10 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 ![problem 41](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_41.png)
 #### Solution
 
+| problem    | partition | Note |
+| :-: | :------: | :--: |
+|  a  |    No    | Sets are not disjoint as 2 and 4 are repeated in two sets |
+|  b  |   Yes    |  NA  |
+|  c  |   Yes    |  NA  |
+|  d  |    No    |  No set includes the 3 element |
+
