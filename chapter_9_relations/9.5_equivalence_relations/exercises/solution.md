@@ -786,3 +786,11 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 
 ![problem 43](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_43.png)
 #### Solution
+
+| problem    | partition | Note |
+| :-: | :------: | :--: |
+|  a  |   Yes    |  all the bit strings will start from 0 or 1, the cases can be 00, 01, 10, 11  |
+|  b  |    No    |  as the bit string 00000001 or 10010000 contains 00, 01 in first case and 10, 00, 01 in second case  |
+|  c  |   Yes    |  as the bit string will end in 00, 01, 10, 11  |
+|  d  |    No    |  as the bit string can end in 0 or 1, 00, 01, 10, 11, the 01, 10 case is missing |
+|  e  |   Yes    |  as the bit string can have 0, 1, 2, 3, 4, 5, 6, 7, 8 ones, for 0, 1, 2 k = 0, and for  3, 4 ,5, k = 2, and for 6,7,8 k = 2 and ones will satisfy 3k, 3k+1 and 3k+2 in every case |
