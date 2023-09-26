@@ -774,3 +774,5 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 |  c  |   Yes    |  NA  |
 |  d  |    No    |  No set includes the 3 element |
 
+![problem 42](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_42.png)
+#### Solution
