@@ -783,3 +783,6 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 |  b  |    No    |  Sets are not disjoint as 0 is in two sets  |
 |  c  |   Yes    |  NA  |
 |  d  |    No    |  Union of sets does not include 0 |
+
+![problem 43](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_43.png)
+#### Solution
