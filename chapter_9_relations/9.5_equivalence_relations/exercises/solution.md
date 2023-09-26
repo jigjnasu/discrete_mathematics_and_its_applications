@@ -760,7 +760,7 @@ a) </br>
 According to exercise 16 $((a,b), (c,d)) \in R$ if $ad = bc$ </br>
 $ad = bc$ => $1d = 2c$ => $\frac{1}{2} = \frac{c}{d}$ </br>
 
-$\therefore$ the equivalence classes for $(c,d) = $ $\{..., \frac{-3}{-6}, \frac{-2}{-4}, \frac{2}{4}, \frac{3}{6}, ...$ etc, any fraction which comes out as $\frac{1}{2}$ is the solution.
+$\therefore$ the equivalence classes for $(c,d) = $\{..., \frac{-3}{-6}, \frac{-2}{-4}, \frac{2}{4}, \frac{3}{6}, ...$ etc, any fraction which comes out as $\frac{1}{2}$ is the solution.
 
 b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fraction should represents $\Z$
 
