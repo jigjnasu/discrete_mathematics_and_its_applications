@@ -830,3 +830,5 @@ $s3 = -\infty, ...-9, -3, 3, 9, 15, ..., \infty$ </br>
 As there is repetition of even numbers in $s1, s2$ like $-4, -2, 2, 4$ etc.
 $\therefore$ it is not a valid partition. </br>
 
+![problem 45](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_45.png)
+#### Solution
