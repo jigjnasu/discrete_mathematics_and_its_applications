@@ -797,5 +797,6 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 </br>
 
 ![problem 44 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_44_a.png)
+</br>
 ![problem 44 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_44_b.png)
 #### Solution
