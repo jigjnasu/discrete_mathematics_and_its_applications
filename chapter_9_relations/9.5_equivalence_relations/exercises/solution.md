@@ -794,3 +794,7 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 |  c  |   Yes    |  as the bit string will end in 00, 01, 10, 11  |
 |  d  |    No    |  as the bit string can end in 0 or 1, 00, 01, 10, 11, the 01, 10 case is missing |
 |  e  |   Yes    |  as the bit string can have 0, 1, 2, 3, 4, 5, 6, 7, 8 ones, for 0, 1, 2 k = 0, and for  3, 4 ,5, k = 2, and for 6,7,8 k = 2 and ones will satisfy 3k, 3k+1 and 3k+2 in every case |
+
+![problem 44 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_44_a.png)
+![problem 44 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_44_b.png)
+#### Solution
