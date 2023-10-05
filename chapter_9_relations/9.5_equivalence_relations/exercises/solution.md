@@ -800,3 +800,33 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 </br>
 ![problem 44 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_44_b.png)
 #### Solution
+
+a) **YES** </br>
+$s1 = {-\infty, ..., -4, -2, 0, 2, 4, ..., \infty }$ </br>
+$s2 = {-\infty, ..., -3, -1, 1, 3, 5, ..., \infty }$ </br>
+As the union of both the sets make entire $\Z \therefore$ it is a valid partition. </br>
+
+b) **NO** </br>
+$s1 = {-\infty, ..., -5, -4, -3, -2, -1}$ </br>
+$s2 = {1, 2, 3, 4, 5, ..., \infty }$ </br>
+As $0$ is missing in both the sets $\therefore$ it is not a valid partition of $\Z$. </br>
+
+c) **YES** </br>
+$s1 = -\infty, ..., -6, -3, 0, 3, 6, ..., \infty$ </br>
+$s2 = -\infty, ..., -5, -2, 1, 4, 7, ..., \infty$ </br>
+$s3 = -\infty, ..., -4, -1, 2, 5, 8, ..., \infty$ </br>
+As union of all three sets is a $\Z \therefore$ it is a valid partition. </br> 
+
+d) **YES** </br>
+$s1 = -\infty, ..., -103, -102, -101$ </br>
+$s2 = -100, -99, -98, ..., 0, ..., 98, 99, 100$ </br>
+$s3 = 101, 102, 103, ..., \infty$ </br>
+As union of all three sets is a $\Z \therefore$ it is a valid partition. </br> 
+
+e) **NO** </br>
+$s1 = -\infty, ..., -5, -4, -2, -1, 1, 2, 4, 5, ..., \infty$ </br>
+$s2 = -\infty, ..., -8, -6, -4, -2, 0, 2, 4, 6, 8, ..., \infty$ </br>
+$s3 = -\infty, ...-9, -3, 3, 9, 15, ..., \infty$ </br>
+As there is repetition of even numbers in $s1, s2$ like $-4, -2, 2, 4$ etc.
+$\therefore$ it is not a valid partition. </br>
+
