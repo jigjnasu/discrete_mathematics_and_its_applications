@@ -889,3 +889,6 @@ f) **NO** </br>
 |  (x,y) | $x \ne 0$ and $y = 0$  | (1, 0), (-1, 0), (-3, 0) |
 
 As the union of all sets doest make $\Z X \Z$, where $(0, 0)$ is missing. </br>
+
+![problem 46](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_46.png)
+#### Solution
