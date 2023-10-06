@@ -892,3 +892,12 @@ As the union of all sets doest make $\Z X \Z$, where $(0, 0)$ is missing. </br>
 
 ![problem 46](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_46.png)
 #### Solution
+
+By definition a valid partition set is when it is nonempty, disjoints and union of it makes the set. </br>
+
+a) **YES** as it matches the definition </br>
+b) **YES** as it matches the definition </br>
+c) **NO** because of closed brackets, it is not pairwise disjoint, as they will share the endpoints </br>
+d) **NO** because the union of it will not have integers </br>
+e) **YES** as it matches the definition </br>
+f) **YES** as matches the definition. Each equivalence class consists of all real numbers with a fixed fractional part. </br>
