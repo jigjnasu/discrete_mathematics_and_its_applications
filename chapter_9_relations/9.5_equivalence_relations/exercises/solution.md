@@ -921,3 +921,15 @@ $\{(0,0),(1, 1),(2, 2),(3, 3),(4, 4),(5, 5)\}$</br>
 </br>
 ![problem 48 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_48_b.png)
 #### Solution
+
+a) </br>
+$\{(a,a), (a,b), (b,a), (b,b), (c,c), (c,d), (d,c), (d,d), (e,e), (e,f), (e,g), (f,e), (f,f), (f,g), (g,e), (g,f),(g,g)\}$</br>
+
+b) </br>
+$\{(a,a),(b,b), (c,c), (c,d), (d,c), (d,d), (e,e), (e,f), (f,e), (f,f), (g,g)\}$</br>
+
+c) </br>
+$\{(a,a), (a,b), (a,c), (a,d),(b,a), (b,b), (b,c), (b,d),(c,a), (c,b), (c,c), (c,d),(d,a), (d,b), (d,c), (d,d), (e,e), (e,f), (e,g),(f,e), (f,f), (f,g),(g,e), (g,f), (g,g)\}$</br>
+
+d) </br>
+$\{(a,a),(a,c),(a,e),(a,g),(c,a),(c,c),(c,e),(c,g),(e,a),(e,c),(e,e),(e,g),(g,a),(g,c),(g,e),(g,g),(b,b),(b,d),(d,b),(d,d),(f,f)\}$ </br>
