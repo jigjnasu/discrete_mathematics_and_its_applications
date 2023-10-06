@@ -904,3 +904,25 @@ f) **YES** as matches the definition. Each equivalence class consists of all rea
 
 ![problem 47](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_47.png)
 #### Solution
+
+a) </br>
+$\{(0,0),$ </br> 
+$(1, 1), (1, 2), (2, 1), (2, 2),$ </br>
+$(3, 3), (3, 4), (3, 5), (4, 3), (4, 4), (4, 5), (5, 3), (5, 4), (5, 5) \}$ </br>
+
+b) </br>
+$\{(0, 0), (0, 1), (1, 0), (1, 1),$ </br>
+$(2, 2), (2, 3), (3, 2), (3, 3),$ </br>
+$(4, 4), (4, 5), (5, 4), (5, 5)\}$
+
+c) </br>
+$\{(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2),$</br>
+$(3, 3), (3, 4), (3, 5), (4, 3), (4, 4), (4, 5), (5, 3), (5, 4), (5, 5)\}$
+
+d) </br>
+$\{(0,0),$</br>
+$(1, 1),$</br>
+$(2, 2),$</br>
+$(3, 3),$</br>
+$(4, 4),$</br>
+$(5, 5)\}$</br>
