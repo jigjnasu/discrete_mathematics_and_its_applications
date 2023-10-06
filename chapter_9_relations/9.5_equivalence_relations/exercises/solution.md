@@ -832,3 +832,60 @@ $\therefore$ it is not a valid partition. </br>
 
 ![problem 45](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_45.png)
 #### Solution
+
+a) **NO** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | x or y is odd | (1,2), (2,1) |
+|  (x,y) | x is even | (2, 1) |
+|  (x,y) | y is even | (1,2) |
+
+As we can see here pairs are not pairwise disjoint like $(1,2)$ in set 1 and 3, and $(2,1)$ in 1 and 2. </br>
+
+b) **YES** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | both x and y are odd | (-1, -3), (1, 3), (3, 1), (3, 3) |
+|  (x,y) | exactly one of x and y is odd | (1, 2), (2, 1), (-1, -2) |
+|  (x,y) | both x and y are even | (2,4), (-2, -4), (2, 6) |
+
+As we can see all pairs are pairwise disjoint, non empty and make $\Z X \Z$ ordered pairs and therefore it is a valid partition.
+
+c) **NO** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | x is positive | (1, 2) |
+|  (x,y) | y is positive | (1, 2) |
+|  (x,y) | both x and y are negative | (-1, -1), (-1, -3) |
+
+As in set 1 and set 2 $(1,2)$ are presents, it is not a pairwise disjoint. </br>
+As $(0, 0)$ is not in the set therefore sets union is not $\Z X \Z$
+
+d) **YES** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | where x divides by 3 y divides by 3 | (-3, 0), (0, 0), (3, 3), (6, 6) |
+|  (x,y) | where x divides by 3 y not divides by 3 | (3, 2), (-3, 4) |
+|  (x,y) | where x not divides by 3 y divides by 3 | (-1, 3), (4, 9) |
+|  (x,y) | where x not divides by 3 y not divides by 3 | (-1, -1), (2, 4), (7, 8) |
+
+As all pairs are pairwise disjoint, non empty and union makes $\Z X \Z$ therefore its a valid partition. </br>
+
+e) **YES** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | $x > 0$  and $y > 0$  | (1, 1), (1, 2), (3, 1) |
+|  (x,y) | $x > 0$  and $y \le 0$ | (1, 0), (1, -1), (2, -2) |
+|  (x,y) | $x \le 0$ and $y > 0$  | (0, 1), (-1, 2), (-3, 9) |
+|  (x,y) | $x \le 0$ and $y \le 0$ | (0, 0), (0, -1), (-1, 0) |
+
+As all pairs are pairwise disjoint, non empty and union makes $\Z X \Z$ therefore its a valid partition. </br>
+
+f) **NO** </br>
+| set    | condition | examples |
+| :----: | :--------:| :------: |
+|  (x,y) | $x \ne 0$ and y $\ne$ 0 | (-1, 1), (1, 2), (2, -1) |
+|  (x,y) | $x = 0$  and $y \ne 0$ | (0, 1), (0, -1), (0, -2) |
+|  (x,y) | $x \ne 0$ and $y = 0$  | (1, 0), (-1, 0), (-3, 0) |
+
+As the union of all sets doest make $\Z X \Z$, where $(0, 0)$ is missing. </br>
