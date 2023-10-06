@@ -901,3 +901,6 @@ c) **NO** because of closed brackets, it is not pairwise disjoint, as they will 
 d) **NO** because the union of it will not have integers </br>
 e) **YES** as it matches the definition </br>
 f) **YES** as matches the definition. Each equivalence class consists of all real numbers with a fixed fractional part. </br>
+
+![problem 47](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_47.png)
+#### Solution
