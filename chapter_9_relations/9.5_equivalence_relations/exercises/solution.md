@@ -916,3 +916,8 @@ $\{(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2),(3, 3)
 
 d) </br>
 $\{(0,0),(1, 1),(2, 2),(3, 3),(4, 4),(5, 5)\}$</br>
+
+![problem 48 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_48_a.png)
+</br>
+![problem 48 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_48_b.png)
+#### Solution
