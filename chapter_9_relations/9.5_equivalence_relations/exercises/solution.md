@@ -933,3 +933,8 @@ $\{(a,a), (a,b), (a,c), (a,d),(b,a), (b,b), (b,c), (b,d),(c,a), (c,b), (c,c), (c
 
 d) </br>
 $\{(a,a),(a,c),(a,e),(a,g),(c,a),(c,c),(c,e),(c,g),(e,a),(e,c),(e,e),(e,g),(g,a),(g,c),(g,e),(g,g),(b,b),(b,d),(d,b),(d,d),(f,f)\}$ </br>
+
+![problem 49](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_49.png)
+#### Solution
+
+
