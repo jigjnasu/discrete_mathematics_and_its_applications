@@ -947,3 +947,6 @@ And therefore it shows that $[n]_6 = [n]_3$.
 #### Solution
 
 For this solution, we need to show that every equivalence class of people living in the same county and same state is contained in an equivalence class of all people living in the same state. For instance a equivalence class of country of $c$ living in state $s$ is a subclass of state $s$. </br>
+
+![problem 51](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_51.png)
+#### Solution
