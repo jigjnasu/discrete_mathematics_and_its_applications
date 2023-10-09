@@ -937,4 +937,8 @@ $\{(a,a),(a,c),(a,e),(a,g),(c,a),(c,c),(c,e),(c,g),(e,a),(e,c),(e,e),(e,g),(g,a)
 ![problem 49](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_49.png)
 #### Solution
 
-
+For this solution, we need to show that every equivalence class modulo 6 is contained in an equivalence class modulo 3. </br>
+For each $n \in \Z$, where $[n]_6 = [n]_3$. </br>
+If $m = n (mod \space 6)$ means $m - n$ is a multiple of 6 </br>
+In the same way $m - n$ is a multiple of 3, because $6 = 3 X 2$.
+And therefore it shows that $[n]_6 = [n]_3$.
