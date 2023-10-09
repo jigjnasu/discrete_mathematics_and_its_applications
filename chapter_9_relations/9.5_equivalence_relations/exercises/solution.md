@@ -942,3 +942,6 @@ For each $n \in \Z$, where $[n]_6 = [n]_3$. </br>
 If $m = n (mod \space 6)$ means $m - n$ is a multiple of 6 </br>
 In the same way $m - n$ is a multiple of 3, because $6 = 3 X 2$.
 And therefore it shows that $[n]_6 = [n]_3$.
+
+![problem 50](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_50.png)
+#### Solution
