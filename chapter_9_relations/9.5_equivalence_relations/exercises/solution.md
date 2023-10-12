@@ -982,3 +982,6 @@ As strings which are 31 chars long agree on first 31 chars, will definitely agre
 
 $\therefore$ $y$ is equivalent to $x$ under $R_8$ and $y \subseteq [x]_{R_8}$
 Hence proved. </br>
+
+![problem 54](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_54.png)
+#### Solution
