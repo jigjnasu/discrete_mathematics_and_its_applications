@@ -956,3 +956,6 @@ As per the definition, a partition $P_1$ is called a refinement of partition $P_
 As given $P$ is a set of bit strings length of $16$ bits where last $8$ bits are in equivalence. </br>
 
 Let's $Q$ is another set from $P$ where all last 4 bits are $0011$ same, it also means $Q \subseteq P$ and $\therefore$ $Q$ is refinement of $P$ </br>
+
+![problem 52](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_52.png)
+#### Solution
