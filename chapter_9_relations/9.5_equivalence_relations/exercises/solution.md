@@ -960,13 +960,15 @@ Let's $Q$ is another set from $P$ where all last 4 bits are $0011$ same, it also
 ![problem 52](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_52.png)
 #### Solution
 
-As per the definition, a partition $P_1$ is called a refinement of partition $P_2$ if every set in $P_1$ is a subset of one of the sets in $P_2$. </br>
+Let's $\lbrack x \rbrack_{R_{4}}$ is an arbitrary equivalence class for $R_{4}$. </br>
+Our claim is $\lbrack x \rbrack_{R_{4}} \subseteq \lbrack x \rbrack_{R_{3}}$. </br>
 
-$s R_{n}t$ is s and t are two bit strings, where first n bits are in equivalence. </br>
+Let's take a random element $y$ which is equivalent to $x$ under $R_{4}$, which means that $y = x$, or if longer than 4, $y$ has first 4 chars similar to $x$. </br>
 
-Let's $P_3$ is a set of where first 3 bits are in equivalence, $011*****$ </br>
-And $P_4$ is a set of where first 4 bits are in equivalence, $0110*****$ </br>
-As it clearly depicts from the $P_3$ and $P_4$ that $P4 \subseteq P3$ and $\therefore$ $P4$ is a refinement of $P3$. </br>
+As strings which are 4 chars long agree on first 4 chars, will definitely agree on first 3 chars. </br>
+
+$\therefore$ $y$ is equivalent to $x$ under $R_3$ and $y \subseteq [x]_{R_3}$
+Hence proved. </br>
 
 ![problem 53](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_53.png)
 #### Solution
