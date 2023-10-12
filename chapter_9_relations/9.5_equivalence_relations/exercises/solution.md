@@ -972,7 +972,7 @@ As it clearly depicts from the $P_3$ and $P_4$ that $P4 \subseteq P3$ and $\ther
 #### Solution
 
 Let's $\lbrack x \rbrack_{R_{31}}$ is an arbitrary equivalence class for $R_{31}$. </br>
-Our claim is $\lbrack x \rbrack_{R_{31}} \subseteq \lbrack x \rbrack _{R_{8}}$. </br>
+Our claim is $\lbrack x \rbrack_{R_{31}} \subseteq \lbrack x \rbrack_{R_{8}}$. </br>
 
 Let's take a random element $y$ which is equivalent to $x$ under $R_{31}$, which means that $y = x$, or if longer than 31, $y$ has first 31 chars similar to $x$. </br>
 
