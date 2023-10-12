@@ -971,7 +971,7 @@ As it clearly depicts from the $P_3$ and $P_4$ that $P4 \subseteq P3$ and $\ther
 ![problem 53](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_53.png)
 #### Solution
 
-Let's $[x]_{R_{31}}$ is an arbitrary equivalence class for $R_{31}$. </br>
+Let's $\lbrack x \rbrack_{R_{31}}$ is an arbitrary equivalence class for $R_{31}$. </br>
 Our claim is $\left[x\right]_{R_{31}} \subseteq [x]_{R_{8}}$. </br>
 
 Let's take a random element $y$ which is equivalent to $x$ under $R_{31}$, which means that $y = x$, or if longer than 31, $y$ has first 31 chars similar to $x$. </br>
