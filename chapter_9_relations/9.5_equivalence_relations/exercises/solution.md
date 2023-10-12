@@ -971,12 +971,12 @@ As it clearly depicts from the $P_3$ and $P_4$ that $P4 \subseteq P3$ and $\ther
 ![problem 53](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_53.png)
 #### Solution
 
-Let's $\left[x\right]_{R_{31}}$ is an arbitrary equivalence class for $R_{31}$. </br>
+Let's $[x]$ is an arbitrary equivalence class for $R_{31}$. </br>
 Our claim is $\left[x\right]_{R_{31}} \subseteq [x]_{R_{8}}$. </br>
 
 Let's take a random element $y$ which is equivalent to $x$ under $R_{31}$, which means that $y = x$, or if longer than 31, $y$ has first 31 chars similar to $x$. </br>
 
 As strings which are 31 chars long agree on first 31 chars, will definitely agree on first 8 chars. </br>
 
-$\therefore$ $y$ is equivalent to $x$ under $R_8$ and $y \subset [x]_{R_8}$
+$\therefore$ $y$ is equivalent to $x$ under $R_8$ and $y \subseteq [x]_{R_8}$
 Hence proved. </br>
