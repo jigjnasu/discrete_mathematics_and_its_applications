@@ -967,3 +967,6 @@ $s R_{n}t$ is s and t are two bit strings, where first n bits are in equivalence
 Let's $P_3$ is a set of where first 3 bits are in equivalence, $011*****$ </br>
 And $P_4$ is a set of where first 4 bits are in equivalence, $0110*****$ </br>
 As it clearly depicts from the $P_3$ and $P_4$ that $P4 \subseteq P3$ and $\therefore$ $P4$ is a refinement of $P3$. </br>
+
+![problem 53](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_53.png)
+#### Solution
