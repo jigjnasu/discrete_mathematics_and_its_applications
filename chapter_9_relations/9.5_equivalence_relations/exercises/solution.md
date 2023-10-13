@@ -998,3 +998,14 @@ This means that for all $y \in A$, we have $(a,b) \in R_1$, $(a, b) \in R_2$ or 
 
 ![problem 55](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_55.png)
 #### Solution
+
+To make equivalent relations, we should have reflexive, symmetric and transitive relations. </br>
+Given $A = \{a,b,c,d,e\}$, equivalent relations containing $(a,b), (a,c), (d,e)$ </br>
+
+Let's add first reflexive relations </br>
+$(a,a), (b,b), (c,c), (d,d), (e,e)$ </br>
+Let's add symmetric relations </br>
+$(b,a), (c,a), (d,d)$ </br>
+Let's add transitive  relations </br>
+$(b,c), (c,b)$ </br>
+If we will add these new relations to the given, we can make equivalent classes as $(a,b,c), (d,e)$ </br>
