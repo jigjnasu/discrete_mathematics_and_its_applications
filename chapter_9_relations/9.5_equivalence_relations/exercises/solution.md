@@ -985,3 +985,13 @@ Hence proved. </br>
 
 ![problem 54](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_54.png)
 #### Solution
+
+Let $R_1 \subseteq R_2$ </br>
+Prove $P_1$ is a refinement of $P_2$ </br>
+Let $\lbrack x \rbrack_{R_{1}}$ be an equivalence class in $P_1$ </br>
+Prove $\lbrack x \rbrack_{R_{1}}$ is in equivalence class in $P_2$ or $\lbrack x \rbrack_{R_{1}} \subseteq \lbrack x \rbrack_{R_{2}}$ </br>
+Let $y \in \lbrack x \rbrack_{R_{1}}$ then $(a,b) \in R_1 \subseteq R_2$ </br>
+$\therefore$ $y \in \lbrack x \rbrack_{R_{2}}$ hence proved </br>
+On the other hand, let $P_1$ is a refinement of $P_2$ </br>
+As $x \in \lbrack x \rbrack_{R_{2}}$ because of refinement, $\lbrack x \rbrack_{R_{1}} \subseteq \lbrack x \rbrack_{R_{2}}$ for all $x \in A$ </br>
+This means that for all $y \in A$, we have $(a,b) \in R_1$, $(a, b) \in R_2$ or $R_1 \subseteq R_2$
