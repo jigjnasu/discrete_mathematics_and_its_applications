@@ -1012,3 +1012,9 @@ If we will add these new relations to the given, we can make equivalent classes 
 
 ![problem 56](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_56.png)
 #### Solution
+
+| operation    | equivalence | Note |
+| :----: | :--------:| :------: |
+|  $R_1 \bigcup R_2$ | No | The union of two equivalent relations will not be transitive |
+|  $R_1 \bigcap R_2$ | Yes | The intersection of two equivalent relations will be equivalent |
+|  $R_1 \bigoplus R_2$ | No | The direct sum of two equivalent relations will not be equivalent as the result will not be reflexive |
