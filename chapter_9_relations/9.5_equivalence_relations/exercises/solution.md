@@ -1021,3 +1021,10 @@ If we will add these new relations to the given, we can make equivalent classes 
 
 ![problem 57](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_57.png)
 #### Solution
+
+a) </br>
+For this one $x-y = 1$, means all the $\Z$, for instance $-1+2, 3-2$ etc </br>
+b) </br>
+For this one $x-y=\frac{1}{2}$, for instance $(\frac{5}{2}, \frac{3}{2}), \frac{-1}{2}, \frac{3}{2})$ </br>
+This can be also said all $\frac{2n+1}{2} | n \in Z$
+
