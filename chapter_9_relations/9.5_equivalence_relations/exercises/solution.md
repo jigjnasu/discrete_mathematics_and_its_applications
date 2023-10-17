@@ -1028,3 +1028,5 @@ b) </br>
 For this one $x-y=\frac{1}{2}$, for instance $(\frac{5}{2}, \frac{3}{2}), \frac{-1}{2}, \frac{3}{2})$ </br>
 This can be also said all $\frac{2n+1}{2} | n \in Z$
 
+![problem 58](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_58.png)
+#### Solution
