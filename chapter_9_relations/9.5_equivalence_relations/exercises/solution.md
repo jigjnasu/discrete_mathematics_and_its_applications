@@ -1112,32 +1112,32 @@ This is the class of all functions that asymptotically grows just as fast as mul
 #### Solution
 
 solution is 5 </br>
-1. $\{ 1,2,3 \}$ </br>
-2. $\{ 1 \},\{ 2 \},\{ 3 \}$ </br>
-3. $\{ \{ 1,2 \}, \{ 3 \} \}$ </br>
-4. $\{ \{ 1,3 \}, \{ 2 \} \}$ </br>
-5. $\{ \{ 2,3 \}, \{ 1 \} \}$ </br>
+1. $\lbrace1,2,3\rbrace$ </br>
+2. $\lbrace1\rbrace,\lbrace2\rbrace,\lbrace3\rbrace$ </br>
+3. $\lbrace\lbrace1,2\rbrace,\lbrace3\rbrace\rbrace$ </br>
+4. $\lbrace\lbrace1,3\rbrace,\lbrace2\rbrace\rbrace$ </br>
+5. $\lbrace\lbrace2,3\rbrace,\lbrace1\rbrace\rbrace$ </br>
 
 ![problem 62](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_62.png)
 #### Solution
 
 solution is 5 </br>
 
-1. $\lbrace{1,2,3,4\}$ </br>
-2. $\{\{1,2,3\},\{4\}\}$ </br>
-3. $\{\{1,2,4\},\{3\}\}$ </br>
-4. $\{\{1,3,4\},\{2\}\}$ </br>
-5. $\{\{2,3,4\},\{1\}\}$ </br>
-6. $\{\{1,2\},\{3,4\}\}$ </br>
-7. $\{\{1,3\},\{2,4\}\}$ </br>
-8. $\{\{1,4\},\{2,3\}\}$ </br>
-9. $\{\{1,2\},\{3\},\{4\}\}$ </br>
-10. $\{\{1,3\},\{2\},\{4\}\}$ </br>
-11. $\{\{1,4\},\{2\},\{3\}\}$ </br>
-12. $\{\{2,3\},\{1\},\{4\}\}$ </br>
-13. $\{\{2,4\},\{1\},\{3\}\}$ </br>
-14. $\{\{3,4\},\{1\},\{2\}\}$ </br>
-15. $\{\{1\},\{2\},\{3\},\{4\}\}$</br>
+1. $\lbrace1,2,3,4\rbrace$ </br>
+2. $\lbrace\lbrace1,2,3\rbrace,\lbrace4\rbrace\rbrace$ </br>
+3. $\lbrace\lbrace1,2,4\rbrace,\lbrace3\rbrace\rbrace$ </br>
+4. $\lbrace\lbrace1,3,4\rbrace,\lbrace2\rbrace\rbrace$ </br>
+5. $\lbrace\lbrace2,3,4\rbrace,\lbrace1\rbrace\rbrace$ </br>
+6. $\lbrace\lbrace1,2\rbrace,\lbrace3,4\rbrace\rbrace$ </br>
+7. $\lbrace\lbrace1,3\rbrace,\lbrace2,4\rbrace\rbrace$ </br>
+8. $\lbrace\lbrace1,4\rbrace,\lbrace2,3\rbrace\rbrace$ </br>
+9. $\lbrace\lbrace1,2\rbrace,\lbrace3\rbrace,\lbrace4\rbrace\rbrace$ </br>
+10. $\lbrace\lbrace1,3\rbrace,\lbrace2\rbrace,\lbrace4\rbrace\rbrace$ </br>
+11. $\lbrace\lbrace1,4\rbrace,\lbrace2\rbrace,\lbrace3\rbrace\rbrace$ </br>
+12. $\lbrace\lbrace2,3\rbrace,\lbrace1\rbrace,\lbrace4\rbrace\rbrace$ </br>
+13. $\lbrace\lbrace2,4\rbrace,\lbrace1\rbrace,\lbrace3\rbrace\rbrace$ </br>
+14. $\lbrace\lbrace3,4\rbrace,\lbrace1\rbrace,\lbrace2\rbrace\rbrace$ </br>
+15. $\lbrace\lbrace1\rbrace,\lbrace2\rbrace,\lbrace3\rbrace,\lbrace4\rbrace\rbrace$</br>
 
 ![problem 63](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_63.png)
 #### Solution
