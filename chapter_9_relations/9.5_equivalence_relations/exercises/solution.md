@@ -1158,3 +1158,6 @@ We end up with the relation $R$ that we started with. Two elements are related i
 #### Solution
 
 Solution is original partition $P$. </br>
+
+![problem 67](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_67.png)
+#### Solution
