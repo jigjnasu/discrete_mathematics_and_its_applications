@@ -1107,3 +1107,6 @@ As it is reflexive, symmetric and transitive, it is an equivalence relation.
 
 b) $f(n) = n^2$ </br>
 This is the class of all functions that asymptotically grows just as fast as multiple of $f(n) = n^2$. </br>
+
+![problem 61](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_61.png)
+#### Solution
