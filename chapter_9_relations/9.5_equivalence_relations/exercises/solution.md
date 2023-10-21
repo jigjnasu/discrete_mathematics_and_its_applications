@@ -1170,3 +1170,12 @@ Hence this is the shortest algorithm to make it equivalence relation. </br>
 
 ![problem 68](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_68.png)
 #### Solution
+
+Let's $S = \lbrace1,2,3,...,n\rbrace$$ </br>
+For $n = 0$, $p(0)=1$ as $\lbrace\rbrace$ </br>
+For $n = 1$, $p(1)=1$ as $\lbrace1\rbrace$ </br>
+For $n = 2$, $p(2)=2$ as $\lbrace1,2\rbrace$ and $\lbrace1\rbrace$, $\lbrace2\rbrace$ </br>
+For $n = 3$, $p(3)=5$ </br>
+
+As we can see if $j = 0$ to $n -1$, then first can be done in $C(n-1, j)$ ways and remaining can be done p(n-j-1) ways. </br>
+
