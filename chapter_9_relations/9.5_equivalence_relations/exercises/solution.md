@@ -1091,3 +1091,19 @@ $rrbb, rbrb, bbrr$ and $bbrr, brbr, rrbb$ </br>
 
 ![problem 60](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_60.png)
 #### Solution
+
+a) We already showed earlier that $f(x)$ is $\theta(g(x))$ if and only if $f(x)$ is $O(g(x))$ and $g(x)$ is $O(f(x))$ </br>
+
+##### Reflexive
+We need to show that $f(x)$ is $O(f(x))$, which is clear by taking $C = 1$ and $k = 1$ in the definition. </br>
+
+##### Symmetric
+By definition, since if $f(x)$ is $O(g(x))$ and $g(x)$ is $O(f(x))$, then $g(x)$ is $O(f(x))$ and $f(x)$ is $O(g(x))$.
+
+##### Transitive
+It is already being proved.
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.
+
+b) $f(n) = n^2$ </br>
+This is the class of all functions that asymptotically grows just as fast as multiple of $f(n) = n^2$. </br>
