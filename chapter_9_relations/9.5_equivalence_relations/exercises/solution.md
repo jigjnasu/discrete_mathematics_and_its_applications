@@ -1146,3 +1146,5 @@ We do get an equivalence relation. The issue is whether the relation formed in t
 
 ![problem 64](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_64.png)
 #### Solution
+
+No. Here is a counterexample. Start with $\lbrace(1, 2), (3, 2)\rbrace$ on the set $\lbrace1, 2, 3\rbrace$. Its transitive closure is itself. The reflexive closure of that is $\lbrace(1, 1), (1, 2), (2, 2), (3, 2), (3, 3)\rbrace$. The symmetric closure of that is $\lbrace(1, 1), (1, 2), (2, 1), (2, 2), (2, 3), (3, 2), (3, 3)\rbrace$. The result is not transitive; for example, $(1, 3)$ is missing. Therefore this is not an equivalence relation. </br>
