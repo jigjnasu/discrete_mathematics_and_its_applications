@@ -1153,3 +1153,6 @@ No. Here is a counterexample. Start with $\lbrace(1, 2), (3, 2)\rbrace$ on the s
 #### Solution
 
 We end up with the relation $R$ that we started with. Two elements are related if they are in the same set of the partition, but the partition is made up of the equivalence classes of $R$, so two elements are related precisely if they are related in $R$. </br>
+
+![problem 66](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_66.png)
+#### Solution
