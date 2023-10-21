@@ -762,7 +762,7 @@ $ad = bc$ => $1d = 2c$ => $\frac{1}{2} = \frac{c}{d}$ </br>
 
 $\therefore$ the equivalence classes for $(c,d)$ = $\lbrace..., \frac{-3}{-6}, \frac{-2}{-4}, \frac{2}{4}, \frac{3}{6}, ...\rbrace$ etc, any fraction which comes out as $\frac{1}{2}$ is the solution.
 
-b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fraction should represents $\Z$
+b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fraction should represents $\Zeta$
 
 ![problem 41](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_41.png)
 #### Solution
