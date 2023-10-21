@@ -1061,3 +1061,29 @@ $RBW$ </br>
 
 ![problem 59](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_59.png)
 #### Solution
+
+a) to be an equivalent relation, it has to be reflexive, symmetric and transitive. </br>
+$(C_1, C_2) \in R$, where $C_2$ can be obtained by $C_1$ by rotating it or or rotating it and then reflecting it. </br>
+Let's take $r=red$, $b=blue$ </br>
+The following position change can happen in this </br>
+1. $0^{\circ}, 90^{\circ}, 180^{\circ}, 270^{\circ}$ rotations. </br>
+2. Keep the one bead at same location and interchange the other twos. </br>
+
+##### Reflexive
+1. $((r,r), (b,b) \in R$ because there is $0^{\circ}$ rotation. </br>
+
+##### Symmetric
+For instance if $(r,b) \in R$ can be obtained from $90^{\circ}$ rotation clockwise. </br>
+Then anti clockwise $(b,r)$ can be obtained by $360 - 90 = 270^{\circ}$ </br>
+Therefore it's symmetric by the formula for clockwise $n^{\circ}$ and anti clockwise $(360-n)^{\circ}$ </br>
+
+##### Transitive
+For instance $(r,b), (b,r), (r,r) \in R$ </br>
+because there is rotation and then reflection. </br>
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.
+
+b) Following are the equivalent classes. </br>
+One color equivalence class $rrrr$ and $bbbb$ </br>
+Two color equivalence class $rrrb, rrbr, rbrr, brrr$ and $bbbr, bbrb, brbb, rbbb$ </br>
+$rrbb, rbrb, bbrr$ and $bbrr, brbr, rrbb$ </br>
