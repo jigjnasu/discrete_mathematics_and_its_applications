@@ -1112,18 +1112,18 @@ This is the class of all functions that asymptotically grows just as fast as mul
 #### Solution
 
 solution is 5 </br>
-1. $\{1,2,3\}$ </br>
-2. $\{1\},\{2\},\{3\}$ </br>
-3. $\{\{1,2\}, \{3\}\}$ </br>
-4. $\{\{1,3\}, \{2\}\}$ </br>
-5. $\{\{2,3\}, \{1\}\}$ </br>
+1. $\{ 1,2,3 \}$ </br>
+2. $\{ 1 \},\{ 2 \},\{ 3 \}$ </br>
+3. $\{ \{ 1,2 \}, \{ 3 \} \}$ </br>
+4. $\{ \{ 1,3 \}, \{ 2 \} \}$ </br>
+5. $\{ \{ 2,3 \}, \{ 1 \} \}$ </br>
 
 ![problem 62](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_62.png)
 #### Solution
 
 solution is 5 </br>
 
-1. $\{1,2,3,4\}$ </br>
+1. $\lbrace{1,2,3,4\}$ </br>
 2. $\{\{1,2,3\},\{4\}\}$ </br>
 3. $\{\{1,2,4\},\{3\}\}$ </br>
 4. $\{\{1,3,4\},\{2\}\}$ </br>
