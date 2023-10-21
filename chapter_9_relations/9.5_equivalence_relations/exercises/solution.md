@@ -1117,3 +1117,8 @@ solution is 5 </br>
 3. $\{\{1,2\}, \{3\}\}$ </br>
 4. $\{\{1,3\}, \{2\}\}$ </br>
 5. $\{\{2,3\}, \{1\}\}$ </br>
+
+![problem 62](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_62.png)
+#### Solution
+
+
