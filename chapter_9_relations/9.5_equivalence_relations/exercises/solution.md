@@ -594,12 +594,12 @@ b) { $(f, g) | f(0) = g(0)$ or $f(1) = g(1)$ }
 | :-: | :------: | :--: | :--: | :--: |:--|
 | yes  | yes | no | no | NA | This is not an equivalence relation because it is not transitive. Let $f(x) = 0$, $g(x) = x$, and $h(x) = 1$ for all $x \in Z$. Then f is related tog since $f(O) = g(O)$, and $g$ is related to $h$ since $g(l) = h(l)$, but $f$ is not related to $h$ since they have no values in common. | 
 
-c) { $(f, g) | f(x) − g(x) = 1$ for all $x \in Z$ }
+c) { $(f, g) | f(x) − g(x) = 1$ for all $x \in \mathbb{Z}$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Note |
 | :-: | :------: | :--: | :--: | :--: |:--|
 | no  | no | no | no | NA | This is not reflexive as $f(x) - f(x) = 0 \ne 1$ </br> This is not symmetric because $f(x) - g(x) = 1$ but $g(x) - f(x) = -1 \ne 1$ <br> This is not transitive as $f(x) - g(x) = 1$ and $g(x) - h(x) = 1$ but $f(x) - h(x) = 2 \in 1 $| 
 
-d) { $(f, g) |$ for some $C \in Z$, for all $x \in Z$, $f(x) − g(x) = C$ }
+d) { $(f, g) |$ for some $C \in \mathbb{Z}$, for all $x \in \mathbb{Z}$, $f(x) − g(x) = C$ }
 | Reflexive    | Symmetric | Transitive | Equivalence | Equivalence Classes | Note |
 | :-: | :------: | :--: | :--: | :--: |:--|
 | yes  | yes | yes | yes | Here we have many equivalence classes  | This is reflexive as $f(x) - f(x) = 0 = C$  </br> This is symmetric because $f(x) - g(x) = C$ and $g(x) - f(x) = -C$ <br> This is transitive as $f(x) - g(x) = C_{1}$ and $g(x) - h(x) = C_{2}$ and $f(x) - h(x) = C_{1} + C_{2} = C_{3}$| 
@@ -751,7 +751,7 @@ $\therefore$ the equivalence classes for $(c,d)$ = $\{..., (-3-,2), (-2,-1), (0,
 
 b) </br>
 As the equivalence class is $(1, 2), \{..., (-3-,2), (-2,-1), (0, 1), (1, 2), (2, 3), (3,4), ... \}$ </br>
-In this case $c-d$ can be negative, positive, which is a definition of an Integer, and $\therefore$ this represents $\Z$ </br>
+In this case $c-d$ can be negative, positive, which is a definition of an Integer, and $\therefore$ this represents $\mathbb{Z}$ </br>
 
 ![problem 40](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_40.png)
 #### Solution
@@ -804,24 +804,24 @@ b)In this case $\frac{c}{d}$ can be both positive or both negative therefore fra
 a) **YES** </br>
 $s1 = {-\infty, ..., -4, -2, 0, 2, 4, ..., \infty }$ </br>
 $s2 = {-\infty, ..., -3, -1, 1, 3, 5, ..., \infty }$ </br>
-As the union of both the sets make entire $\Z \therefore$ it is a valid partition. </br>
+As the union of both the sets make entire $\mathbb{Z} \therefore$ it is a valid partition. </br>
 
 b) **NO** </br>
 $s1 = {-\infty, ..., -5, -4, -3, -2, -1}$ </br>
 $s2 = {1, 2, 3, 4, 5, ..., \infty }$ </br>
-As $0$ is missing in both the sets $\therefore$ it is not a valid partition of $\Z$. </br>
+As $0$ is missing in both the sets $\therefore$ it is not a valid partition of $\mathbb{Z}$. </br>
 
 c) **YES** </br>
 $s1 = -\infty, ..., -6, -3, 0, 3, 6, ..., \infty$ </br>
 $s2 = -\infty, ..., -5, -2, 1, 4, 7, ..., \infty$ </br>
 $s3 = -\infty, ..., -4, -1, 2, 5, 8, ..., \infty$ </br>
-As union of all three sets is a $\Z \therefore$ it is a valid partition. </br> 
+As union of all three sets is a $\mathbb{Z} \therefore$ it is a valid partition. </br> 
 
 d) **YES** </br>
 $s1 = -\infty, ..., -103, -102, -101$ </br>
 $s2 = -100, -99, -98, ..., 0, ..., 98, 99, 100$ </br>
 $s3 = 101, 102, 103, ..., \infty$ </br>
-As union of all three sets is a $\Z \therefore$ it is a valid partition. </br> 
+As union of all three sets is a $\mathbb{Z} \therefore$ it is a valid partition. </br> 
 
 e) **NO** </br>
 $s1 = -\infty, ..., -5, -4, -2, -1, 1, 2, 4, 5, ..., \infty$ </br>
@@ -849,7 +849,7 @@ b) **YES** </br>
 |  (x,y) | exactly one of x and y is odd | (1, 2), (2, 1), (-1, -2) |
 |  (x,y) | both x and y are even | (2,4), (-2, -4), (2, 6) |
 
-As we can see all pairs are pairwise disjoint, non empty and make $\Z X \Z$ ordered pairs and therefore it is a valid partition.
+As we can see all pairs are pairwise disjoint, non empty and make $\mathbb{Z} X \mathbb{Z}$ ordered pairs and therefore it is a valid partition.
 
 c) **NO** </br>
 | set    | condition | examples |
@@ -859,7 +859,7 @@ c) **NO** </br>
 |  (x,y) | both x and y are negative | (-1, -1), (-1, -3) |
 
 As in set 1 and set 2 $(1,2)$ are presents, it is not a pairwise disjoint. </br>
-As $(0, 0)$ is not in the set therefore sets union is not $\Z X \Z$
+As $(0, 0)$ is not in the set therefore sets union is not $\mathbb{Z} X \mathbb{Z}$
 
 d) **YES** </br>
 | set    | condition | examples |
@@ -869,7 +869,7 @@ d) **YES** </br>
 |  (x,y) | where x not divides by 3 y divides by 3 | (-1, 3), (4, 9) |
 |  (x,y) | where x not divides by 3 y not divides by 3 | (-1, -1), (2, 4), (7, 8) |
 
-As all pairs are pairwise disjoint, non empty and union makes $\Z X \Z$ therefore its a valid partition. </br>
+As all pairs are pairwise disjoint, non empty and union makes $\mathbb{Z} X \mathbb{Z}$ therefore its a valid partition. </br>
 
 e) **YES** </br>
 | set    | condition | examples |
@@ -879,7 +879,7 @@ e) **YES** </br>
 |  (x,y) | $x \le 0$ and $y > 0$  | (0, 1), (-1, 2), (-3, 9) |
 |  (x,y) | $x \le 0$ and $y \le 0$ | (0, 0), (0, -1), (-1, 0) |
 
-As all pairs are pairwise disjoint, non empty and union makes $\Z X \Z$ therefore its a valid partition. </br>
+As all pairs are pairwise disjoint, non empty and union makes $\mathbb{Z} X \mathbb{Z}$ therefore its a valid partition. </br>
 
 f) **NO** </br>
 | set    | condition | examples |
@@ -888,7 +888,7 @@ f) **NO** </br>
 |  (x,y) | $x = 0$  and $y \ne 0$ | (0, 1), (0, -1), (0, -2) |
 |  (x,y) | $x \ne 0$ and $y = 0$  | (1, 0), (-1, 0), (-3, 0) |
 
-As the union of all sets doest make $\Z X \Z$, where $(0, 0)$ is missing. </br>
+As the union of all sets doest make $\mathbb{Z} X \mathbb{Z}$, where $(0, 0)$ is missing. </br>
 
 ![problem 46](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_46.png)
 #### Solution
@@ -938,7 +938,7 @@ $\{(a,a),(a,c),(a,e),(a,g),(c,a),(c,c),(c,e),(c,g),(e,a),(e,c),(e,e),(e,g),(g,a)
 #### Solution
 
 For this solution, we need to show that every equivalence class modulo 6 is contained in an equivalence class modulo 3. </br>
-For each $n \in \Z$, where $[n]_6 = [n]_3$. </br>
+For each $n \in \mathbb{Z}$, where $[n]_6 = [n]_3$. </br>
 If $m = n (mod \space 6)$ means $m - n$ is a multiple of 6 </br>
 In the same way $m - n$ is a multiple of 3, because $6 = 3 X 2$.
 And therefore it shows that $[n]_6 = [n]_3$.
@@ -1023,7 +1023,7 @@ If we will add these new relations to the given, we can make equivalent classes 
 #### Solution
 
 a) </br>
-For this one $x-y = 1$, means all the $\Z$, for instance $-1+2, 3-2$ etc </br>
+For this one $x-y = 1$, means all the $\mathbb{Z}$, for instance $-1+2, 3-2$ etc </br>
 b) </br>
 For this one $x-y=\frac{1}{2}$, for instance $(\frac{5}{2}, \frac{3}{2}), \frac{-1}{2}, \frac{3}{2})$ </br>
 This can be also said all $\frac{2n+1}{2} | n \in Z$
