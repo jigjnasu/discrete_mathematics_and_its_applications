@@ -1058,3 +1058,6 @@ $RRR, RRB, RRW$ </br>
 $BBB, BBW, BBR$ </br>
 $WWW, WWB, WWR$ </br>
 $RBW$ </br>
+
+![problem 59](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_59.png)
+#### Solution
