@@ -270,7 +270,7 @@ B) As $f\prime(x^2) = 2x$ and $\int2x = x^2+C$. where is C is a constant and $x^
 
 Given functions from $R$ to $R$, such that $(f,g) \in R$ if $f^{(n)} = g^{(n)}$, where n is the $n^{th}$ derivative </br>
 
-Reflexive, $(f,f) \in R$ because $f^{(n)} = f^{(n)}</br>
+Reflexive, $(f,f) \in R$ because $f^{(n)} = f^{(n)}$ </br>
 Symmetric, $(f,g) \in R$ and $(g,f) \in R$ because $f^{(n)}=g^{(n)}$ and $g^{(n)} = f^{(n)}$ </br>
 Transitive, $(f,g) \in R$, $(g,q) \in R$ then $(f,q) \in R$ because $f^{(n)} = g^{(n)}$, $g^{(n)} = q^{(n)}$ and $f^{(n)} = q^{(n)}$ </</br> 
 
