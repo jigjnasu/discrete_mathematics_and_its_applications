@@ -1179,3 +1179,5 @@ For $n = 3$, $p(3)=5$ </br>
 
 As we can see if $j = 0$ to $n -1$, then first can be done in $C(n-1, j)$ ways and remaining can be done p(n-j-1) ways. </br>
 
+![problem 69](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_69.png)
+#### Solution
