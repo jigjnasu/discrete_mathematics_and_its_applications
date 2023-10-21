@@ -1087,3 +1087,7 @@ b) Following are the equivalent classes. </br>
 One color equivalence class $rrrr$ and $bbbb$ </br>
 Two color equivalence class $rrrb, rrbr, rbrr, brrr$ and $bbbr, bbrb, brbb, rbbb$ </br>
 $rrbb, rbrb, bbrr$ and $bbrr, brbr, rrbb$ </br>
+
+
+![problem 60](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_60.png)
+#### Solution
