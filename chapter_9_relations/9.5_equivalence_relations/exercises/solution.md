@@ -1030,3 +1030,31 @@ This can be also said all $\frac{2n+1}{2} | n \in Z$
 
 ![problem 58](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_58.png)
 #### Solution
+
+a) to be an equivalent relation, it has to be reflexive, symmetric and transitive. </br>
+$(b_1, b_2) \in R$, where $b_2$ can be obtained by $b_1$ by rotating it or or rotating it and then reflecting it. </br>
+Let's take $R=red$, $B=blue$ and $W=white$ bead. </br>
+The following position change can happen in this </br>
+1. $0^{\circ}, 120^{\circ}, 240^{\circ}$ rotations. </br>
+2. Keep the one bead at same location and interchange the other twos. </br>
+
+##### Reflexive
+1. $((R,R), (B,B), (W,W) \in R$ because there is $0^{\circ}$ rotation. </br>
+
+##### Symmetric
+$(R,B), (B,R) \in R$ </br>
+$(R,W), (W,R) \in R$ </br>
+$(B,W), (W,B) \in R$ </br>
+because there is rotation and then reflection. </br>
+
+##### Transitive
+For instance $(R,B), (B,W), (R,W) \in R$ </br>
+because there is rotation and then reflection. </br>
+
+As it is reflexive, symmetric and transitive, it is an equivalence relation.
+
+b) Following are the equivalent classes. </br>
+$RRR, RRB, RRW$ </br>
+$BBB, BBW, BBR$ </br>
+$WWW, WWB, WWR$ </br>
+$RBW$ </br>
