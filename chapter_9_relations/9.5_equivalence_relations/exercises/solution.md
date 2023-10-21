@@ -1167,3 +1167,6 @@ Solution is original partition $P$. </br>
 3. Build the transitive closure by Warshall's algorithm of $R^{''}$ by adding missing pairs. </br>
 
 Hence this is the shortest algorithm to make it equivalence relation. </br>
+
+![problem 68](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_68.png)
+#### Solution
