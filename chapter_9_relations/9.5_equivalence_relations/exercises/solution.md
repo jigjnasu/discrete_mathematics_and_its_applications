@@ -1139,4 +1139,5 @@ solution is 5 </br>
 14. $\{\{3,4\},\{1\},\{2\}\}$ </br>
 15. $\{\{1\},\{2\},\{3\},\{4\}\}$</br>
 
-
+![problem 63](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.5_equivalence_relations/repo/problem_63.png)
+#### Solution
