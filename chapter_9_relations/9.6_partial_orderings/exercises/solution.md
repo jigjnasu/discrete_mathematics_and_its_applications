@@ -2,3 +2,8 @@
 #### Solution
 
 A relation $R$ on a set $S$ is is called *partial ordering* or *partial order* if it is reflexive, anti symmetric and transitive. </br> 
+
+a) $\{ (0, 0), (1, 1), (2, 2), (3, 3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| yes  | yes | yes | yes | NA|
