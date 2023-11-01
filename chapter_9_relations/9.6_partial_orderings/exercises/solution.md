@@ -37,7 +37,12 @@ A relation $R$ on a set $S$ is is called *partial ordering* or *partial order* i
 
 set $S=\{0,1,2,3\}$
 
-a) $\{ (0,0), (1,1), (2,0), (2,2), (2,3), (3,3) \}$
+a) $\{ (0,0), (2,2), (3,3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| no  | yes | yes | no | As $(1,1) \notin R \therefore$ it is not reflexive |
+
+b) $\{ (0,0), (1,1), (2,0), (2,2), (2,3), (3,3) \}$
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
 | :------:      | :------:          | :------:      | :------:      |:------:   |
 | yes  | yes | yes | yes | NA |
