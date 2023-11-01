@@ -13,5 +13,4 @@ a) $\{ (0,0), (1,1), (2,2), (3,3) \}$
 b) $\{ (0,0), (1,1), (2,0), (2, 2), (2,3), (3,2), (3,3) \}$
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
 | :------:      | :------:          | :------:      | :------:      |:------:   |
-| yes  | no | no | no | As $(2,3), (3,2) \in R$ as it is not anti symmetric </br>
-                         $(3,2), (2,0) \in R$ but $(3,0) \notin R$, it is not transitive </br> |
+| yes  | no | no | no | As $(2,3), (3,2) \in R$ as it is not anti symmetric </br> $(3,2), (2,0) \in R$ but $(3,0) \notin R$, it is not transitive </br> |
