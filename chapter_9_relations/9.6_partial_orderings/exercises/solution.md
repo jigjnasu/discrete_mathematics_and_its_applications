@@ -46,3 +46,8 @@ b) $\{ (0,0), (1,1), (2,0), (2,2), (2,3), (3,3) \}$
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
 | :------:      | :------:          | :------:      | :------:      |:------:   |
 | yes  | yes | yes | yes | NA |
+
+c) $\{ (0,0), (1,1), (1,2), (2,2), (3,1), (3,3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| yes  | yes | no | no | As $(3,1), (1,2) \in R$ but $(3,2) \notin R \therefore$ it is not a transitive relation |
