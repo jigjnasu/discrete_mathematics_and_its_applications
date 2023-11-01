@@ -14,3 +14,19 @@ b) $\{ (0,0), (1,1), (2,0), (2, 2), (2,3), (3,2), (3,3) \}$
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
 | :------:      | :------:          | :------:      | :------:      |:------:   |
 | yes  | no | no | no | As $(2,3), (3,2) \in R$, where $2 \ne 3$ as it is not anti symmetric </br> $(3,2), (2,0) \in R$ but $(3,0) \notin R$, it is not transitive </br> |
+
+c) $\{ (0,0), (1,1), (1,2), (2,2), (3,3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| yes  | yes | yes | yes | NA|
+
+d) $\{ (0,0), (1,1), (1,2), (1,3), (2,2), (2,3), (3,3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| yes  | yes | yes | yes | NA|
+
+e) $\{ (0,0), (0,1), (0,2), (0,3), (1,0), (1,1), (1,2), (1,3), (2,0), (2,2), (3,3) \}$
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order | Note      |
+| :------:      | :------:          | :------:      | :------:      |:------:   |
+| yes  | no | no | no | As $(0,1), (1,0) \in R$, where $0 \ne 1$ and $(0,2), (2,0) \in R$, where $0 \ne 2$ $\therefore$ it is not anti symmetric </br> As $(2,0), (0,1) \in R$ but $(2,1) \notin R$ and $(2,0), (0,3) \in R$ but $(2,3) \notin R$ $\therefore$ it is not transitive |
+
