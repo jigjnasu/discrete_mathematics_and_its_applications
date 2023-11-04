@@ -133,6 +133,8 @@ This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
 
 b) $(\mathbb{Z}, \ne)$ </br>
 
+This set has $\left(i,j\right)$ where  $i and j=-\infty$ to $+\infty$ and $i \ne j$
+
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| No </br> $(a,a) \notin R$ as $a = a$ | No </br> $(a,b), (b,a)$ where $a \ne b$| No </br> if $(a,b), (b,c) \in R$ then $(a,c) \notin R$ For instance $a = 1, b = 2, c = 1$ | No </br> It is not reflexive, anti symmetric and transitive relation | 
+| No </br> $(a,a) \noin R$ as $a = a$ </br> Example $(1,1) \notin R$| No </br> $(a,b), (b,a) \in R$ where $a \ne b$ </br> Example $(1,2), (2,1)$| No </br> $(a,b), (b,a) \in R$ but $(a,c) \notin R$ </br> Example $(1,2), (2,1) \in R$ but $(1,1) \notin R$| No | 
