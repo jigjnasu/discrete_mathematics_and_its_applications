@@ -128,3 +128,9 @@ a) $(\mathbb{Z}, =)$ </br>
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | Yes </br> $(a,a) \in R$ | Yes </br> $(a,b), (b,a)$ where $a=b$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ | Yes | 
+
+b) $(\mathbb{Z}, \ne)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| No </br> $(a,a) \notin R$ as $a = a$ | No </br> $(a,b), (b,a)$ where $a \ne b$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \notin R$ For instance $a = 1, b = 2, c = 1$ | No </br> It is not reflexive, anti symmetric and transitive relation | 
