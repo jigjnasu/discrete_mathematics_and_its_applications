@@ -76,10 +76,10 @@ a is not taller than b means, as is equal to or shorter than b. </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-|Yes </br> $(a,a) \in R$, a has the same height as a| No </br>$(a,b), (b,a) \in $ and $a \ne b$, a and b can have same height and they are not same person | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ let's say a,b and c have same height | No </br> as it is not anti symmetric |
+|Yes </br> $(a,a) \in R$, a has the same height as a| No </br>$(a,b), (b,a) \in R$ and $a \ne b$, a and b can have same height and they are not same person | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ let's say a,b and c have same height | No </br> as it is not anti symmetric |
 
 c) $a=b$ or a is ancestor of b </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-|Yes </br> $(a,a) \in R$, $a \eq a$| No </br>$(a,b), (b,a) \in $ and $a \ne b$, a and b can have same height and they are not same person | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ let's say a,b and c have same height | No </br> as it is not anti symmetric |
+|Yes </br> $(a,a) \in R$, $a = a$| Yes </br>$(a,b)$ then $(b,a) \notin R$ because as $a \ne b$, if a is ancestor b then b cannot be ancestor of a  | Yes </br> $(a,b), (b,c) \in R$ where $a \ne b \ne c$, if a is ancestor of b, and b is ancestor of c then a is ancestor of c | Yes |
