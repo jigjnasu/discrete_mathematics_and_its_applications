@@ -153,5 +153,5 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| No </br> $(a,a) \notin R$ as $a | a$ |
+| No </br> $(a,a) \notin R$ as $a \mid a$ | No </br> $(a,b), (b,a) \in R$ where $a \ne b$ </br> Example $(2,3), (3,2)$ where $2 \nmid 3$ and $3 \nmid 2$| No </br> $(a,b), (b,a) \in R$ but $(a,c) \notin R$ </br> Example $(2,3), (3,2) \in R$ but $(2,2) \notin R$|
 
