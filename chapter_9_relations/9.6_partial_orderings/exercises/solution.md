@@ -93,3 +93,10 @@ d) a and b have a common friend </br>
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_4.png)
 #### Solution
 
+a) a is no shorter than b </br>
+
+It means a has same height as b or a is taller than b </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes </br> $(a,a) \in R$ | No </br>$(a,b), (b,a) \in R$ let's a and b has same height and $a \ne b \therefore$ it is not anti symmetric | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ Let's a, b and c has same height or a taller than b and b taller than c, therefore a is taller than c | No </br> It is not anti symmetric |
