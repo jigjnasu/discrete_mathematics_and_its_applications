@@ -64,3 +64,10 @@ e) $\{ (0,0), (0,1), (0,2), (0,3), (1,0), (1,1), (1,2), (1,3), (2,0), (2,2), (3,
 
 ![problem 3](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_3.png)
 #### Solution
+
+a) a is taller than b? </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| No </br> $(a,a) \notin R$ as a person cannot be taller than himself |
+|  
