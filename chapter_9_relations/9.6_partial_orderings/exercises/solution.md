@@ -70,3 +70,10 @@ a) a is taller than b? </br>
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | No </br> $(a,a) \notin R$ as a person cannot be taller than himself | Yes </br>$(a,b) \in R$ then $(b,a) \notin R$ as if a is taller than b, b cannot be taller than a | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ | No </br> As this relation is not reflexive |
+
+b) a is not taller than b? </br>
+a is not taller than b means, as is equal to or shorter than b. </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+|Yes </br> $(a,a) \in R$, a has the same height as a| No </br>$(a,b), (b,a) \in $ and $a \ne b$, a and b can have same height and they are not same person | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ let's say a,b and c have same height | No </br> as it is not anti symmetric |
