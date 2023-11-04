@@ -69,5 +69,4 @@ a) a is taller than b? </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| No </br> $(a,a) \notin R$ as a person cannot be taller than himself |
-|  
+| No </br> $(a,a) \notin R$ as a person cannot be taller than himself | Yes </br>$(a,b) \in $ then $(b,a) \notin R$ as if a is taller than b, b cannot be taller than a | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ | No </br> As this relation is not reflexive |  
