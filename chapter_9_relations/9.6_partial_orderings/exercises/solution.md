@@ -122,3 +122,9 @@ d) a and b do not have a common friend </br>
 
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_5.png)
 #### Solution
+
+a) $(\mathbb{Z}, =)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes </br> $(a,a) \inn R$ | Yes </br> $(a,b), (b,a)$ where $a=b$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ | Yes | 
