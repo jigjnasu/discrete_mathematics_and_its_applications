@@ -89,3 +89,7 @@ d) a and b have a common friend </br>
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 |Yes </br> $(a,a) \in R$| No </br> $(a,b), (b,a) \in R$ where $a \ne b$ let's c is common friend of a and b, then b and a also have same c common friend $\therefore$ it is not anti symmetric | No </br> $(a,b), (b,c) \in R$ but $(a,c) \notin R$ let's a and b have x common friend, and b and c have y common friend then a and c doesn't have any common friend | No </br> It is not anti symmetric and transitive |
+
+![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_4.png)
+#### Solution
+
