@@ -138,3 +138,11 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | No </br> $(a,a) \notin R$ as $a = a$ </br> Example $(1,1) \notin R$| No </br> $(a,b), (b,a) \in R$ where $a \ne b$ </br> Example $(1,2), (2,1)$| No </br> $(a,b), (b,a) \in R$ but $(a,c) \notin R$ </br> Example $(1,2), (2,1) \in R$ but $(1,1) \notin R$| No | 
+
+c) $(\mathbb{Z}, \geq)$ </br>
+
+This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \geq j$
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes </br> $(a,a) \in R$ because $a \geq a$ </br> Example $(1,1)$| 
