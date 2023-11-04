@@ -167,7 +167,7 @@ This set has $\lbrace(i,i)\rbrace \mid i=-\infty$ to $+\infty$
 | Yes </br> $(a,a) \in R$ </br> Example $(1,1)$| Yes </br> $(a,b), (b,a)$ where $a=b$ </br> Example $(-1,-1)$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ </br> Example $(2,2),(2,2), (2,2)$| Yes | 
 
 
-a) $(\mathbb{R}, <)$ </br>
+b) $(\mathbb{R}, <)$ </br>
 
 This set has $\lbrace(i, j)\rbrace \mid i < j$, where $i$ and $j = -\infty$ to $+\infty$
 
