@@ -173,4 +173,4 @@ This set has $\lbrace(i, j) | i < j$, where $i$ and $j = -\infty to +\infty \rbr
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-|  | 
+| No </br> $(a,a) \notin R$ as $a=a$ | Yes  | Yes </br> $(a,b),(b,c) \in R$ then $(a,c) \in R$ as $a < b < c$ </br> Example $(1,3), (3,5), (1,5)$| No |
