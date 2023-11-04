@@ -169,7 +169,7 @@ This set has $\lbrace(i,i)\rbrace \mid i=-\infty$ to $+\infty$
 
 a) $(\mathbb{R}, <)$ </br>
 
-This set has $\lbrace(i, j)\rbrace \mid i < j$, where $i$ and $j = -\infty to +\infty$
+This set has $\lbrace(i, j)\rbrace \mid i < j$, where $i$ and $j = -\infty$ to $+\infty$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
