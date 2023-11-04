@@ -145,4 +145,4 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| Yes </br> $(a,a) \in R$ because $a \geq a$ </br> Example $(1,1)$| 
+| Yes </br> $(a,a) \in R$ because $a \geq a$ </br> Example $(1,1)$| Yes </br> $(a,b), (b,a) \in R$ where $a = b$ </br> Example $(1,1)$ | Yes </br> $(a,b),(b,c) \in R$ then $(a,c) \in R$ when $a = b = c$ </br> Example $(1,1),(1,1)$ then $(1,1)$ | Yes |
