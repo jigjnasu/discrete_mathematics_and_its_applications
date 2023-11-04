@@ -165,3 +165,12 @@ This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | Yes </br> $(a,a) \in R$ </br> Example $(1,1)$| Yes </br> $(a,b), (b,a)$ where $a=b$ </br> Example $(-1,-1)$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ </br> Example $(2,2),(2,2), (2,2)$| Yes | 
+
+
+a) $(\mathbb{R}, <)$ </br>
+
+This set has $\{(i, j) | i < j, where i and j = -\infty to +\infty\}$
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+|  | 
