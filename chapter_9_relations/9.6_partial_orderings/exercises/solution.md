@@ -127,4 +127,4 @@ a) $(\mathbb{Z}, =)$ </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| Yes </br> $(a,a) \inn R$ | Yes </br> $(a,b), (b,a)$ where $a=b$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ | Yes | 
+| Yes </br> $(a,a) \in R$ | Yes </br> $(a,b), (b,a)$ where $a=b$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ | Yes | 
