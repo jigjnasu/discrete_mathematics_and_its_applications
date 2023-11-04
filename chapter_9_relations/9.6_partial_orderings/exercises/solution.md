@@ -149,9 +149,9 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 d) $(\mathbb{Z}, \nmid)$ </br>
 
-This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \geq j$
+This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \nmid j$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-|  |
+| No </br> $(a,a) \notin R$ as $a | a$ |
 
