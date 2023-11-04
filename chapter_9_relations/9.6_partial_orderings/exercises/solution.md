@@ -157,3 +157,11 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_6.png)
 #### Solution
+
+a) $(\mathbb{R}, =)$ </br>
+
+This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes </br> $(a,a) \in R$ </br> Example $(1,1)$| Yes </br> $(a,b), (b,a)$ where $a=b$ </br> Example $(-1,-1)$| Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ where $a = b = c$ </br> Example $(2,2),(2,2), (2,2)$| Yes | 
