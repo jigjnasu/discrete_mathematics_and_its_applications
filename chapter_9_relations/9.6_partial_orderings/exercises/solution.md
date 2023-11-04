@@ -169,7 +169,7 @@ This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
 
 a) $(\mathbb{R}, <)$ </br>
 
-This set has $\{(i, j) | i < j, where i and j = -\infty to +\infty\}$
+This set has $\{(i, j) | i < j$, where $i$ and $j = -\infty to +\infty \}$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
