@@ -125,7 +125,7 @@ d) a and b do not have a common friend </br>
 
 a) $(\mathbb{Z}, =)$ </br>
 
-This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
+This set has $\lbrace(i,i)\rbrace$ where  $\mid i=-\infty$ to $+\infty$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
@@ -133,7 +133,7 @@ This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
 
 b) $(\mathbb{Z}, \ne)$ </br>
 
-This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \ne j$
+This set has $\lbrace (i,j) \rbrace \mid i$ and $j=-\infty$ to $+\infty$ and $i \ne j$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
@@ -141,7 +141,7 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 c) $(\mathbb{Z}, \geq)$ </br>
 
-This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \geq j$
+This set has $\lbrace(i,j)\rbrace \mid i$ and $j=-\infty$ to $+\infty$ and $i \geq j$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
@@ -149,7 +149,7 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 d) $(\mathbb{Z}, \nmid)$ </br>
 
-This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \nmid j$
+This set has $\lbrace(i,j)\rbrace \mid  $i$ and $j=-\infty$ to $+\infty$ and $i \nmid j$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
@@ -160,7 +160,7 @@ This set has $\left(i,j\right)$ where  $i$ and $j=-\infty$ to $+\infty$ and $i \
 
 a) $(\mathbb{R}, =)$ </br>
 
-This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
+This set has $\lbrace(i,i)\rbrace \mid i=-\infty$ to $+\infty$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
@@ -169,7 +169,7 @@ This set has $\left(i,i\right)$ where  $i=-\infty$ to $+\infty$
 
 a) $(\mathbb{R}, <)$ </br>
 
-This set has $\lbrace(i, j) | i < j$, where $i$ and $j = -\infty to +\infty \rbrace$
+This set has $\lbrace(i, j)\rbrace \mid i < j$, where $i$ and $j = -\infty to +\infty$
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
