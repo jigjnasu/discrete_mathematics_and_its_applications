@@ -107,8 +107,15 @@ b) a is no shorter than b </br>
 | :------:      | :------:          | :------:      | :------:      |
 | No </br> $(a,a) \notin R$ As a person cannot be heavier than himself| Yes </br> $(a,b) \in R$ then $(b,a) \notin R$ where $a \ne b$ if a is heavier than b, then b cannot be heavier than a | Yes </br> if $(a,b), (b,c) \in R$ then $(a,c) \in R$ if a weighs more than b and b weighs more than c than a weighs more than c | No </br> As the relation is not reflexive |
 
-b) $a=b$ or a is a descendent of b </br>
+c) $a=b$ or a is a descendent of b </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | Yes </br> $(a,a) \in R$ as $a = a$ | Yes </br> $(a,b) \in R$ then $(b,a) \notin R$ As a is descendent of b, then b cannot be descendent of a as $a \ne b$ | Yes </br> If $(a,b), (b,c) \in R$ then $(a,c) \in R$ If a is descendent of b, and b is descendent of c then a is descendent of a | Yes |
+
+
+d) a and b do not have a common friend </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| No </br> $(a,a) \notin R$ A person's friend will be common to himself | No </br> $(a,b) \in R$ then $(b,a) \in R$ where $a \ne b$ if a and b do not have common friend, then b and a also do not have common friend | No </br> if $(a,b), (b,c) \in R$ then $(a,c) \notin R$ Let's x and y are friends of a, and p and q are friends of b, and x and y are friends of c </br> as a and b do not have common friends, b and c do not have common friends, but a and c have common friends | No </br> As it doesn't have reflexive, anti symmetric or transitive relations |
