@@ -85,3 +85,7 @@ c) $a=b$ or a is ancestor of b </br>
 |Yes </br> $(a,a) \in R$, $a = a$| Yes </br>$(a,b)$ then $(b,a) \notin R$ because as $a \ne b$, if a is ancestor b then b cannot be ancestor of a  | Yes </br> $(a,b), (b,c) \in R$ where $a \ne b \ne c$, if a is ancestor of b, and b is ancestor of c then a is ancestor of c | Yes |
 
 d) a and b have a common friend </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+|Yes </br> $(a,a) \in R$| No </br> $(a,b), (b,a) \in R$ where $a \ne b$ let's c is common friend of a and b, then b and a also have same c common friend $\therefore$ it is not anti symmetric | No </br> $(a,b), (b,c) \in R$ but $(a,c) \notin R$ let's a and b have x common friend, and b and c have y common friend then a and c doesn't have any common friend | No </br> It is not anti symmetric and transitive |
