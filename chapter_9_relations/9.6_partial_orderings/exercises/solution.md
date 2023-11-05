@@ -174,3 +174,11 @@ This set has $\lbrace(i, j)\rbrace \mid i < j$, where $i$ and $j = -\infty$ to $
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | No </br> $(a,a) \notin R$ as $a=a$ | Yes  | Yes </br> $(a,b),(b,c) \in R$ then $(a,c) \in R$ as $a < b < c$ </br> Example $(1,3), (3,5), (1,5)$| No |
+
+c) $(\mathbb{R}, \leq)$ </br>
+
+This set has $\lbrace(i, j)\rbrace \mid i \leq j$, where $i$ and $j = -\infty$ to $+\infty$
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes </br> $(a,a) \in R \mid a = a$ </br> Example $(1,1)$ | Yes </br> $(a,b), (b,a) \in R \mid a = b$ </br> Example $(2,2)$ | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ when $a = b = c$ or $a < b < c$ </br> Example $(3,3),(3,3), (3,3)$ or $(1,2), (2,3), (1,3)$| Yes |
