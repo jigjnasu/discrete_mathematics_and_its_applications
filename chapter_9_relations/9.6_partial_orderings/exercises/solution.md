@@ -182,3 +182,14 @@ This set has $\lbrace(i, j)\rbrace \mid i \leq j$, where $i$ and $j = -\infty$ t
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | Yes </br> $(a,a) \in R \mid a = a$ </br> Example $(1,1)$ | Yes </br> $(a,b), (b,a) \in R \mid a = b$ </br> Example $(2,2)$ | Yes </br> $(a,b), (b,c) \in R$ then $(a,c) \in R$ when $a = b = c$ or $a < b < c$ </br> Example $(3,3),(3,3), (3,3)$ or $(1,2), (2,3), (1,3)$| Yes |
+
+
+c) $(\mathbb{R}, \ne)$ </br>
+
+This set has $\lbrace(i, j)\rbrace \mid i \ne j$, where $i$ and $j = -\infty$ to $+\infty$
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| No </br> $(a,a) \notin R$ as $a=a$ | No </br> $(a,b), (b,a) \in R \mid a \ne b$ | No </br> $(a,b), (b,c) \in R$ then $(a,c) \not inR$ </br> Example $(1,2), (2,1) \in R$ but $(1,1) \notin R$ | No |
+
+
