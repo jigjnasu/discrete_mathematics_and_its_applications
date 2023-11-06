@@ -223,3 +223,10 @@ a) $R = (1,1),(1,3), (2,1),(2,2), (3,3)$ </br>
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
 | Yes | Yes | No </br> $(2,1), (1,3) \in R$ but $(2,3) \notin R$ | No |
+
+b) $R = (1,1),(2,2), (1,3), (3,3)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes | Yes | Yes | Yes |
+
