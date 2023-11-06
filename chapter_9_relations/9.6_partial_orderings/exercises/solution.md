@@ -238,3 +238,10 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 
 ![problem 9-11](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_9-11.png)
 #### Solution
+
+9) $R = (a,a), (a,b), (a,c), (b,b), (b,d), (c,c), (d,d)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes | Yes | No </br> $(a,b), (b,d) \in R$ but $(a,d) \notin R$ | No |
+
