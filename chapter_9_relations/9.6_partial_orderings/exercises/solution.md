@@ -251,4 +251,9 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 | :------:      | :------:          | :------:      | :------:      |
 | Yes | Yes | No </br> $(c,d), (d,b) \in R$ but $(c,b) \notin R$ | No |
 
+11) $R = (a,a), (a,b), (b,b), (c,c), (d,c), (d,d)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes | Yes | Yes | Yes |
 
