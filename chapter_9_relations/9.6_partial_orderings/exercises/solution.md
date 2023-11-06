@@ -243,5 +243,12 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
+| Yes | Yes | No </br> $(a,b), (b,d) \in R$ but $(a,d) \notin R$ | No |
+
+10) $R = (a,a), (a,b), (a,c), (a,d), (b,b), (c,c), (c,d), (d,b), (d,d)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
 | Yes | Yes | No </br> $(c,d), (d,b) \in R$ but $(c,b) \notin R$ | No |
+
 
