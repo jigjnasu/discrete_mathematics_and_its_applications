@@ -200,7 +200,7 @@ a) $R = (1,1),(1,2),(1,3), (2,1),(2,2), (3,3)$ </br>
 
 | Reflexive     | Anti symmetric    | Transitive    | Partial Order |
 | :------:      | :------:          | :------:      | :------:      |
-| Yes </br> | No </br> $(1,2), (2,1) \in R$ where $1 \ne 2$ | No </br> $(2,1), (1,3) \in R$ but $(2,3) \notin R$ | No |
+| Yes | No </br> $(1,2), (2,1) \in R$ where $1 \ne 2$ | No </br> $(2,1), (1,3) \in R$ but $(2,3) \notin R$ | No |
 
 b) $R = (1,1),(1,2),(1,3), (2,2), (3,3)$ </br>
 
@@ -217,3 +217,9 @@ c) $R = (1,1), (1,2), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </
 
 ![problem 8](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_8.png)
 #### Solution
+
+a) $R = (1,1),(1,3), (2,1),(2,2), (3,3)$ </br>
+
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| :------:      | :------:          | :------:      | :------:      |
+| Yes | Yes | No </br> $(2,1), (1,3) \in R$ but $(2,3) \notin R$ | No |
