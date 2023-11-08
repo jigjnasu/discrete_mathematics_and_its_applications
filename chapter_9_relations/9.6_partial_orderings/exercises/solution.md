@@ -268,3 +268,6 @@ As the $A^{-1}$ has same main diagonal values $\therefore$ it is reflexive. </br
 Suppose $(a,b) \in R^{-1} | a \ne b$ then $(b,a) \in R$, so $(a,b) \notin R$ when $(b,a) \notin R^{-1}$ </br>
 **Transitive** </br>
 If $(a,b), (c,b) \in R^{-1}$, then $(b,a), (c,b) \in R$, so $(c,a) \in R$ and $\therefore$ $(a,c) \in R^{-1}$, Hence proved it's transitive.
+
+![problem 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_13.png)
+#### Solution
