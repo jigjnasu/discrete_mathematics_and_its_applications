@@ -262,8 +262,9 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 
 ![equation](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_12_eq_1.png)
 
-</br>
 **Reflexive** </br> 
-As the $A$ has same main diagonal values $\therefore$ it is reflexive. </br>
+As the $A^{-1}$ has same main diagonal values $\therefore$ it is reflexive. </br>
 **Anti Symmetric** </br> 
-Suppose $(a,b) \in R^{-1} | a \ne b$ then $(b,a) \in R$, so $(a,b) \not in R$ when $(b,a) \notin R^{-1}$ </br>
+Suppose $(a,b) \in R^{-1} | a \ne b$ then $(b,a) \in R$, so $(a,b) \notin R$ when $(b,a) \notin R^{-1}$ </br>
+**Transitive** </br>
+If $(a,b), (c,b) \in R^{-1}$, then $(b,a), (c,b) \in R$, so $(c,a) \in R$ and $\therefore$ $(a,c) \in R^{-1}$, Hence proved it's transitive.
