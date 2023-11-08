@@ -260,4 +260,4 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 ![problem 12](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_12.png)
 #### Solution
 
-![equation](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_12_eqn_1.png)
+![equation](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_12_eq_1.png)
