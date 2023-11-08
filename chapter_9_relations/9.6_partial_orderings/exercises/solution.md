@@ -226,7 +226,7 @@ a) $R = (1,1),(1,3), (2,1),(2,2), (3,3)$ </br>
 
 b) $R = (1,1),(2,2), (1,3), (3,3)$ </br>
 
-| Reflexive     | Anti symmetric    | Transitive    | Partial Order |
+| Reflexive     | Anti symmetric    | Transitive    | Partial Order -|
 | :------:      | :------:          | :------:      | :------:      |
 | Yes | Yes | Yes | Yes |
 
@@ -262,5 +262,6 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 
 ![equation](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_12_eq_1.png)
 
-</br></br>
-*Reflexive* As the $A^{-1}$ has same main diagonal values $\therefore$ it is reflexive.
+</br>
+**Reflexive**:- As the $A^{-1}$ has same main diagonal values $\therefore$ it is reflexive.
+**Anti Symmetric**:- Suppose $(a,b) \in R^{-1} | a \ne b$ then $(b,a) \in R$, so $(a,b) \not in R$ when $(b,a) \notin R^{-1}$
