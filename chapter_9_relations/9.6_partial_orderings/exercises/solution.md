@@ -261,3 +261,6 @@ c) $R = (1,1), (1,3), (2,2), (2,3), (3,3), (3,4), (4,1), (4,2), (4,4)$ </br>
 #### Solution
 
 ![equation](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_12_eq_1.png)
+
+</br></br>
+*Reflexive* As the $A^{-1}$ has same main diagonal values $\therefore$ it is reflexive.
