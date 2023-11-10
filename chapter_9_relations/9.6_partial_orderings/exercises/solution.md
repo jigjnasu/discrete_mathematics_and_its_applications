@@ -271,3 +271,7 @@ If $(a,b), (c,b) \in R^{-1}$, then $(b,a), (c,b) \in R$, so $(c,a) \in R$ and $\
 
 ![problem 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_13.png)
 #### Solution
+
+**a)** $(\lbrace0,1,2\rbrace, \le)$ </br>
+$(\lbrace0,1,2\rbrace, \ge)$ </br>
+$\lbrace(0,0),(1,0),(1,1),(2,0),(2,1),(2,2)\rbrace$
