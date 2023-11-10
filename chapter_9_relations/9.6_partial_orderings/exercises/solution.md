@@ -274,4 +274,15 @@ If $(a,b), (c,b) \in R^{-1}$, then $(b,a), (c,b) \in R$, so $(c,a) \in R$ and $\
 
 **a)** $(\lbrace0,1,2\rbrace, \le)$ </br>
 $(\lbrace0,1,2\rbrace, \ge)$ </br>
-$\lbrace(0,0),(1,0),(1,1),(2,0),(2,1),(2,2)\rbrace$
+$\lbrace(0,0),(1,0),(1,1),(2,0),(2,1),(2,2)\rbrace$ </br>
+
+**b)** $(\mathbb{Z},\ge)$ </br>
+$(\mathbb{Z},\le)$ </br>
+
+**c)** $(P(),\supseteq)$ </br>
+$(P(),\subseteq)$ </br>
+
+**d)** $(\mathbb{Z}^{+},|)$</br>
+$(\mathbb{Z}^{+},"is \; multiple \;of")$
+
+
