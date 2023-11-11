@@ -299,4 +299,6 @@ $(\mathbb{Z}^{+}, |)$
 | (8,16) | Yes | $\frac{16}{8} = 2$ |
 | (7,7) | Yes | $\frac{7}{7} = 1$ |
 
+![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_15.png)
+#### Solution
 
