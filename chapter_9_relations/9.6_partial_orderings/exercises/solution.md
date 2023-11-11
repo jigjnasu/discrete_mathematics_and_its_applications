@@ -314,33 +314,33 @@ $\lbrace6\rbrace, \lbrace8\rbrace$ doesn't divide </br>
 **b)** $\lbrace(3,2),(3,3),(4,1),(4,2),(4,3),(4,4) \rbrace$ </br>
 **c)** </br>
 $(4,4)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(4,3)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(4,2)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(4,1)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(3,4)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(3,3)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(3,2)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(3,1)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(2,4)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(2,3)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(2,2)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(2,1)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(1,4)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(1,3)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(1,2)$ </br>
-$\thickspace\thickspace\thickspace\thickspace |$ </br>
+$\space\space\space\space |$ </br>
 $(1,1)$ </br>
