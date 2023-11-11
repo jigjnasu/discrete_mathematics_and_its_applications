@@ -302,3 +302,8 @@ $(\mathbb{Z}^{+}, |)$
 ![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_15.png)
 #### Solution
 
+**a)** $\lbrace1\rbrace, \lbrace2\rbrace$ both are $\subseteq \lbrace0,1,2\rbrace$ but not $\lbrace1\rbrace \subsetneqq \lbrace2\rbrace$</br>
+
+**b)** $\lbrace4\rbrace, \lbrace6\rbrace$ doesn't divide </br>
+$\lbrace6\rbrace, \lbrace8\rbrace$ doesn't divide </br>
+
