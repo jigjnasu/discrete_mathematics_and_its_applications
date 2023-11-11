@@ -310,3 +310,5 @@ $\lbrace6\rbrace, \lbrace8\rbrace$ doesn't divide </br>
 ![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_16.png)
 #### Solution
 
+**a)** $\lbrace(1,1),(1,2),(1,3),(1,4),(2,1),(2,2) \rbrace$ </br>
+**b)** $\lbrace(3,2),(3,3),(4,1),(4,2),(4,3),(4,4) \rbrace$ </br>
