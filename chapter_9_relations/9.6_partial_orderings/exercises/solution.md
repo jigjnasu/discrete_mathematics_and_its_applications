@@ -344,3 +344,6 @@ $\space\space\space\space |$ </br>
 $(1,2)$ </br>
 $\space\space\space\space |$ </br>
 $(1,1)$ </br>
+
+![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_17.png)
+#### Solution
