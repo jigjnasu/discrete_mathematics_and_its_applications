@@ -347,3 +347,12 @@ $(1,1)$ </br>
 
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_17.png)
 #### Solution
+
+**a)** $(1,1,2), (1,2,1)$ </br>
+First from left $1=1$, second $1<2 \therefore (1,1,2) < (1,2,1)$ </br>
+
+**b)** $(0,1,2,3), (0,1,3,2)$</br>
+First from left $0=0$, second $1=1$, third $2<3 \therefore (0,1,2,3) < (0,1,3,2)$ </br>
+
+**c)** $(1,0,1,0,1), (0,1,1,1,0)$ </br>
+First from left $1 > 0 \therefore (0,1,1,1,0) < (1,0,1,0,1)$ </br>
