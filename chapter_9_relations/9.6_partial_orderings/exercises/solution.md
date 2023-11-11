@@ -288,3 +288,15 @@ $(\mathbb{Z}^{+},"is \; multiple \;of")$
 ![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_14.png)
 #### Solution
 
+$(\mathbb{Z}^{+}, |)$
+
+**a)** </br>
+
+| Pair     | Result    | Note |
+| :------:      | :------:  | :------:  |
+| (5,15) | Yes | $\frac{15}{5} = 3$ |
+| (6,9) | No | 6 doesn't divide 9 completely |
+| (8,16) | Yes | $\frac{16}{8} = 2$ |
+| (7,7) | Yes | $\frac{7}{7} = 1$ |
+
+
