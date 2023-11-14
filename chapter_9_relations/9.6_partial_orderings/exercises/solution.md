@@ -366,3 +366,5 @@ First from left $1 > 0 \therefore (0,1,1,1,0) < (1,0,1,0,1)$ </br>
 
 ![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_19.png)
 #### Solution
+
+$0 < 0001 < 001 < 01 < 010 < 0101 < 011 < 11$ </br>
