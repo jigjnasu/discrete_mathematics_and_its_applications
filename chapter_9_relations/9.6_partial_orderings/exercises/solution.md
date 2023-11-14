@@ -384,3 +384,8 @@ $0 < 0001 < 001 < 01 < 010 < 0101 < 011 < 11$ </br>
 
 **a)** </br>
 ![solution 22 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_22_a.png)
+</br>
+
+**b)** </br>
+![solution 22 b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_22_b.png)
+</br>
