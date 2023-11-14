@@ -363,3 +363,6 @@ First from left $1 > 0 \therefore (0,1,1,1,0) < (1,0,1,0,1)$ </br>
 **a)**  *quack*, *quacking*, *quick*, *quicksand*, *quicksilver* </br>
 **b)**  *open*, *opened*, *opener*, *opera*, *operand*  </br>
 **c)**  *zero*, *zoo*, *zoology*, *zoological*, *zoom*  </br>
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_19.png)
+#### Solution
