@@ -356,3 +356,10 @@ First from left $0=0$, second $1=1$, third $2<3 \therefore (0,1,2,3) < (0,1,3,2)
 
 **c)** $(1,0,1,0,1), (0,1,1,1,0)$ </br>
 First from left $1 > 0 \therefore (0,1,1,1,0) < (1,0,1,0,1)$ </br>
+
+![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_18.png)
+#### Solution
+
+**a)**  *quack*, *quacking*, *quick*, *quicksand*, *quicksilver* </br>
+**b)**  *open*, *opened*, *opener*, *opera*, *operand*  </br>
+**c)**  *zero*, *zoo*, *zoology*, *zoological*, *zoom*  </br>
