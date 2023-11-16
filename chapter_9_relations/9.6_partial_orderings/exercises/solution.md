@@ -416,3 +416,6 @@ $0 < 0001 < 001 < 01 < 010 < 0101 < 011 < 11$ </br>
 **d)** </br>
 ![solution 23 d](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_23_d.png)
 </br>
+
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_24.png)
+#### Solution
