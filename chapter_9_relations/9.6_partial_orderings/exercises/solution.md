@@ -448,3 +448,5 @@ $(e,e)$ </br>
 $(f,f)$ </br>
 $(g,d),(g,e),(g,f),(g,g)$ </br>
 
+![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_28.png)
+#### Solution
