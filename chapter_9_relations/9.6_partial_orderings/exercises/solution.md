@@ -462,3 +462,6 @@ $(1,2), (1,3), (2,4), (2,6), (3,6), (4,12), (6,12)$ </br>
 #### Solution
 
 $(\lbrace \phi, a \rbrace), (\lbrace \phi, b \rbrace), (\lbrace \phi, c \rbrace), (\lbrace a, ab \rbrace), (\lbrace a, ac \rbrace), (\lbrace b, ab \rbrace), (\lbrace b, bc \rbrace), (\lbrace c, ac \rbrace), (\lbrace c, bc \rbrace), (\lbrace ab, abc \rbrace), (\lbrace ac, abc \rbrace), (\lbrace bc, abc \rbrace)$
+
+![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_30.png)
+#### Solution
