@@ -450,3 +450,10 @@ $(g,d),(g,e),(g,f),(g,g)$ </br>
 
 ![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_28.png)
 #### Solution
+
+**Covering Relation** </br>
+A pair $x,y$ in a poset satisfy the covering relation if $x \prec y$ but there is no $z$ such that $x \prec z \prec y$. </br>
+
+$(1,4)$ is not a covering relation as $(1,2), (2,4)$ where $1 \prec 2 \prec 4$ </br>
+Covering relations are </br>
+$(1,2), (1,3), (2,4), (2,6), (3,6), (4,12), (6,12)$ </br>
