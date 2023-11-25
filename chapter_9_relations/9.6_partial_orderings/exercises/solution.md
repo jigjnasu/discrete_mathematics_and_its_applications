@@ -466,9 +466,13 @@ $(\lbrace \phi, a \rbrace), (\lbrace \phi, b \rbrace), (\lbrace \phi, c \rbrace)
 ![problem 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_30.png)
 #### Solution
 
-A pair can de defined as $(A,C)$ where $A = $ authority level and $C = Category$ </br>
+A pair can de defined as $(A,C)$ where $A =$ authority level and $C = Category$ </br>
 We have following authorities </br>
 $0 = unclassified$ </br>
 $1 = confidential$ </br>
 $2 = secret$ </br>
 $3 = top \space secret$ </br>
+We have following categories </br>
+$s = spies$ </br>
+$m = moles$ </br>
+$d = double \space agents$ </br>
