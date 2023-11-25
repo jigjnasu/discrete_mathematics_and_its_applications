@@ -478,4 +478,6 @@ $m = moles$ </br>
 $d = double \space agents$ </br>
 The following are the covering relations </br>
 $(0, \phi) \prec (0, \lbrace s \rbrace), (0, \phi) \prec (0, \lbrace m \rbrace), (0, \phi) \prec (0, \lbrace d \rbrace)$ </br>
-$(0, \lbrace s \rbrace) \prec (0, \lbrace s,m\rbrace), (0, \lbrace s \rbrace) \prec (0, \lbrace s,d\rbrace)$
+$(0, \lbrace s \rbrace) \prec (0, \lbrace s,m\rbrace), (0, \lbrace s \rbrace) \prec (0, \lbrace s,d\rbrace)$ </br>
+$(0, \lbrace m \rbrace) \prec (0, \lbrace s,m\rbrace), (0, \lbrace m \rbrace) \prec (0, \lbrace m,d\rbrace)$ </br>
+$(0, \lbrace d \rbrace) \prec (0, \lbrace s,d\rbrace), (0, \lbrace d \rbrace) \prec (0, \lbrace m,d\rbrace)$ </br>
