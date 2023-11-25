@@ -482,3 +482,4 @@ $(0, \lbrace s \rbrace) \prec (0, \lbrace s,m\rbrace), (0, \lbrace s \rbrace) \p
 $(0, \lbrace m \rbrace) \prec (0, \lbrace s,m\rbrace), (0, \lbrace m \rbrace) \prec (0, \lbrace m,d\rbrace)$ </br>
 $(0, \lbrace d \rbrace) \prec (0, \lbrace s,d\rbrace), (0, \lbrace d \rbrace) \prec (0, \lbrace m,d\rbrace)$ </br>
 $(0, \lbrace s,m \rbrace) \prec (0, \lbrace s,m,d \rbrace), (0, \lbrace s,d \rbrace) \prec (0, \lbrace s,m,d \rbrace), (0, \lbrace m,d \rbrace) \prec (0, \lbrace s,m,d \rbrace)$ </br>
+Replace 0 with 1 and 2 will generate another 36 relations and 8 relations of each of the following where $(0,C) \rec (1, C), (1, C), \prec (2,C), (2,C) \prec (3,C) \subseteq \lbrace s,m,d \rbrace $. In total we have 72 relations. </br>
