@@ -476,3 +476,5 @@ We have following categories </br>
 $s = spies$ </br>
 $m = moles$ </br>
 $d = double \space agents$ </br>
+The following are the covering relations </br>
+$(0, \phi) \prec (0, \lbrace s \rbrace)$
