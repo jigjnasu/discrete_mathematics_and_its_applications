@@ -542,3 +542,5 @@ Lower bounds of $\lbrace 15,45 \rbrace$ is $\lbrace 3,5, 15 \rbrace$, because $\
 **h)** </br>
 Greatest lower bound of $\lbrace 15,45 \rbrace$ is $\lbrace 45 \rbrace$ as $\lbrace 3,5 \rbrace \prec \lbrace 15 \rbrace \prec \lbrace 45 \rbrace$. </br> 
 
+![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_34.png) </br>
+#### Solution
