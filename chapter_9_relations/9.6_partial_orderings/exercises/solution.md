@@ -498,7 +498,7 @@ be such a longest sequence. </br>
 Then no intermediate elements can be inserted into this sequence (to do so would lengthen it), so each pair $(a,a_1), (a_1 ,a_2), ... , (a_n,b)$ is in the covering relation, so again $(a,b)$ is in its reflexive transitive closure.  </br>
 Hence proved </br>
 
-![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_32.png)
+![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_32.png) </br>
 ![problem 32 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_32_a.png)
 #### Solution
 
