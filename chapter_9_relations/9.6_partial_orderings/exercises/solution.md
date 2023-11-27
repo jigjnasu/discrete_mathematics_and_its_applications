@@ -526,9 +526,13 @@ Hasse diagram  </br>
 ![solution 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_33.png) </br>
 
 **a)** </br>
+$24, 45$ as there is no $x$ which follows $24$ and $45$. </br>
 **b)** </br>
+$3, 5$ as there is no $x$ which precedes $3$ and $5$. </br>
 **c)** </br>
+As $24$ and $45$ both are maximal elements therefore we don't have any greatest element. </br>
 **d)** </br>
+As $3$ and $5$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
 **f)** </br>
 **g)** </br>
