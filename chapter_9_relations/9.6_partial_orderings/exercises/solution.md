@@ -490,10 +490,10 @@ Replace 0 with 1 and 2 will generate another 36 relations and 8 relations of eac
 Let $(S, \preceq)$ be a finite poset. </br>
 Let this poset is just the reflexive transitive closure of its covering relation. </br>
 Suppose that $(a, b)$ is in the reflexive transitive closure of the covering relation. </br>
-Then either $a = b$ or $a \prec b$ (in which cases certainly $a \preceq b$) or else there is a sequence $a \prec a_1 \prec a_2 \prec ... \prec a_n \prec b$, in which case again $a \preceq b$, by the transitivity of $\preceq$ Conversely, suppose that $a \preceq b$. If $a = b$, then $(a, b)$ is certainly
-in the reflexive transitive closure of the covering relation. If $a \prec b$ and there is no z such that $a \prec z \prec b$,
-then $(a, b,)$ is in the covering relation and again therefore in its reflexive transitive closure. Otherwise, let
-$a \prec a_1 \prec a_2 \prec ... \prec a_n \prec b$ be a longest possible sequence of this form; since the poset is finite, there must
-be such a longest sequence. Then no intermediate elements can be inserted into this sequence (to do so would
-lengthen it), so each pair $(a,a_1), (a_1 ,a_2), ... , (an,b)$ is in the covering relation, so again $(a,b)$ is in its
-reflexive transitive closure. This completes the proof.
+Then either $a = b$ or $a \prec b$ (in which cases certainly $a \preceq b$) or else there is a sequence $a \prec a_1 \prec a_2 \prec ... \prec a_n \prec b$,in which case again $a \preceq b$, by the transitivity of $\preceq$ Conversely, suppose that $a \preceq b$. If $a = b$, then $(a, b)$ is certainly
+in the reflexive transitive closure of the covering relation. If $a \prec b$ and there is no $z$ such that $a \prec z \prec b$,
+then $(a, b,)$ is in the covering relation and again $\therefore$ in its reflexive transitive closure. </br> 
+Otherwise, let $a \prec a_1 \prec a_2 \prec ... \prec a_n \prec b$ be a longest possible sequence of this form; since the poset is finite, there must
+be such a longest sequence. </br>
+Then no intermediate elements can be inserted into this sequence (to do so would lengthen it), so each pair $(a,a_1), (a_1 ,a_2), ... , (a_n,b)$ is in the covering relation, so again $(a,b)$ is in its reflexive transitive closure.  </br>
+Hence proved </br>
