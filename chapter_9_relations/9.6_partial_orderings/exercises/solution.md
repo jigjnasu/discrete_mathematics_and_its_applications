@@ -544,3 +544,14 @@ Greatest lower bound of $\lbrace 15,45 \rbrace$ is $\lbrace 45 \rbrace$ as $\lbr
 
 ![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_34.png) </br>
 #### Solution
+
+![solution 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_34.png) </br>
+
+**a)** </br>
+**b)** </br>
+**c)** </br>
+**d)** </br>
+**e)** </br>
+**f)** </br>
+**g)** </br>
+**h)** </br>
