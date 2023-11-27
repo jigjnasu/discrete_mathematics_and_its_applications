@@ -550,6 +550,7 @@ Greatest lower bound of $\lbrace 15,45 \rbrace$ is $\lbrace 45 \rbrace$ as $\lbr
 **a)** </br>
 $27,48,60,72$ as there is no $x$ which follows $27, 48, 60$ and $72$. </br>
 **b)** </br>
+$2, 9$ as there is no $x$ which precedes $2$ and $9$. </br>
 **c)** </br>
 **d)** </br>
 **e)** </br>
