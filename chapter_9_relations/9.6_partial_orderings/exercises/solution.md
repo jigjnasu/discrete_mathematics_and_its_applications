@@ -522,4 +522,14 @@ There is no greatest lower bound as there is no lower bounds for $\lbrace f,g,h 
 ![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_33.png) </br>
 #### Solution
 
+Hasse diagram  </br>
+![solution 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_33.png) </br>
 
+**a)** </br>
+**b)** </br>
+**c)** </br>
+**d)** </br>
+**e)** </br>
+**f)** </br>
+**g)** </br>
+**h)** </br>
