@@ -484,3 +484,5 @@ $(0, \lbrace d \rbrace) \prec (0, \lbrace s,d\rbrace), (0, \lbrace d \rbrace) \p
 $(0, \lbrace s,m \rbrace) \prec (0, \lbrace s,m,d \rbrace), (0, \lbrace s,d \rbrace) \prec (0, \lbrace s,m,d \rbrace), (0, \lbrace m,d \rbrace) \prec (0, \lbrace s,m,d \rbrace)$ </br>
 Replace 0 with 1 and 2 will generate another 36 relations and 8 relations of each of the following where $(0,C) \prec (1, C), (1, C), \prec (2,C), (2,C) \prec (3,C) \subseteq \lbrace s,m,d \rbrace $. In total we have 72 relations. </br>
 
+![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_31.png)
+#### Solution
