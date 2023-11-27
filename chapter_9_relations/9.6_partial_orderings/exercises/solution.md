@@ -534,7 +534,8 @@ As $24$ and $45$ both are maximal elements therefore we don't have any greatest 
 **d)** </br>
 As $3$ and $5$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
-All upper bounds of $\lbrace 3,5 \rbrace$ are $\lbrace 15, 45 \rbrace$, it also means needs to find out numbers which is divided by both $3$ and $5$. </br>
+All upper bounds of $\lbrace 3,5 \rbrace$ are $\lbrace 15, 45 \rbrace$, as $\lbrace 3,5 \rbrace \prec \lbrace 15, 45 \rbrace$,  it also means needs to find out numbers which is divided by both $3$ and $5$. </br>
 **f)** </br>
+Least upper bounds of $\lbrace 3,5 \rbrace$ is $\lbrace 15 \rbrace$ as $\lbrace 3,5 \rbrace \prec \lbrace 45 \rbrace$. </br>
 **g)** </br>
 **h)** </br>
