@@ -502,3 +502,15 @@ Hence proved </br>
 ![problem 32 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_32_a.png)
 #### Solution
 
+**a)** </br>
+$l, m$ </br>
+**b)** </br>
+$a,b,c$ </br>
+**c)** </br>
+As $l$ and $m$ are on the same top position, $\therefore$ there is **no** greatest element. </br>
+**d)** </br>
+As $a,b$ and $c$ are on the bottom position, $\therefore$ there is **no** least element. </br>
+**e)** </br>
+Upper bounds of $\lbrace a,b,c \rbrace$ are $\lbrace k,l,m \rbrace$ because $\lbrace a,b,c \rbrace \prec \lbrace k,l,m \rbrace $. </br>
+**f)** </br>
+Least upper bound of $\lbrace a,b,c \rbrace$ is $k$ as $\lbrace a,b,c \rbrace \prec l \prec \lbrace l,m \rbrace$ 
