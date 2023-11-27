@@ -518,3 +518,8 @@ Least upper bound of $\lbrace a,b,c \rbrace$ is $k$ as $\lbrace a,b,c \rbrace \p
 There are no lower bounds of $\lbrace f,g,h \rbrace$ as there is no $x$ element which $x \prec \lbrace f,g,h \rbrace$, where $x \in A$ </br>
 **h)** </br>
 There is no greatest lower bound as there is no lower bounds for $\lbrace f,g,h \rbrace$ as mentioned in **g)** . </br>
+
+![problem 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_33.png) </br>
+#### Solution
+
+
