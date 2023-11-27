@@ -513,4 +513,8 @@ As $a,b$ and $c$ are on the bottom position, $\therefore$ there is **no** least 
 **e)** </br>
 Upper bounds of $\lbrace a,b,c \rbrace$ are $\lbrace k,l,m \rbrace$ because $\lbrace a,b,c \rbrace \prec \lbrace k,l,m \rbrace $. </br>
 **f)** </br>
-Least upper bound of $\lbrace a,b,c \rbrace$ is $k$ as $\lbrace a,b,c \rbrace \prec l \prec \lbrace l,m \rbrace$ 
+Least upper bound of $\lbrace a,b,c \rbrace$ is $k$ as $\lbrace a,b,c \rbrace \prec k \prec \lbrace l,m \rbrace$. </br>
+**g)** </br>
+There are no lower bounds of $\lbrace f,g,h \rbrace$ as there is no $x$ element which $x \prec \lbrace f,g,h \rbrace$, where $x \in A$ </br>
+**h)** </br>
+There is no greatest lower bound as there is no lower bounds for $\lbrace f,g,h \rbrace$ as mentioned in **g)** . </br>
