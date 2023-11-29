@@ -556,6 +556,8 @@ As $27,48,60$ and $72$ maximal elements therefore we don't have any greatest ele
 **d)** </br>
 As $2$ and $9$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
+All upper bounds of $\lbrace 2,9 \rbrace$ are $\lbrace 18,36,72 \rbrace$, as $\lbrace 2,9 \rbrace \prec \lbrace 18,36,72 \rbrace$,  it also means needs to find out numbers which is divided by both $2$ and $9$. </br>
 **f)** </br>
+Least upper bounds of $\lbrace 2,9 \rbrace$ is $\lbrace 18 \rbrace$ as $\lbrace 2,9 \rbrace \prec \lbrace 18 \rbrace \prec \lbrace 36,72 \rbrace$. </br>
 **g)** </br>
 **h)** </br>
