@@ -568,3 +568,13 @@ Greatest lower bound of $\lbrace 60,72 \rbrace$ is $\lbrace 12 \rbrace$ as $\lbr
 #### Solution
 
 ![solution 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_35.png) </br>
+
+**a)** </br>
+$\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace$ as there is no $x$ which follows $\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace$ and $\lbrace 2,3,4 \rbrace$. </br>
+**b)** </br>
+**c)** </br>
+**d)** </br>
+**e)** </br>
+**f)** </br>
+**g)** </br>
+**h)** </br>
