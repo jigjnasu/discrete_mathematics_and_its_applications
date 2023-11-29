@@ -552,7 +552,9 @@ $27,48,60,72$ as there is no $x$ which follows $27, 48, 60$ and $72$. </br>
 **b)** </br>
 $2, 9$ as there is no $x$ which precedes $2$ and $9$. </br>
 **c)** </br>
+As $27,48,60$ and $72$ maximal elements therefore we don't have any greatest element. </br>
 **d)** </br>
+As $2$ and $9$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
 **f)** </br>
 **g)** </br>
