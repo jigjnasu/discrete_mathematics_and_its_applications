@@ -585,3 +585,6 @@ Least upper bounds of $\lbrace 2 \rbrace, \lbrace 4 \rbrace$ is $\lbrace 2,4 \rb
 Lower bounds of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$ are $\lbrace \lbrace 4 \rbrace, \lbrace 3,4 \rbrace \rbrace$, because $\lbrace \lbrace 4 \rbrace, \lbrace 3,4 \rbrace \rbrace$ $\preceq$ $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$. </br>
 **h)** </br>
 Greatest lower bound of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$ is $\lbrace 3,4 \rbrace$ as $\lbrace 4 \rbrace \prec \lbrace 3,4 \rbrace \prec \lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$. </br> 
+
+![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_36.png) </br>
+#### Solution
