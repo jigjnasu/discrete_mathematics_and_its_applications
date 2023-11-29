@@ -564,3 +564,5 @@ Lower bounds of $\lbrace 60,72 \rbrace$ are $\lbrace 2,4,6,12 \rbrace$, because 
 **h)** </br>
 Greatest lower bound of $\lbrace 60,72 \rbrace$ is $\lbrace 12 \rbrace$ as $\lbrace 2,4,6 \rbrace \prec \lbrace 12 \rbrace \prec \lbrace 60,72 \rbrace$. </br> 
 
+![problem 35](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_35.png) </br>
+#### Solution
