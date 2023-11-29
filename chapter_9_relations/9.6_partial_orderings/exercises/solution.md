@@ -540,7 +540,7 @@ Least upper bounds of $\lbrace 3,5 \rbrace$ is $\lbrace 15 \rbrace$ as $\lbrace 
 **g)** </br>
 Lower bounds of $\lbrace 15,45 \rbrace$ is $\lbrace 3,5, 15 \rbrace$, because $\lbrace 3,5,15 \rbrace \preceq \lbrace 15,45 \rbrace$, or in other terms we need to find out numbers which are dividing both $15$ and $45$. </br>
 **h)** </br>
-Greatest lower bound of $\lbrace 15,45 \rbrace$ is $\lbrace 45 \rbrace$ as $\lbrace 3,5 \rbrace \prec \lbrace 15 \rbrace \prec \lbrace 45 \rbrace$. </br> 
+Greatest lower bound of $\lbrace 15,45 \rbrace$ is $\lbrace 45 \rbrace$ as $\lbrace 3,5 \rbrace \prec \lbrace 15 \rbrace \prec \lbrace 15,45 \rbrace$. </br> 
 
 ![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_34.png) </br>
 #### Solution
@@ -560,4 +560,7 @@ All upper bounds of $\lbrace 2,9 \rbrace$ are $\lbrace 18,36,72 \rbrace$, as $\l
 **f)** </br>
 Least upper bounds of $\lbrace 2,9 \rbrace$ is $\lbrace 18 \rbrace$ as $\lbrace 2,9 \rbrace \prec \lbrace 18 \rbrace \prec \lbrace 36,72 \rbrace$. </br>
 **g)** </br>
+Lower bounds of $\lbrace 60,72 \rbrace$ are $\lbrace 2,4,6,12 \rbrace$, because $\lbrace 2,4,6,12 \rbrace \preceq \lbrace 60,72 \rbrace$, or in other terms we need to find out numbers which are dividing both $60$ and $72$. </br>
 **h)** </br>
+Greatest lower bound of $\lbrace 60,72 \rbrace$ is $\lbrace 12 \rbrace$ as $\lbrace 2,4,6 \rbrace \prec \lbrace 12 \rbrace \prec \lbrace 60,72 \rbrace$. </br> 
+
