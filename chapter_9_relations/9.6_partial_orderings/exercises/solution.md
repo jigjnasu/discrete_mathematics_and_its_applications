@@ -572,9 +572,11 @@ Greatest lower bound of $\lbrace 60,72 \rbrace$ is $\lbrace 12 \rbrace$ as $\lbr
 **a)** </br>
 $\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace$ as there is no $x$ which follows $\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace$ and $\lbrace 2,3,4 \rbrace$. </br>
 **b)** </br>
-$\lbrace 1 \rbrace, \lbrace 2 \rbrace, \lbrace 4 \rbrace$ as there is no $x$ which follows $\lbrace 1 \rbrace, \lbrace 2 \rbrace$ and $\lbrace 4 \rbrace$. </br>
+$\lbrace 1 \rbrace, \lbrace 2 \rbrace, \lbrace 4 \rbrace$ as there is no $x$ which precedes $\lbrace 1 \rbrace, \lbrace 2 \rbrace$ and $\lbrace 4 \rbrace$. </br>
 **c)** </br>
+As $\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace$ maximal elements therefore we don't have any greatest element. </br>
 **d)** </br>
+As $\lbrace 1 \rbrace, \lbrace 2 \rbrace, \lbrace 4 \rbrace$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
 **f)** </br>
 **g)** </br>
