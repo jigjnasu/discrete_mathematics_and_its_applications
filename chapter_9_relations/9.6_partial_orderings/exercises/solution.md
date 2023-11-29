@@ -584,3 +584,4 @@ Least upper bounds of $\lbrace 2 \rbrace, \lbrace 4 \rbrace$ is $\lbrace 2,4 \rb
 **g)** </br>
 Lower bounds of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$ are $\lbrace \lbrace 4 \rbrace, \lbrace 3,4 \rbrace \rbrace$, because $\lbrace \lbrace 4 \rbrace, \lbrace 3,4 \rbrace \rbrace$ $\preceq$ $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$. </br>
 **h)** </br>
+Greatest lower bound of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$ is $\lbrace 3,4 \rbrace$ as $\lbrace 4 \rbrace \prec \lbrace 3,4 \rbrace \prec \lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$. </br> 
