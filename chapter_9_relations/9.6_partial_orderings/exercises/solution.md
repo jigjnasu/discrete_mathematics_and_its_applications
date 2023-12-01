@@ -612,3 +612,7 @@ and $(c,d) \prec (e,f)$ where $c \prec e$ or $c = e$ and $d \prec f$. </br>
 As $a \prec c$ and $c \prec e \therefore a \prec e$ and $b \prec d$ and $d \prec f \therefore b \prec f$. </br>
 And we can write $(a,b) \prec (e,f)$, hence it is proved to be a transitive relation. </br>
 As this is reflexive, anti symmetric and transitive, it is a poset. </br>
+
+![problem 38](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_38.png) </br>
+#### Solution
+
