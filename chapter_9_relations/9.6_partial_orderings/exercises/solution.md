@@ -578,7 +578,7 @@ As $\lbrace 1,2 \rbrace, \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace$ maximal e
 **d)** </br>
 As $\lbrace 1 \rbrace, \lbrace 2 \rbrace, \lbrace 4 \rbrace$ both are minimal elements therefore we don't have any least element. </br>
 **e)** </br>
-All upper bounds of $\lbrace \lbrace 2 \rbrace, \lbrace 4 \rbrace \rbrace $ are $\lbrace 2,4 \rbrace$ and $\lbrace 2,3,4 \rbrace$, as $\lbrace \lbrace 2 \rbrace, \lbrace 4 \rbrace \prec \lbrace 2,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$.</br>
+All upper bounds of $\lbrace \lbrace 2 \rbrace, \lbrace 4 \rbrace \rbrace$ are $\lbrace 2,4 \rbrace$ and $\lbrace 2,3,4 \rbrace$, as $\lbrace \lbrace 2 \rbrace, \lbrace 4 \rbrace \prec \lbrace 2,4 \rbrace, \lbrace 2,3,4 \rbrace \rbrace$.</br>
 **f)** </br>
 Least upper bounds of $\lbrace 2 \rbrace, \lbrace 4 \rbrace$ is $\lbrace 2,4 \rbrace$ as $\lbrace \lbrace 2 \rbrace, \lbrace 4 \rbrace \rbrace \prec \lbrace 2,4 \rbrace \prec \lbrace 2,3,4 \rbrace$. </br>
 **g)** </br>
@@ -588,3 +588,4 @@ Greatest lower bound of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \r
 
 ![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_36.png) </br>
 #### Solution
+
