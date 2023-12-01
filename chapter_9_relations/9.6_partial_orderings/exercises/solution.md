@@ -600,3 +600,15 @@ From first two we look at the set of integers under “is less than or equal to.
 
 ![problem 37](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_37.png) </br>
 #### Solution
+
+A lexigraphy order, if it is reflexive, anti symmetric and transitive then it is a poset. </br>
+
+As $(a,b) \preceq (a,b) $ is true $\therefore$ it is reflexive. </br>
+Let $(a,b) \preceq (c,d)$ where $(a,b) \neq (c,d)$ then $(c,d) \not \preceq (a,b)$, as by definition of lexigraphy, as $(a,b) \prec (c, d)$ means </br>
+$a \prec c$ or $a = c$ and $b \prec d$, as we know $c \not \prec a$ and $d \not \prec b$ and we cannot have $(c,d) \prec (a,b) \therefore$ it is anti symmetric. </br>
+We need to prove $(a,b) \prec (c,d) \prec (e,f)$ for transitivity. </br>
+Let $(a,b) \prec (c,d)$ where $a \prec c$ or $a == c$ and $b \prec d$. </br>
+and $(c,d) \prec (e,f)$ where $c \prec e$ or $c == e$ and $d \prec f$. </br>
+As $a \prec c$ and $c \prec e \therefore a \prec e$ and $b \prec d$ and $d \prec f \therefore b \prec f$. </br>
+And we can write $(a,b) \prec (e,f)$, hence it is proved to be a transitive relation. </br>
+As this is reflexive, anti symmetric and transitive, it is a poset. </br>
