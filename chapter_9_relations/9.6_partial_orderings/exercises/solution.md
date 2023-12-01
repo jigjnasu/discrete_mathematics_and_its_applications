@@ -597,3 +597,6 @@ For example the natural numbers under “is greater than or equal to”</br>
 
 **c)** </br>
 From first two we look at the set of integers under “is less than or equal to.” Clearly there are no maximal or minimal elements. </br>
+
+![problem 37](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_37.png) </br>
+#### Solution
