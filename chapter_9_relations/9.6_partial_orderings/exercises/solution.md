@@ -589,3 +589,11 @@ Greatest lower bound of $\lbrace \lbrace 1,3,4 \rbrace, \lbrace 2,3,4 \rbrace \r
 ![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_36.png) </br>
 #### Solution
 
+**a)** </br>
+For example the natural numbers under "is less than or equal to" Here 1 is the minimal element, and there are no maximal elements. </br>
+
+**b)** </br>
+For example the natural numbers under “is greater than or equal to”</br>
+
+**c)** </br>
+From first two we look at the set of integers under “is less than or equal to.” Clearly there are no maximal or minimal elements. </br>
