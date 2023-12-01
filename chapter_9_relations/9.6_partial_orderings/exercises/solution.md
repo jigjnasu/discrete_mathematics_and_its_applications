@@ -628,3 +628,6 @@ For it is to be poset lexographic ordered strings have to be reflexive, anti sym
 As by definiton $a_{1}a_{2}a_{3}...a_{n} \preceq a_{1}a_{2}a_{3}...a_{n} \therefore$ it is reflexive. </br>
 Let $a_{1}a_{2}a_{3}...a_{n} \prec b_{1}b_{2}b_{3}...b_{n}$ and $b_{1}b_{2}b_{3}...b_{n} \not \prec a_{1}a_{2}a_{3}...a_{n}$ where  $a_{1}a_{2}a_{3}...a_{n} \neq b_{1}b_{2}b_{3}...b_{n}$ </br>
 Because $a_{1} \prec b_{1}$ and $b_{1} \not \prec a_{1}$ by defintion $\therefore$ it is anti symmetric. </br>
+Let $a_{1}a_{2}a_{3}...a_{n} \prec b_{1}b_{2}b_{3}...b_n$ and $b_{1}b_{2}b_{3}...b_{n} \prec c_{1}c_{2}c_{3}...c_n$. </br>
+Then $a_{1}a_{2}a_{3}...a_{n} \prec c_{1}c_{2}c_{3}...c_n$ because $a_{1} \prec b_{1}$ and $b_{1} \prec c_{1}$ then $a_{1} \prec c_{1}$ by defintion above. </br>
+In this way it is transitive as well. Hence it is proved lexographic order of strings are posets. </br>
