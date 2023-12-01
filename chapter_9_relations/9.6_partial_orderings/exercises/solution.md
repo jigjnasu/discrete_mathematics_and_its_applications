@@ -617,13 +617,14 @@ As this is reflexive, anti symmetric and transitive, it is a poset. </br>
 #### Solution
 
 Let $a_{1}a_{2}a_{3}...a_{n}$ and $b_{1}b_{2}b_{3}...b_n$ are two strings. </br>
-If these two string sare lexographically sorted where $a_{1}a_{2}a{3}...a_{n} \prec b_{1}b_{2}b{3}...b_{n}$. </br>
+If these two strings are lexographically sorted where $a_{1}a_{2}a{3}...a_{n} \prec b_{1}b_{2}b{3}...b_{n}$. </br>
 $a_{1} \prec b_{1}$ or $a_{1} = b_{1}$ and </br>
 $a_{2} \prec b_{2}$ or $a_{2} = b_{2}$ and </br>
 $a_{3} \prec b_{3}$ or $a_{3} = b_{3}$ and </br>
 ... </br>
-$a_{n} \prec b_{n}$ or $a_{n} = b_{n}$ and </br>
+$a_{n} \prec b_{n}$ </br>
 
 For it is to be poset lexographic ordered strings have to be reflexive, anti symmetric and transitive. </br>
 As by definiton $a_{1}a_{2}a_{3}...a_{n} \preceq a_{1}a_{2}a_{3}...a_{n} \therefore$ it is reflexive. </br>
-Let $a_{1}a_{2}a_{3}...a_{n} \prec b_{1}b_{2}b_{3}...b_{n}$ and $b_{1}b_{2}b_{3}...b_{n} \not \prec a_{1}a_{2}a_{3}...a_{n}$. </br>
+Let $a_{1}a_{2}a_{3}...a_{n} \prec b_{1}b_{2}b_{3}...b_{n}$ and $b_{1}b_{2}b_{3}...b_{n} \not \prec a_{1}a_{2}a_{3}...a_{n}$ where  $a_{1}a_{2}a_{3}...a_{n} \neq b_{1}b_{2}b_{3}...b_{n}$ </br>
+Because $a_{1} \prec b_{1}$ and $b_{1} \not \prec a_{1}$ by defintion $\therefore$ it is anti symmetric. </br>
