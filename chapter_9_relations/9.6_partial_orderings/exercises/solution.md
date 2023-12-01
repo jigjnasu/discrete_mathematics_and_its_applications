@@ -616,3 +616,14 @@ As this is reflexive, anti symmetric and transitive, it is a poset. </br>
 ![problem 38](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_38.png) </br>
 #### Solution
 
+Let $a_1a_2a_a_3...a_n$ and $b_1b_2b_b_3...b_n$ are two strings. </br>
+If these two string sare lexographically sorted where $a_1a_2a_a3...a_n \prec b_1b_2b_b3...b_n$. </br>
+$a_1 \prec b_1$ or $a_1 = b_1$ and </br>
+$a_2 \prec b_2$ or $a_2 = b_2$ and </br>
+$a_3 \prec b_3$ or $a_3 = b_3$ and </br>
+... </br>
+$a_n \prec b_n$ or $a_n = b_n$ and </br>
+
+For it is to be poset lexographic ordered strings have to be reflexive, anti symmetric and transitive. </br>
+As by definiton $a_1a_2a_a_3...a_n \preceq a_1a_2a_3...a_n \therefore$ it is reflexive. </br>
+Let $a_1a_2a_a_3...a_n \prec b_1b_2b_3...b_n$ and $b_1b_2b_3...b_n \not \prec a_1a_2a_a_3...a_n$. </br>
