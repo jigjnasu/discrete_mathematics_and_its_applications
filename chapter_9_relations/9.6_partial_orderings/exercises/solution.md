@@ -634,3 +634,7 @@ In this way it is transitive as well. Hence it is proved lexigraphic order of st
 
 ![problem 39](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_39.png) </br>
 #### Solution
+
+For showing $(S,T, \preceq)$ are posets, we need to show $\preceq$ is reflexive, anti symmetric and transitive. </br>
+**Reflexive** As $s \preceq_{1}s$ and $t \preceq_{2}t$ by reflexivity of these partial orders, $(s,t) \prec (s,t)$ by definition. </br>
+**Anti Symmetric** Assume that $(s,t) \preceq (u,v)$ and $(u,v) \preceq (s,t)$. By definition $s \preceq_{1}$
