@@ -642,3 +642,6 @@ By anti symmetry we conclude that $s=u$ and $t=v$, when $(s,t)=(u,v)$.
 **Transitive** Suppose $(s,t) \preceq (u,v) \preceq (w,x)$. It implies $s \preceq_1 u \preceq_{1} w$ and $t \preceq_2 v \preceq_{1} x$. </br>
 This transitivity of the partial orders tells us that $s \preceq_{1} w$ and $t \preceq_{1} x$ when by definition $(s,t) \preceq (w,x)$. </br>
 Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
+
+![problem 40](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_40.png) </br>
+#### Solution
