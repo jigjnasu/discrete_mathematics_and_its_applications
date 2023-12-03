@@ -651,3 +651,6 @@ Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
 
 ![problem 41](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_41.png) </br>
 #### Solution
+
+**a)** Let $m_1$ and $m_2$ are two maximal elements with $g$ as greatest element. Since $g$ is greatest it means $m_1 \preceq g$ and $m_2 \preceq g$. But since $m_1$ is maximal it means $m_1 = m_2 = g$. </br>
+**b)** Let $m_1$ and $m_2$ are two minimal elements with $l$ as least element. Since $l$ is least it means $l \preceq m_1$ and $l \preceq m_2$. But since $m_1$ is minimal it means $m_1 = m_2 = l$. </br>
