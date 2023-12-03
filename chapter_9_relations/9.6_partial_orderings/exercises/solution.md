@@ -658,3 +658,5 @@ Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
 ![problem 42](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_42.png) </br>
 #### Solution
 
+**a)** Let $u_1$ and $u_2$ are least upper bounds of a partial order, and by definition $u_1 \preceq u_2$ and $u_2 \preceq u_1$ whence $u_1 = u_2$. </br>
+**b)** Let $l_1$ and $l_2$ are greatest lower bounds of a partial order, and by definition $l_1 \preceq l_2$ and $l_2 \preceq u_1$ whence $l_1 = l_2$. </br>
