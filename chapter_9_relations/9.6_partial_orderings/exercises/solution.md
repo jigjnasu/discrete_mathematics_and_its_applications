@@ -648,3 +648,6 @@ Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
 
 **a)** If $a$ and $b$ are greatest elements then by definition $a \preceq b$ and $b \preceq a$ whence $a=b$. </br>
 **b)** If $a$ and $b$ are least elements then by definition $a \preceq b$ and $b \preceq a$ whence $a=b$. </br>
+
+![problem 41](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_41.png) </br>
+#### Solution
