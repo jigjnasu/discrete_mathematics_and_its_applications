@@ -718,4 +718,6 @@ Let look at all the incomparable elements. </br>
 | :------:                       | :------:                       | :------:                | :--: |
 | $(6,9)$                        | $3$                            | $\phi$                  | Do not have any LUB, in other words don't have a number which can be divided by both 6 and 9 |
 
+**b)** </br>
+![solution 44_b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_b.png) </br>
 
