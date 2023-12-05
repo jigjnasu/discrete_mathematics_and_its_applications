@@ -711,3 +711,11 @@ As all incomparable elements have GLB and LUB, it is a lattice. </br>
 
 **a)** </br>
 ![solution 44_a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_a.png) </br>
+
+Let look at all the incomparable elements. </br>
+
+| Incomparable Elements Pair     | Greatest Lower Bound (GLB)     | Least Upper Bound (LUB) | Note |
+| :------:                       | :------:                       | :------:                | :--: |
+| $(6,9)$                        | $3$                            | $\phi$                  | Do not have any LUB, in other words don't have a number which can be divided by both 6 and 9 |
+
+
