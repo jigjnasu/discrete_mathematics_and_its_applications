@@ -705,3 +705,7 @@ As all incomparable elements doesn't have GLB and LUB, it is NOT a lattice. </br
 | $(f,g)$                        | $b$                            | $h$                     | NA   |
 
 As all incomparable elements have GLB and LUB, it is a lattice. </br>
+
+![problem 44](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_44.png) </br>
+#### Solution
+
