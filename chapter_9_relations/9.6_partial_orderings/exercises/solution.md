@@ -710,11 +710,4 @@ As all incomparable elements have GLB and LUB, it is a lattice. </br>
 #### Solution
 
 **a)** </br>
-
-$
-\diagram
-12 & 20 \\
-4\uline \urline & 10 \uline & 25 \\
-2 \uline \urline & 5 \uline \urline
-\enddiagram
-$
+![solution 44_a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_a.png) </br>
