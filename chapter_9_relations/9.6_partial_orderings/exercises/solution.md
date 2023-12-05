@@ -709,3 +709,12 @@ As all incomparable elements have GLB and LUB, it is a lattice. </br>
 ![problem 44](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_44.png) </br>
 #### Solution
 
+**a)** </br>
+
+$$
+\diagram
+12 & 20 \\
+4\uline \urline & 10 \uline & 25 \\
+2 \uline \urline & 5 \uline \urline
+\enddiagram
+$$ </br>
