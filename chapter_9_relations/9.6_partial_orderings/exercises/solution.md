@@ -690,3 +690,18 @@ As all incomparable elements have GLB and LUB, it is a lattice. </br>
 | $(f,g)$                        | $\phi$                         | $h$                     | $f,e$ are two GLBs |
 
 As all incomparable elements doesn't have GLB and LUB, it is NOT a lattice. </br>
+
+**c)** Let look at all the incomparable elements. </br>
+
+| Incomparable Elements Pair     | Greatest Lower Bound (GLB)     | Least Upper Bound (LUB) | Note |
+| :------:                       | :------:                       | :------:                | :--: |
+| $(b,c)$                        | $a$                            | $g$                     | NA   |
+| $(b,e)$                        | $a$                            | $g$                     | NA   |
+| $(d,c)$                        | $a$                            | $h$                     | NA   |
+| $(d,e)$                        | $a$                            | $h$                     | NA   |
+| $(d,g)$                        | $b$                            | $h$                     | NA   |
+| $(f,c)$                        | $a$                            | $h$                     | NA   |
+| $(f,e)$                        | $a$                            | $h$                     | NA   |
+| $(f,g)$                        | $b$                            | $h$                     | NA   |
+
+As all incomparable elements have GLB and LUB, it is a lattice. </br>
