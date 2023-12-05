@@ -727,3 +727,8 @@ As it is a comparable total order / linear order, it is a lattice. </br>
 ![solution 44_c](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_c.png) </br>
 
 As it is a comparable total order / linear order, it is a lattice. </br>
+
+**d**) </br>
+As the relation is superset or equal to of a set. </br>
+Let $A$ and $B$ be two subsets of $S$. The least upper bound and the greatest lower bound of $A$ and $B$ are $A \bigcap B$ and $A \bigcup B$. </br>
+Let S = $\lbrace1,2,3\rbrace$ then subsets are = $\lbrace \phi \rbrace, \lbrace 1\rbrace, \lbrace 2\rbrace, \lbrace 3\rbrace, \lbrace 1,2\rbrace, \lbrace 1,3\rbrace, \lbrace 2,3\rbrace, \lbrace 1,2,3\rbrace$. </br>
