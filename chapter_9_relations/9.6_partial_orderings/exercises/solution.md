@@ -663,3 +663,19 @@ Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
 
 ![problem 43](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_43.png) </br>
 #### Solution
+
+**a)** Let look at all the incomparable elements. </br>
+
+| Incomparable Elements Pair     | Greatest Lower Bound (GLB)     | Least Upper Bound (LUB) | Note |
+| :------:                       | :------:                       | :------:                | :--: |
+| $(d,f)$                        | $b$                            | $g$                     | NA   |
+| $(d,e)$                        | $b$                            | $f$                     | NA   |
+| $(d,c)$                        | $a$                            | $f$                     | NA   |
+| $(b,f)$                        | $a$                            | $g$                     | NA   |
+| $(b,e)$                        | $a$                            | $f$                     | NA   |
+| $(b,c)$                        | $a$                            | $e$                     | NA   |
+| $(a,f)$                        | $a$                            | $g$                     | NA   |
+| $(a,e)$                        | $a$                            | $f$                     | NA   |
+| $(a,c)$                        | $a$                            | $e$                     | NA   |
+
+As all incomparable elements have GLB and LUB, it is a lattice. </br>
