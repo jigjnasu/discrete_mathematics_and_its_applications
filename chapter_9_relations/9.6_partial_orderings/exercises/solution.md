@@ -721,3 +721,5 @@ Let look at all the incomparable elements. </br>
 **b)** </br>
 ![solution 44_b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_b.png) </br>
 
+As it is a comparable total order / linear order, it is a lattice. </br>
+
