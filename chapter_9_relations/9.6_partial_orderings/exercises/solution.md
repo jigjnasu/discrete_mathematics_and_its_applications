@@ -668,14 +668,25 @@ Hence it shows that $(S,T, \preceq)$ are partial orders. </br>
 
 | Incomparable Elements Pair     | Greatest Lower Bound (GLB)     | Least Upper Bound (LUB) | Note |
 | :------:                       | :------:                       | :------:                | :--: |
-| $(d,f)$                        | $b$                            | $g$                     | NA   |
 | $(d,e)$                        | $b$                            | $f$                     | NA   |
 | $(d,c)$                        | $a$                            | $f$                     | NA   |
 | $(b,f)$                        | $a$                            | $g$                     | NA   |
-| $(b,e)$                        | $a$                            | $f$                     | NA   |
 | $(b,c)$                        | $a$                            | $e$                     | NA   |
 | $(a,f)$                        | $a$                            | $g$                     | NA   |
 | $(a,e)$                        | $a$                            | $f$                     | NA   |
-| $(a,c)$                        | $a$                            | $e$                     | NA   |
 
 As all incomparable elements have GLB and LUB, it is a lattice. </br>
+
+**b)** Let look at all the incomparable elements. </br>
+
+| Incomparable Elements Pair     | Greatest Lower Bound (GLB)     | Least Upper Bound (LUB) | Note |
+| :------:                       | :------:                       | :------:                | :--: |
+| $(b,c)$                        | $a$                            | $\phi$                  | $f,g$ are two LUBs |
+| $(b,e)$                        | $a$                            | $\phi$                  | $f,g$ are two LUBs |
+| $(d,c)$                        | $a$                            | $b$                     | NA   |
+| $(d,e)$                        | $a$                            | $b$                     | NA   |
+| $(d,g)$                        | $b$                            | $h$                     | NA   |
+| $(f,c)$                        | $a$                            | $h$                     | NA   |
+| $(f,g)$                        | $\phi$                         | $h$                     | $f,e$ are two GLBs |
+
+As all incomparable elements doesn't have GLB and LUB, it is NOT a lattice. </br>
