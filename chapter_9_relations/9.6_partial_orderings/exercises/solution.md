@@ -736,3 +736,7 @@ Let S = $\lbrace1,2,3\rbrace$ then subsets are = $\lbrace \phi \rbrace, \lbrace 
 ![solution 44_d](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/solution_44_d.png) </br>
 
 As we can even for an example hasse diagram above, it is a lattice. </br>
+
+![problem 45](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_45.png) </br>
+#### Solution
+
