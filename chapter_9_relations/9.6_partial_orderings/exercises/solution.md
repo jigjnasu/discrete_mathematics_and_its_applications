@@ -750,4 +750,8 @@ Assume that the statement holds for non empty finite subset with $n$ elements. N
 
 Consider a lattice $L$ and a non empty finite subset $S= \lbrace a_1, a_2, a_3, ..., a_n, a_{n+1} \rbrace$ of L. </br>
 
-
+**1. Least Upper Bound**
+* By the inductive hypothesis, the subset $\lbrace a_1, a_2, a_3, ..., a_n \rbrace$ has a least upper bound, denoted as $LUB(\lbrace  a_1, a_2, a_3, ..., a_n \rbrace)$
+* Let's set $S^' = \lbrace LUB( \lbrace a_1, a_2, a_3, ..., a_n \rbrace ), a_{n+1} \rbrace$
+* Since $L$ is a lattice, there exists a least upper bound for $S^'$. Let's call it as $LUB(S^')$.
+* $LUB(S^')$ is also the least upper bound for the original set $S$, as $LUB(\lbrace a_1, a_2, a_3, ..., a_n, a_{n+1} \rbrace) = LUB(S^')$
