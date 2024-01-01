@@ -740,3 +740,9 @@ As we can even for an example hasse diagram above, it is a lattice. </br>
 ![problem 45](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_45.png) </br>
 #### Solution
 
+Let's prove every non empty subset of a lattice has at least upper bound and greatest lower bound using mathematical induction. </br>
+
+**Base Case:--**
+For a singleton set, the results holds trivally. If the set contains only one element, then lone element is least upper bound and the greatest lower bound. </br>
+
+
