@@ -745,4 +745,9 @@ Let's prove every non empty subset of a lattice has at least upper bound and gre
 **Base Case:--**
 For a singleton set, the results holds trivally. If the set contains only one element, then lone element is least upper bound and the greatest lower bound. </br>
 
+**Inductive Step:--**
+Assume that the statement holds for non empty finite subset with $n$ elements. Now let's prove it for a set with $n+1$ elements. </br>
+
+Consider a lattice $L$ and a non empty finite subset $S= \lbrace a_1, a_2, a_3, ..., a_n, a_{n+1} \rbrace$ of L. </br>
+
 
