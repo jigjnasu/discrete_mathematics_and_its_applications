@@ -1,2 +1,6 @@
-![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_9_relations/9.6_partial_orderings/repo/problem_14.png)
+![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_14.png)
 #### Solution
+
+As the edges of the Hawk are with Racoon, Owl and Crow. Therefore it means Hawk competes with them for food. </br>
+
+
