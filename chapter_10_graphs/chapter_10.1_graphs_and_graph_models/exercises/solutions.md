@@ -10,3 +10,6 @@ As the edges of the Hawk are with Racoon, Owl and Crow. Therefore it means Hawk 
 
 * Fred influences Brian.
 * Fred is influnced by Deborah and Yvonne.
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_19.png)
+#### Solution
