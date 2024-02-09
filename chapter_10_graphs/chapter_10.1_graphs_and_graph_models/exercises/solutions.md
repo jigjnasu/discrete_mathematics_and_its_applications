@@ -26,3 +26,5 @@ The result depends upon from which node to which node the direction of the arrow
 1. Team 1, 2, 5 and 6 defeated Team 4. </br>
 2. Team 4 defeated Team 3. </br>
 
+![problem 21](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_21.png)
+#### Solution
