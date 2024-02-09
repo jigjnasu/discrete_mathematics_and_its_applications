@@ -13,4 +13,8 @@ As the edges of the Hawk are with Racoon, Owl and Crow. Therefore it means Hawk 
 
 ![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_19.png)
 #### Solution
+
 ![solution 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_19.png)
+
+![problem 20](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_20.png)
+#### Solution
