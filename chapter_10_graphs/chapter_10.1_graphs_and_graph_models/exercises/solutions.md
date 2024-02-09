@@ -21,3 +21,8 @@ As the edges of the Hawk are with Racoon, Owl and Crow. Therefore it means Hawk 
 
 ##### Figure 13
 ![figure 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/figure_13.png)
+
+The result depends upon from which node to which node the direction of the arrow is, and according to that.
+1. Team 1, 2, 5 and 6 defeated Team 4. </br>
+2. Team 4 defeated Team 3. </br>
+
