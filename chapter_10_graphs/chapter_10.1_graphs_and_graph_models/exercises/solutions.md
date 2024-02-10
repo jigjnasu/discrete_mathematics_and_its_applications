@@ -39,3 +39,14 @@ The result depends upon from which node to which node the direction of the arrow
 
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_23.png)
 #### Solution
+
+For January we can make a directed graph where:-
+1. Vertices are phone numbers.
+2. Directed edge between phone numbers depicting number a called number b.
+
+For instance in the month of January
+![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
+
+
+For instance in the month of Februry
+![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_feb.png)
