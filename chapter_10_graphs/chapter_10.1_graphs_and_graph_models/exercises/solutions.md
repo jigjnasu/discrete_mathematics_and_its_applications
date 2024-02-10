@@ -46,10 +46,10 @@ We can make a directed graph where:-
 * Vertices are phone numbers.
 * Directed edge between phone numbers depicting number a called number b.
 
-For instance in the month of January
+For instance in the month of January </br>
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
 
-For instance in the month of Februry
+For instance in the month of Februry  </br>
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_feb.png)
 
 By analyzing both the graphs, we can find out the following
