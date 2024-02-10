@@ -23,8 +23,9 @@ As the edges of the Hawk are with Racoon, Owl and Crow. Therefore it means Hawk 
 ![figure 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/figure_13.png)
 
 The result depends upon from which node to which node the direction of the arrow is, and according to that.
-1. Team 1, 2, 5 and 6 defeated Team 4. </br>
-2. Team 4 defeated Team 3. </br>
+
+* Team 1, 2, 5 and 6 defeated Team 4. </br>
+* Team 4 defeated Team 3. </br>
 
 ![problem 21](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_21.png)
 #### Solution
@@ -40,13 +41,20 @@ The result depends upon from which node to which node the direction of the arrow
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_23.png)
 #### Solution
 
-For January we can make a directed graph where:-
-1. Vertices are phone numbers.
-2. Directed edge between phone numbers depicting number a called number b.
+We can make a directed graph where:-
+
+* Vertices are phone numbers.
+* Directed edge between phone numbers depicting number a called number b.
 
 For instance in the month of January
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
 
-
 For instance in the month of Februry
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_feb.png)
+
+By analyzing both the graphs, we can find out the following
+
+* Two new numbers (5555 and 6666) are active in the month of Feburary than January.
+* 3333 no logner active in the month of Feburary than January.
+* New conversation between 6666 to 2222.
+* New conversation between 4444 to 5555.
