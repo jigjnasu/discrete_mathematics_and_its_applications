@@ -44,7 +44,7 @@ The result depends upon from which node to which node the direction of the arrow
 We can make a directed graph where:-
 
 * Vertices are phone numbers.
-* Directed edge between phone numbers depicting number a called number b.
+* Directed edge between phone numbers depicting head to tail.
 
 For instance in the month of January </br>
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
