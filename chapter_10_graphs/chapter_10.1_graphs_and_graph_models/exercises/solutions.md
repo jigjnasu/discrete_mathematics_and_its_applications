@@ -58,3 +58,6 @@ By analyzing both the graphs, we can find out the following
 * 3333 no logner active in the month of Feburary than January.
 * New conversation between 6666 to 2222.
 * New conversation between 4444 to 5555.
+
+![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_24.png)
+#### Solution
