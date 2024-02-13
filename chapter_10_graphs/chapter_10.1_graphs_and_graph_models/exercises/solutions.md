@@ -72,3 +72,6 @@ For electronic mails (emails) we can make directed graph where.
 
 ##### solution b)
 ![solution 24b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_24_b.png)
+
+![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_25.png)
+#### Solution
