@@ -44,7 +44,7 @@ The result depends upon from which node to which node the direction of the arrow
 We can make a directed graph where:-
 
 * Vertices are phone numbers.
-* Directed edge between phone numbers depicting head to tail.
+* Directed edge between phone numbers depicting a call made from head to tail.
 
 For instance in the month of January </br>
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
@@ -61,3 +61,14 @@ By analyzing both the graphs, we can find out the following
 
 ![problem 24](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_24.png)
 #### Solution
+
+For electronic mails (emails) we can make directed graph where.
+
+##### solution a)
+* Vertices are email address.
+* Directed edge between email addresses depicting a mail sent from tail to head.
+* Rather than using multiple edges for depicting a several mails from an email to another, we can use numbers over the edge.
+* If an email sent from itself, yes loops are allowed.
+
+##### solution b)
+![solution 24b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_24_b.png)
