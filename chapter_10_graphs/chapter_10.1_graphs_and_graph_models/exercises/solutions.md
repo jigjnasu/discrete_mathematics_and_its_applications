@@ -113,3 +113,10 @@ An example of this:-- </br>
 
 #### Solution
 
+* Let a vertex represents a subway station.
+* Let $(u,v)$ represents that a passenger can go from station $u$ to $v$ and $v$ to $u$.
+* Passenger don't want to go from station $u$ to $u$, therefore no need of loop.
+
+An example of this:-- </br>
+
+![solution 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_28.png)
