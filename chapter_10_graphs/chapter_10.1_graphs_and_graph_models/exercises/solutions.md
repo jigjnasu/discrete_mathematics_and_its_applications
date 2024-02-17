@@ -51,7 +51,7 @@ The result depends upon from which node to which node the direction of the arrow
 We can make a directed graph where:-
 
 * Vertices are phone numbers.
-* Directed edge between phone numbers depicting a call made from head to tail.
+* Let $(u,v)$ is a directed edge between u and v, where $u$ made a call to $v$.
 
 For instance in the month of January </br>
 ![problem 23](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_23_jan.png)
@@ -75,7 +75,7 @@ For electronic mails (emails) we can make directed graph where.
 ##### solution a)
 
 * Vertices are email address.
-* Directed edge between email addresses depicting a mail sent from tail to head.
+* Let $(u, v)$ is a directed edge between email addresses, where $u$ sent an email to $v$.
 * Rather than using multiple edges for depicting a several mails from an email to another, we can use numbers over the edge.
 * If an email sent from itself, yes loops are allowed.
 
@@ -100,7 +100,7 @@ If in directed graph an edge from head to tail depicts email sent from head to t
 #### Solution
 
 * Let's the vertex represents a person.
-* Let's a directed edge represents from head to tail that person knows the name of the person.
+* Let $(u,v)$ is a directed edge, where $u$ knows the name of $v$.
 * Person A can know the name of person B, but it can happen B doesn't know the name of A.
 * There is no need of multiple edges, as a person can know the name or not.
 * There is no need of loop as everyone knows their name.
