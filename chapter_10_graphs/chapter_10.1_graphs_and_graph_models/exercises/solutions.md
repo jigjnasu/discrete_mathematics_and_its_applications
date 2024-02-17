@@ -109,3 +109,7 @@ An example of this:-- </br>
 
 ![solution 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_27.png)
 
+![problem 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_28.png)
+
+#### Solution
+
