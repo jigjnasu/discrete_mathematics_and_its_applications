@@ -75,3 +75,5 @@ For electronic mails (emails) we can make directed graph where.
 
 ![problem 25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_25.png)
 #### Solution
+The labels on the veritices can have email address sent and recived. In that way if two addresses has the same communication to and from, and the address is different, in that way we can say that address has been changed recently.
+
