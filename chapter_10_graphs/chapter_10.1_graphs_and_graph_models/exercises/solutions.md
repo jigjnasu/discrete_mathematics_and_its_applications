@@ -98,3 +98,14 @@ If in directed graph an edge from head to tail depicts email sent from head to t
 ![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_27.png)
 
 #### Solution
+
+* Let's the vertex represents a person.
+* Let's a directed edge represents from head to tail that person knows the name of the person.
+* Person A can know the name of person B, but it can happen B doesn't know the name of A.
+* There is no need of multiple edges, as a person can know the name or not.
+* There is no need of loop as everyone knows their name.
+
+An example of this:-- </br>
+
+![solution 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_27.png)
+
