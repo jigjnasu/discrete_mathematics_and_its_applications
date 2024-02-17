@@ -120,3 +120,7 @@ An example of this:-- </br>
 An example of this:-- </br>
 
 ![solution 28](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_28.png)
+
+![problem 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_29.png)
+
+#### Solution
