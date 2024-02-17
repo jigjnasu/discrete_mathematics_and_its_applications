@@ -94,3 +94,7 @@ The labels on the vertices can have email address sent and received. In that way
 #### Solution
 
 If in directed graph an edge from head to tail depicts email sent from head to tail. And if there are multiple edges from one vertex to another let's say to hundreds or thousands, we can say a mailing list has been used to deliver the email.
+
+![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_27.png)
+
+#### Solution
