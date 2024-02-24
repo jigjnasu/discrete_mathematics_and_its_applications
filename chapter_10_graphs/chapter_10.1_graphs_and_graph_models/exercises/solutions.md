@@ -148,3 +148,9 @@ This problem can be solved using bipartite graph. Where one vertex is critic and
 ![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_31.png)
 
 #### Solution
+
+This problem can be solved by using bipartite graph, where an edge between two vertices means they were married at some point (ex) / are married now. The edge can also represent marriage between same or opposite sex.
+
+##### Example
+
+![solution 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_31.png)
