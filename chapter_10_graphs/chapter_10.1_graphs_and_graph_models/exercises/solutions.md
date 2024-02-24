@@ -133,3 +133,8 @@ An example of this:-- </br>
 ##### Example
 
 ![solution 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_29.png)
+
+![problem 30_1](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_30_1.png)
+![problem 30_2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_30_2.png)
+
+#### Solution
