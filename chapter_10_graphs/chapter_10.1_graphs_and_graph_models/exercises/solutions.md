@@ -129,3 +129,7 @@ An example of this:-- </br>
 * Let $(u,v)$ a directed edge represents, u is a prerequisite course for v course.
 * If a course doesn't have any prerequisite then it has a degree of 0, degree of a vertex = how many edges.
 * A course is not a prerequisite for itself, therefore no need of loops.
+
+##### Example
+
+![solution 29](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_29.png)
