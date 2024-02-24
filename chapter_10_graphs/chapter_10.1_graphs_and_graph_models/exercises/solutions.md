@@ -138,3 +138,9 @@ An example of this:-- </br>
 ![problem 30_2](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_30_2.png)
 
 #### Solution
+
+This problem can be solved using bipartite graph. Where one vertex is critic and another one is movie, if there is an edge between critic and a movie, it means critic has positive review about the movie.
+
+##### Example
+
+![solution 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_30.png)
