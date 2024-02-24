@@ -144,3 +144,7 @@ This problem can be solved using bipartite graph. Where one vertex is critic and
 ##### Example
 
 ![solution 30](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_30.png)
+
+![problem 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_31.png)
+
+#### Solution
