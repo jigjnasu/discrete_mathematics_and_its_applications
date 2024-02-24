@@ -154,3 +154,7 @@ This problem can be solved by using bipartite graph, where an edge between two v
 ##### Example
 
 ![solution 31](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_31.png)
+
+![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_32.png)
+
+#### Solution
