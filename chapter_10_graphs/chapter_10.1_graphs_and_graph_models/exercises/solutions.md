@@ -158,3 +158,9 @@ This problem can be solved by using bipartite graph, where an edge between two v
 ![problem 32](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_32.png)
 
 #### Solution
+
+According to precedence graph, all the statements which are reaching to that vertex should be executed first.
+
+##### Figure 10
+
+![figure 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/figure_10.png)
