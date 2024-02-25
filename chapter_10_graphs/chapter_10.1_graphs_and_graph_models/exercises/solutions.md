@@ -172,3 +172,7 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 #### Solution
 
 ![solution 33](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_33.png)
+
+![problem 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_34.png)
+
+#### Solution
