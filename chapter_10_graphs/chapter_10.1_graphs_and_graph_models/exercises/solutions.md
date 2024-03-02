@@ -181,3 +181,4 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 * $W$ is the weight which can be attached to the edge as the data structure.
 * This data structure can contains the flight information such as, flight number, airplane, departure time, arrival time, etc.
 
+![solution 34](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_34.png)
