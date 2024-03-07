@@ -188,7 +188,7 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 #### Solution
 
 * Let Vertices represents person.
-* Let $(U,V,W)$ is a directed graph from vertex $U$ to $V$, where flight goes from city $U$ to city $V$.
+* Let $(U,V,W)$ is a directed graph from vertex $U$ to $V$, where $U$ to $V$ is the relationship between two.
 * $W$ is the weight which can be attached to the edge as the data structure.
 * This data structure contains three choices to choose from $L,D,N$ where L=Like, D=Dislike, N=Neutral.
 * $U$ All the person in a set U.
@@ -200,3 +200,11 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 ![problem 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/problem_36.png)
 
 #### Solution
+
+* Let Vertices represents person.
+* Let $(U,V,W)$ is a directed graph from vertex $U$ to $V$, where $U$ to $V$ is the electronic form of communication.
+* $W$ is the weight which can be attached to the edge as the data structure.
+* This data structure can contain Email, Mobile Call, Landline Call, Mobile Text, Computer Text, Mobile Video Call, Computer Video Call etc.
+* $U$ All the person in a set U.
+* $V$ All the ordered paris from set $U$, where $a != a$, means no loop is allowed.
+* $W$ is a function $f(e)$, where $e=(Email, Mobile Call, Landline Call, Mobile Text, Computer Text, Mobile Video Call, Computer Video Call)$
