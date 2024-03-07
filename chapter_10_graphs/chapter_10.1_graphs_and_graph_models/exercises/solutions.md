@@ -207,4 +207,4 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 * This data structure can contain Email, Mobile Call, Landline Call, Mobile Text, Computer Text, Mobile Video Call, Computer Video Call etc.
 * $U$ All the person in a set U.
 * $V$ All the ordered paris from set $U$, where $a != a$, means no loop is allowed.
-* $W$ is a function $f(e)$, where $e=(Email, Mobile Call, Landline Call, Mobile Text, Computer Text, Mobile Video Call, Computer Video Call)$
+* $W$ is a function $f(e)$, where $e=(Email, Mobile &nbsp; Call, Landline Call, Mobile Text, Computer Text, Mobile Video Call, Computer Video Call)$
