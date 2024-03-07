@@ -208,3 +208,5 @@ As we can see before executing $s_6$, we need to execute $s_1, s_2, s_3, s_4$.
 * $U$ All the person in a set U.
 * $V$ All the ordered paris from set $U$, where $a != a$, means no loop is allowed.
 * $W$ is a function $f(e)$, where $e=(Email, Mobile \space Call, Landline \space Call, Mobile \space Text, Computer \space Text, Mobile \space Video \space Call, Computer \space Video \space Call)$
+
+![solution 36](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.1_graphs_and_graph_models/repo/solution_36.png)
