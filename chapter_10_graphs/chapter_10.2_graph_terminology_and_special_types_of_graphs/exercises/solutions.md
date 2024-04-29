@@ -37,3 +37,25 @@ $12 = 12$ </br>
 Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 $2 * 13 = 6 + 6 + 6 + 5 + 3$ </br>
 $26 = 26$ </br>
+
+##### 3)
+
+* number of vertices = 9
+* number of edges = 12
+
+| deg(v)        | result        | vertices type      |
+| :------:      | :------:      | :------:  |
+| deg(a)        | 3             |           |
+| deg(b)        | 2             |           |
+| deg(c)        | 4             |           |
+| deg(d)        | 0             | isolated          |
+| deg(e)        | 6             |           |
+| deg(f)        | 0             | isolated          |
+| deg(g)        | 4             |           |
+| deg(h)        | 2             |           |
+| deg(i)        | 3             |           |
+
+
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+$2 * 12 = 3 + 2 + 4 + 0 + 6 + 0 + 4 + 2 + 3$ </br>
+$24 = 24$ </br>
