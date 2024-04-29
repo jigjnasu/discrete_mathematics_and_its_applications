@@ -16,4 +16,4 @@
 | deg(e)        | 2             |           |
 | deg(f)        | 3             |           |
 
-Let's check the handshaking theorem $2m = \sum_{v\in V}deg(v)$
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$
