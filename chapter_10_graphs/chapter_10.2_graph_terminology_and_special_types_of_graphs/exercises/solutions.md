@@ -2,7 +2,7 @@
 
 #### Solution
 
-##### a)
+##### 1)
 
 * number of vertices = 6
 * number of edges = 6
@@ -17,5 +17,23 @@
 | deg(f)        | 3             |           |
 
 Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
-$2 * 6 = 2 + 4 + 1 + 2 + 3$ </br>
+$2 * 6 = 2 + 4 + 1 + 0 + 2 + 3$ </br>
 $12 = 12$ </br>
+
+##### 2)
+
+* number of vertices = 5
+* number of edges = 13
+
+| deg(v)        | result        | vertices type      |
+| :------:      | :------:      | :------:  |
+| deg(a)        | 6             |           |
+| deg(b)        | 6             |           |
+| deg(c)        | 6             |           |
+| deg(d)        | 5             |           |
+| deg(e)        | 3             |           |
+
+
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+$2 * 13 = 6 + 6 + 6 + 5 + 3$ </br>
+$26 = 26$ </br>
