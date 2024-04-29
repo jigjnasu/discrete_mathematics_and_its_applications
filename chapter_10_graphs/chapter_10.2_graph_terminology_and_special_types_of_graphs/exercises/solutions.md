@@ -33,7 +33,6 @@ $12 = 12$ </br>
 | deg(d)        | 5             |           |
 | deg(e)        | 3             |           |
 
-
 Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 $2 * 13 = 6 + 6 + 6 + 5 + 3$ </br>
 $26 = 26$ </br>
@@ -55,7 +54,6 @@ $26 = 26$ </br>
 | deg(h)        | 2             |           |
 | deg(i)        | 3             |           |
 
-
 Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 $2 * 12 = 3 + 2 + 4 + 0 + 6 + 0 + 4 + 2 + 3$ </br>
 $24 = 24$ </br>
@@ -63,3 +61,21 @@ $24 = 24$ </br>
 ![problem 4](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_4.png)
 
 #### Solution
+
+##### 1)
+
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+$2 * 6 = 2 + 4 + 1 + 0 + 2 + 3$ </br>
+$12 = 12$ </br>
+
+##### 2)
+
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+$2 * 13 = 6 + 6 + 6 + 5 + 3$ </br>
+$26 = 26$ </br>
+
+##### 3)
+
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+$2 * 12 = 3 + 2 + 4 + 0 + 6 + 0 + 4 + 2 + 3$ </br>
+$24 = 24$ </br>
