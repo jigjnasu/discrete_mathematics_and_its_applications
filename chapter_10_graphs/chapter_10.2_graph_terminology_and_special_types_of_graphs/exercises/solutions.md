@@ -2,3 +2,14 @@
 
 #### Solution
 
+* number of vertices = 6
+* number of edges = 6
+
+| deg(v)        | result        | Note      |
+| :------:      | :------:      | :------:  |
+| deg(a)        | 2             |           |
+| deg(b)        | 4             |           |
+| deg(c)        | 1             | pendant   |
+| deg(d)        | 0             | isolated  |
+| deg(e)        | 2             |           |
+| deg(f)        | 3             |           |
