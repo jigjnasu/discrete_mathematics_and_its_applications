@@ -16,4 +16,6 @@
 | deg(e)        | 2             |           |
 | deg(f)        | 3             |           |
 
-Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$
+Let's check the handshaking theorem $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. <\br>
+$2 * 6 = 2 + 4 + 1 + 2 + 3$ </br>
+$12 = 12$ </br>
