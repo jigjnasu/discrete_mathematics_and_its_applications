@@ -83,3 +83,7 @@ $24 = 24$ </br>
 ![problem 5](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_5.png)
 
 #### Solution
+
+According to theorem 2 *An undirected graph has an even number of vertices of odd degree*. </br>
+Therefore according to this theorem it is not possible to have as 15 is an odd number and all have 5 degree means odd degree. According to theorem odd degree vertices should be an even number. </br>
+
