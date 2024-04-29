@@ -2,10 +2,12 @@
 
 #### Solution
 
+##### a)
+
 * number of vertices = 6
 * number of edges = 6
 
-| deg(v)        | result        | Note      |
+| deg(v)        | result        | vertices type      |
 | :------:      | :------:      | :------:  |
 | deg(a)        | 2             |           |
 | deg(b)        | 4             |           |
@@ -13,3 +15,5 @@
 | deg(d)        | 0             | isolated  |
 | deg(e)        | 2             |           |
 | deg(f)        | 3             |           |
+
+Let's check the handshaking theorem $2m = \sum_{v\in V}deg(v)$
