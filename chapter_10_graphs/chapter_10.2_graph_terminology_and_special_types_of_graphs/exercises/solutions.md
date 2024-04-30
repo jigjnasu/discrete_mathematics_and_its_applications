@@ -108,3 +108,8 @@ $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 
 | vertex        | $deg^{-}(v)$  | $deg^{+}(v)$  |
 | :------:      | :------:      | :------:      |
+| a             | 3             | 1             |
+| b             | 1             | 2             |
+| c             | 2             | 1             |
+| d             | 1             | 3             |
+| **Total**     | **7**         | **7**         |
