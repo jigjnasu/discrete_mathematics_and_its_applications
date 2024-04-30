@@ -90,3 +90,8 @@ Therefore according to this theorem it is not possible to have as 15 is an odd n
 ![problem 6](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_6.png)
 
 #### Solution
+
+Let's the vertex $v$ represents a person and the edge $e$ represents the handshake between two people. </br>
+The degree $deg(v)$ of a vertex represents with how many people that person shook the hand. </br>
+Regardless number of vertices, the sum of degree of vertices will be even because it is twice the number of edges. </br>
+$2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
