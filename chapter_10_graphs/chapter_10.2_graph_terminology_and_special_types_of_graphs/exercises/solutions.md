@@ -113,3 +113,6 @@ $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 | c             | 2             | 1             |
 | d             | 1             | 3             |
 | **Total**     | **7**         | **7**         |
+
+As in directed graph the initial vertex and terminal is connected with an edge. </br>
+The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
