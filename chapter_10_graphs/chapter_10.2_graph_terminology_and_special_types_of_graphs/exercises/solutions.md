@@ -95,3 +95,8 @@ Let's the vertex $v$ represents a person and the edge $e$ represents the handsha
 The degree $deg(v)$ of a vertex represents with how many people that person shook the hand. </br>
 Regardless number of vertices, the sum of degree of vertices will be even because it is twice the number of edges. </br>
 $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
+
+
+![problem 7-9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_7-9.png)
+
+#### Solution
