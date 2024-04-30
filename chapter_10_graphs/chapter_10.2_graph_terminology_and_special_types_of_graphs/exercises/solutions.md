@@ -100,3 +100,11 @@ $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 ![problem 7-9](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_7-9.png)
 
 #### Solution
+
+##### 7)
+
+* number of vertices = 4
+* number of edges = 7
+
+| vertex        | $deg^{-}(v)$  | $deg^{+}(v)$  |
+| :------:      | :------:      | :------:      |
