@@ -116,3 +116,19 @@ $2m = \sum\limits_{v\in V}deg(v)$ where $m$ is the number of edges. </br>
 
 As in directed graph the initial vertex and terminal is connected with an edge. </br>
 The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
+
+##### 8)
+
+* number of vertices = 4
+* number of edges = 8
+
+| vertex        | $deg^{-}(v)$  | $deg^{+}(v)$  |
+| :------:      | :------:      | :------:      |
+| a             | 2             | 2             |
+| b             | 3             | 4             |
+| c             | 2             | 1             |
+| d             | 1             | 1             |
+| **Total**     | **8**         | **8**         |
+
+As in directed graph the initial vertex and terminal is connected with an edge. </br>
+The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
