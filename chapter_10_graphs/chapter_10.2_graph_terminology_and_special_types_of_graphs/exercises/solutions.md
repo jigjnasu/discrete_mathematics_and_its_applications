@@ -132,3 +132,20 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 As in directed graph the initial vertex and terminal is connected with an edge. </br>
 The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
+
+##### 9)
+
+* number of vertices = 5
+* number of edges = 13
+
+| vertex        | $deg^{-}(v)$  | $deg^{+}(v)$  |
+| :------:      | :------:      | :------:      |
+| a             | 6             | 1             |
+| b             | 1             | 5             |
+| c             | 2             | 5             |
+| d             | 4             | 2             |
+| e             | 0             | 0             |
+| **Total**     | **13**         | **13**         |
+
+As in directed graph the initial vertex and terminal is connected with an edge. </br>
+The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
