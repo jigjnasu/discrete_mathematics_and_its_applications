@@ -153,3 +153,9 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 ![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_10.png)
 
 #### Solution
+
+| Exercise        | $deg^{-}(v)$  | $deg^{+}(v)$  | Edges           |
+| :------:      | :------:      | :------:      | :------:          |
+| 7             | $3+1+2+1 = 7$ | $1+2+1+3=7$   | 7                 |
+| 8             | $2+3+2+1 = 8$ | $2+4+1+1=8$   | 8                 |
+| 9             | $6+1+2+4+0=13$| $1+5+5+2+0=13$| 13                |
