@@ -149,3 +149,7 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 As in directed graph the initial vertex and terminal is connected with an edge. </br>
 The outgoing edge will be incoming edge for another vertex therefore it makes sense that $\sum\limits_{v\in V}deg^{-}(v) = \sum\limits_{v\in V}deg^{+}(v)$ </br>
+
+![problem 10](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_10.png)
+
+#### Solution
