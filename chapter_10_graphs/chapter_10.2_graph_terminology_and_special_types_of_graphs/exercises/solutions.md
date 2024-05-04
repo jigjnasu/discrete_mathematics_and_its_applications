@@ -215,3 +215,10 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 | Phone Number  | $deg^{-}(v)$  | $deg^{+}(v)$  | Edges             |
 | :------:      | :------:      | :------:      | :------:          |
+| 732-555-1234  | 3             | 3             | 6                 |
+| 732-555-1001  | 2             | 5             | 7                 |
+| 732-555-6666  | 5             | 1             | 6                 |
+| 732-555-4444  | 0             | 1             | 1                 |
+| 732-555-0011  | 2             | 2             | 4                 |
+| **Total**     | **12**        | **12**        | **24**            |
+
