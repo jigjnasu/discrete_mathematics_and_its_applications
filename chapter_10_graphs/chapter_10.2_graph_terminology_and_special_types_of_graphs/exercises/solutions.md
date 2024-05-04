@@ -238,8 +238,8 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 #### Solution
 
-$**deg^{-}(v) = e(u,v)**$, means edge starting from u to v vertex, means from hyperlink clicked from page u will open page v. degree here means number of incoming pages. </br>
-$**deg^{+}(v) = e(u,v)**$, means edge starting from u to v vertex, means from hyperlink clicked from page u will open page v. degree here means number of pages which will open from page u. </br>
+$deg^{-}(v) = e(u,v)$, means edge starting from u to v vertex, means from hyperlink clicked from page u will open page v. degree here means number of incoming pages. </br>
+$deg^{+}(v) = e(u,v)$, means edge starting from u to v vertex, means from hyperlink clicked from page u will open page v. degree here means number of pages which will open from page u. </br>
 
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_17.png)
 
