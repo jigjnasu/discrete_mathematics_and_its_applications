@@ -183,3 +183,12 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 #### Solution
 
+| terminology   | academic collaboration graph              |
+| :------:      | :------:                                  |
+| vertex        | a person who is writing an academic paper    |
+| edge          | two person writing an academic paper together co-author of the paper |
+| neighborhood  | all the person who has written an academic paper  |
+| isolated      | a person has written the academic paper alone |
+| pendant       | a person has co-written the academic paper with only one person |
+| degree of a vertex       | how many people have written the academic paper |
+
