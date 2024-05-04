@@ -238,6 +238,6 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 
 #### Solution
 
-$deg^{-}(v)$ = the number of pages which has link to it, when click on hyperlink on those pages will land up here.
+$deg^{-}(v)$ = the number of pages which has link to it, when click on hyperlink on those pages will land up here. </br>
 $deg^{+}(v)$ = the number of pages which has link from it, when click on this page will open those pages.
 
