@@ -205,4 +205,7 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 | pendant       | an actor who has only worked with another actor in a movie | It is highly unlikely as most of the movies have more than two actor |
 | degree of a vertex       | with how many actors he/she has worked in various movies  | NA |
 
+![problem 15](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_15.png)
+
+#### Solution
 
