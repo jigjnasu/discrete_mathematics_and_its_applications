@@ -222,3 +222,14 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 | 732-555-0011  | 2             | 2             | 4                 |
 | **Total**     | **12**        | **12**        | **24**            |
 
+##### Un-directed graph
+
+![problem 15_b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_15_b.png)
+
+| deg(v)                | result        | vertices type     |
+| :------:              | :------:      | :------:          |
+| deg(732-555-1234)     | 6             | NA                |
+| deg(732-555-1001)     | 7             | NA                |
+| deg(732-555-6666)     | 6             | NA                |
+| deg(732-555-4444)     | 1             | Pendant           |
+| deg(732-555-0011)     | 4             | NA                |
