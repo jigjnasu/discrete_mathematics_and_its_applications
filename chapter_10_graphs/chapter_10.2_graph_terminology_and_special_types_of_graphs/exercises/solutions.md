@@ -237,3 +237,7 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 ![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_16.png)
 
 #### Solution
+
+$deg^{-}(v)$ = the number of pages which has link to it, when click on hyperlink on those pages will land up here.
+$deg^{+}(v)$ = the number of pages which has link from it, when click on this page will open those pages.
+
