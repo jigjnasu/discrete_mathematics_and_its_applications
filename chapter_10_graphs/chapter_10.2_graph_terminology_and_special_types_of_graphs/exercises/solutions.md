@@ -195,3 +195,14 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 ![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_14.png)
 
 #### Solution
+
+| terminology   | hollywood graph                    | Note          |
+| :------:      | :------:                              | :------:      |
+| vertex        | an actor who has worked in a hollywood movie  | NA            |
+| edge          | both actors who have worked in the movie | NA            |
+| neighborhood  | an actor who has worked with other actors in the movie | NA            |
+| isolated      | an actor who has not worked with any one in a movie     | It is highly unlikely as most of the movies have more than one actor |
+| pendant       | an actor who has only worked with another actor in a movie | It is highly unlikely as most of the movies have more than two actor |
+| degree of a vertex       | with how many actors he/she has worked in various movies  | NA |
+
+
