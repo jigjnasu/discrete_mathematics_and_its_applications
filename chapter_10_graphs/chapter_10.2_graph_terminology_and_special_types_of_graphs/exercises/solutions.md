@@ -192,3 +192,6 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 | pendant       | a person has co-written the academic paper with only one person |
 | degree of a vertex       | how many people have written the academic paper |
 
+![problem 14](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_14.png)
+
+#### Solution
