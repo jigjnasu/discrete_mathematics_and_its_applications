@@ -178,3 +178,8 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 | isolated      | a person doesn't have any acquaintance     | It is highly unlikely that a person doesn't know anyone because at least he/she will have family and friends            |
 | pendant       | a person have only one acquaintance        | It is highly unlikely that a person has one known person |
 | degree of a vertex       | how many acquaintances the person has | By that research it means that an average person has 1000 acquaintances  |
+
+![problem 13](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_13.png)
+
+#### Solution
+
