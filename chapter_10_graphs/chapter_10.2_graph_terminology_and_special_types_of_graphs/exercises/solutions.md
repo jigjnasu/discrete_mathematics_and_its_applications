@@ -233,3 +233,7 @@ The outgoing edge will be incoming edge for another vertex therefore it makes se
 | deg(732-555-6666)     | 6             | NA                |
 | deg(732-555-4444)     | 1             | Pendant           |
 | deg(732-555-0011)     | 4             | NA                |
+
+![problem 16](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_16.png)
+
+#### Solution
