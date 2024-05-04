@@ -244,6 +244,10 @@ $deg^{+}(v) = e(u,v)$, means edge starting from u to v vertex, means from hyperl
 ![problem 17](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_17.png)
 
 #### Solution
+
 $deg^{-}(v) = e(u,v)$, means edge starting from u to v vertex, v team has beaten u in a round robin match. </br>
 $deg^{+}(v) = e(u,v)$, means edge starting from u to v vertex, u team has beaten v in a round robin match. </br>
 
+![problem 18](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_18.png)
+
+#### Solution
