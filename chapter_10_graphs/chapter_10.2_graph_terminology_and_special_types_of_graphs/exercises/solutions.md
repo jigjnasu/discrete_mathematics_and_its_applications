@@ -256,3 +256,7 @@ Let a graph $G$ has $n$ vertices and $m$ edges. </br>
 The degree of a vertex can range from $deg = \lbrace 0,1,2,..., n-1 \rbrace$ as it is a simple graph. </br>
 According to the pigeonhole principle, $\lceil{\frac{n}{n-1}}\rceil = 2$. </br>
 Hence it is proved. </br>
+
+![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_19.png)
+
+#### Solution
