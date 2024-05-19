@@ -254,5 +254,5 @@ $deg^{+}(v) = e(u,v)$, means edge starting from u to v vertex, u team has beaten
 
 Let a graph $G$ has $n$ vertices and $m$ edges. </br>
 The degree of a vertex can range from $deg = \lbrace 0,1,2,..., n-1 \rbrace$ as it is a simple graph. </br>
-According to the pigeonhole principle, $\ceil {\frac{n}{n-1}} = 2$. </br>
+According to the pigeonhole principle, $\lceil{\frac{n}{n-1}}\rceil = 2$. </br>
 Hence it is proved. </br>
