@@ -260,3 +260,9 @@ Hence it is proved. </br>
 ![problem 19](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_19.png)
 
 #### Solution
+
+Let in a graph $G$, where vertex $v$ is a person, who has friendship with another person depicted by a simple graph. </br>
+$u,v$ means u and v are friends. </br>
+The degree of any vertex can $deg = \lbrace 0, 1, 2, ..., n-1 \rbrace$ as one cannot be friend with himself. </br>
+And $\therefore$, according to pigeonhole principle, $\lceil{\frac{n}{n-1}}\rceil = 2$. </br>
+Means, at least two persons are friends with same number of people. </br>
