@@ -266,3 +266,7 @@ $u,v$ means u and v are friends. </br>
 The degree of any vertex can $deg = \lbrace 0, 1, 2, ..., n-1 \rbrace$ as one cannot be friend with himself. </br>
 And $\therefore$, according to pigeonhole principle, $\lceil{\frac{n}{n-1}}\rceil = 2$. </br>
 Means, at least two persons are friends with same number of people. </br>
+
+![problem 20](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_20.png)
+
+#### Solution
