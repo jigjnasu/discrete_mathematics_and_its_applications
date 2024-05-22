@@ -275,10 +275,14 @@ Means, at least two persons are friends with same number of people. </br>
 
 ![solution 20_a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_a.png)
 
-##### $k_{1,8}$ This graph is a complete bi partite graph, where in one subgroup there are 1 vertex and in another 8 . </br>
+##### $k_{1,8}$ This graph is a complete bi partite graph, where in one subgroup there are 1 vertex and in another 8. </br>
 
 ![solution 20_b](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_b.png)
 
-##### $k_{4,4}$ This graph is a complete bi partite graph, where in one subgroup there are 4 vertex and in another 4 . </br>
+##### $k_{4,4}$ This graph is a complete bi partite graph, where in one subgroup there are 4 vertex and in another 4. </br>
 
 ![solution 20_c](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_c.png)
+
+##### $C_7$ This graph is a 7 vertex cycle graph. </br>
+
+![solution 20_d](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_d.png)
