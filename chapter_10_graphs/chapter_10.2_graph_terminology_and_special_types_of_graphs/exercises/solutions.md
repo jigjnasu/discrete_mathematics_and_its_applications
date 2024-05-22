@@ -290,3 +290,5 @@ Means, at least two persons are friends with same number of people. </br>
 ##### $W_7$ This graph is a $7$ vertex wheel graph, where $8^{th}$ vertex is attached to all rest 7 cycle vertex. </br>
 
 ![solution 20_e](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_e.png)
+
+##### $Q_4$ This graph is hypercube with 4 vertex or 4-cube graph. </br>
