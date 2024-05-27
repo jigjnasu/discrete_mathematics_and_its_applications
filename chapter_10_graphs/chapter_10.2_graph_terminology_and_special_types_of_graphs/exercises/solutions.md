@@ -310,3 +310,6 @@ Means, at least two persons are friends with same number of people. </br>
 #### Solution
 
 **Yes** it is a bipartite graph $K_{23}$ </br>
+
+![solution 22](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_22.png)
+
