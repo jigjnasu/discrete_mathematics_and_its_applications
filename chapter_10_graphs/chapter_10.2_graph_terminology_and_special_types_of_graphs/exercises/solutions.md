@@ -294,3 +294,5 @@ Means, at least two persons are friends with same number of people. </br>
 ##### $Q_4$ This graph is hypercube with 4 vertex or 4-cube graph or it has $2^m$ vertices in this case $m=4$, means $16$ vertices. </br>
 
 ![solution 20_f](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_20_f.png)
+
+![problem 21-25](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_21-25.png)
