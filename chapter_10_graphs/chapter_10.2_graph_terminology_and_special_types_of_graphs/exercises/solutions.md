@@ -349,4 +349,7 @@ Means, at least two persons are friends with same number of people. </br>
 | $W_n$                 | None          | $W_n$ where $n > 2$ | Every graph has a triangle |
 | $Q_n$                 | $Q_n$ where $n > 1$          | None | NA |
 
+![problem 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_27.png)
+
+#### Solution
 
