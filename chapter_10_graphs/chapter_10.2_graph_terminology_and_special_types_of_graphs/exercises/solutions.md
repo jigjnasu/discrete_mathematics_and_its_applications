@@ -342,7 +342,7 @@ Means, at least two persons are friends with same number of people. </br>
 
 #### Solution
 
-| Graph Type            | bipartite     | not bipartite     |               |
+| Graph Type            | bipartite     | not bipartite     |   Note        |
 | :------:              | :------:      | :------:          |   :------:    |
 | $K_n$                 | $K_2$         | $K_n$ where $n > 2$| $K_1$ is not applicable             |
 | $C_n$                 | $C_n$ where $n$ is even             | $C_n$ where $n$ is odd | NA |
