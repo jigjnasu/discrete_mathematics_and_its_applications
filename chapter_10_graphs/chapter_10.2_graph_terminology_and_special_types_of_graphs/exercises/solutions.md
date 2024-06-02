@@ -346,7 +346,7 @@ Means, at least two persons are friends with same number of people. </br>
 | :------:              | :------:      | :------:          |   :------:    |
 | $K_n$                 | $K_2$         | $K_n$ where $n > 2$| $K_1$ is not applicable             |
 | $C_n$                 | $C_n$ where $n$ is even             | $C_n$ where $n$ is odd | NA |
-| $W_n$                 | None          | $W_n$ where $n > 2$ | NA |
+| $W_n$                 | None          | $W_n$ where $n > 2$ | Every graph has a triangle |
 | $Q_n$                 | $Q_n$ where $n > 1$          | None | NA |
 
 
