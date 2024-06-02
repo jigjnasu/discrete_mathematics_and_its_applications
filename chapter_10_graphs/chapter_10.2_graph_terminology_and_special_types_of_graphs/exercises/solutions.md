@@ -341,3 +341,12 @@ Means, at least two persons are friends with same number of people. </br>
 ![problem 26](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/problem_26.png)
 
 #### Solution
+
+| Graph Type            | bipartite     | not bipartite     |               |
+| :------:              | :------:      | :------:          |   :------:    |
+| $K_n$                 | $K_2$         | $K_n$ where $n > 2$| $K_1$ is not applicable             |
+| $C_n$                 | $C_n$ where $n$ is even             | $C_n$ where $n$ is odd | NA |
+| $W_n$                 | None          | $W_n$ where $n > 2$ | NA |
+| $Q_n$                 | $Q_n$ where $n > 1$          | None | NA |
+
+
