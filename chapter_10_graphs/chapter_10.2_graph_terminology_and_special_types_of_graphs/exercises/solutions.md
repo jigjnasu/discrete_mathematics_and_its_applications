@@ -353,5 +353,7 @@ Means, at least two persons are friends with same number of people. </br>
 
 #### Solution
 
-![solution 27](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_27_a.png)
+##### a)
+
+![solution 27 a](https://github.com/jigjnasu/discrete_mathematics_and_its_applications/blob/master/chapter_10_graphs/chapter_10.2_graph_terminology_and_special_types_of_graphs/repo/solution_27_a.png)
 
