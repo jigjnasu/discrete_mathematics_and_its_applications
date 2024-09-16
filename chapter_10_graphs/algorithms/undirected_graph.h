@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <queue>
+#include <unordered_map>
 
 class UnDirectedGraph {
 public:
@@ -17,6 +19,30 @@ public:
         } else {
             std::cout << "Vertex dont' exist, vertex size = " << G.size() << std::endl;
         }
+    }
+
+    void bfs(int start_vertex) const {
+        if (start_vertex < 0 && start_vertex >= G.size()) {
+            std::cout << "Vertex dont' exist, vertex size = " << G.size() << std::endl;
+            return;
+        }
+        std::unordered_map<int, bool> visited;
+        std::queue<int> Q;
+        Q.push(start_vertex);
+        visited[start_vertex] = true;
+        std::cout << "--------------------------------------------------" << std::endl;
+        while (!Q.empty()) {
+            const int vertex = Q.front();
+            Q.pop();
+            std::cout << vertex << " ";
+            for (const int v : G[vertex]) {
+                if (!visited[v]) {
+                    Q.push(v);
+                    visited[v] = true;
+                }
+            }
+        }
+        std::cout << std::endl << "--------------------------------------------------" << std::endl;
     }
 
     void show() const {

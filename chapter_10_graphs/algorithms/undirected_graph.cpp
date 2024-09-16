@@ -14,6 +14,7 @@ int main() {
         ug.add_edge(u, v);
     }
     ug.show();
+    ug.bfs(3);
 
     return 0;
 }
