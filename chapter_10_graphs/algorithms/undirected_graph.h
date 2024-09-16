@@ -31,6 +31,8 @@ public:
         Q.push(start_vertex);
         visited[start_vertex] = true;
         std::cout << "--------------------------------------------------" << std::endl;
+        std::cout << "BFS(Breadth First Search)" << std::endl;
+        std::cout << "--------------------------------------------------" << std::endl;
         while (!Q.empty()) {
             const int vertex = Q.front();
             Q.pop();
@@ -46,6 +48,8 @@ public:
     }
 
     void show() const {
+        std::cout << "--------------------------------------------------" << std::endl;
+        std::cout << "Show all the edges of all the vertices" << std::endl;
         std::cout << "--------------------------------------------------" << std::endl;
         for (std::size_t r = 0; r < G.size(); ++r) {
             std::cout << r << " --> ";

@@ -15,6 +15,7 @@ int main() {
     }
     ug.show();
     ug.bfs(3);
+    ug.bfs(0);
 
     return 0;
 }
