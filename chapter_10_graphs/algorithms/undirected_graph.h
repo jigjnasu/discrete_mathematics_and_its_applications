@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <queue>
+#include <stack>
 #include <unordered_map>
 
 class UnDirectedGraph {
@@ -21,7 +22,7 @@ public:
         }
     }
 
-    void bfs(int start_vertex) const {
+    void bfs(const int start_vertex) const {
         if (start_vertex < 0 && start_vertex >= G.size()) {
             std::cout << "Vertex dont' exist, vertex size = " << G.size() << std::endl;
             return;
@@ -43,6 +44,34 @@ public:
                     visited[v] = true;
                 }
             }
+        }
+        std::cout << std::endl << "--------------------------------------------------" << std::endl;
+    }
+
+    void dfs(const int start_vertex) const {
+        if (start_vertex < 0 && start_vertex >= G.size()) {
+            std::cout << "Vertex dont' exist, vertex size = " << G.size() << std::endl;
+            return;
+        }
+
+        std::stack<int> S;
+        std::unordered_map<int, bool> visited;
+        S.push(start_vertex);
+        visited[start_vertex] = true;
+        std::cout << "--------------------------------------------------" << std::endl;
+        std::cout << "DFS(Depth First Search)" << std::endl;
+        std::cout << "--------------------------------------------------" << std::endl;
+        while (!S.empty()) {
+            const int vertex = S.top();
+            S.pop();
+            std::cout << vertex << " ";
+            for (const int v : G[vertex]) {
+                if (!visited[v]) {
+                    S.push(v);
+                    visited[v] = true;
+                }
+            }
+
         }
         std::cout << std::endl << "--------------------------------------------------" << std::endl;
     }
