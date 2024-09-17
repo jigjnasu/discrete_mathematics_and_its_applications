@@ -55,11 +55,20 @@ void test_bfs_dfs() {
     ug.dfs(0);
 }
 
+void test_dfs_recursive() {
+    UnDirectedGraph ug = build_graph();
+    ug.dfs(0);
+    ug.dfs_recursive(0);
+    ug.dfs(6);
+    ug.dfs_recursive(6);
+}
+
 int main() {
-    test_show();
-    test_bfs();
-    test_dfs();
-    test_bfs_dfs();
+    //test_show();
+    //test_bfs();
+    //test_dfs();
+    //test_bfs_dfs();
+    test_dfs_recursive();
 
     return 0;
 }

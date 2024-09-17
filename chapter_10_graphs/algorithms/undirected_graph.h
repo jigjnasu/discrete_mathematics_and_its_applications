@@ -76,6 +76,19 @@ public:
         std::cout << std::endl << "--------------------------------------------------" << std::endl;
     }
 
+    void dfs_recursive(const int start_vertex) const {
+        if (start_vertex < 0 && start_vertex >= G.size()) {
+            std::cout << "Vertex dont' exist, vertex size = " << G.size() << std::endl;
+            return;
+        }
+        std::cout << "--------------------------------------------------" << std::endl;
+        std::cout << "DFS(Depth First Search) recursive" << std::endl;
+        std::cout << "--------------------------------------------------" << std::endl;
+        std::unordered_map<int, bool> visited;
+        dfs_r(start_vertex, visited);
+        std::cout << std::endl << "--------------------------------------------------" << std::endl;
+    }
+
     void show() const {
         std::cout << "--------------------------------------------------" << std::endl;
         std::cout << "Show all the edges of all the vertices" << std::endl;
@@ -91,4 +104,13 @@ public:
 
 private:
     std::vector<std::vector<int>> G;
+
+    void dfs_r(const int start_vertex, std::unordered_map<int, bool>& visited) const {
+        if (!visited[start_vertex]) {
+            std::cout << start_vertex << " ";
+            visited[start_vertex] = true;
+            for (const int v : G[start_vertex])
+                dfs_r(v, visited);
+        }
+    }
 };
