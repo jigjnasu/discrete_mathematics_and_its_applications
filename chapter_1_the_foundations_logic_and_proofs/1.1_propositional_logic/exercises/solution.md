@@ -2,7 +2,13 @@
 
 ![Question 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q1.png)
 #### Solution
-![Answer 1](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/a1.png)
+
+a) This is a proposition, with Truth value = T.
+b) This is NOT a proposition, with Truth value = F, as the capital of Florida is Tallahassee.
+c) This is a proposition, with Truth value = T.
+d) This is NOT a proposition, with Truth value = F, as 5 + 7 = 12.
+e) This is NOT a proposition, as we need x to compute the equation.
+f) This is NOT a proposition.
 
 ![Question 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q2.png)
 #### Solution
