@@ -22,7 +22,10 @@ f) This is not a proposition, as we need n to compute the equation.
 
 ![Question 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q3.png)
 #### Solution
-![Answer 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/a3.png)
+a) Mei does not have an MP3 player.\
+b) There is pollution in New Jersey.\
+c) $2 + 1 \ne 3$.\
+d) We can't write "Summer in Maine is not hot and sunny", because we need to assume that there are well defined notions of hot and sunny. Otherwise, this would need not be a proposition because of not having a definite truth value.
 
 ![Question 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q4.png)
 #### Solution
