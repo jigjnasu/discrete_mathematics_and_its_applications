@@ -12,7 +12,13 @@ f) This is NOT a proposition.
 
 ![Question 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q2.png)
 #### Solution
-![Answer 2](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/a2.png)
+a) This is not a proposition, it is a command.\
+b) This is not a proposition, it is a question.\
+c) This is a proposition as truth value = False.\
+d) This is not a proposition, as we need x to compute the equation.\
+e) This is a proposition, as moon is made up of rocks not cheese, say cheese :).\
+f) This is not a proposition, as we need n to compute the equation.
+
 
 ![Question 3](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q3.png)
 #### Solution
