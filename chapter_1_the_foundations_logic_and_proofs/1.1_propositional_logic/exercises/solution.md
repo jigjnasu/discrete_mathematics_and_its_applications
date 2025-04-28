@@ -29,7 +29,10 @@ d) We can't write "Summer in Maine is not hot and sunny", because we need to ass
 
 ![Question 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q4.png)
 #### Solution
-![Answer 4](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/a4.png)
+a) Jennifer and Teja are not friends.\
+b) Baker's item dozen value is not equal to 13.\
+c) It is incorrect to say that the negation is "Abby sent at most 100 text messages every day.". Correct negation should be "There exists a day on which Abby sent at most 100 text messages".\
+d) 121 is NOT a perfect square.
 
 ![Question 5](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q5.png)
 #### Solution
