@@ -76,7 +76,8 @@ d) 121 is NOT a perfect square.
 
 ![Question 15](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q15.png)
 #### Solution
-a) $r \wedge \negp$
+a) $r \wedge \neg p$ \
+b) $\neg p \wedge q \wedge r$
 
 ![Question 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q16.png)
 #### Solution
