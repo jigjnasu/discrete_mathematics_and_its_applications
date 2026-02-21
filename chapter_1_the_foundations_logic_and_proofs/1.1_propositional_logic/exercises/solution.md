@@ -97,4 +97,5 @@ f) $\( p \wedge r \) \to \neg q$
 
 ![Question 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q19.png)
 #### Solution
-![Answer 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/a19.png)
+
+a) The dinner gets to choose only from one of these beverages $\therefore$ **EXCLUSIVE or**. \
