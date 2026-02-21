@@ -80,7 +80,7 @@ a) $r \wedge \neg p$ \
 b) $\neg p \wedge q \wedge r$ \
 c) $r \implies \(q \iff \neg p \)$ \
 d) $\neg q \wedge \neg p \wedge r$ \
-e) $\( q \implies \( \neg r \wedge \neg p\) \) \wedge \neg \( \( \neg r \wedge \neg p \) \implies \)$ \
+e) $\( q \implies \( \neg r \wedge \neg p\) \) \wedge \neg \( \( \neg r \wedge \neg p \) \implies q \)$ \
 f) $\( p \wedge r \) \implies \neg q$
 
 ![Question 16](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q16.png)
