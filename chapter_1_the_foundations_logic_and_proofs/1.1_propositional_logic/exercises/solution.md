@@ -4,9 +4,9 @@
 #### Solution
 
 a) This is a proposition, with Truth value = T.\
-b) This is NOT a proposition, with Truth value = F, as the capital of Florida is Tallahassee.\
+b) This is a false proposition, as the capital of Florida is Tallahassee.\
 c) This is a proposition, with Truth value = T.\
-d) This is NOT a proposition, with Truth value = F, as 5 + 7 = 12.\
+d) This is a false proposition, with Truth value = F.\
 e) This is NOT a proposition, as we need x to compute the equation.\
 f) This is NOT a proposition.
 
