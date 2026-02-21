@@ -98,7 +98,7 @@ f) $\( p \wedge r \) \to \neg q$
 ![Question 19](https://github.com/cpp-rakesh/discrete_mathematics_and_its_applications/blob/master/chapter_1_the_foundations_logic_and_proofs/1.1_propositional_logic/exercises/repo/q19.png)
 #### Solution
 
-a) The dinner gets to choose only from one of these beverages $\therefore$ **EXCLUSIVE or**.
-b) Long passwords with many digits are acceptable $\therefore$ **INCLUSIVE**.
-c) If a student has both of the prerequisites, it is better $\therefore$ **INCLUSIVE**.
+a) The dinner gets to choose only from one of these beverages $\therefore$ **EXCLUSIVE or**. \
+b) Long passwords with many digits are acceptable $\therefore$ **INCLUSIVE**. \
+c) If a student has both of the prerequisites, it is better $\therefore$ **INCLUSIVE**. \
 d) If in case a person will only pay in one currency it will be **EXCLUSIVE or**. A person can pay portion of the amount in dollars and rest in euros and $\therefore$ **INCLUSIVE or**.
